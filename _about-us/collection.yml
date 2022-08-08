@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - SCHOOL WIDE ACHIEVEMENTS/.keep
-      - SCHOOL WIDE ACHIEVEMENTS.md
       - FULL SUBJECT BASED BANDING (FULL SBB).md
       - SCHOOL SONG.md
       - SCHOOL HISTORY.md
