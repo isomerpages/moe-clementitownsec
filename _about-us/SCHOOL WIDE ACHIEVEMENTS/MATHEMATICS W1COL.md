@@ -38,3 +38,7 @@ PROGRAMMES FOR TEACHERS AND STUDENTS INCLUDE:
 **Raising Students’ Interests in Mathematics**
 
 *   All Singapore Secondary Mathematics Competition for Normal Course Students
+
+![](/images/DSC_0260.jpeg)
+
+![](/images/DSC_0387.jpeg)
