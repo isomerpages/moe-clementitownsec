@@ -4,3 +4,17 @@ permalink: /about-us/school-wide-achievements/lee-kuan-yew-award-for-all-round-e
 description: ""
 third_nav_title: SCHOOL WIDE ACHIEVEMENTS
 ---
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LKY%20Award%202016.jpeg" alt="LKY Award 2016" style="width:40%;">  
+  
+</body>
+
+<p style="text-align:center;">Lee Jia Ying<br>Class 5B2</p>
+
