@@ -10,3 +10,17 @@ Royston beat 245 contestants across the island with his unconventional and enter
 
 ![2017 NATIONAL PUBLIC SPEAKING COMPETITION](/images/2017%20NATIONAL%20PUBLIC%20SPEAKING%20COMPETITION.jpeg)
 
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
