@@ -3,7 +3,6 @@ title: PRINCIPAL'S MESSAGE
 permalink: /about-us/principals-message
 description: ""
 ---
-
 <style>  
 img {  
   display: block;  
@@ -34,3 +33,4 @@ Educating our Clementeens with you,
 Mdm Rasidah Rahim
 
 Principal
+
