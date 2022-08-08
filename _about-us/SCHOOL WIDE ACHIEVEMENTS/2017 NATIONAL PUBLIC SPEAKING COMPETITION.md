@@ -4,3 +4,9 @@ permalink: /about-us/school-wide-achievements/2017-national-public-speaking-comp
 description: ""
 third_nav_title: SCHOOL WIDE ACHIEVEMENTS
 ---
+Royston Soh, of Class 3B1, helped CTSS close the year with a blast when he emerged the Grand Champion of the 2017 National Public Speaking Competition on 27 October.  
+  
+Royston beat 245 contestants across the island with his unconventional and entertaining speech about ‘Coleslaw’.
+
+![2017 NATIONAL PUBLIC SPEAKING COMPETITION](/images/2017%20NATIONAL%20PUBLIC%20SPEAKING%20COMPETITION.jpeg)
+
