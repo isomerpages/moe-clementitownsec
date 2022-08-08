@@ -38,3 +38,16 @@ In addition, students belong to one of four Houses depending on their CCAs. Each
 We term such a design of students’ experience in school the “CCA-House Experience”. The CCA-House experience has provided an authentic environment for the students to learn and work together, appreciating strengths and diversity. It has also helped reduce the inadvertent labelling associated with streaming.
 
 In 2021, we will further pilot the offering of Humanities subjects at a more demanding level for Secondary 2 students.
+
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
