@@ -1,4 +1,5 @@
 collections:
   about-us:
     output: true
-    order: []
+    order:
+      - MOTTO, VISION, MISSION & VALUES.md
