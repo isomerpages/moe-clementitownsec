@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - SCHOOL WIDE ACHIEVEMENTS.md
       - FULL SUBJECT BASED BANDING (FULL SBB).md
       - SCHOOL SONG.md
       - SCHOOL HISTORY.md
