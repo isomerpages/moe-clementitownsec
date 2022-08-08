@@ -46,3 +46,14 @@ With our current Principal Mrs Helen Tan-Lee, the school celebrated her 35th bir
 The school has also staged five school-wide musicals since 2009, with the most recent being performed at Victoria Theatre in 2016.  
   
 To further develop our students’ character and guide our students’ navigation about the modern VUCA world, the school included ‘Empathy’ as our sixth school value (joining Adaptability, Self-Discipline, Perseverance, Integrity and Respect). The school currently offers O-level computing as part of our Applied Learning Programme (ALP), and the school remains much connected with the graduated students in the field of IT, to better support students’ authentic learning. Tapping on the school’s achievements and strong foundation in the Uniformed Groups, the school also offers Leadership through the Uniformed Groups as our Learning for Life Programme (LLP).
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
