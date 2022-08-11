@@ -214,3 +214,18 @@ Lessons in Family Education raise awareness about what makes families resilient 
 **Values-in-Action**  
   
 Other than the six content areas, the Values-in-Action programme @ CTSS also provide opportunities for students to reach out to the community and serve.  Such acts of service inculcate in Clementeens the humility to serve. Students also get grow in knowledge about the needs of the school and the community and to work in teams for the greater good of the community. All students are required to take part in or plan and execute at least one VIA project annually.
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
