@@ -18,3 +18,14 @@ We would like to share the good news that our Sec 4NA students did the school p
 \- Lee Kuan Yi (4A2) won 14th position.
 
 The Prize presentation ceremony was successfully held on 16 Aug 2018 in the school hall to recognise the achievements of all the team and individual prize winners.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
