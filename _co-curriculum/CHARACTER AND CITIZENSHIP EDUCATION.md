@@ -54,7 +54,43 @@ ECG Counsellor, Mr Damon Choo, is in school every Tuesday to provide ECG counsel
 
 <p style="text-align:center;"><strong><u>General Information</u></strong></p>
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
+.tg .tg-do3l{background-color:#EBEBEB;color:#002B79;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-lny2{background-color:#FFF;color:#002B79;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ktyi">Singapore’s Education System</th>
+    <th class="tg-lny2"><a href="https://www.moe.gov.sg/education-in-sg">https://www.moe.gov.sg/education-in-sg</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3icd">ECG Website</td>
+    <td class="tg-do3l"><a href="https://www.moe.gov.sg/programmes/education-and-career-guidance/overview">https://www.moe.gov.sg/programmes/education-and-career-guidance/overview</a></td>
+  </tr>
+  <tr>
+    <td class="tg-3icd">My SkillsFuture portal</td>
+    <td class="tg-do3l"><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Schoolbag Website</td>
+    <td class="tg-lny2"><a href="http://www.schoolbag.sg/">www.schoolbag.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-3icd">ECG Parent Guide – Journeying With Our Children, Achieving Their Aspirations</td>
+    <td class="tg-do3l"><a href="http://www.moe.gov.sg/ECG-parent-guide">www.moe.gov.sg/ECG-parent-guide</a></td>
+  </tr>
+</tbody>
+</table>
 
 <p style="text-align:center;"><strong>General Information</strong></p>
 
