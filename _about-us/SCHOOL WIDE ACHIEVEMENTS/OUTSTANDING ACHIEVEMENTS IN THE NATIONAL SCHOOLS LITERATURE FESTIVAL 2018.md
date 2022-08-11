@@ -19,3 +19,15 @@ This year, our school sent a total of eight teams of students from Secondary One
 **<u>Secondary Four Express Unseen Debate</u>**
 
 ![Secondary Four Express Unseen Debate](/images/Secondary%20Four%20Express%20Unseen%20Debate.jpeg)
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
