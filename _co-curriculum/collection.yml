@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CO CURRICULAR ACTIVITIES/.keep
       - STUDENT LEADERSHIP AND VIA.md
       - CHARACTER AND CITIZENSHIP EDUCATION.md
