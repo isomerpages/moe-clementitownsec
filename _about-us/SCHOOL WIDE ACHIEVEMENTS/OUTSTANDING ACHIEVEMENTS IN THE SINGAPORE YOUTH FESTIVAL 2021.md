@@ -13,3 +13,17 @@ This year, the various Aesthetic CCAs took part in the Singapore Youth Festival 
 \- Guzheng - Certificate of Distinction <br>
 \- Indian Dance - Certificate of Distinction <br>
 \- Malay Dance - Certificate of Distinction
+
+<br>
+
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
