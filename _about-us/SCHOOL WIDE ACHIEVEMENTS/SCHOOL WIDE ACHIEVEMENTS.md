@@ -4,7 +4,6 @@ permalink: /about-us/school-wide-achievements
 description: ""
 third_nav_title: SCHOOL WIDE ACHIEVEMENTS
 ---
-
 Please click on the following links to find out more:  
 1. [Lee Kuan Yew Award for All-Round Excellence 2016](https://clementitownsec.moe.edu.sg/about-us/school-wide-achievements/lee-kuan-yew-award-for-all-round-excellence-2016)  
 2. [Lee Hsien Loong Award for Innovations in Normal Course (2009 & 2015)](https://clementitownsec.moe.edu.sg/about-us/school-wide-achievements/lee-hsien-loong-award-for-innovations-in-normal-course-2009-n-2015)  
@@ -16,3 +15,19 @@ Please click on the following links to find out more:
 8. [3rd in 2018 West Zone C Division Volleyball Competition](https://clementitownsec.moe.edu.sg/about-us/school-wide-achievements/3rd-in-2018-west-zone-c-division-volleyball-competition)  
 9. [Outstanding Achievements in the National Schools Literature Festival 2018](https://clementitownsec-moe-edu-sg-admin.cwp.sg/about-us/school-wide-achievements/outstanding-achievements-in-the-national-schools-literature-festival-2018)  
 10. [SYF Results 2019](https://clementitownsec.moe.edu.sg/about-us/school-wide-achievements/outstanding-achievements-in-the-singapore-youth-festival-2019)
+
+<br>
+<br>
+<br>
+
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
