@@ -14,3 +14,13 @@ The Band has worked very hard during their 6 months of preparation. Their hard w
 
 The Band would like to put on record their appreciation to their conductors Mr Alvin Seville and Mr Tarun Jayaram for their musical guidance, and the Band teachers-in-charge for their constant encouragement and support. The Band will continue to work hard to share more wonderful music with the audience.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
