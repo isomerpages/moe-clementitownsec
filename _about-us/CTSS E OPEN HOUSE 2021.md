@@ -3,7 +3,14 @@ title: CTSS E OPEN HOUSE 2021
 permalink: /about-us/ctss-e-open-house-2021
 description: ""
 ---
-![CTSS E-OPEN HOUSE 2021](/images/Banner.jpeg)
+
+<html>
+<body>
+<p><a href="https://sites.google.com/moe.edu.sg/ctss-e-open-house-2021">
+<img src="/images/Banner.jpeg"  style="width:85%">
+</a></p>
+</body>
+</html>
 
 1) Please find our e-Open House 2021 Microsite link here:  
 [https://go.gov.sg/ctss-e-Open-House-2021/](https://go.gov.sg/ctss-e-open-house-2021)
