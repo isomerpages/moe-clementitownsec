@@ -16,3 +16,6 @@ This year, our school sent a total of eight teams of students from Secondary One
 
 ![Secondary Four Normal (Academic) Unseen Debate](/images/Secondary%20Four%20Normal%20(Academic)%20Unseen%20Debate.jpeg)
 
+**<u>Secondary Four Express Unseen Debate</u>**
+
+![Secondary Four Express Unseen Debate](/images/Secondary%20Four%20Express%20Unseen%20Debate.jpeg)
