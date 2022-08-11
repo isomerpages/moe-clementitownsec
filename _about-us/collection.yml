@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - FOR STAFF.md
       - SCHOOL BROCHURE.md
       - CTSS E OPEN HOUSE 2021.md
       - SCHOOL WIDE ACHIEVEMENTS/.keep
