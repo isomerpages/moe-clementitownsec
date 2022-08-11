@@ -165,3 +165,52 @@ ECG Counsellor, Mr Damon Choo, is in school every Tuesday to provide ECG counsel
 </table>
 
 <p style="text-align:center;"><strong>Overview of Admission Exercises</strong></p>
+
+![Overview of Admission Exercises](/images/Admissions%20Exercise.jpeg)
+
+**Legend:**
+
+• DSA – JC: Direct School Admission – Junior College (Conducted before O-Level examinations, apply directly to JC/MI)
+
+  
+
+• Poly EAE: Polytechnic Early Admission Exercise (Conducted before O-Level examinations, students submit up to 3 course choices)
+
+  
+
+• ITE EAE: ITE Early Admission Exercise (Conducted before O-Level examinations, students submit up to 3 course choices)
+
+  
+
+• DPPAE: Direct-Entry-Scheme to Polytechnic Programme Admission Exercise (Conducted after N(A)-Level results are released, students submit up to 12 course choices)  
+
+  
+
+• JAE: Joint Admission Exercise (Conducted after O-Level results are released, students submit up to 12 course choices)
+
+  
+
+• JIE: Joint Intake Exercise (Conducted after N(A)-Level results are released, students submit up to 12 course choices
+
+  
+
+• DAE: Direct Admission Exercise (Rolling applications, students apply directly to individual poly with O-Level or other qualifications and/or aptitudes and interests)
+
+  
+
+• PFPAE: Polytechnic Foundation Programme Admission Exercise (Conducted after N(A)-Level examinations, students submit up to 5 course choices)
+
+  
+**Cyber Wellness (CW)**  
+The Cyber Wellness module focusses on developing the child’s instinct to protect himself and empowers him to take responsibility for his own well-being in cyberspace. It highlights three principles to guide students in their actions, i.e. Respect for self and others; safe and responsible use and; positive peer influence. It also provides a 3-step process, Sense-Think-Act, which is similar to the school’s CCE learning framework i.e. Think-Feel-Act.  
+  
+
+**Family Education**
+
+Lessons in Family Education raise awareness about what makes families resilient and ways teenagers can take to contribute to family life. Conflict management and positive interaction strategies taught in social-emotional competencies lessons can also be applied to family life. The school also regularly organize parenting talk to improve the relationship between parents and their children. Such partnerships are crucial in helping students thrive both in school and at home.
+
+  
+
+**Values-in-Action**  
+  
+Other than the six content areas, the Values-in-Action programme @ CTSS also provide opportunities for students to reach out to the community and serve.  Such acts of service inculcate in Clementeens the humility to serve. Students also get grow in knowledge about the needs of the school and the community and to work in teams for the greater good of the community. All students are required to take part in or plan and execute at least one VIA project annually.
