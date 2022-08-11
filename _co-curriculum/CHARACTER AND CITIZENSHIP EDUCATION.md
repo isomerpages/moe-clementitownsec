@@ -92,12 +92,76 @@ ECG Counsellor, Mr Damon Choo, is in school every Tuesday to provide ECG counsel
 </tbody>
 </table>
 
-<p style="text-align:center;"><strong>General Information</strong></p>
+<p style="text-align:center;"><strong>Information on Post-Secondary Education</strong></p>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
+.tg .tg-do3l{background-color:#EBEBEB;color:#002B79;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-lny2{background-color:#FFF;color:#002B79;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ktyi">Post-Secondary Education Options</th>
+    <th class="tg-lny2"><a href="http://www.moe.gov.sg/post-sec">www.moe.gov.sg/post-sec</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Early Admissions Exercise - Polytechnics</td>
+    <td class="tg-lny2"><a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp">https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp</a></td>
+  </tr>
+  <tr>
+    <td class="tg-3icd">Polytechnic Foundation Programme</td>
+    <td class="tg-do3l"><a href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Joint Admissions Exercise</td>
+    <td class="tg-lny2"><a href="http://www.moe.gov.sg/JAE">www.moe.gov.sg/JAE</a></td>
+  </tr>
+  <tr>
+    <td class="tg-3icd">What’s Next (After ‘N’ and ‘O’ Level)</td>
+    <td class="tg-do3l"><a href="http://www.moe.gov.sg/whats-next">www.moe.gov.sg/whats-next</a></td>
+  </tr>
+</tbody>
+</table>
 
+<p style="text-align:center;"><strong>Information on Pre-University Education</strong></p>
 
-<p style="text-align:center;"><strong>General Information</strong></p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
+.tg .tg-do3l{background-color:#EBEBEB;color:#002B79;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-lny2{background-color:#FFF;color:#002B79;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-3icd">GCE ‘A’ Level Curriculum</th>
+    <th class="tg-do3l"><a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Joint Admissions Exercise</td>
+    <td class="tg-lny2"><a href="http://www.moe.gov.sg/JAE">www.moe.gov.sg/JAE</a></td>
+  </tr>
+  <tr>
+    <td class="tg-3icd">Direct School Admission – Junior Colleges</td>
+    <td class="tg-do3l"><a href="http://www.moe.gov.sg/DSA-JC">www.moe.gov.sg/DSA-JC</a></td>
+  </tr>
+</tbody>
+</table>
 
-
-
-<p style="text-align:center;"><strong>General Information</strong></p>
+<p style="text-align:center;"><strong>Overview of Admission Exercises</strong></p>
