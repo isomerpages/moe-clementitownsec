@@ -45,9 +45,8 @@ To help foster a confident 21st century person ready for the work force, Educati
 
   
 
-ECG Counsellor, Mr Damon Choo, is in school every Tuesday to provide ECG counselling services. Students who wish to explore more about post-secondary options or find out more about their career interests and strengths may drop him an email at choo_soon_heng@schools.gov.sg to book a session. 
+ECG Counsellor, Mr Damon Choo, is in school every Tuesday to provide ECG counselling services. Students who wish to explore more about post-secondary options or find out more about their career interests and strengths may drop him an email at [choo_soon_heng@schools.gov.sg](mailto:choo_soon_heng@schools.gov.sg) to book a session. 
 
   
 
 **ECG Resources**
-
