@@ -129,3 +129,18 @@ An **Active Contributor** who has the confidence to voice up, work effectively
 A **Bright Learner** who takes initiative to serve the real needs of the community and take ownership 
 
 A **Caring and Concerned Citizen** who can communicate effectively, has good interpersonal skills and takes an active part in the betterment of the lives of others.
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
