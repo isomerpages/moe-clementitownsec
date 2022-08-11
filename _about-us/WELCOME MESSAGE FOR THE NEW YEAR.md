@@ -17,13 +17,14 @@ Let's start 2022 well by starting right with necessary information you need for 
 2\. 🧍‍♀️🧍‍♂️ **Attire & Grooming** - Full school uniform from Day 1 onwards. Ensure that you adhere to the grooming and attire expectations. You will have to take responsibility otherwise.
 
   
-3. **🧭 Venues** - We will be report for morning assembly by CCA for Orientation Programme. Do check the allocated CCA [classroom plan](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/2022/venues.pdf).   
+3. **🧭 Venues** - We will be report for morning assembly by CCA for Orientation Programme. Do check the allocated CCA [classroom plan](/files/classroom%20venues.pdf).   
   
 4\. 🔴 **Orientation Programme** (4 & 5 January 2022) - The first 2 days of school is purposefully planned to orientate you back to school. Please click on the following links for the Orientation Progranmme for your respective level:  
-(a) [Secondary 2](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/2022/Sec%202%20Orientation.pdf)(b) [Secondary 3](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/2022/Sec%203%20Orientation.pdf)  
-(c) [Secondary 4 & 5](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/2022/Sec%204%20Orientation.pdf)  
+(a) [Secondary 2](/files/Sec%202%20Orientation.pdf) <br>
+(b) [Secondary 3](/files/Sec%203%20Orientation.pdf) <br>
+(c) [Secondary 4 & 5](/files/Sec%204%20Orientation.pdf)
   
-5\. 📚 **Timetable** \- For upper sec, there will no longer be any individualised timetable provided. To check your timetable, please refer to the timetable for your Main Teaching Group (e.g., 3(A), 3(C)). The venues that you need to report to for your lessons depend on your subject combination (e.g., if your elective is Art, please report to the venue for Art during the elective period). A copy of the Semester 1 Timetable could be accessed by clicking on this [link](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/2022/Time%20table.pdf).  
+5\. 📚 **Timetable** \- For upper sec, there will no longer be any individualised timetable provided. To check your timetable, please refer to the timetable for your Main Teaching Group (e.g., 3(A), 3(C)). The venues that you need to report to for your lessons depend on your subject combination (e.g., if your elective is Art, please report to the venue for Art during the elective period). A copy of the Semester 1 Timetable could be accessed by clicking on this [link](/files/Time%20table.pdf).  
   
 6\. 💻 **MIMS Password** - Your MIMS account password, which is used for login to Student ICON and to access school WiFi, will not be mass reset. If you need a reset of the password, you can do so at the laptops set up at iSpace in the school library, or you can submit your password reset request to [https://go.gov.sg/ctsspasswordreset](https://go.gov.sg/ctsspasswordreset)  
   
