@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - CTSS CALENDAR 2022.md
       - FOR STAFF.md
       - SCHOOL BROCHURE.md
       - CTSS E OPEN HOUSE 2021.md
