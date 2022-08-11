@@ -11,7 +11,7 @@ We will continue to adhere to the Safe Management Measures to ensure the school 
   
 Let's start 2022 well by starting right with necessary information you need for Day 1.  
   
-1\. 🎉**Start Well Start Right Information for 2022** - This [document](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/2022/Start%20Well.pdf) has the information you need for Day 1 such as reporting time and gates, attire and grooming, where to meet and more.  
+1\. 🎉**Start Well Start Right Information for 2022** - This [document](/files/Start%20Well.pdf) has the information you need for Day 1 such as reporting time and gates, attire and grooming, where to meet and more.  
   
 
 2\. 🧍‍♀️🧍‍♂️ **Attire & Grooming** - Full school uniform from Day 1 onwards. Ensure that you adhere to the grooming and attire expectations. You will have to take responsibility otherwise.
