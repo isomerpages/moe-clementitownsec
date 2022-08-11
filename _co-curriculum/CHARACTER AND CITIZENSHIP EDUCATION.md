@@ -50,3 +50,6 @@ ECG Counsellor, Mr Damon Choo, is in school every Tuesday to provide ECG counsel
   
 
 **ECG Resources**
+
+
+<p style="text-align:center;"><strong><u>General Information</u></strong></p>
