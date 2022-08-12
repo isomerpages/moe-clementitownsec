@@ -49,3 +49,19 @@ TRAINING DETAILS
 ----------------
 
 <table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 743px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 173px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Day</b></p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 183px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Time</b></p></td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 284px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Venue</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Monday</p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3.30 – 5.30 pm</p></td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">MMS Room</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Wednesday</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">3.30 – 5.30 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">MMS Room&nbsp;</td></tr></tbody></table>
+
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
