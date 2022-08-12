@@ -13,3 +13,8 @@ As part of the learning process, the dancers are also encouraged to explore othe
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRrVPZCwI9mSuiyOrKkeiCz-MevasOIvhjmMqBznNwXHtpN4d3Dd7wQ826meGMP48gbMRxgSTBEsESa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
+**2020 CNY Performance**
+
+![2020 CNY Performance](/images/CD01.jpeg)
+
+![2020 CNY Performance](/images/CD03.jpeg)
