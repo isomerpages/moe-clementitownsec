@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CO CURRICULAR ACTIVITIES/MALAY DANCE.md
       - CO CURRICULAR ACTIVITIES/INDIAN DANCE (GIRLS).md
       - CO CURRICULAR ACTIVITIES/GUZHENG.md
       - CO CURRICULAR ACTIVITIES/CHINESE DANCE (GIRLS).md
