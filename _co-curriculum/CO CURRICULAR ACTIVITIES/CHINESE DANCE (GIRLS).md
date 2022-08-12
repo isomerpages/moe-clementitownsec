@@ -18,3 +18,11 @@ As part of the learning process, the dancers are also encouraged to explore othe
 ![2020 CNY Performance](/images/CD01.jpeg)
 
 ![2020 CNY Performance](/images/CD03.jpeg)
+
+**2019 SYF**
+
+![2019 SYF](/images/CD04.jpeg)
+
+**2019 Dance Camp**
+
+![2019 Dance Camp](/images/CD02.jpeg)
