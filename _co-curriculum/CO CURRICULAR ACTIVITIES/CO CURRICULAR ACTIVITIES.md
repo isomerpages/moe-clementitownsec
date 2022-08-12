@@ -34,3 +34,18 @@ Clementi Town Secondary School has a wide range of Co-Curricular Activities to c
 [National Civil Defence Cadet Corps](https://clementitownsec-moe-edu-sg-admin.cwp.sg/co-curriculum/co-curricular-activities/national-civil-defence-cadet-corps)  <br>
 [National Police Cadet Corps](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/national-police-cadet-corps) <br>
 [Scouts (Boys)](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/scouts)
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
