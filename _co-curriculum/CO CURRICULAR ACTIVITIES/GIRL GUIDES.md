@@ -143,3 +143,39 @@ KEY EVENTS
   </tr>
 </tbody>
 </table>
+
+TRAINING DETAILS
+----------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-ahip{background-color:#EBEBEB;text-align:center;vertical-align:middle}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Day</th>
+    <th class="tg-9hzb">Time</th>
+    <th class="tg-9hzb">Venue</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Wednesday</span></td>
+    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">3.20 - 5.45 pm </span></td>
+    <td class="tg-b1n3">Sch Compound</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="color:#000">Friday</span></td>
+    <td class="tg-7yig"><span style="color:#000">2.30 - </span>5.45 pm </td>
+    <td class="tg-7yig"><span style="color:#000">Sch Compound</span></td>
+  </tr>
+</tbody>
+</table>
