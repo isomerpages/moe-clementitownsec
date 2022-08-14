@@ -61,3 +61,22 @@ The PE Programme aims to equip every Clementeen with the skills and knowledge fo
   </tr>
 </tbody>
 </table>
+
+KEY PROGRAMMES
+--------------
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUFTknyJUyYOlDzRTbhG1yac-W9C5KdS3ZImbEYgqNg1cOa0iQbgogCt6Ey3j0Hq6lNZV0MUkNVnU2/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+
+**Physical Health &amp; Fitness**
+
+We believe that physical fitness is a core component in every Clementeen’s formative years as a teenager. In addition to fitness and conditioning through the sports and games modules, Clementeens undergo lessons aimed at increasing their knowledge of fitness and health so as to prepare them for their National Physical Fitness Award (NAPFA) Test during their Secondary 2 and 4/5 years.&nbsp;
+
+**Sports &amp; Games**
+
+The PE programme ensures that every Clementeen will learn 2 games each year from either of the three game categories: Territorial-Invasion, Striking-Fielding as well as Net-Barrier games throughout their time with the school.  
+
+The participation in games not only allows Clementeens to develop their psychomotor skills and physical fitness, but also life skills and values. Annual sports events (subject to prevailing restrictions), beyond intra-class games, also provide a platform for Clementeens to demonstrate the outcomes of their learning from the sports and games modules taught, as well as to forge closer bonds with their peers.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJAMDDNPJpGsTJ6HeaUHw-2yAGnHlFQpbUQbwxy4avie9bYoHiwX72Cqy5Mo6agLaB2UlIb_wPPeam/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+
+The games and sports have been carefully selected to align with their physical growth and development.
