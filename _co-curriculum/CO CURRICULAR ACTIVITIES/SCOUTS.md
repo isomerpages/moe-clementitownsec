@@ -30,3 +30,140 @@ TEACHERS IN-CHARGE
 STUDENT EXECUTIVE COMMITTEE
 ---------------------------
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ktyi"><span style="color:#000">Name</span></th>
+    <th class="tg-ktyi"><span style="color:#000">Class</span></th>
+    <th class="tg-ktyi"><span style="color:#000">Position / Appointment</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b1n3"><span style="color:#000">Branden Zhao Kang Jun</span></td>
+    <td class="tg-b1n3">3A1</td>
+    <td class="tg-b1n3">Troop Leader</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="color:#000">Austin Tan Boon Choong</span></td>
+    <td class="tg-7yig">3A1</td>
+    <td class="tg-7yig">Senior Patrol Leader</td>
+  </tr>
+  <tr>
+    <td class="tg-b1n3"><span style="color:#000">Lung Alex Hotin</span></td>
+    <td class="tg-b1n3">3B1</td>
+    <td class="tg-b1n3">Senior Patrol Leader </td>
+  </tr>
+</tbody>
+</table>
+
+KEY EVENTS IN 2020 AND 2021
+---------------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-ahip{background-color:#EBEBEB;text-align:center;vertical-align:middle}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7yig">2021</th>
+    <th class="tg-7yig">Night Hike (20 km)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b1n3">2021</td>
+    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Scouts Wood Badge Award Presentation Ceremony</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">2020</td>
+    <td class="tg-7yig">eCCA and participation in e-SLC. (Student Leadership Course)</td>
+  </tr>
+</tbody>
+</table>
+
+KEY ACHIEVEMENTS IN 2019 - 2020
+-------------------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7yig">Year</th>
+    <th class="tg-7yig">Position, Name of Competition</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b1n3"> 2020</td>
+    <td class="tg-b1n3">FRANK COOPER SANDS AWARD –GOLD AWARD</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> 2019</td>
+    <td class="tg-7yig">FRANK COOPER SANDS AWARD –GOLD AWARD</td>
+  </tr>
+</tbody>
+</table>
+
+TRAINING DETAILS
+----------------
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-ahip{background-color:#EBEBEB;text-align:center;vertical-align:middle}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Day</th>
+    <th class="tg-9hzb">Time</th>
+    <th class="tg-9hzb">Venue</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b1n3"><span style="color:#000">Wednesday</span></td>
+    <td class="tg-b1n3"><span style="color:#000">3.30 - 5.30</span> pm</td>
+    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Foyer, Quadrangle, Fitness Area, Field</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="color:#000">Friday</span></td>
+    <td class="tg-7yig"><span style="color:#000">2.30 – 5.30 pm</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Foyer, Quadrangle, Fitness Area, Field</span></td>
+  </tr>
+</tbody>
+</table>
