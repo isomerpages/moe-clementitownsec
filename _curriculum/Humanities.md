@@ -78,7 +78,7 @@ We seek to cultivate in students a lifelong passion for the Humanities subjects 
 KEY PROGRAMMES
 --------------
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMSab0IeLSt0-az8h0ltBJGsffiOLZk8C6hcbhBOGimpnqKr8b7XgVXSRLB380MjmzYiBl6XQ4jsK4/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMSab0IeLSt0-az8h0ltBJGsffiOLZk8C6hcbhBOGimpnqKr8b7XgVXSRLB380MjmzYiBl6XQ4jsK4/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **Humanities: Teaching and Learning**&nbsp;
 
@@ -109,10 +109,10 @@ _“People tell you what to do…then there is no freedom. We may not be interes
 ![Geography](/images/Geography.jpeg)
 
 _“I like and enjoy the way we are doing our fieldwork. It is fun as we get to investigate what we want to know. We discussed and debated how to solve the problems we encounter during fieldwork.”_ <br>
- - Crispus and Jun Jie, 4A1 
+&nbsp;- Crispus and Jun Jie, 4A1&nbsp;
 
 _“I like how we are given the freedom to choose what we can investigate. It’s fun! At least I know what I am doing and why and how we are doing it.”_ <br>
-    - Student A, 3NA
+&nbsp; &nbsp; - Student A, 3NA
 
 ![Geography](/images/Geography02.jpeg) <br>
 
@@ -121,3 +121,15 @@ _“I like how we are given the freedom to choose what we can investigate. It’
 The Singapore Footprints is a heritage trail based on the concept of an amazing race around prominent neighborhoods around Singapore which has evolved since 2006. It has in recent years, incorporated the use of Smart phones to leverage on ICT to engage and excite students in learning about the rich history and heritage of different locations in Singapore. Through these trails, students get to learn more about the rich history of neighborhoods like Clementi, Queenstown and Jurong.  
   
 Students will also get to understand the importance of conservation. From the sites visited, they will understand the possible constraints faced during conservation, and also how conservation involves not just simply the preservation of the building structure, but also reintegrating the site for current use to maintain its relevance. Through comprehending the process of conservation, it instills in students a sense of pride and commitment to their living environments and hopefully ignites in them a passion to be stewards of our heritage.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRINuKxe0e3bM_8YQwrHdv0B-1HRqUBVPs-EeG74MmBDtLpgYLy6BXMAWBsHb93GEF6T0C5r75lFWUd/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+
+**Immersion Trip to Liaoning, China, 2019**
+
+Last November, a group of selected Secondary 2 and 3 CTSS students went to Liaoning, China to deepen their understanding of the Humanities subjects while experiencing a different culture and learning beyond the classroom by visiting sites of Geographical and Historical significance. Our students went to visit a local Secondary school in Shenyang, which helped them to see how learning takes place in another country. Many of our students marveled at the discipline displayed by the students there as well as at the facilities in the school. We also had the opportunity to travel using the local High Speed Railway, which was a new experience for most of us.
+
+Other places of interest that we visited were the Benxi Water Caves Museum, which contained rare dinosaur fossils and various precious crystals. We also visited the Dalian Coastal Geo-park, which is really a wonder of nature. There, students were able to see naturally formed geological structures in one of nature’s most scenic settings. We also had the rare privilege of getting as close to North Korea as we possibly could when we visited two sites; the Broken Bridge Site and the Hushan Great Wall
+
+The Broken Bridge Site at the Yalu River in Dandong used to connect China to North Korea but was later damaged during the Korean War by United Nations troops. Today this Bridge is a living historical site where actual battles took place. The second site was the Hushan Great Wall where one side of the wall overlooks China and the other side overlooks North Korea. It was surreal to witness how starkly the two views contrasted.
+
+Another site that left an indelible impression was the September 18th&nbsp;History Museum which commemorated the spirit shown by the Chinese people during the Second Sino-Japanese War and as a reminder of the atrocities that the people then had to suffer.
