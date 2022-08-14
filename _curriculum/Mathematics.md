@@ -37,3 +37,58 @@ In the Singapore Mathematical Society (SMS) Essay Competition, where the&nbsp;ob
 SUMMARY OF MATHEMATICS COMPETITION RESULTS 2019
 -----------------------------------------------
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-c0p8{background-color:#EBEBEB;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">S/N</th>
+    <th class="tg-9hzb">Competition</th>
+    <th class="tg-9hzb">Results</th>
+    <th class="tg-9hzb">Names</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3icd" rowspan="2">1<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-3icd" rowspan="2">Singapore Mathematical Olympiad 2019<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-c0p8">Junior<br>- 1 Bronze, 6 Honourable Mention<br> <br> Senior<br>- 1 Bronze , 2 Honourable Mention<br> <br>Open<br>-2 Bronze , 1 Honourable Mention<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-c0p8">Junior<br>Bronze:  <br>Jarell Lee Chun Wei     (2C1)<br> <br>Honourable Mention:<br>Cyrus Tan Jing Xuan    (1C1)<br>Gao Yifan                      (1C1)<br>Ni Zhiyuan                     (2D1)<br>Sabyasachi Rath          (2C1)<br>Shyam Saravanan       (1A1)<br>Soong Ailing               (2C1)<br> <br> <br>Senior<br>Bronze:<br>Chua Boon Hsuan        (4C1)<br> <br>Honourable Mention:<br>Nellai Pramesh            (3D1)<br>Zhao Peisong               (3C1)<br> <br>Open<br>Bronze:<br>Run Xinghuan              (4C1)<br>Sun Yifei                               (4D1)<br> <br>Honourable Mention:<br>Zhu Si Jia                     (4D1)<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">School Award 2019<br>- Commendation Award to CTSS<br> </td>
+    <td class="tg-ktyi"></td>
+  </tr>
+  <tr>
+    <td class="tg-b1n3">2<br><br><br><br></td>
+    <td class="tg-3icd">Singapore Mathematics Project Festival<br><br><br></td>
+    <td class="tg-3icd"><span style="color:#000">Team Honourable Mention</span><br><br><br><br><br><br></td>
+    <td class="tg-3icd">Team members are :<br>Run Xinghuan (4C1), Chua Boon Hsuan (4C1),<br>S Rishi (4C1) &amp; Zhang Yunqi (4B1)<br><br> </td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> 3</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Australian Mathematics Competition 2019</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> 4 Distinctions </span></td>
+    <td class="tg-ktyi"><span style="color:#000">Distinctions Award:</span><br>1C1 Gao Yifan<br>2D1 Ni Zhiyuan<br>3C1 Zhao Peisong4C1 Run Xinghuan<span style="color:#000"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-b1n3">4<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-3icd">All Singapore Secondary Mathematics Competition for Normal Course Students 2019<br><br><br><br><br><br><br><br><br><br><br><br> </td>
+    <td class="tg-c0p8">Upper Secondary Normal (Technical):<br>5th individual<br>Tham Wei Yuan Jonathan 4A3<br> <br>Lower Secondary Normal Academic:<br>- 4th for individual<br>Kho Kai Ping 2A2<br>- 4th for team<br><br><br><br><br><br> </td>
+    <td class="tg-3icd"> <br> <br><br>Team members for the Lower Secondary Normal Academic Competition are :<br>- 4th position (Kho Kai Ping)<br>- 29th position (Mohammad Isa Esqandar Bin Mohammad Fadly)<br>- 73th position (Amirul Afiq Bin Norazhar</td>
+  </tr>
+</tbody>
+</table>
