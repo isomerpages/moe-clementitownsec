@@ -136,9 +136,20 @@ PerspeCTives aims to develop our Clementeens in creating content and imparting k
 
 ![](/images/EL3.jpeg)
 
+DEVELOPMENT PROGRAMMES
+----------------------
+
+**Public Speaking Competition**
+
+In CTSS, we believe in providing ample avenues and opportunities for our Clementeens to participate in public speaking. Clementeens with good oratorical skills are identified and trained to participate in competitions such as the YMCA Plain English Speaking Awards, ACJC Orator’s Trophy.
+
 ![](/images/EL4.jpeg)
 
 ![](/images/EL5.jpeg)
+
+**Writing Competitions**
+
+Our department has been developing Clementeens for various writing competitions to nurture young writers and poets. Promising Clementeens with an interest in writing prose and poetry are encouraged and guided in building their portfolios for the Creative Arts Programme and Unity Writers Festival, to name a few.
 
 ![](/images/EL6.jpeg)
 
