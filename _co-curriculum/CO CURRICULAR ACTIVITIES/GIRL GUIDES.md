@@ -97,3 +97,49 @@ KEY ACHIEVEMENTS IN 2020 - 2021
   </tr>
 </tbody>
 </table>
+
+KEY EVENTS
+----------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-ahip{background-color:#EBEBEB;text-align:center;vertical-align:middle}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Year</th>
+    <th class="tg-9hzb">Name of Event</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> 2021</span></td>
+    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Tent Pitching Skills Training at Camp Christine (5-Feb/ 19-Feb Fri)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> 2021</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> World Thinking Day Celebrations (20 Feb Sat)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> 2021</span></td>
+    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Outdoor Skills Training Day at Camp Christine (13-Mar Sat) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="color:#000">2020</span></td>
+    <td class="tg-7yig"><span style="color:#000">World Thinking Day</span></td>
+  </tr>
+  <tr>
+    <td class="tg-b1n3"><span style="color:#000">2020</span></td>
+    <td class="tg-b1n3"><span style="color:#000">Unit Camp</span></td>
+  </tr>
+</tbody>
+</table>
