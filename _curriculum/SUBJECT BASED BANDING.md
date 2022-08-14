@@ -24,3 +24,18 @@ Our school will provide support through bridging programmes for these new SBB st
 SBB students in our schools have enjoyed the experience of taking subjects at a higher-level. Below are what some of them have shared with us in our end-year survey:
 
 ![subject based banding](/images/sbb.jpeg)
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
