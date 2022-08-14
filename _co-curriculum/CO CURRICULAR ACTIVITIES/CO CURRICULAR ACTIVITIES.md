@@ -8,32 +8,32 @@ Clementi Town Secondary School has a wide range of Co-Curricular Activities to c
   
 
 **Aesthetics** <br>
-[Art Club](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/art-club) <br>
-[Drama Club](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/drama-club) <br>
-[Chinese Dance (Girls)](https://clementitownsec-moe-edu-sg-admin.cwp.sg/co-curriculum/co-curricular-activities/chinese-dance-girls) <br>
-[Guzheng](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/guzheng) <br>
-[Indian Dance (Girls)](https://clementitownsec-moe-edu-sg-admin.cwp.sg/co-curriculum/co-curricular-activities/indian-dance-girls) <br>
-[Malay Dance](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/malay-dance) <br>
-[Symphonic Band](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/symphonic-band)
+[Art Club](/co-curriculum/co-curricular-activities/art-club) <br>
+[Drama Club](/co-curriculum/co-curricular-activities/drama-club) <br>
+[Chinese Dance (Girls)](/co-curriculum/co-curricular-activities/chinese-dance-girls) <br>
+[Guzheng](/co-curriculum/co-curricular-activities/guzheng) <br>
+[Indian Dance (Girls)](/co-curriculum/co-curricular-activities/indian-dance-girls) <br>
+[Malay Dance](/co-curriculum/co-curricular-activities/malay-dance) <br>
+[Symphonic Band](/co-curriculum/co-curricular-activities/symphonic-band)
 
 **Services** <br>
-[Multimedia Services](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/multimedia-services)
+[Multimedia Services](/co-curriculum/co-curricular-activities/multimedia-services)
 
 **Sports and Games** <br>
-[Badminton (Boys)](https://clementitownsec-moe-edu-sg-admin.cwp.sg/co-curriculum/co-curricular-activities/badminton-boys) <br>
-[Basketball (Boys)](https://clementitownsec-moe-edu-sg-admin.cwp.sg/co-curriculum/co-curricular-activities/basketball-boys) <br>
-[Netball (Girls)](https://clementitownsec-moe-edu-sg-admin.cwp.sg/co-curriculum/co-curricular-activities/netball-girls) <br>
-[Outdoor Adventure Club (ODAC)](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/outdoor-adventure-club-odac) <br>
-[Football (Boys)](https://clementitownsec-moe-edu-sg-admin.cwp.sg/co-curriculum/co-curricular-activities/football-boys)<br>
-[Volleyball (Boys)](https://clementitownsec-moe-edu-sg-admin.cwp.sg/co-curriculum/co-curricular-activities/volleyball-boys)<br>
-[Wushu](https://clementitownsec-moe-edu-sg-admin.cwp.sg/co-curriculum/co-curricular-activities/wushu)
+[Badminton (Boys)](/co-curriculum/co-curricular-activities/badminton-boys) <br>
+[Basketball (Boys)](/co-curriculum/co-curricular-activities/basketball-boys) <br>
+[Netball (Girls)](/co-curriculum/co-curricular-activities/netball-girls) <br>
+[Outdoor Adventure Club (ODAC)](/co-curriculum/co-curricular-activities/outdoor-adventure-club-odac) <br>
+[Football (Boys)](/co-curriculum/co-curricular-activities/football-boys)<br>
+[Volleyball (Boys)](/co-curriculum/co-curricular-activities/volleyball-boys)<br>
+[Wushu](/co-curriculum/co-curricular-activities/wushu)
 
 **Uniformed Groups** <br>
-[Girl Guides](https://clementitownsec-moe-edu-sg-admin.cwp.sg/co-curriculum/co-curricular-activities/girl-guides) <br>
-[National Cadet Corps](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/national-cadet-corps) <br>
-[National Civil Defence Cadet Corps](https://clementitownsec-moe-edu-sg-admin.cwp.sg/co-curriculum/co-curricular-activities/national-civil-defence-cadet-corps)  <br>
-[National Police Cadet Corps](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/national-police-cadet-corps) <br>
-[Scouts (Boys)](https://clementitownsec.moe.edu.sg/co-curriculum/co-curricular-activities/scouts)
+[Girl Guides](/co-curriculum/co-curricular-activities/girl-guides) <br>
+[National Cadet Corps](/co-curriculum/co-curricular-activities/national-cadet-corps) <br>
+[National Civil Defence Cadet Corps](/co-curriculum/co-curricular-activities/national-civil-defence-cadet-corps)  <br>
+[National Police Cadet Corps](/co-curriculum/co-curricular-activities/national-police-cadet-corps) <br>
+[Scouts (Boys)](/co-curriculum/co-curricular-activities/scouts)
 
 <br>
 <br>
