@@ -135,3 +135,18 @@ The Broken Bridge Site at the Yalu River in Dandong used to connect China to Nor
 Another site that left an indelible impression was the September 18th&nbsp;History Museum which commemorated the spirit shown by the Chinese people during the Second Sino-Japanese War and as a reminder of the atrocities that the people then had to suffer.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDKfUosIZzg_6Gv3V8a9meXOwp3_o0DDfrcqT4N-4SqjIbtap3AvTO5-xvYT2WpG6joq9EF4wOeBZo/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
