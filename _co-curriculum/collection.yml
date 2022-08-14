@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CO CURRICULAR ACTIVITIES/GIRL GUIDES.md
       - CO CURRICULAR ACTIVITIES/WUSHU.md
       - CO CURRICULAR ACTIVITIES/VOLLEYBALL (BOYS).md
       - CO CURRICULAR ACTIVITIES/FOOTBALL (BOYS).md
