@@ -115,3 +115,17 @@ The Studio Practice engages students in the creation of artworks. Students hone 
 ![](/images/Art06.jpeg)
 
 ![](/images/Art07.jpeg)
+
+![](/images/lower%20secondary%20projects.jpg)
+
+![](/images/upper%20secondary%20projects.jpg)
+
+![](/images/achievemnts%201.jpg)
+
+![](/images/achievements%202.jpg)
+
+![](/images/enrichment%20programme%201.jpg)
+
+![](/images/enrichment%20programme%202.jpg)
+
+![](/images/CT%20Performance%20Programmes.jpg)
