@@ -106,3 +106,18 @@ Our choice of Geographical Investigation approach is by offering students choice
 
 _“People tell you what to do…then there is no freedom. We may not be interested in the tasks that the teachers have set for us to complete.” -- Ong Jing Hern, 4A1_
 
+![Geography](/images/Geography.jpeg)
+
+_“I like and enjoy the way we are doing our fieldwork. It is fun as we get to investigate what we want to know. We discussed and debated how to solve the problems we encounter during fieldwork.”_ <br>
+ - Crispus and Jun Jie, 4A1 
+
+_“I like how we are given the freedom to choose what we can investigate. It’s fun! At least I know what I am doing and why and how we are doing it.”_ <br>
+    - Student A, 3NA
+
+![Geography](/images/Geography02.jpeg) <br>
+
+**Singapore Footprints**
+
+The Singapore Footprints is a heritage trail based on the concept of an amazing race around prominent neighborhoods around Singapore which has evolved since 2006. It has in recent years, incorporated the use of Smart phones to leverage on ICT to engage and excite students in learning about the rich history and heritage of different locations in Singapore. Through these trails, students get to learn more about the rich history of neighborhoods like Clementi, Queenstown and Jurong.  
+  
+Students will also get to understand the importance of conservation. From the sites visited, they will understand the possible constraints faced during conservation, and also how conservation involves not just simply the preservation of the building structure, but also reintegrating the site for current use to maintain its relevance. Through comprehending the process of conservation, it instills in students a sense of pride and commitment to their living environments and hopefully ignites in them a passion to be stewards of our heritage.
