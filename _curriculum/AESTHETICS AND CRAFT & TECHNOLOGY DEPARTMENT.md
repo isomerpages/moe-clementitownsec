@@ -120,7 +120,29 @@ The Studio Practice engages students in the creation of artworks. Students hone 
 **Student's Artwork**: **Sarah Qinstina’**
 ![Student's Artwork: Sarah Qinstina’](/images/Art07.jpeg)
 
-![](/images/lower%20secondary%20projects.jpg)
+DESIGN & TECHNOLOGY UNIT
+------------------------
+
+  
+
+**Mission** 
+
+To nurture students with designerly dispositions through designing and making.
+
+The designerly dispositions are as follows: 1. embracing uncertainties and complexities 2. be cognizant of and resolve real-world, ill-defined problems 3. relentless drive to seek out how things work 4. use of doodling and sketching, and 3D manipulation of resistant materials as a language for visualisation, communication and presentation.
+
+  
+
+**<u>Key Programmes</u>**
+
+The Design & Technology (DT) Unit runs a four year programme equipping the pupils with the knowledge and skills for their N and O levels examinations. Lower secondary pupils learn basic technologies, designing processes and hands-on skills. They get to put the knowledge into practice, cumulating in mini-projects and prototypes.
+
+We prepare the upper secondary pupils for their N and O levels examinations at Secondary Three by assimilating to the requirements of the national examinations, involving knowledge application and problem-solving. They expand on their basic knowledge to develop greater understanding and appreciation of the relatedness to real-life situations. They also take on real-time design tasks to arrive at feasible design solutions.
+
+Students from different levels also participate in external competitions such as Annual Design & Technology Awards and Science and Technology Challenge organised by Nanyang Polytechnic annually.
+
+**<u>Lower Secondary Projects</u>**
+![Lower Secondary Projects](/images/lower%20secondary%20projects.jpg)
 
 ![](/images/upper%20secondary%20projects.jpg)
 
