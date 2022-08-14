@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - ASSESSMENT.md
       - SUBJECT BASED BANDING.md
       - "TEACHING & LEARNING FRAMEWORK: ALIVE@CTSS.md"
