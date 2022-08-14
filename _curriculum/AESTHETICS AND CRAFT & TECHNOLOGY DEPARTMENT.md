@@ -57,4 +57,4 @@ The aims of art education in our school are to enable every child to:
 
 Guided by these aims, the school art curriculum across all levels provides our students with a balanced and well-rounded education in the aesthetic, cognitive and affective dimensions. It presents ample opportunities for creative and innovative self-expression in varied modes. It also contributes to developing a fuller range of our students’ interests and talents. The learning of local artworks and artists strengthens the understanding of the individual’s national identity by fostering the appreciation of one’s cultural heritage.
 
-The overarching framework for art syllabuses at secondary level is presented in Figure 1.
+<p style="text-align:center;">The overarching framework for art syllabuses at secondary level is presented in Figure 1.</p>
