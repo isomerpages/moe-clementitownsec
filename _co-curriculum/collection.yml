@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CO CURRICULAR ACTIVITIES/NATIONAL CADET CORPS.md
       - CO CURRICULAR ACTIVITIES/GIRL GUIDES.md
       - CO CURRICULAR ACTIVITIES/WUSHU.md
       - CO CURRICULAR ACTIVITIES/VOLLEYBALL (BOYS).md
