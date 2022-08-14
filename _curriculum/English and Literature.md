@@ -129,3 +129,17 @@ To develop Clementeens with the 21st century competencies for a globalised world
 **Create ­–** Recorded podcasts for publication and sharing (CT Spotify Account)
 
 PerspeCTives aims to develop our Clementeens in creating content and imparting knowledge by increasing media literacy and sparking meaningful conversations about currents affairs amongst participants. Clementeens will also have the opportunity to serve as journalists, reporters, interviewers and podcasters and have their works showcased.
+
+![](/images/EL1.jpeg)
+
+![](/images/EL2.jpeg)
+
+![](/images/EL3.jpeg)
+
+![](/images/EL4.jpeg)
+
+![](/images/EL5.jpeg)
+
+![](/images/EL6.jpeg)
+
+![](/images/EL7.jpeg)
