@@ -9,8 +9,11 @@ ABOUT THE CCA
 
   
 
-In CT Basketball, we aim to nurture our boys' passion for the game as well as inculcate in them the ASPIRE values in facing the challenges associated with the game. We truly believe that no amount of talent can make up for the lack of practice. Our team of dedicated, committed and passionate Basketball club members hold firm to the conviction that given dedication, practice and the will to succeed, we will succeed one day – on Court and in life. 
+In CT Basketball, we aim to nurture our boys' passion for the game as well as inculcate in them the ASPIRE values in facing the challenges associated with the game. We truly believe that no amount of talent can make up for the lack of practice. Our team of dedicated, committed and passionate Basketball club members hold firm to the conviction that given dedication, practice and the will to succeed, we will succeed one day – on Court and in life.&nbsp;
 
   
 
 The CT Basketball Team – or the CT Brotherhood as we call it has faced a lot of challenges which have made us stronger as a team and fostered stronger ties among our members – indeed forging lifetime friendships. The Alumni also come back regularly to mentor and join trainings so that the juniors have a sense of their history and know that the culture of giving back is strong within our Brotherhood with the hope that they will also come back one day to carry forward this spirit of giving back to their juniors.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTL3YZrdntE6OKlgUihMsrGTSCpgQ_HdoGEdkEYZv8hCNg1t_DSF0gIuUMwoD3bEsPwqgbM-kn7rFsX/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+
