@@ -46,3 +46,18 @@ Note that:
 **<u>Sec 4 and 5</u>**
 
 **For Sec 4 and 5 students**, MYE and Prelims will account for 30% and 70% respectively for students’ Overall Result in school-based assessments.
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
