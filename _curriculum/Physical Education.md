@@ -153,3 +153,18 @@ With the training and leadership opportunities, Sports Leaders can get to accomp
 *   Sports Ambassadors of the school
 *   Provide support to teachers for the development of a well-rounded environment for their respective Sports CCAs
 *   Lead and provide support to the PE department in the running of school activities and events, such as Inter-Class/Inter-House Games, Well-Being Fortnight, RHD-Sports Carnival, W1 Cluster Games
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
