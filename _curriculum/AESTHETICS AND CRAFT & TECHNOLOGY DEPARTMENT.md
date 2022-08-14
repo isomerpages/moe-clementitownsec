@@ -156,8 +156,7 @@ NUTRITION & FOOD SCIENCE UNIT
 
 To develop every Clementeen the passions to learn knowledge and skills in Nutrition and Food Science, empowering them to be innovative, health-conscious and discerning consumer for the present and future.
 
-**Key Programmes**
-
+**<u>Key Programmes</u>** <br>
 **Lower Secondary (Food and consumer education FCE)** 
 
 FCE in the 21st century is designed with the social and economic landscape of Singapore in mind, both current and future.  The syllabus takes into consideration new lifestyles and consumer trends, and therefore, the knowledge, skills and attitudes required of young learners related to health and financial management. 
@@ -176,16 +175,27 @@ F&N is an elective subject offered at upper secondary level to provide students 
 
   
 
-**Achievements**
-
+**<u>Achievements</u>** <br>
 **2019 Hospitality Race By Republic Polytechnic**
 
-![](/images/achievemnts%201.jpg)
+![2019 Hospitality Race By Republic Polytechnic](/images/achievemnts%201.jpg)
+**Main course** : Gaba Rice chicken porridge <br>
+**Dessert**: Super passion fruit BuBur Cha Cha
 
-![](/images/achievements%202.jpg)
+  
+  
 
-![](/images/enrichment%20programme%201.jpg)
+**2019 Sandwich Making Competition By Keat Hong CC**
+![2019 Sandwich Making Competition By Keat Hong CC](/images/achievements%202.jpg)
 
-![](/images/enrichment%20programme%202.jpg)
+**<u>Enrichment Programme</u>** <br>
+**Food Science in the kitchen @ Singapore Science Centre** 
+
+Molecular gastronomy uses the chemistry behind various cooking methods to create innovative food items. Students created caviers and chocolate spaghetti.
+![Food Science in the kitchen @ Singapore Science Centre](/images/enrichment%20programme%201.jpg)
+
+**Pasta Workshop @ SMU** <br>
+Students learnt the processes involved in pasta making.
+![Pasta Workshop @ SMU](/images/enrichment%20programme%202.jpg)
 
 ![](/images/CT%20Performance%20Programmes.jpg)
