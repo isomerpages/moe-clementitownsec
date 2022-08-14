@@ -1,4 +1,5 @@
 collections:
   curriculum:
     output: true
-    order: []
+    order:
+      - "TEACHING & LEARNING FRAMEWORK: ALIVE@CTSS.md"
