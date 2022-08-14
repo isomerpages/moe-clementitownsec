@@ -144,7 +144,41 @@ Students from different levels also participate in external competitions such as
 **<u>Lower Secondary Projects</u>**
 ![Lower Secondary Projects](/images/lower%20secondary%20projects.jpg)
 
-![](/images/upper%20secondary%20projects.jpg)
+**<u>Upper Secondary Projects</u>**
+![Upper Secondary Projects](/images/upper%20secondary%20projects.jpg)
+
+NUTRITION & FOOD SCIENCE UNIT
+-----------------------------
+
+  
+
+**Mission** 
+
+To develop every Clementeen the passions to learn knowledge and skills in Nutrition and Food Science, empowering them to be innovative, health-conscious and discerning consumer for the present and future.
+
+**Key Programmes**
+
+**Lower Secondary (Food and consumer education FCE)** 
+
+FCE in the 21st century is designed with the social and economic landscape of Singapore in mind, both current and future.  The syllabus takes into consideration new lifestyles and consumer trends, and therefore, the knowledge, skills and attitudes required of young learners related to health and financial management. 
+
+**Food Studies** and **Consumer Studies** are two Core Areas of Study that students need to learn. Food studies will equip students with food management and culinary skills, the knowledge about diet and health, so that they could be more discerning in choosing nutritious food for good health and be informed of the benefits of a balanced meal. Consumer Studies will learn basic principles of consumer education to manage resources and understand consumer rights and responsibilities. 
+
+  
+
+**Elective Modules** are included in FCE syllabus for students to extend their learning and provides opportunities for students to undertake projects through which they are required to do planning, research, problem-solving and evaluation.
+
+  
+
+**Upper Secondary (Food and Nutrition F&N)** 
+
+F&N is an elective subject offered at upper secondary level to provide students with fundamental grounding in nutrition, health and food science that prepares them for tertiary studies in applied food science and careers in the health food and beverage industries. They will gain knowledge of being an informed consumer through food selection and be equipped with culinary skills and nutrition knowledge in food preparation and recipe modification.
+
+  
+
+**Achievements**
+
+**2019 Hospitality Race By Republic Polytechnic**
 
 ![](/images/achievemnts%201.jpg)
 
