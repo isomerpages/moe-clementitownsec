@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - MOTTO, VISION, MISSION & VALUES.md
+      - Motto, Vision, Mission & Values.md
       - PRINCIPAL'S MESSAGE.md
       - SCHOOL HISTORY.md
       - SCHOOL SONG.md
