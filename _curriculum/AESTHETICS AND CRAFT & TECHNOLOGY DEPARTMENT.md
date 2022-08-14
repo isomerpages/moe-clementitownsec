@@ -103,3 +103,15 @@ Under the domain of Appreciating, students value the visual arts as a means of e
 The Studio Practice engages students in the creation of artworks. Students hone their observation skills, learn to discriminate visual qualities and give form to their ideas and experiences when they are engaged in art making. The Studio Practice provides opportunities for students to acquire a working understanding of various art elements and principles. It also develops competency in manipulating various art media for self-expression. Students would be given opportunities to explore a good range of media and experiment with different techniques in their studio practice. Students acquire skills such as research, experimentation and exploration, idea development, personal reflection and evaluation in the process of creating artworks. Preparatory studies are an integral and important part of the Studio Practice. Through the preparatory studies, students learn to think through issues and problems and develop their abilities to translate ideas into artworks
 
 **Painting Classes**
+
+![](/images/painting%20classes.jpg)
+
+![](/images/Art03.jpeg)
+
+![](/images/Art04.jpeg)
+
+![](/images/Art05.jpeg)
+
+![](/images/Art06.jpeg)
+
+![](/images/Art07.jpeg)
