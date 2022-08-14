@@ -78,7 +78,7 @@ We seek to cultivate in students a lifelong passion for the Humanities subjects 
 KEY PROGRAMMES
 --------------
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMSab0IeLSt0-az8h0ltBJGsffiOLZk8C6hcbhBOGimpnqKr8b7XgVXSRLB380MjmzYiBl6XQ4jsK4/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMSab0IeLSt0-az8h0ltBJGsffiOLZk8C6hcbhBOGimpnqKr8b7XgVXSRLB380MjmzYiBl6XQ4jsK4/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 **Humanities: Teaching and Learning**&nbsp;
 
@@ -122,7 +122,7 @@ The Singapore Footprints is a heritage trail based on the concept of an amazing 
   
 Students will also get to understand the importance of conservation. From the sites visited, they will understand the possible constraints faced during conservation, and also how conservation involves not just simply the preservation of the building structure, but also reintegrating the site for current use to maintain its relevance. Through comprehending the process of conservation, it instills in students a sense of pride and commitment to their living environments and hopefully ignites in them a passion to be stewards of our heritage.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRINuKxe0e3bM_8YQwrHdv0B-1HRqUBVPs-EeG74MmBDtLpgYLy6BXMAWBsHb93GEF6T0C5r75lFWUd/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRINuKxe0e3bM_8YQwrHdv0B-1HRqUBVPs-EeG74MmBDtLpgYLy6BXMAWBsHb93GEF6T0C5r75lFWUd/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **Immersion Trip to Liaoning, China, 2019**
 
@@ -133,3 +133,5 @@ Other places of interest that we visited were the Benxi Water Caves Museum, whic
 The Broken Bridge Site at the Yalu River in Dandong used to connect China to North Korea but was later damaged during the Korean War by United Nations troops. Today this Bridge is a living historical site where actual battles took place. The second site was the Hushan Great Wall where one side of the wall overlooks China and the other side overlooks North Korea. It was surreal to witness how starkly the two views contrasted.
 
 Another site that left an indelible impression was the September 18th&nbsp;History Museum which commemorated the spirit shown by the Chinese people during the Second Sino-Japanese War and as a reminder of the atrocities that the people then had to suffer.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDKfUosIZzg_6Gv3V8a9meXOwp3_o0DDfrcqT4N-4SqjIbtap3AvTO5-xvYT2WpG6joq9EF4wOeBZo/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
