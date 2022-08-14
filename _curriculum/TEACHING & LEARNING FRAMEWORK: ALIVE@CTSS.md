@@ -13,3 +13,18 @@ SUBJECT BASED BANDING
   
 
 Starting from 2016, Secondary One students entering CTSS may opt for higher-level subjects if they meet the MOE qualifying criteria based on their PSLE results. For instance, students who are in the Normal Academic stream are able to offer English, Mother Tongue, Mathematics or Science at an Express level. This ensures that we are able to develop each student to his/her fullest potential, based on the strengths that they have.
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
