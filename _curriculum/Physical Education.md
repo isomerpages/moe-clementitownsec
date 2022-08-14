@@ -65,7 +65,7 @@ The PE Programme aims to equip every Clementeen with the skills and knowledge fo
 KEY PROGRAMMES
 --------------
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUFTknyJUyYOlDzRTbhG1yac-W9C5KdS3ZImbEYgqNg1cOa0iQbgogCt6Ey3j0Hq6lNZV0MUkNVnU2/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUFTknyJUyYOlDzRTbhG1yac-W9C5KdS3ZImbEYgqNg1cOa0iQbgogCt6Ey3j0Hq6lNZV0MUkNVnU2/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **Physical Health &amp; Fitness**
 
@@ -77,6 +77,79 @@ The PE programme ensures that every Clementeen will learn 2 games each year from
 
 The participation in games not only allows Clementeens to develop their psychomotor skills and physical fitness, but also life skills and values. Annual sports events (subject to prevailing restrictions), beyond intra-class games, also provide a platform for Clementeens to demonstrate the outcomes of their learning from the sports and games modules taught, as well as to forge closer bonds with their peers.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJAMDDNPJpGsTJ6HeaUHw-2yAGnHlFQpbUQbwxy4avie9bYoHiwX72Cqy5Mo6agLaB2UlIb_wPPeam/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJAMDDNPJpGsTJ6HeaUHw-2yAGnHlFQpbUQbwxy4avie9bYoHiwX72Cqy5Mo6agLaB2UlIb_wPPeam/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 The games and sports have been carefully selected to align with their physical growth and development.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Level</th>
+    <th class="tg-9hzb">Games</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b1n3"><span style="color:#000">Sec 1</span></td>
+    <td class="tg-b1n3"><span style="color:#000">Volleyball and Netball</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="color:#000">Sec 2</span></td>
+    <td class="tg-7yig"><span style="color:#000">Basketball</span></td>
+  </tr>
+  <tr>
+    <td class="tg-b1n3"><span style="color:#000">Sec 3</span></td>
+    <td class="tg-b1n3"><span style="color:#000">Tchoukball and Badminton</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="color:#000">Sec 4</span></td>
+    <td class="tg-7yig"><span style="color:#000">Frisbee</span></td>
+  </tr>
+  <tr>
+    <td class="tg-b1n3"><span style="color:#000">Sec 5</span></td>
+    <td class="tg-b1n3"><span style="color:#000">Floorball</span></td>
+  </tr>
+</tbody>
+</table>
+
+**CTX (CT Extravaganza)**
+
+CTX provides an additional platform for Clementeens at Secondary 2 to be exposed to sports and games that require resources not readily available in the school. The exposure provides Clementeens a broader choice of sports and games they can participate in as part of learning to have a healthy lifestyle.  
+
+**Racial-Harmony Day - Sports Carnival (RHD-Sports Carnival)**
+
+Clementeens’ sense of belonging to the school and school spirit is deepen through sports and games. Through the variety of games and activities in the RHD-Sports Carnival, inclusivity is encouraged by catering to all groups of Clementeens.&nbsp;
+
+Racial Harmony Day activities carried out in alignment with the Sports Carnival develops a sense of reality and hope among Clementeens and allows them to see how sports can be used to give back to the community, for team building and for National Education.
+
+  
+
+SPORTS LEADERS PROGRAMME
+------------------------
+
+  
+
+Sports Leaders is part of the student leadership body group in CTSS that focuses on the development of leadership and organizational skills through Sports.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRt_AgoZXal_LY_VZ5EFA4roKahEWBBEIGlP1mBtOmRtkNnu5Ey91RqEeDPl7IjYQRtDiVWV3a5wZ9U/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+
+The aim of the Sports Leaders Programme is two-fold. It serves to help students in Sports CCAs to develop:  
+
+1.  Interest and Skills to serve the school community in a variety of areas, including but not limited to sports; AND
+2.  Qualities of leadership and Responsibility so as to demonstrate organizational ability and decision-making skills by leading other Clementeens in sports and recreational activities.
+
+With the training and leadership opportunities, Sports Leaders can get to accomplish the following roles in the school:
+
+*   Sports Ambassadors of the school
+*   Provide support to teachers for the development of a well-rounded environment for their respective Sports CCAs
+*   Lead and provide support to the PE department in the running of school activities and events, such as Inter-Class/Inter-House Games, Well-Being Fortnight, RHD-Sports Carnival, W1 Cluster Games
