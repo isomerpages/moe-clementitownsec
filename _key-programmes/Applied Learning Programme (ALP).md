@@ -229,3 +229,18 @@ To expose students to STEM careers at an early age, Industrial Visits and Learni
 ![Visit to Anglo American (Chat with Data Scientist)](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%202.jpeg)
 
 ![Visit to Anglo American (Chat with Data Scientist)](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%203.jpeg)
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
