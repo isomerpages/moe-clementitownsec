@@ -15,13 +15,13 @@ As part of applied learning, programmes have been designed to enable students to
   
 The CODE curriculum is based on the Treffinger's Level of Service Model and is designed for the differing profiles of Clementeens.
 
-![](/images/ALP01.jpeg)
+![CODE Curriculum](/images/ALP01.jpeg)
 
 **Tier 1 - Project Work (PW@CTSS)**  
 
 All lower secondary students would be taught Project Work (PW@CTSS), which seeks to develop in our students the ability to Empathise with the needs of the people around them, as they identify problems that need to be solved, Explore new skills, emerging technologies and possible solutions to the identified problem and Evaluate their possible options in order to craft the most efficient solution that best meets the needs of the target group. Central to this are the four key competencies of Communications Skills, Collaborative Skills, Critical and Creative Thinking and Computational Thinking.
 
-![](/images/ALP02.jpeg)
+![Project Work (PW@CTSS)](/images/ALP02.jpeg)
 
 The PW@CTSS curriculum seeks to nurture Future-ready Clementeens who possess a high level of Digital Literacy and who are emboldened to embrace Emerging Technologies in their pursuit of problem-solving excellence.  
   
@@ -31,10 +31,10 @@ PW@CTSS lessons are crafted such that students are given rich opportunities to w
   
 In Secondary 1, students would acquire collaborative skills through working in a team to achieve common goals. In addition, students would acquire the skills to communicate effectively and present ideas clearly and coherently to a specific audience.
 
-![](/images/ALP03.jpeg)
+![Student brainstorming ideas during PW@CTSS](/images/ALP03.jpeg)
 <p style="text-align:center;">Student brainstorming ideas during PW@CTSS</p>
 
-![](/images/ALP04.jpeg)
+![An artifact of learning from Secondary 1 students applying Brainstorming and Clustering techniques to identify authentic problems](/images/ALP04.jpeg)
 An artifact of learning from Secondary 1 students applying Brainstorming and Clustering techniques to identify authentic problems.  
   
 In Secondary 2, students would learn Computational Thinking as well as coding, and apply their coding knowledge to complete a series of mini projects involving the use of micro-controllers and sensors.
@@ -56,7 +56,7 @@ From Sep 2021, more than 40 students from Sec 1 to 4 participated in the Brainha
   
 Participants dive deep into the realms of cybersecurity, Artificial Intelligence (AI), space technologies, app development, fake news detection, extended reality and more.
 
-![](/images/ALP09.jpeg)
+![Students participating in the first round of the virtual Brainhack workshops](/images/ALP09.jpeg)
 <p style="text-align:center;">Students participating in the first round of the virtual Brainhack workshops.</p>
 
 <u>Swift Explorers Singapore 2022</u>
@@ -68,7 +68,7 @@ Phase 1: Inclusive App Design Activity (5 hours of SDL activities)
 Phase 2: Everyone Can Code Bootcamp (5 hours of virtual workshops)  
 Phase 3: Build Apps with Swift Playgrounds (for selected teams)
 
-![](/images/ALP10.jpeg)
+![Students during their Swift Explorers Singapore 2022 Graduation Ceremony](/images/ALP10.jpeg)
 <p style="text-align:center;">Students during their Swift Explorers Singapore 2022 Graduation Ceremony</p>
 
 <u>Apple Swift Programming</u>
@@ -80,7 +80,7 @@ The Apple Swift Programme brings an accessible introduction to mobile app develo
 3.  How to use core iOS frameworks such as SwiftUI to design and build a series of guided apps
 4.  Design and storytelling skills to propose, build, and present a meaningful app prototype on a social entrepreneurship theme
 
-![](/images/ALP11.jpeg)
+![Apple Swift Programming](/images/ALP11.jpeg)
 
 <u>AR/VR Workshop at HCI</u>
   
@@ -117,7 +117,7 @@ Tier 3 of the ALP is designed to provide opportunities for a few students excell
 
 NOI is a computing competition organized by National University of Singapore. It is an annual nation-wide programming competition that aims to provide our best students the ultimate challenge in computing and programming and is open to all current junior college and secondary school students.
 
-![](/images/National%20Olympiad%202022.jpeg)<p style="text-align:center;">Students participating in the National Olympiad in Informatics 2022</p>
+![Students participating in the National Olympiad in Informatics 2022](/images/National%20Olympiad%202022.jpeg)<p style="text-align:center;">Students participating in the National Olympiad in Informatics 2022</p>
 
 In NOI 2022, seven Computing students represented the school in the competition. Aidan Ong, from class S4-NC (4B1), was awarded the&nbsp;**Bronze Medal**&nbsp;for his prowess in coding.
 
@@ -183,18 +183,18 @@ The students involved in the Swift Accelerator Programme 2021 are:
   
 1. **Nguyen Viet Truong (Bill), S4-MM (4B1)**, along with his teammates, have published an App called “StudyZone” which helps students manage their incoming schoolwork. You may download the app via this link: [http://tk.sg/sis22-studyzone](http://tk.sg/sis22-studyzone)
 
-![](/images/Nguyen%20Viet%20Truong.jpeg)
+![Nguyen Viet Truong](/images/Nguyen%20Viet%20Truong.jpeg)
 
   
 2\. Cheung Yi Kai, S2-MMS and his team mates from have published an App called “GPA Buddy” which helps students to set targets, calculate their GPA, and chart their learning progress. You may download the app via this link: [http://tk.sg/sis22-gpabuddy](http://tk.sg/sis22-gpabuddy)
 
-![](/images/Cheung%20Yi%20Kai.jpeg)
+![Cheung Yi Kai](/images/Cheung%20Yi%20Kai.jpeg)
 
 <u>Participation in the First Lego League Competition</u>
   
 Students from the Multimedia Services Club, who showed an interest and dedication to robotics, had participated in the First Lego League (FLL) Competition 2021.This year, two teams from MMS took part in the FLL competition for the first time. One of the teams won praise from the judges for their creativity, understanding of robot mechanism, and applying sound concepts of Physics in designing their robot. They were also nominated for the “Rising Star Award” which is given out to schools participating in the tournament for the first time.
 
-![](/images/Participation%20in%20the%20First%20Lego%20League%20Competition%20.jpeg)
+![Participation in the First Lego League Competition](/images/Participation%20in%20the%20First%20Lego%20League%20Competition%20.jpeg)
 
 **Industrial Visits and Learning Journeys**  
   
@@ -202,30 +202,30 @@ To expose students to STEM careers at an early age, Industrial Visits and Learni
   
 1\. Visit to IBASE Technology Pte Ltd
 
-![](/images/Visit%20to%20IBASE%20Technology%20Pte%20Ltd.jpeg)
+![Visit to IBASE Technology Pte Ltd](/images/Visit%20to%20IBASE%20Technology%20Pte%20Ltd.jpeg)
 
 2\. Microsoft DigiGirlz 2019
 
-![](/images/Microsoft%20DigiGirlz%202019.jpeg)
+![Microsoft DigiGirlz 2019](/images/Microsoft%20DigiGirlz%202019.jpeg)
 
 3. Ministry of Education’s Experimental Systems and Technology Laboratory (MOE ESTL)
 
-![](/images/MOE%20ESTL.jpeg)
+![Ministry of Education’s Experimental Systems and Technology Laboratory](/images/MOE%20ESTL.jpeg)
 
 4\. Visit to Google Office (STEM'IN with Google)
 
-![](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google).jpeg)
+![Visit to Google Office (STEM'IN with Google)](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google).jpeg)
 
-![](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google)%202.jpeg)
+![Visit to Google Office (STEM'IN with Google)](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google)%202.jpeg)
 
-![](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google)%203.jpeg)
+![Visit to Google Office (STEM'IN with Google)](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google)%203.jpeg)
 
-![](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google)%204.jpeg)
+![Visit to Google Office (STEM'IN with Google)](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google)%204.jpeg)
 
 5\. Visit to Anglo American (Chat with Data Scientist)
 
-![](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist).jpeg)
+![Visit to Anglo American (Chat with Data Scientist)](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist).jpeg)
 
-![](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%202.jpeg)
+![Visit to Anglo American (Chat with Data Scientist)](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%202.jpeg)
 
-![](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%203.jpeg)
+![Visit to Anglo American (Chat with Data Scientist)](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%203.jpeg)
