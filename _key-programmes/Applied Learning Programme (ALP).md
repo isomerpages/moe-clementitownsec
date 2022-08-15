@@ -28,3 +28,4 @@ provide Clementeens, who have demonstrated an interest and passion for programmi
 further inspire and ignite our Clementeens' passion for Technology through application of these skills in the field of Artificial Intelligence and Machine Learning.  
   
 At the end of the bootcamp, participants created their own projects. Please click on the image below to find out more about one of the AI projects that was created upon completion of the bootcamp.
+
