@@ -3,6 +3,7 @@ title: Applied Learning Programme (ALP)
 permalink: /key-programmes/applied-learning-programme-alp
 description: ""
 ---
+
 ![](/images/ALP01.jpeg)
 
 ![](/images/ALP02.jpeg)
@@ -123,4 +124,34 @@ The students involved in the Swift Accelerator Programme 2021 are:
 
 ![](/images/Cheung%20Yi%20Kai.jpeg)
 
+<u>Participation in the First Lego League Competition</u>
+  
+Students from the Multimedia Services Club, who showed an interest and dedication to robotics, had participated in the First Lego League (FLL) Competition 2021.This year, two teams from MMS took part in the FLL competition for the first time. One of the teams won praise from the judges for their creativity, understanding of robot mechanism, and applying sound concepts of Physics in designing their robot. They were also nominated for the “Rising Star Award” which is given out to schools participating in the tournament for the first time.
 
+![](/images/Participation%20in%20the%20First%20Lego%20League%20Competition%20.jpeg)
+
+**Industrial Visits and Learning Journeys**  
+  
+To expose students to STEM careers at an early age, Industrial Visits and Learning Journeys were conducted to organisations and STEM-related events.  
+  
+1\. Visit to IBASE Technology Pte Ltd
+
+![](/images/Visit%20to%20IBASE%20Technology%20Pte%20Ltd.jpeg)
+
+2\. Microsoft DigiGirlz 2019
+
+![](/images/Microsoft%20DigiGirlz%202019.jpeg)
+
+3. Ministry of Education’s Experimental Systems and Technology Laboratory (MOE ESTL)
+
+![](/images/MOE%20ESTL.jpeg)
+
+4\. Visit to Google Office (STEM'IN with Google)
+
+![](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google).jpeg)
+
+![](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google)%202.jpeg)
+
+![](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google)%203.jpeg)
+
+![](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google)%204.jpeg)
