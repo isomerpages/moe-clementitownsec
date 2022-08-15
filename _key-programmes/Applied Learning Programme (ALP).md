@@ -41,7 +41,32 @@ In Secondary 2, students would learn Computational Thinking as well as coding, 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTa9VzijZPKCyH3QlV_SHhJGMmomSM5h_Fb-Q8z_staTfXYg0fbtUdrNvbnIxx3CDCMnEyfpIDbpsBG/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
+This authentic and hands-on approach would provide a platform for our Clementeens to practice 21st century skills such as creative problem solving, teamwork and analytical thinking and also turn our Clementeens from passive consumers into active producers of technology.  
+  
+  
+**Tier 2 – Workshops, Enrichment Courses and Competitions**  
+  
+Students who have displayed an interest to explore coding and computing-related activities at a deeper level would be given the opportunity to participate in Workshops, Enrichment Courses and Competitions, such as BrainHack (TIL), Swift Explorers Singapore 2022, the Swift Coding Club, and the AR/VR Workshop at HCI and the AI Bootcamp.  
+  
+<u>BrainHack (TIL)</u>
+  
+
+From Sep 2021, more than 40 students from Sec 1 to 4 participated in the Brainhack 2021 virtual workshops. Organised by the Defence Science and Technology Agency, BrainHack is a unique, hands-on experience into the swiftly evolving world of digital tech.
+
+  
+Participants dive deep into the realms of cybersecurity, Artificial Intelligence (AI), space technologies, app development, fake news detection, extended reality and more.
+
 ![](/images/ALP09.jpeg)
+<p style="text-align:center;">Students participating in the first round of the virtual Brainhack workshops.</p>
+
+<u>Swift Explorers Singapore 2022</u>
+  
+The Swift Explorers Singapore 2022 provides students with an excellent opportunity to think like an App Developer and identify problems that they care about. Thereafter, participants would plan, prototype, and share app ideas that everyone could access and understand.  
+  
+This programme comprises of 3 phases:  
+Phase 1: Inclusive App Design Activity (5 hours of SDL activities)  
+Phase 2: Everyone Can Code Bootcamp (5 hours of virtual workshops)  
+Phase 3: Build Apps with Swift Playgrounds (for selected teams)
 
 ![](/images/ALP10.jpeg)
 
@@ -190,4 +215,3 @@ To expose students to STEM careers at an early age, Industrial Visits and Learni
 ![](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%202.jpeg)
 
 ![](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%203.jpeg)
-
