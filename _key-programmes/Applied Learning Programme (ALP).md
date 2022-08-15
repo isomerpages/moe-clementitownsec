@@ -3,7 +3,6 @@ title: Applied Learning Programme (ALP)
 permalink: /key-programmes/applied-learning-programme-alp
 description: ""
 ---
-
 ![](/images/ALP01.jpeg)
 
 ![](/images/ALP02.jpeg)
@@ -155,3 +154,11 @@ To expose students to STEM careers at an early age, Industrial Visits and Learni
 ![](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google)%203.jpeg)
 
 ![](/images/Visit%20to%20Google%20Office%20(STEM'IN%20with%20Google)%204.jpeg)
+
+5\. Visit to Anglo American (Chat with Data Scientist)
+
+![](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist).jpeg)
+
+![](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%202.jpeg)
+
+![](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%203.jpeg)
