@@ -11,7 +11,7 @@ description: ""
 
 ![](/images/ALP04.jpeg)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTa9VzijZPKCyH3QlV_SHhJGMmomSM5h_Fb-Q8z_staTfXYg0fbtUdrNvbnIxx3CDCMnEyfpIDbpsBG/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTa9VzijZPKCyH3QlV_SHhJGMmomSM5h_Fb-Q8z_staTfXYg0fbtUdrNvbnIxx3CDCMnEyfpIDbpsBG/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 ![](/images/ALP09.jpeg)
 
@@ -19,7 +19,7 @@ description: ""
 
 ![](/images/ALP11.jpeg)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtCaTeFgQaiLtlk7FZRVVWT7UEKRagCPhcqoEY359lzqmZdEMV5V4JtUbAdwGqeFcDw06dDeDKZIfw/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTtCaTeFgQaiLtlk7FZRVVWT7UEKRagCPhcqoEY359lzqmZdEMV5V4JtUbAdwGqeFcDw06dDeDKZIfw/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <u>AI Bootcamp</u>  
   
@@ -30,13 +30,13 @@ further inspire and ignite our Clementeens' passion for Technology through appli
 At the end of the bootcamp, participants created their own projects. Please click on the image below to find out more about one of the AI projects that was created upon completion of the bootcamp.
 
 
-<html>
-<body>
-<p><a href="https://clipchamp.com/watch/PnVClRaDvV9?utm_source=share&utm_medium=social&utm_campaign=watch">
-<img src="/images/AI%20Bootcamp.jpeg"  style="width:90%">
+
+
+<p><a href="https://clipchamp.com/watch/PnVClRaDvV9?utm_source=share&amp;utm_medium=social&amp;utm_campaign=watch">
+<img style="width:90%" src="/images/AI%20Bootcamp.jpeg">
 </a></p>
-</body>
-</html>
+
+
 
 **Tier 3 – Participation in Olympiad Training, App Development Programmes, Mentorship Programmes**  
   
@@ -52,7 +52,7 @@ NOI is a computing competition organized by National University of Singapore. It
 
 ![](/images/National%20Olympiad%202022.jpeg)<p style="text-align:center;">Students participating in the National Olympiad in Informatics 2022</p>
 
-In NOI 2022, seven Computing students represented the school in the competition. Aidan Ong, from class S4-NC (4B1), was awarded the **Bronze Medal** for his prowess in coding.
+In NOI 2022, seven Computing students represented the school in the competition. Aidan Ong, from class S4-NC (4B1), was awarded the&nbsp;**Bronze Medal**&nbsp;for his prowess in coding.
 
   
 In addition, two other Clementeens were awarded the Certificate of Participation for solving some of the coding questions:  
@@ -98,4 +98,7 @@ This digital wishing tree borrows the idea of an actual wishing tree whereby kin
   
 May Clementi Town continue to Aspire and Grow for many years to come!  
   
-Submit your well-wishes for CTSS here: [CT40 Digital Wishing Tree](http://www.tree.ct40.edu.sg/)
+Submit your well-wishes for CTSS here:&nbsp;[CT40 Digital Wishing Tree](http://www.tree.ct40.edu.sg/)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlMjjWzX90PfSpYRUit3QSAFaSmmAWoUdvNJNg1BiFWDKvxRc3dRS-HMQTDvBvO8YZf7TJfkxMjkaE/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+
