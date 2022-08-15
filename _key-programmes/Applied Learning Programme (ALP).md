@@ -69,8 +69,22 @@ Phase 2: Everyone Can Code Bootcamp (5 hours of virtual workshops)
 Phase 3: Build Apps with Swift Playgrounds (for selected teams)
 
 ![](/images/ALP10.jpeg)
+<p style="text-align:center;">Students during their Swift Explorers Singapore 2022 Graduation Ceremony</p>
+
+<u>Apple Swift Programming</u>
+  
+The Apple Swift Programme brings an accessible introduction to mobile app development in Swift for iOS devices, by providing Clementeens with a chance to learn about introductory programming concepts in Swift. Upon completion of this programme, students would have learnt:  
+
+1.  Basic programming concept in the Swift language
+2.  How to use the Xcode or Swift Playgrounds development environments to create and run apps
+3.  How to use core iOS frameworks such as SwiftUI to design and build a series of guided apps
+4.  Design and storytelling skills to propose, build, and present a meaningful app prototype on a social entrepreneurship theme
 
 ![](/images/ALP11.jpeg)
+
+<u>AR/VR Workshop at HCI</u>
+  
+Eighteen Secondary 3 Clementeens participated in the Augmented Reality/Virtual Reality (AR/VR) Workshop organised by Hwa Chong Institution (HCI) on 17 and 18 May 2022. During this workshop, our students learnt how to create Augmented Reality and Virtual Reality projects, while establishing collaborations with their peers from Hwa Chong Institution.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTtCaTeFgQaiLtlk7FZRVVWT7UEKRagCPhcqoEY359lzqmZdEMV5V4JtUbAdwGqeFcDw06dDeDKZIfw/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
