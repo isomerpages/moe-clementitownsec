@@ -302,11 +302,11 @@ INFORMATION FOR PARENTS
 
   
 
-11.       Parents who wish to opt their children out of the the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://clementitownsec.moe.edu.sg/qql/slot/u534/SED%202022/SEd%20Opt-out%20Form%202022%20CTSS%20for%20website.pdf). The completed form is to be submitted by 23/01/2022.
+11.       Parents who wish to opt their children out of the the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SEd%20Opt-out%20Form%202022%20CTSS%20for%20website.pdf). The completed form is to be submitted by 23/01/2022.
 
   
 
-12.       Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://clementitownsec.moe.edu.sg/qql/slot/u534/SED%202022/eTeens%20Parents%20Opt-out%20Form%202022%20CTSS%20%20for%20website.pdf). The completed form is to be submitted by 23/01/2022.
+12.       Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens%20Parents%20Opt-out%20Form%202022%20CTSS%20%20for%20website.pdf). The completed form is to be submitted by 23/01/2022.
 
   
 
