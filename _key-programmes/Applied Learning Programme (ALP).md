@@ -52,3 +52,50 @@ NOI is a computing competition organized by National University of Singapore. It
 
 ![](/images/National%20Olympiad%202022.jpeg)<p style="text-align:center;">Students participating in the National Olympiad in Informatics 2022</p>
 
+In NOI 2022, seven Computing students represented the school in the competition. Aidan Ong, from class S4-NC (4B1), was awarded the **Bronze Medal** for his prowess in coding.
+
+  
+In addition, two other Clementeens were awarded the Certificate of Participation for solving some of the coding questions:  
+
+1.  Hu Bowen, S4-NC (4B1)
+2.  Nguyen Viet Truong (Bill), S4-MM (4B1)
+
+  
+<u>Computing Project</u>  
+  
+
+Computing students who were keen to work on a real-world computing project were given the opportunity to first identify an authentic problem related to their school experience and work on a solution to the problem.
+
+  
+
+Two of our students, Aidan Ong and Hu Bowen, have worked proactively and tirelessly to identify a specific area of need by the school, whereby students spend a significant amount of their recess and lunch periods queuing up to purchase their food, and developed a canteen queue wait time estimator, through the use of OpenCV for image processing and the YOLOv5 vision model, to programme a Raspberry Pi microcontroller with a video camera attachment to identify the number of students in a queue. Information from the microcontroller would then be transmitted wirelessly to a server through socket programming and a client-server architecture, which allows an estimated queue time to be shown on a screen.
+
+  
+Please click on the attached video below, to find out more about their project.
+
+***video to be uploaded to YouTube and embedded here***
+
+<u>Student Internship: Creation of CT40 Digital Wishing Tree</u>  
+  
+This project started of as a dream the team had to create an online platform for Clementeens, Parents, Alumni-Clementeens, Teachers, Staff and anyone with a strong affiliation with the school to share our well-wishes for CTSS, as part of the CT40 celebrations.  
+  
+The digital wishing tree was created by five Computing students from the class of 2019, and one Computing student from the Class of 2020. The members of the Team are:  
+
+1\. Jack Chua Yi Chen, Class of 2019
+
+2\. Chen Han, Class of 2019
+
+3\. Ho Ping, Class of 2019
+
+4\. Ho Shang Luen Owen, Class of 2019
+
+5\. Hu Jiahao, Class of 2019
+
+6\. Srujan Srivatsav Palakurthi, Class of 2020
+
+  
+This digital wishing tree borrows the idea of an actual wishing tree whereby kind and good-willed wishes are written on a piece of paper and hung onto a tree. Through incorporating the use of technology, the project seeks to accomplish the same purpose. Our digital wishing tree allows all Clementeens, staff, alumni and members of public to give well wishes to the school or community. The digital wishing tree is an excellent avenue of expressing our gratitude and well wishes.  
+  
+May Clementi Town continue to Aspire and Grow for many years to come!  
+  
+Submit your well-wishes for CTSS here: [CT40 Digital Wishing Tree](http://www.tree.ct40.edu.sg/)
