@@ -29,4 +29,11 @@ further inspire and ignite our Clementeens' passion for Technology through appli
   
 At the end of the bootcamp, participants created their own projects. Please click on the image below to find out more about one of the AI projects that was created upon completion of the bootcamp.
 
-![](/images/AI%20Bootcamp.jpeg)
+
+<html>
+<body>
+<p><a href="https://clipchamp.com/watch/PnVClRaDvV9?utm_source=share&utm_medium=social&utm_campaign=watch">
+<img src="/images/AI%20Bootcamp.jpeg"  style="width:90%">
+</a></p>
+</body>
+</html>
