@@ -3,13 +3,41 @@ title: Applied Learning Programme (ALP)
 permalink: /key-programmes/applied-learning-programme-alp
 description: ""
 ---
+CODING TO DISCOVER AND EMPOWER (CODE)
+-------------------------------------
+
+  
+Clementi Town Secondary School offers its ALP programme abbreviated CODE under the STEM (Science, Technology, Engineering and Mathematics) strand and is focused on developing computational thinking through coding.  
+  
+The key objectives of CODE are to provide every Clementeen an early exposure to computer science (CS) and to ignite our students’ interest to pursue CS-related courses in Institutes of Higher Learning, and a career in the CS-related industries.  
+  
+As part of applied learning, programmes have been designed to enable students to work through problems in groups and to come up with practical solutions and real products. This authentic and hands-on approach would provide additional platforms for our Clementeens to practice 21st century skills such as creative problem solving, team work and analytical thinking and also turn our Clementeens from passive consumers into active producers of technology.  
+  
+The CODE curriculum is based on the Treffinger's Level of Service Model and is designed for the differing profiles of Clementeens.
+
 ![](/images/ALP01.jpeg)
+
+**Tier 1 - Project Work (PW@CTSS)**  
+
+All lower secondary students would be taught Project Work (PW@CTSS), which seeks to develop in our students the ability to Empathise with the needs of the people around them, as they identify problems that need to be solved, Explore new skills, emerging technologies and possible solutions to the identified problem and Evaluate their possible options in order to craft the most efficient solution that best meets the needs of the target group. Central to this are the four key competencies of Communications Skills, Collaborative Skills, Critical and Creative Thinking and Computational Thinking.
 
 ![](/images/ALP02.jpeg)
 
+The PW@CTSS curriculum seeks to nurture Future-ready Clementeens who possess a high level of Digital Literacy and who are emboldened to embrace Emerging Technologies in their pursuit of problem-solving excellence.  
+  
+PW@CTSS lessons are crafted such that students are given rich opportunities to work through real-world problems in groups, and to make links across different areas of knowledge to generate, develop and evaluate ideas and information, so as to apply these skills to the project task.  
+  
+PW@CTSS lessons are crafted such that students are given rich opportunities to work through real-world problems in groups, and to make links across different areas of knowledge to generate, develop and evaluate ideas and information, so as to apply these skills to the project task.  
+  
+In Secondary 1, students would acquire collaborative skills through working in a team to achieve common goals. In addition, students would acquire the skills to communicate effectively and present ideas clearly and coherently to a specific audience.
+
 ![](/images/ALP03.jpeg)
+<p style="text-align:center;">Student brainstorming ideas during PW@CTSS</p>
 
 ![](/images/ALP04.jpeg)
+An artifact of learning from Secondary 1 students applying Brainstorming and Clustering techniques to identify authentic problems.  
+  
+In Secondary 2, students would learn Computational Thinking as well as coding, and apply their coding knowledge to complete a series of mini projects involving the use of micro-controllers and sensors.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTa9VzijZPKCyH3QlV_SHhJGMmomSM5h_Fb-Q8z_staTfXYg0fbtUdrNvbnIxx3CDCMnEyfpIDbpsBG/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
@@ -162,3 +190,4 @@ To expose students to STEM careers at an early age, Industrial Visits and Learni
 ![](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%202.jpeg)
 
 ![](/images/Visit%20to%20Anglo%20American%20(Chat%20with%20Data%20Scientist)%203.jpeg)
+
