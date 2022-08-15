@@ -102,3 +102,16 @@ Submit your well-wishes for CTSS here:&nbsp;[CT40 Digital Wishing Tree](http://w
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlMjjWzX90PfSpYRUit3QSAFaSmmAWoUdvNJNg1BiFWDKvxRc3dRS-HMQTDvBvO8YZf7TJfkxMjkaE/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
+<u>Participation in the Swift Accelerator Programme</u>
+  
+
+The Swift Accelerator Programme is an intensive 180-hour programme in which students who are talented in coding are trained to develop iOS apps using the Swift coding language, leveraging on the principles of challenge based learning, storytelling and design thinking. Only 50 students, aged 13 to 15, are selected for this programme.
+
+  
+
+In 2021, two Clementeens have successfully completed the Swift Accelerator Programme. They presented their work at the Swift Innovators Summit Singapore 2022 on 16 March 2022, at Apple One North.
+
+  
+The students involved in the Swift Accelerator Programme 2021 are:  
+  
+1. **Nguyen Viet Truong (Bill), S4-MM (4B1)**, along with his teammates, have published an App called “StudyZone” which helps students manage their incoming schoolwork. You may download the app via this link: [http://tk.sg/sis22-studyzone](http://tk.sg/sis22-studyzone)
