@@ -2,14 +2,14 @@ collections:
   curriculum:
     output: true
     order:
-      - Sexuality Education Programme 2022.md
-      - Science Department.md
-      - Physical Education.md
-      - Mathematics.md
-      - Mother Tongue Languages.md
-      - Humanities.md
-      - English and Literature.md
-      - Aesthetics and Craft & Technology Department.md
-      - Assessment.md
-      - Subject Based Banding.md
       - "Teaching and Learning Framework: ALIVE@CTSS.md"
+      - Subject Based Banding.md
+      - Assessment.md
+      - Aesthetics and Craft & Technology Department.md
+      - English and Literature.md
+      - Humanities.md
+      - Mother Tongue Languages.md
+      - Mathematics.md
+      - Physical Education.md
+      - Science Department.md
+      - Sexuality Education Programme 2022.md
