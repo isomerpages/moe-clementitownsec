@@ -37,3 +37,18 @@ At the end of the bootcamp, participants created their own projects. Please clic
 </a></p>
 </body>
 </html>
+
+**Tier 3 – Participation in Olympiad Training, App Development Programmes, Mentorship Programmes**  
+  
+
+Tier 3 of the ALP is designed to provide opportunities for a few students excelling in the field of computing to develop their talents. One such Talent Development Programme is the intensive training in preparation for the National Olympiad in Informatics (NOI).
+
+  
+  
+<u>National Olympiad in Informatics (NOI) 2022</u>
+  
+
+NOI is a computing competition organized by National University of Singapore. It is an annual nation-wide programming competition that aims to provide our best students the ultimate challenge in computing and programming and is open to all current junior college and secondary school students.
+
+![](/images/National%20Olympiad%202022.jpeg)<p style="text-align:center;">Students participating in the National Olympiad in Informatics 2022</p>
+
