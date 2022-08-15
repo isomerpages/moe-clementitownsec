@@ -11,10 +11,12 @@ description: ""
 
 ![](/images/ALP04.jpeg)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTa9VzijZPKCyH3QlV_SHhJGMmomSM5h_Fb-Q8z_staTfXYg0fbtUdrNvbnIxx3CDCMnEyfpIDbpsBG/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTa9VzijZPKCyH3QlV_SHhJGMmomSM5h_Fb-Q8z_staTfXYg0fbtUdrNvbnIxx3CDCMnEyfpIDbpsBG/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ![](/images/ALP09.jpeg)
 
 ![](/images/ALP10.jpeg)
 
 ![](/images/ALP11.jpeg)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtCaTeFgQaiLtlk7FZRVVWT7UEKRagCPhcqoEY359lzqmZdEMV5V4JtUbAdwGqeFcDw06dDeDKZIfw/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
