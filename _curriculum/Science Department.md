@@ -36,3 +36,40 @@ For students who are identified to have higher ability and who are passionate in
 
 ![science department](/images/sci1.png)
 
+**<u>Research-Based Programme Science in Action (SiA)</u>**  
+
+The SiA programme is a research mentorship programme which cultivates in our Sec 2 and Sec 3 students the spirit of inquiry. Students selected for this programme will work on a year-long project under the mentorship of a teacher or an expert from the tertiary institutions (e.g. NUS).  The projects done by students under SiA are fielded at national and international platforms (e.g. SSEF, ASPC, GYSTB).
+
+**<u>Academic-Based Programme 1: International Biomedical Quiz</u>**  
+
+Our school participates in the biannual International Biomedical Quiz organized by Anglo Chinese Junior College in collaboration with the Yong Loo Lin School of Medicine. The trainings and competition provide a platform for our upper secondary Biology students to develop their aptitude and potential in the biomedical disciplines through independent work and applying critical thinking to solve authentic medical challenges.
+
+**<u>Academic-Based Programme 2: Training for OlymPiads (TOP)</u>**  
+
+The TOP programme is a talent development programme for our Upper Secondary students to prepare them for the national-level competitions (e.g. Singapore Junior Chemistry Olympiad, Singapore Junior Biology Olympiad and Singapore Junior Physics Olympiad).
+
+**<u>Innovation-Based Programme: UPSE</u>**
+
+Students passionate in innovation will be given opportunities to exercise their creativity to innovate backing with scientific knowledge.  Students who sign up will be provided mentorship and given a chance to participate in innovation-based competitions e.g. USPE and I am a Young Sustainability Champion.
+
+**<u>Communication-Based Programme: Science Busker's Festival</u>**
+
+Effective communication is an important competency for scientists to collaborate with peers. The Science department provides mentorship to students in communication-based programmes. Students interested in science busking are welcome to sign up for the mentorship.
+
+**<u>Science Programme for All Students: CSI</u>**
+
+CSI (Clementeen Science Investigation) is a school-based competition which aims at arousing students’ interest in general science application in real life.  Students are provided with opportunities to apply their scientific knowledge or concepts to solve real life problems.
+
+ASEAN STUDENT SCIENCE PROJECT COMPETITION (ASPC) AND GLOBAL YOUTH SCIENCE AND TECHNOLOGY BOWL (GYSTB)
+-----------------------------------------------------------------------------------------------------
+
+  
+Students from the school’s Science-in-Action Research Mentorship Programme participate in the Singapore Science and Engineering Fair (SSEF), which is organised by the Ministry of Education (MOE), the Agency for Science, Technology and Research (A\*STAR) and the Science Centre Singapore (SCS). The SSEF is affiliated to the prestigious Intel International Science and Engineering Fair (Intel ISEF), which is regarded as the Olympics of Science Competitions. 
+
+  
+
+In recent years, SiA students have been nominated by MOE to represent Singapore at the ASEAN Student Science Project Competition (ASPC) and the Global Youth Science and Technology Bowl (GYSTB). We are pleased with the efforts of our Clementeens and are proud of their achievements. They have done Singapore and CTSS proud!
+
+  
+
+SiA students are very grateful to have been given opportunities to represent Singapore in overseas competitions. It has helped them to broaden their view of the world, our South-East Asian region, allowing them to learn more about the culture of other ASEAN countries while simultaneously being exposed to regional and international scientific projects and ideas.
