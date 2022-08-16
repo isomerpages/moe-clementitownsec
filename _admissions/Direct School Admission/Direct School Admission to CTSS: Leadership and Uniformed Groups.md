@@ -19,7 +19,7 @@ In addition, as the school attracts and develops niche-related talents, these ta
 In this Direct School Admission Exercise, we are looking for promising Primary 6 students who exhibit the following\*:&nbsp;
 
 *   Very Good Conduct&nbsp;
-*   Strong leadership qualities (track records such as leadership role(s)&nbsp;at cohort or school level)
+*   Strong leadership qualities (track records such as leadership role(s)&nbsp;<u>at cohort or school level</u>)
 *   Leads in VIA projects in school or community  
     
 
