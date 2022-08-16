@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Returning Singaporeans.md
       - Local Transfers.md
       - Secondary 1 Posting Exercise.md
       - Direct School Admission/.keep
