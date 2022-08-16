@@ -59,3 +59,20 @@ PERSONAL LEARNING DEVICE (PLD) FOR CLEMENTI TOWN SECONDARY SCHOOL STUDENTS
 **Overview.** The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 
 **Purchase of PLD bundle.** The school has made arrangements for you to purchase the PLD from **AsiaPac Distribution Pte Ltd** for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
+
+![ipad 2022](/images/ipad2022.jpeg)
+
+*   _Apple iPad 10.2“ (9th Gen, WIFI, 64GB)_
+*   _A13 Bionic chip, 64GB Storage_
+*   _10.2” Screen Size_
+*   _3-year warranty and_ _insurance_
+*   _Apple Pencil_
+*   Ruggedized Combo 3
+    *   Shock-absorbent Rugged Folio case with integrated keyboard
+*   Price: $842
+
+**Use of Edusave**. MOE has provided Edusave top-ups of $200 in 2020, and in May 2021 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students. Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of 2nd tier miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD.
+
+  
+
+**Financial Assistance.** Subsidies are available for students who require funding support to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for the PLD, after subsidies have been granted. Please see the table below for information on the eligibility for the subsidy:
