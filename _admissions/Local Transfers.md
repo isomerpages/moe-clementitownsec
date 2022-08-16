@@ -9,3 +9,17 @@ Secondary 1 transfers (after the S1 Posting Exercise) will only be considered if
 
 Shortlisted candidates will be required to sit for the School Placement Tests and a short interview, which will be conducted depending on the availability of vacancies.
 
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
