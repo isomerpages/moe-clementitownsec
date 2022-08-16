@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - Project Work.md
       - Musical.md
       - Lifelong Learning Programme (LLP).md
       - Applied Learning Programme (ALP).md
