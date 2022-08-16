@@ -42,3 +42,20 @@ Students involved in the pilot had an overall positive experience. The devices i
 Let's watch the following video to hear from our students about their experiences using their PLDs as part of lessons.
 
 ***video to be uploaded to YouTube and embedded here!***
+
+**Findings from Teachers**  
+  
+The Subject Teachers involved in the pilot had shared that the PLDs, when coupled with effective pedagogies and lesson facilitation, made learning more accessible for students, as it gave students control over their own pace of learning and enabled teachers to give instant, multi-modal, personalised feedback. Teachers also shared that the PLDs gave them greater flexibility on lesson flow and students were observed to be more engaged and participative during lessons.  
+  
+Let's watch the following video to hear from our Subject Teachers about their experiences during the NDLP Pilot.
+
+***video to be uploaded to YouTube and embedded here!***
+
+PERSONAL LEARNING DEVICE (PLD) FOR CLEMENTI TOWN SECONDARY SCHOOL STUDENTS
+--------------------------------------------------------------------------
+
+  
+
+**Overview.** The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
+
+**Purchase of PLD bundle.** The school has made arrangements for you to purchase the PLD from **AsiaPac Distribution Pte Ltd** for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
