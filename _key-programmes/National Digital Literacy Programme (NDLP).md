@@ -88,8 +88,8 @@ PERSONAL LEARNING DEVICE (PLD) FOR CLEMENTI TOWN SECONDARY SCHOOL STUDENTS
 Financial assistance is also available for Permanent Residents (PR) and International Students (IS) who need support. Please email the school at [askndlp@ctss.edu.sg](mailto:askndlp@ctss.edu.sg) for more information.  
   
   
-**Why did the school choose the iPad as the PLD?  
-**  
+**Why did the school choose the iPad as the PLD?**
+
 Using ICT in teaching and learning is not new to CTSS and our Clementeens. We have been tapping on the Google Classroom and the various Google Collaboration Tools (Google Docs, Spreadsheets, Forms etc) for many years as part of our efforts to prepare our students to be collaborative and self-directed learners. As such, it is natural to continue on this platform for the familiarity of both teachers and students. The Google apps and Google Classroom can be used on the iPad to facilitate learning. In addition, tablets as compared to laptops and Chromebooks are lighter, and have longer battery life.  
   
 Other reasons provided after careful consideration of cost, form factors, and usage in Teaching and Learning to fulfil desired student outcomes were also presented during the NDLP presentation to parents of Secondary 1 students.  
@@ -107,14 +107,14 @@ In rolling out the PLD, MOE is acutely aware of concerns regarding students’ c
 (b) monitoring, filtering and limiting the type of websites accessible to the student, and  
 (c) placing restrictions on students’ screen time in order to prevent cyber addiction.  
   
-Please refer to our [Frequently Asked Questions](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/2022/FAQs%20on%20NDLP%20at%20CTSS%2020220113.pdf) document for more information on the DMA as well as MOE’s collection of data.  
+Please refer to our [Frequently Asked Questions](/files/FAQs%20on%20NDLP%20at%20CTSS%2020220113.pdf) document for more information on the DMA as well as MOE’s collection of data.  
   
 In addition, various toolkits and resources on cyber-wellness and blended learning have been crafted for parents:  
 [1\. NDLP Google Site for Parents](https://sites.google.com/moe.edu.sg/ctss-ndlp/resources-for-parents)  
-[2\. Click Clique: Bringing up children in the digital age](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/Clique%20Click.pdf)  
-[3. Parent Handbook (I) on Learning with a PLD](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)  
-[4. Resource Kit: Experiencing Blended Learning (BL) with Our Children](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/Resource%20Kit%20-%20Experiencing%20Blended%20Learning%20BL%20with%20Our%20Children.pdf)  
-[5. Safe and Smart Online Parent Guide](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/Safe-and-Smart-Online-Parent-Guide.pdf)  
+[2\. Click Clique: Bringing up children in the digital age](/files/Clique%20Click.pdf) <br>
+[3. Parent Handbook (I) on Learning with a PLD](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf) <br>
+[4. Resource Kit: Experiencing Blended Learning (BL) with Our Children](/files/Resource%20Kit%20-%20Experiencing%20Blended%20Learning%20BL%20with%20Our%20Children.pdf) <br>
+[5. Safe and Smart Online Parent Guide](/files/Safe-and-Smart-Online-Parent-Guide.pdf) 
   
 
   
@@ -124,7 +124,7 @@ FREQUENTLY ASKED QUESTIONS (FAQS) AND FURTHER QUERIES
 -----------------------------------------------------
 
   
-Please refer to our [Frequently Asked Questions](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/2022/FAQs%20on%20NDLP%20at%20CTSS%2020220113.pdf) for more information on the rollout of the NDLP at Clementi Town Secondary School.  
+Please refer to our [Frequently Asked Questions](/files/FAQs%20on%20NDLP%20at%20CTSS%2020220113.pdf) for more information on the rollout of the NDLP at Clementi Town Secondary School.  
   
 Should there be any further queries or clarification, please email the school at [askndlp@ctss.edu.sg](mailto:askndlp@ctss.edu.sg).  
   
