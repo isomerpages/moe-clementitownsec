@@ -8,3 +8,8 @@ links:
     collection: curriculum
   - title: Key Programmes
     collection: key-programmes
+  - title: Admissions and Forms
+    url: /admissions/direct-school-admission
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
