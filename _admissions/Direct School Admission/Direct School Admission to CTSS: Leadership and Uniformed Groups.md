@@ -29,8 +29,7 @@ Applicants keen to apply for DSA through the category of Leadership and Uniforme
 
 *   **Girl Guides**
 *   **National Cadet Corps (NCC) Land (Boys)**
-*   ****National Civil Defence Cadet Corps (NCDCC)**  
-    **
+*   **National Civil Defence Cadet Corps (NCDCC)**
 *   **National Police Cadet Corps (NPCC)**
 
   
