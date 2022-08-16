@@ -11,9 +11,13 @@ links:
   - title: Admissions and Forms
     url: /admissions/direct-school-admission
     sublinks:
+      - title: Direct School Admission
+        url: /admissions/direct-school-admission
       - title: Secondary 1 Posting Exercise
         url: /admissions/secondary-1-posting-exercise
       - title: Local Transfers
         url: /admissions/local-transfers
       - title: Returning Singaporeans
         url: /admissions/returning-singaporeans
+      - title: International Students
+        url: /admissions/international-students
