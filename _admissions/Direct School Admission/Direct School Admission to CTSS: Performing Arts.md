@@ -187,3 +187,18 @@ Students who are successfully admitted to the school via DSA are expected to hon
 Successful applicants will join CTSS in January 2023.
 
 _\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
