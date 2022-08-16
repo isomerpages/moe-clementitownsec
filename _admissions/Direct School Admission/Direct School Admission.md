@@ -74,3 +74,18 @@ For Admission to Secondary One in 2023, Clementi Town Secondary School is please
 </table>
 
 \*Applicants are advised that meeting all the criteria does not guarantee that the student will be shortlisted or given an offer. Thank you.
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
