@@ -1,0 +1,4 @@
+collections:
+  admissions-and-forms:
+    output: true
+    order: []
