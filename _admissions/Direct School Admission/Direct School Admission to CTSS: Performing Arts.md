@@ -156,3 +156,34 @@ Successful applicants will join CTSS in January 2023.
 _\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
 
 ![drama club](/images/drama.jpeg)
+
+MODERN DANCE (BOYS & GIRLS)
+---------------------------
+
+  
+
+Clementi Town Secondary School welcomes students with outstanding talent in dance to apply through the DSA programme.
+
+Students selected via DSA can expect to take part in various national level competitions (eg. Singapore Youth Festival) as well as external performances organised by various organizations or initiated by our dancers. There are also opportunities to showcase their dance and talent in school during school events
+
+In this Direct School Admission Exercise, we are looking for promising Primary 6 pupils who exhibit the following:   
+
+*   Very Good Conduct
+*   Possess interest and passion for Dance
+*   Represented school in Singapore Youth Festival (SYF) and/or external dance performances or competitions
+*   Show positive attitude, commitment and determination to develop their dance and leadership skills  
+    
+
+   
+
+Shortlisted applicants will be invited to Clementi Town Secondary School for an audition and interview in July 2022.
+
+Selected applicants may be invited for a 2nd round interview with the School Leaders and/or CCA Key Personnel in August 2022.
+
+Students will be assessed on both their demonstrated and potential ability and qualities, so as to ensure that they benefit from the rigorous curriculum offered at CTSS.
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1–4.  
+
+Successful applicants will join CTSS in January 2023.
+
+_\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
