@@ -74,3 +74,18 @@ At Secondary 2, students engage in VIA that impacts the environment of the Cleme
 **UPPER SECONDARY VIA**
 
 At Upper Secondary levels, students self-initiate their own VIA project with facilitation by teachers. The programme not only strives to encourage an active student voice but also to engage Clementeens in meaningful service to the school and communities through careful integration with established service and learning objectives. Through this VIA, Clementeens also learn project-management skills as they work effectively in teams to come up with innovative ideas to collectively play an active role in bettering the lives of others.
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
