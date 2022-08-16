@@ -92,4 +92,44 @@ _\*meeting all the criteria does not guarantee the student will be shortlisted/g
 
 ![volleyball dsa](/images/VB%20DSA.jpeg)
 
+NETBALL (GIRLS)
+---------------
+
+  
+
+The Clementi Town Secondary School Netball Team aims to develop our students’ sporting talent and passion for the sport through rigorous training sessions, friendly matches and various inter-school competitions. In addition, we also want to instill in them the values of discipline, hard work and teamwork that are crucial in the area of character building.
+
+Students can expect to participate in the following activities (subject to prevailing safe management measures):
+
+i)       West Zone Netball Competition
+
+ii)     Various Netball carnivals
+
+iii)    Annual camp or outing
+
+iv)    Umpiring course for selected students
+
+   
+
+In this Direct School Admission Exercise, we are looking for promising Primary 6 students who exhibit the following\*: 
+
+*   Very Good Conduct
+*   Possess interest and passion for Netball
+*   Represented school in National School Games (NSG) for Netball or similar ball games
+
+We also welcome applicants who possess good psychomotor skills in other sports to apply.
+
+Shortlisted applicants will be invited to Clementi Town Secondary School for a selection exercise consisting of performance tasks and interview in July 2022.
+
+Selected applicants may be invited for a 2nd round interview with the School Leaders and/or CCA Key Personnel in August 2022.
+
+
+Students will be assessed on both their demonstrated and potential ability and qualities, so as to ensure that they benefit from the rigorous curriculum offered at CTSS.
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1–4.  
+
+Successful applicants will join CTSS in January 2023.
+
+_\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
+
 ![netball](/images/NETBALL.jpeg)
