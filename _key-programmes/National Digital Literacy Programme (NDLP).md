@@ -129,3 +129,18 @@ Please refer to our [Frequently Asked Questions](/files/FAQs%20on%20NDLP%20at%2
 Should there be any further queries or clarification, please email the school at [askndlp@ctss.edu.sg](mailto:askndlp@ctss.edu.sg).  
   
 Thank you.
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
