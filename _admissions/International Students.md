@@ -9,3 +9,18 @@ International students who wish to seek admission to MOE mainstream schools at t
 The school is unable to accept direct applications from international students.
 
 More information can be found at: [https://www.moe.gov.sg/admissions/international-students](https://www.moe.gov.sg/admissions/international-students)
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
