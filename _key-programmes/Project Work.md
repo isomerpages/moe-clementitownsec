@@ -86,3 +86,18 @@ _Key Features_
 *   Following an oral presentation, there will be a Q&A session to help students become more confident speakers.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrejP5W3iTnWLSqZabvIvA7aYu59uCw4URKH2Lcj4tHZ4pnDtHS8KxvqgDoPchRxm_LRrc4R1F1bcs/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
