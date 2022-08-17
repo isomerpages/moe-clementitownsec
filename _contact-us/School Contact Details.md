@@ -7,9 +7,14 @@ description: ""
 
 ![School Map](/images/schoolmap.jpeg)
 
-![](/images/officialctss_nametag%20(1).png)
 
+<html>
+<body>
+<p><a href="https://www.instagram.com/officialctss/?hl=en">
+<img src="/images/officialctss_nametag%20(1).png"  style="width:35%">
+</a></p>
+</body>
+</html>
+  
 
-  
-  
-_Follow us @ [#officialctss](https://www.instagram.com/officialctss/?hl=en)!_
+<p style="text-align:center;"><em>Follow us @ <a href="https://www.instagram.com/officialctss/?hl=en">#officialctss</a>!</em></p>
