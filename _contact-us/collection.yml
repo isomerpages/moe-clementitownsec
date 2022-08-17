@@ -2,4 +2,5 @@ collections:
   contact-us:
     output: true
     order:
+      - School Management Committee.md
       - School Contact Details.md
