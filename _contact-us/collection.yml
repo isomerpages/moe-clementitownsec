@@ -2,5 +2,6 @@ collections:
   contact-us:
     output: true
     order:
+      - Senior and Lead Teachers.md
       - School Management Committee.md
       - School Contact Details.md
