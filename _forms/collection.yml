@@ -2,4 +2,5 @@ collections:
   forms:
     output: true
     order:
+      - Application for MOE FAS.md
       - Application for Student Admission Year 2022 (Sec 2 and 3 Only).md
