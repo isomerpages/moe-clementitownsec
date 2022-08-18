@@ -7,7 +7,16 @@ third_nav_title: CCA Parents
 LEVEL YEAR HEAD
 ---------------
 
-![](/images/Mr%20Chia%20Chun%20Kiat_1.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Mr%20Chia%20Chun%20Kiat_1.jpeg" alt="mr chia chun kiat" style="width:50%;">  
+  
+</body>
 
 
 <p style="text-align:center;">Mr Chia Chun Kiat<br><a href="mailto:chia_chun_kiat@moe.edu.sg">chia_chun_kiat@moe.edu.sg</a></p>
