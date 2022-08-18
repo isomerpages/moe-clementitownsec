@@ -24,6 +24,4 @@ sections:
       description: "The Parent Workshop on the Use of Technology for Effective
         Learning would be conducted this Saturday, 23 April 2022, from 9.30am to
         11am. "
-      button: Click here for more info
-      url: /faq/
 ---
