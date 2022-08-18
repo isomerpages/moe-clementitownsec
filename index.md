@@ -2,7 +2,7 @@
 layout: homepage
 title: Clementi Town Secondary School
 description: Clementi Town Secondary School
-image: /images/CTSS logo.png
+image: /images/ctss updated logo.png
 permalink: /
 notification: ""
 sections:
@@ -34,4 +34,5 @@ sections:
       button: Click here to read Letters to PARENTS
       url: /letters-to-parents
 ---
+
 
