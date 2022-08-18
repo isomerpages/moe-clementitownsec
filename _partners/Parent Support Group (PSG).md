@@ -25,3 +25,68 @@ OUR CTSS PSG EXECUTIVE COMMITTEE
 --------------------------------
 
 For year 2022
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gfyz{background-color:#1C3836;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-8c83{background-color:#EBEBEB;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Chair-Woman</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8c83" colspan="5"><span style="color:#000;background-color:#EBEBEB">1.</span>	<span style="color:#000;background-color:#EBEBEB">Connie Lee</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gfyz{background-color:#1C3836;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Vice Chair-Women</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3icd" colspan="5">2.    Shuli Law<br><span style="color:#000">3.    </span>Serena Lim</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gfyz{background-color:#1C3836;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Secretary</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3icd" colspan="5">4.    TBN</td>
+  </tr>
+</tbody>
+</table>
