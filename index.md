@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/ctss homepage.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Students
+          description: ""
+          url: /students
+        - title: Parents
+          description: ""
+          url: /parents
+        - title: Alumni
+          description: ""
+          url: /alumni
   - infobar:
       title: Announcements
       subtitle: Latest Announcements
