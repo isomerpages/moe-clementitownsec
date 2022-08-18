@@ -6,8 +6,8 @@ description: ""
 third_nav_title: School Wide Achievements
 ---
 
-
-![1ST POSITION IN TEAM (UPPER SEC NORMAL ACADEMIC CATEGORY) MATHEMATICS COMPETITION](/images/20180816_170556.jpeg)
+<img src="/images/20180816_170556.jpeg"  
+style="width:80%">
 
 The Mathematics Department organises a national-level online Mathematics competition to stimulate greater interest and enrich students’ knowledge in Mathematics by providing an opportunity for Normal Course students to showcase their talent in Mathematical knowledge and skills through solving competition questions. The competition has been opened to all Normal Course students from all secondary schools in Singapore since 2009. There are 4 categories in the competition, namely, Lower Sec Normal (A), Upper Sec Normal (A), Lower Sec Normal (T) and Upper Sec Normal (T).  This year 801 students from 71 secondary schools participated in the competition on 19 July 2018.   
 
