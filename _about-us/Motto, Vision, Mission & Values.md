@@ -3,7 +3,6 @@ title: Motto, Vision, Mission & Values
 permalink: /about-us/motto-vision-mission-n-values
 description: ""
 ---
-
 SCHOOL MOTTO
 ------------
 
@@ -48,7 +47,9 @@ STRATEGIC THRUSTS
 3\. A Passionate, Innovative, and Engaged Team
 
 <br>
-
+<br>
+<br>
+<br>
 <style>  
 img {  
   display: block;  
