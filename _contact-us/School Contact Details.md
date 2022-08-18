@@ -19,7 +19,7 @@ img {
 <html>
 <body>
 <p><a href="https://www.instagram.com/officialctss/?hl=en">
-<img src="/images/officialctss_nametag%20(1).png"  style="width:35%">
+<img src="/images/officialctss_nametag%20(1).png"  style="width:28%">
 </a></p>
 </body>
 </html>
