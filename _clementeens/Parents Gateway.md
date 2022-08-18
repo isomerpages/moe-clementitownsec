@@ -15,7 +15,7 @@ The Parents Gateway (PG) app has been enhanced recently with the following featu
 
 \-          Update Parents’ / Guardians’ Particulars / Contact Details
 
-You may wish to refer to the **[user guide](https://clementitownsec.moe.edu.sg/qql/slot/u534/PG%20User%20Guide%20for%20Parents.pdf)** on accessing the features on Parents Gateway. This guide is available on the School Website under the Parents tab. A list of [**Frequently Asked Questions (FAQs)**](https://clementitownsec.moe.edu.sg/qql/slot/u534/PG%20Frequently%20Asked%20Questions%20(for%20Parents).pdf), compiled by MOE, is appended for your reference.
+You may wish to refer to the **[user guide](/files/PG%20User%20Guide%20for%20Parents.pdf)** on accessing the features on Parents Gateway. This guide is available on the School Website under the Parents tab. A list of [**Frequently Asked Questions (FAQs)**](/files/PG%20Frequently%20Asked%20Questions%20(for%20Parents).pdf), compiled by MOE, is appended for your reference.
 
 Please note that your Parents Gateway application needs to be updated to the latest version in order for the new features to be available.  
   
