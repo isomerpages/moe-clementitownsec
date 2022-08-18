@@ -117,27 +117,22 @@ At Secondary 2, students are required to engage in Service-Learning that impacts
 <img src="/images/SL08.jpeg"  
 style="width:60%">
 
-![STUDENT LEADERSHIP AND VIA](/images/SL09.jpeg)
 <img src="/images/SL09.jpeg"  
-style="width:40%">
+style="width:70%">
 
-![STUDENT LEADERSHIP AND VIA](/images/SL10.jpeg)
-<img src="/images/qr.jpeg"  
-style="width:40%">
+<img src="/images/SL10.jpeg"  
+style="width:70%">
 
 At upper secondary levels, students are required to self-initiate their own Service-Learning project with facilitation by teachers. The programme not only strives to encourage an active student voice but also to engage Clementeens in meaningful service to the school and communities through careful integration with established service and learning objectives so that they are able to work effectively in teams to come up with innovative ideas and collectively play an active role in bettering the lives of others.
 
-![STUDENT LEADERSHIP AND VIA](/images/SL11.jpeg)
-<img src="/images/qr.jpeg"  
-style="width:40%">
+<img src="/images/SL11.jpeg"  
+style="width:70%">
 
-![STUDENT LEADERSHIP AND VIA](/images/SL12.jpeg)
-<img src="/images/qr.jpeg"  
-style="width:40%">
+<img src="/images/SL12.jpeg"  
+style="width:60%">
 
-![STUDENT LEADERSHIP AND VIA](/images/SL13.jpeg)
-<img src="/images/qr.jpeg"  
-style="width:40%">
+<img src="/images/SL13.jpeg"  
+style="width:70%">
 
   
 S-L@CTSS aims to develop every Clementeen into:  
