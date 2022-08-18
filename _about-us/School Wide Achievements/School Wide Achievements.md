@@ -13,7 +13,7 @@ Please click on the following links to find out more:
 6. [Gold Award in 6th SingaporeInternational Band Festival 2018 by CT Winds](/about-us/school-wide-achievements/gold-award-singapore-international-band-festival-2018-by-ct-winds)  
 7. [1st position in Team (Upper SecNormal Academic Category) in All Singapore Secondary Mathematics Competitionfor Normal Course Students](/about-us/school-wide-achievements/1st-position-in-team-upper-sec-normal-academic-category)  
 8. [3rd in 2018 West Zone C Division Volleyball Competition](/about-us/school-wide-achievements/3rd-in-2018-west-zone-c-division-volleyball-competition)  
-9. [Outstanding Achievements in the National Schools Literature Festival 2018](/about-us/school-wide-achievements/outstanding-achievements-in-the-national-schools-literature-festival-2018)  
+9. [Outstanding Achievements in the National Schools Literature Festival 2018](/about-us/school-wide-achievements/outstanding-achievements-national-schools-literature-festival)  
 10. [SYF Results 2019](/about-us/school-wide-achievements/outstanding-achievements-in-the-singapore-youth-festival-2019)
 
 <br>
