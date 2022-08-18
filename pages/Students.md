@@ -7,8 +7,8 @@ description: ""
 *   [Calendar](https://calendar.google.com/calendar/embed?src=moe.edu.sg_07rtue1mp6980u56a7tt9ui2qo%40group.calendar.google.com&ctz=Asia%2FSingapore)    
 *   [Timetable](/clementeens/time-table)
 *   [Exam Timetable](/clementeens/examination-time-table)
-*   [Textbook List for 2022](https://clementitownsec-moe-edu-sg-admin.cwp.sg/clementeens/textbook-list-for-2022) 
-*   [Purchase of School Uniform and PE Attire](https://clementitownsec-moe-edu-sg-admin.cwp.sg/clementeens/purchase-of-school-uniform-and-pe-attire)
+*   [Textbook List for 2022](/clementeens/textbook-list-for-2022) 
+*   [Purchase of School Uniform and PE Attire](/clementeens/purchase-of-school-uniform-and-pe-attire)
 *   [School Rules and Regulations](https://clementitownsec.moe.edu.sg/qql/slot/u534/Tabs/2021/CTSS%20CODE%20OF%20CONDUCT%2026Oct2021.docx.pdf)
 *   [Student Protection Plan](https://clementitownsec.moe.edu.sg/clementeens/student-protection-plan)
 *   Online learning
