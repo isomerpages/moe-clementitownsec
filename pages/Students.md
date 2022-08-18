@@ -18,3 +18,18 @@ description: ""
 	*     [Home-based Learning 2022](/clementeens/home-based-learning-2020)
 *   [Reset MIMS Password](https://student.iams.ssoe.moe.edu.sg/)
 *   [CTSS Library Search Portal (OPAC](https://schoolibrary.moe.edu.sg/clementitownsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
