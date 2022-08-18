@@ -42,3 +42,8 @@ description: ""
 *   [28 Dec 2021 - Principal's Letter to Parents on School Reopening](/files/Ps%20letter%20on%20school%20reopening%20for%20Sec%202%20to%205%20Final.pdf)
 
 ### Secondary 5
+
+*   [22 June 2022 - Principal's Letter to Parents for Secondary 5 (Term 3 2022)](https://clementitownsec.moe.edu.sg/qql/slot/u534/LettersToParents/2022/Term%203/Ps%20letter%20Term%203%202022%20Sec%204-5%20Final.pdf)
+*   [21 March 2022 - Principal's Letter to Parents for Secondary 4 and 5 (Term 2 2022)](https://clementitownsec.moe.edu.sg/qql/slot/u534/LettersToParents/2022/Term%202/Ps%20letter%20Term%202%202022%20Sec%204%20and%205%20Final.pdf)
+*   [6 Jan 2022 - Principal's Letter to Parents for Secondary 4 and 5 (Term 1 2022)](https://clementitownsec.moe.edu.sg/qql/slot/u534/LettersToParents/2022/Ps%20letter%20Term%201%202022%20Sec%204-5%20Final.pdf)
+*   [28 Dec 2021 - Principal's Letter to Parents on School Reopening](https://clementitownsec.moe.edu.sg/qql/slot/u534/LettersToParents/2021/Ps%20letter%20on%20school%20reopening%20for%20Sec%202-5%20Final.pdf)
