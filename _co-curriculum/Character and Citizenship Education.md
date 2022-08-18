@@ -167,7 +167,9 @@ ECG Counsellor, Mr Damon Choo, is in school every Tuesday to provide ECG counsel
 
 <p style="text-align:center;"><strong>Overview of Admission Exercises</strong></p>
 
-![Overview of Admission Exercises](/images/Admissions%20Exercise.jpeg)
+
+<img src="/images/Admissions%20Exercise.jpeg"  
+style="width:75%">
 
 **Legend:**
 
