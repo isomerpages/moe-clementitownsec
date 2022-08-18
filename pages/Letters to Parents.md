@@ -19,3 +19,14 @@ description: ""
 *   [21 March 2022 - Principal's Letter to Parents for Secondary 1 (Term 2 2022)](/files/Ps%20letter%20Term%202%202022%20Sec%201%20Final.pdf)
 *   [6 Jan 2022 - Principal's Letter to Parents for Secondary 1 (Term 1 2022)](/files/Ps%20letter%20Term%201%202022%20Sec%201%20Final.pdf)
 *   [30 Dec 2021 - Principal's Welcome Letter to Parents](/files/Ps%20welcome%20letter%20for%20Sec%201%20Final.pdf)
+
+### Secondary 2
+
+
+### Secondary 3
+
+
+### Secondary 4
+
+
+### Secondary 5
