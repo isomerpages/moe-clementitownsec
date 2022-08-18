@@ -124,7 +124,9 @@ Tier 3 of the ALP is designed to provide opportunities for a few students excell
 
 NOI is a computing competition organized by National University of Singapore. It is an annual nation-wide programming competition that aims to provide our best students the ultimate challenge in computing and programming and is open to all current junior college and secondary school students.
 
-![Students participating in the National Olympiad in Informatics 2022](/images/National%20Olympiad%202022.jpeg)<p style="text-align:center;">Students participating in the National Olympiad in Informatics 2022</p>
+![Students participating in the National Olympiad in Informatics 2022](/images/National%20Olympiad%202022.jpeg)
+
+<p style="text-align:center;">Students participating in the National Olympiad in Informatics 2022</p>
 
 In NOI 2022, seven Computing students represented the school in the competition. Aidan Ong, from class S4-NC (4B1), was awarded the&nbsp;**Bronze Medal**&nbsp;for his prowess in coding.
 
