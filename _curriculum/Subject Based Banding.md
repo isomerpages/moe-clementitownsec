@@ -3,7 +3,6 @@ title: Subject Based Banding
 permalink: /curriculum/subject-based-banding
 description: ""
 ---
-
 Our school was one of the Phase 1 schools which started offering Subject-Based Banding (SBB) in 2017. With SBB, N(A) and N(T) students are given the opportunities to offer subjects at a higher-level from the start of Secondary One – previously, they could only start doing so from Secondary Three. This allows students to build a stronger foundation in subjects that they are good at, nurture their strengths and give them more opportunities throughout their educational journey, so that they are more engaged in learning.
 
 **Eligibility Criteria for SBB**
@@ -24,7 +23,8 @@ Our school will provide support through bridging programmes for these new SBB st
 
 SBB students in our schools have enjoyed the experience of taking subjects at a higher-level. Below are what some of them have shared with us in our end-year survey:
 
-![subject based banding](/images/sbb.jpeg)
+<img src="/images/sbb.jpeg"  
+style="width:70%">
 
 <br>
 <br>
