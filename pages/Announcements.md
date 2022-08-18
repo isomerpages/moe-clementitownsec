@@ -14,3 +14,18 @@ Please click [here](/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Back%20to%20S
 Dear Parents / Guardians, <br>
 
 [Attached](/files/Cyberwellness.pdf) for your reference is some useful Cyber Wellness information. Thank you.
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
