@@ -34,6 +34,9 @@ Mdm Rasidah Rahim
 
 Principal
 
+<br>
+<br>
+<br>
 <style>  
 img {  
   display: block;  
