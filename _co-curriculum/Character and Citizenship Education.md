@@ -3,7 +3,6 @@ title: Character and Citizenship Education
 permalink: /co-curriculum/character-and-citizenship-education
 description: ""
 ---
-
 ![CHARACTER AND CITIZENSHIP EDUCATION](/images/character%20and%20citizenship%20education%20committee%202.jpeg)
 
 MISSION
@@ -19,7 +18,8 @@ KEY PROGRAMMES
 
 The CCE 2021 curriculum is based on the three big ideas of Identity, Relationships and Choices. It involves the teaching and learning of core values and social-emotional competencies with a focus on developing a sense of purpose in our students. These fundamentals are taught and applied in the six curriculum content areas of CCE. In CTSS, we aspire to mould the character of every Clementeen so that they become active Clementeens with the passion to learn, bright Clementeens with the confidence to lead and caring Clementeens with the humility to serve.
 
-![CCE Framework](/images/CCE%20Framework.jpeg)
+<img src="/images/CCE%20Framework.jpeg"  
+style="width:75%">
 
 **Highly Effective Youths (HEY)** <br>
 The school approaches the teaching of social-emotional competencies through a customised school-based CCE curriculum based on the ‘7 habits for Highly Effective Youths’ by Stephen Covey. It is hoped that these habits, which are a result of a set of attitudes, underpinned by values, will be exemplified in positive behaviours and become a way of life for students.  
