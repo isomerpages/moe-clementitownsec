@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /about-us/principals-message
 description: ""
 ---
-
 <style>  
 img {  
   display: block;  
@@ -11,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mdm%20Rasidah%20Bte%20Rahim.jpeg" alt="Mdm Rasidah Bte Rahim" style="width:50%;">  
+<body><img src="/images/Mdm%20Rasidah%20Bte%20Rahim.jpeg" alt="Mdm Rasidah Bte Rahim" style="width:30%;">  
   
 </body>
 
