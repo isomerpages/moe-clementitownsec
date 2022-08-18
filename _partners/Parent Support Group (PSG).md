@@ -177,3 +177,18 @@ For year 2022
 <br>
 
 Please email to [ctsspsg@gmail.com](mailto:ctsspsg@gmail.com) if there is any feedback or query regarding CTSS Parent Support Group.
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
