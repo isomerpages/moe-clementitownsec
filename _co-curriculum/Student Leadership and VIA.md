@@ -3,7 +3,6 @@ title: Student Leadership and VIA
 permalink: /co-curriculum/student-leadership-and-via
 description: ""
 ---
-
 ![student leadership and value in action committee](/images/student%20leadership%20and%20value-in-action%20committee%202.jpeg)
 
 Grounded in the belief that every Clementeen has the potential to be a leader, the leadership development is deployed down to every student.  There is a three-level student leadership development framework proposed to equip student leaders with the appropriate level of competencies to prepare them for leadership roles.
