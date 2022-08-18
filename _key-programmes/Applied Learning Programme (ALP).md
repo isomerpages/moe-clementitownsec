@@ -37,7 +37,9 @@ style="width:70%">
 
 <p style="text-align:center;">Student brainstorming ideas during PW@CTSS</p>
 
-![An artifact of learning from Secondary 1 students applying Brainstorming and Clustering techniques to identify authentic problems](/images/ALP04.jpeg)
+<img src="/images/ALP04.jpeg"  
+style="width:80%">
+
 An artifact of learning from Secondary 1 students applying Brainstorming and Clustering techniques to identify authentic problems.  
   
 In Secondary 2, students would learn Computational Thinking as well as coding, and apply their coding knowledge to complete a series of mini projects involving the use of micro-controllers and sensors.
@@ -59,7 +61,9 @@ From Sep 2021, more than 40 students from Sec 1 to 4 participated in the Brainha
   
 Participants dive deep into the realms of cybersecurity, Artificial Intelligence (AI), space technologies, app development, fake news detection, extended reality and more.
 
-![Students participating in the first round of the virtual Brainhack workshops](/images/ALP09.jpeg)
+<img src="/images/ALP09.jpeg"  
+style="width:70%">
+
 <p style="text-align:center;">Students participating in the first round of the virtual Brainhack workshops.</p>
 
 <u>Swift Explorers Singapore 2022</u>
