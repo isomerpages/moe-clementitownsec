@@ -114,7 +114,8 @@ _“I like and enjoy the way we are doing our fieldwork. It is fun as we get to 
 _“I like how we are given the freedom to choose what we can investigate. It’s fun! At least I know what I am doing and why and how we are doing it.”_ <br>
 &nbsp; &nbsp; - Student A, 3NA
 
-![Geography](/images/Geography02.jpeg) <br>
+<img src="/images/Geography02.jpeg"  
+style="width:70%"><br>
 
 **Singapore Footprints**
 
