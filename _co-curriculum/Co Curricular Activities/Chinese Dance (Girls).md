@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities/chinese-dance-girls
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
 ABOUT THE CCA
 -------------
 
@@ -17,9 +15,11 @@ As part of the learning process, the dancers are also encouraged to explore othe
 
 **2020 CNY Performance**
 
-![2020 CNY Performance](/images/CD01.jpeg)
+<img src="/images/CD01.jpeg"  
+style="width:60%">
 
-![2020 CNY Performance](/images/CD03.jpeg)
+<img src="/images/CD03.jpeg"  
+style="width:75%">
 
 **2019 SYF**
 
