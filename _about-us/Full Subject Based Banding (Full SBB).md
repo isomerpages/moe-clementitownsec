@@ -3,7 +3,6 @@ title: Full Subject Based Banding (Full SBB)
 permalink: /about-us/full-subject-based-banding-full-sbb
 description: ""
 ---
-
 Clementi Town Secondary School is one of the 28 secondary schools selected by the Ministry of Education to start piloting aspects of Full Subject-Based Banding (Full SBB) from 2020 onwards.
 
   
@@ -41,7 +40,9 @@ We term such a design of students’ experience in school the “CCA-House Exper
 In 2021, we will further pilot the offering of Humanities subjects at a more demanding level for Secondary 2 students.
 
 <br>
-
+<br>
+<br>
+<br>
 <style>  
 img {  
   display: block;  
