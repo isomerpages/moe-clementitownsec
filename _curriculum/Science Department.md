@@ -34,7 +34,9 @@ The department is dedicated in arousing and sustaining the interest in science l
 
 For students who are identified to have higher ability and who are passionate in learning science beyond the normal curriculum, the department stretches them through the provision of carefully curated science-related competitions.&nbsp; These competitions are categorised into four focal strands, namely Academic-focused competitions, Research-focused competitions, Innovation-focused competition and Communication-focused competition.
 
-![science department](/images/sci1.png)
+
+<img src="/images/sci1.png"  
+style="width:80%">
 
 **<u>Research-Based Programme Science in Action (SiA)</u>**  
 
