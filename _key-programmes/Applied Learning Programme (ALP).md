@@ -21,7 +21,8 @@ The CODE curriculum is based on the Treffinger's Level of Service Model and is d
 
 All lower secondary students would be taught Project Work (PW@CTSS), which seeks to develop in our students the ability to Empathise with the needs of the people around them, as they identify problems that need to be solved, Explore new skills, emerging technologies and possible solutions to the identified problem and Evaluate their possible options in order to craft the most efficient solution that best meets the needs of the target group. Central to this are the four key competencies of Communications Skills, Collaborative Skills, Critical and Creative Thinking and Computational Thinking.
 
-![Project Work (PW@CTSS)](/images/ALP02.jpeg)
+<img src="/images/ALP02.jpeg"  
+style="width:65%">
 
 The PW@CTSS curriculum seeks to nurture Future-ready Clementeens who possess a high level of Digital Literacy and who are emboldened to embrace Emerging Technologies in their pursuit of problem-solving excellence.  
   
@@ -31,7 +32,9 @@ PW@CTSS lessons are crafted such that students are given rich opportunities to w
   
 In Secondary 1, students would acquire collaborative skills through working in a team to achieve common goals. In addition, students would acquire the skills to communicate effectively and present ideas clearly and coherently to a specific audience.
 
-![Student brainstorming ideas during PW@CTSS](/images/ALP03.jpeg)
+<img src="/images/ALP03.jpeg"  
+style="width:70%">
+
 <p style="text-align:center;">Student brainstorming ideas during PW@CTSS</p>
 
 ![An artifact of learning from Secondary 1 students applying Brainstorming and Clustering techniques to identify authentic problems](/images/ALP04.jpeg)
