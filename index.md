@@ -21,7 +21,7 @@ sections:
   - infobar:
       title: Announcements
       subtitle: Latest Announcements
-      button: Click here for announcemets
+      button: Click here for announcements
       url: /faq
   - infobar:
       title: Upcoming Events
