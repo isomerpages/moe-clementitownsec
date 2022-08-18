@@ -7,7 +7,16 @@ third_nav_title: CCA Parents
 LEVEL YEAR HEAD
 ---------------
 
-![](/images/Valane%20Photo.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Valane%20Photo.jpeg" alt="banner awards" style="width:50%;">  
+  
+</body>
 
 
 <p style="text-align:center;">Ms Tnee Li Ling Valane<br><a href="mailto:tnee_li_ling_valane@moe.edu.sg">tnee_li_ling_valane@moe.edu.sg</a></p>
