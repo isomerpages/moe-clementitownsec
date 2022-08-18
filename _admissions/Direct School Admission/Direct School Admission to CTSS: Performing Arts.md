@@ -71,7 +71,8 @@ Successful applicants will join CTSS in January 2023.  
 
 _\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
 
-![band](/images/BAND.jpeg)
+<img src="/images/BAND.jpeg"  
+style="width:80%">
 
 DRAMA CLUB (MIXED)
 ------------------
