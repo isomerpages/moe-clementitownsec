@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1sn66cnfzksci.amplifyapp.com
 prod: https://master.d1sn66cnfzksci.amplifyapp.com
-shareicon: /images/CTSS logo.png
+shareicon: /images/ctss updated logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
