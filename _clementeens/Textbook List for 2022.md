@@ -16,25 +16,25 @@ Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/)
 SECONDARY 2
 -----------
 
-*   [Secondary 2 Express](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/2EXP.pdf)
-*   [Secondary 2 Normal Academic](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/2NA.pdf)
-*   [Secondary 2 Normal Technical](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/2NT.pdf)
+*   [Secondary 2 Express](/files/2EXP.pdf)
+*   [Secondary 2 Normal Academic](/files/2NA.pdf)
+*   [Secondary 2 Normal Technical](/files/2NT.pdf)
 
 SECONDARY 3
 -----------
 
-*   [Secondary 3 Express](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/3EXP.pdf)
-*   [Secondary 3 Normal Academic](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/3NA.pdf)
-*   [Secondary 3 Normal Technical](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/3NT.pdf)
+*   [Secondary 3 Express](/files/3EXP.pdf)
+*   [Secondary 3 Normal Academic](/files/3NA.pdf)
+*   [Secondary 3 Normal Technical]](/files/3NT.pdf)
 
 SECONDARY 4
 -----------
 
-*   [Secondary 4 Express](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/4EXP.pdf)
-*   [Secondary 4 Normal Academic](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/4NA.pdf)
-*   [Secondary 4 Normal Technical](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/4NT.pdf)
+*   [Secondary 4 Express](/files/4EXP.pdf)
+*   [Secondary 4 Normal Academic](/files/4NA.pdf)
+*   [Secondary 4 Normal Technical](/files/4NT.pdf)
 
 SECONDARY 5
 -----------
 
-*   [Secondary 5 Normal Academic](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/5NA.pdf)
+*   [Secondary 5 Normal Academic](/files/5NA.pdf)
