@@ -90,7 +90,9 @@ Successful applicants will join CTSS in January 2023.
 
 _\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
 
-![volleyball dsa](/images/VB%20DSA.jpeg)
+<img src="/images/VB%20DSA.jpeg"  
+style="width:80%">
+
 
 NETBALL (GIRLS)
 ---------------
