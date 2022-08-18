@@ -20,3 +20,18 @@ You may wish to refer to the **[user guide](/files/PG%20User%20Guide%20for%20Pa
 Please note that your Parents Gateway application needs to be updated to the latest version in order for the new features to be available.  
   
 Should you have any queries, please contact Mr Kamal via email: [kamal\_yacob@moe.edu.sg](mailto:kamal_yacob@moe.edu.sg).
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
