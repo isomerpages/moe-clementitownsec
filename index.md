@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Clementi Town Secondary School
+description: Clementi Town Secondary School
+image: /images/CTSS logo.png
 permalink: /
 notification: ""
 sections:
@@ -34,3 +34,4 @@ sections:
       button: Click here to read Letters to PARENTS
       url: /letters-to-parents
 ---
+
