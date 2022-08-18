@@ -23,11 +23,13 @@ style="width:75%">
 
 **2019 SYF**
 
-![2019 SYF](/images/CD04.jpeg)
+<img src="/images/CD04.jpeg"  
+style="width:75%">
 
 **2019 Dance Camp**
 
-![2019 Dance Camp](/images/CD02.jpeg)
+<img src="/images/CD02.jpeg"  
+style="width:75%">
 
 TEACHERS IN-CHARGE
 ------------------
