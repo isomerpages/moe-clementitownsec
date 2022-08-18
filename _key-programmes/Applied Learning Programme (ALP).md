@@ -190,7 +190,9 @@ The students involved in the Swift Accelerator Programme 2021 are:
   
 1. **Nguyen Viet Truong (Bill), S4-MM (4B1)**, along with his teammates, have published an App called “StudyZone” which helps students manage their incoming schoolwork. You may download the app via this link: [http://tk.sg/sis22-studyzone](http://tk.sg/sis22-studyzone)
 
-![Nguyen Viet Truong](/images/Nguyen%20Viet%20Truong.jpeg)
+
+<img src="/images/Nguyen%20Viet%20Truong.jpeg"  
+style="width:60%">
 
   
 2\. Cheung Yi Kai, S2-MMS and his team mates from have published an App called “GPA Buddy” which helps students to set targets, calculate their GPA, and chart their learning progress. You may download the app via this link: [http://tk.sg/sis22-gpabuddy](http://tk.sg/sis22-gpabuddy)
