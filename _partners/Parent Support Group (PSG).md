@@ -153,4 +153,24 @@ For year 2022
   </tr>
 </tbody>
 </table>
-	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gfyz{background-color:#1C3836;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Members</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3icd" colspan="5"><span style="color:#000">9. Goh Chiew Hoon</span><br><br><span style="color:#000">10. Diana Teo </span><br><br><span style="color:#000">11. Jeslyn Lim </span><br><br><span style="color:#000">12. Joyce Ong </span><br><br><span style="color:#000">13. Li Yan </span><br><br><span style="color:#000">14. Katheeja (Kala) </span><br><br><span style="color:#000">15. Alyssa Wee </span><br><br><span style="color:#000">16. Kalpana Jai </span><br><br><span style="color:#000">17. Jereldine Chua </span><br><br><span style="color:#000">18. Wong Wei Ling </span><br><br><span style="color:#000">19. C. Ganesan </span><br><br><span style="color:#000">20. Ng Yean Chuan</span><br><span style="color:#000"> </span><br><span style="color:#000">21. Eugene Chang </span><br><br><span style="color:#000">22. Daniel Ng </span><br><br><span style="color:#000">23. Pauline Chin</span><br></td>
+  </tr>
+</tbody>
+</table>
