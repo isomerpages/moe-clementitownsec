@@ -3,7 +3,6 @@ title: School Song
 permalink: /about-us/school-song
 description: ""
 ---
-
 Lyrics by **Mrs Lee Hong Leong** and **Miss Ho Swee Yin**
 
 Music by **Mr John De Souza**
@@ -42,6 +41,9 @@ For country and nation –
 
 We'll serve in peace and harmony
 
+<br>
+<br>
+<br>
 <style>  
 img {  
   display: block;  
