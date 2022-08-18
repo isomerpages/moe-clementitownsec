@@ -22,7 +22,7 @@ sections:
       title: Announcements
       subtitle: Latest Announcements
       button: Click here for announcements
-      url: /faq
+      url: /announcements
   - infobar:
       title: Upcoming Events
       subtitle: "Parent Workshop "
