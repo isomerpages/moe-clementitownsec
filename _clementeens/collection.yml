@@ -2,4 +2,5 @@ collections:
   clementeens:
     output: true
     order:
+      - Timetable.md
       - School Safety.md
