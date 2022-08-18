@@ -18,9 +18,11 @@ Tel: 6276 6689
   
 Website: [www.myuniformshop.com.sg](http://www.myuniformshop.com.sg/)
 
-![](/images/Uniform03.jpeg)
-
-![](/images/Uniform02.jpeg)
+<img src="/images/Uniform03.jpeg"  
+style="width:80%">
+<br>
+<img src="/images/Uniform02.jpeg"  
+style="width:80%">
 
 <br>
 <br>
