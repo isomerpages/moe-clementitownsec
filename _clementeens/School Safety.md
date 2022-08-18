@@ -17,4 +17,4 @@ The School Safety Committee (SSC) advises members of the School on all matters r
 
   
 
-Please click [here](https://clementitownsec.moe.edu.sg/qql/slot/u534/Forms/2020/2020/CTSS_S&SWG_Org%20Chart%202020%20as%20at%2025%20Nov%202019.pdf) to download the **Organisation Chart.**
+Please click [here](/files/CTSS_S&SWG_Org%20Chart%202020%20as%20at%2025%20Nov%202019.pdf) to download the **Organisation Chart.**
