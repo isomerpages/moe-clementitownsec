@@ -134,7 +134,8 @@ Successful applicants will join CTSS in January 2023.
 
 _\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
 
-![netball](/images/NETBALL.jpeg)
+<img src="/images/NETBALL.jpeg"  
+style="width:40%">
 
 <br>
 <br>
