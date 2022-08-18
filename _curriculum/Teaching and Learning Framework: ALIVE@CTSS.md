@@ -3,10 +3,10 @@ title: "Teaching and Learning Framework: ALIVE@CTSS"
 permalink: /curriculum/teaching-n-learning-framework-alive-at-ctss
 description: ""
 ---
-
 Teaching and learning in CTSS is anchored by the “ALIVE@CTSS” framework, which emphasises the 3Rs of Relevance, Rigour, and Relationship. This framework seeks to ensure that students are aware of the relevance of what they are learning, so as to help them to be intrinsically motivated and self-directed, and highlights the importance of deep learning. All learning is also set within the context of a strong teacher-student relationship, and supportive peer relations. In order to support the development of strong teacher-student relationships, the school sets aside time in the curriculum for weekly one-to-one teacher-student interactions. Under this T&L framework, students are also segmentised into the core, support, and talent group, so that their specific needs can be met. The T&F framework is shown in Figure 1 below.
 
-![TNL Framework](/images/TNL%20Framework.png)
+<img src="/images/TNL%20Framework.png"  
+style="width:70%">
 
 SUBJECT BASED BANDING
 ---------------------
