@@ -19,9 +19,11 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Upcoming Events
+      subtitle: "Parent Workshop "
+      description: "The Parent Workshop on the Use of Technology for Effective
+        Learning would be conducted this Saturday, 23 April 2022, from 9.30am to
+        11am. "
+      button: Click here for more info
       url: /faq/
 ---
