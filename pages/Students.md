@@ -9,7 +9,7 @@ description: ""
 *   [Exam Timetable](/clementeens/examination-time-table)
 *   [Textbook List for 2022](/clementeens/textbook-list-for-2022) 
 *   [Purchase of School Uniform and PE Attire](/clementeens/purchase-of-school-uniform-and-pe-attire)
-*   [School Rules and Regulations](https://clementitownsec.moe.edu.sg/qql/slot/u534/Tabs/2021/CTSS%20CODE%20OF%20CONDUCT%2026Oct2021.docx.pdf)
+*   [School Rules and Regulations](/files/CTSS%20CODE%20OF%20CONDUCT%2026Oct2021.pdf)
 *   [Student Protection Plan](https://clementitownsec.moe.edu.sg/clementeens/student-protection-plan)
 *   Online learning
 *     [AskNLearn](https://lms.asknlearn.com/CTSS/login.aspx)
