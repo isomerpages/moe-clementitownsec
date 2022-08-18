@@ -5,7 +5,7 @@ description: ""
 ---
 Parents Gateway is a mobile app specially designed for parents. Developed by MOE and GovTech, the app allows parents to engage closely with schools, receive information and perform a range of administrative functions including giving consent for school trips.
 
-Please refer to **[Annex A](https://clementitownsec.moe.edu.sg/qql/slot/u534/Clementeens/Parents%20Gateway/Annex%20A%20Parents%20Gateway%20User%20Guide%20for%20Parents.pdf)** for a step-by-step guide and **[Annex B](https://clementitownsec.moe.edu.sg/qql/slot/u534/Clementeens/Parents%20Gateway/Annex%20B%20Parents%20Gateway%20Registering%20for%20SingPass.pdf)** for instructions on registering for a Singpass (for Parents / Guardians without a Singpass). You may also access the following links to download the application on your mobile devices.
+Please refer to **[Annex A](/files/Annex%20A%20Parents%20Gateway%20User%20Guide%20for%20Parents.pdf)** for a step-by-step guide and **[Annex B](/files/Annex%20B%20Parents%20Gateway%20Registering%20for%20SingPass.pdf)** for instructions on registering for a Singpass (for Parents / Guardians without a Singpass). You may also access the following links to download the application on your mobile devices.
 
 In addition, a video explaining how parents can download the Parents Gateway app and start using the app to receive announcements and online consent forms from the school could be accessed via this [**link**](https://www.youtube.com/watch?v=tW9jwyuovOo&feature=youtu.be).
 
