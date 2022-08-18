@@ -25,7 +25,7 @@ SECONDARY 3
 
 *   [Secondary 3 Express](/files/3EXP.pdf)
 *   [Secondary 3 Normal Academic](/files/3NA.pdf)
-*   [Secondary 3 Normal Technical]](/files/3NT.pdf)
+*   [Secondary 3 Normal Technical](/files/3NT.pdf)
 
 SECONDARY 4
 -----------
