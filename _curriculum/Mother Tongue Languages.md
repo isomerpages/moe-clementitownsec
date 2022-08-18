@@ -33,10 +33,13 @@ West Zone Di Zi Gui Essay Writing Competition 2015 - 1st Prize
 2017年德明政府中学第11届校际《劲爆剧场大比拼》- 最佳团队精  
 2017年西区中学生短剧创作比赛荣获一等奖、最佳剧本奖、最佳演员奖
 
-![](/images/achievements%201.png)
+<img src="/images/achievements%201.png"  
+style="width:70%">
 
 2017年新蕾奖中学高年级组一等奖
-![](/images/achievements%202.png)
+
+<img src="/images/achievements%202.png"  
+style="width:70%">
 
 **Malay Unit:**
 
