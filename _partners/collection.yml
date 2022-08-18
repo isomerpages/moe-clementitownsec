@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group (PSG) Facebook.md
       - Parent Support Group (PSG).md
