@@ -3,7 +3,6 @@ title: Welcome Message for the New Year
 permalink: /about-us/welcome-message-for-the-new-year
 description: ""
 ---
-
 Dear Clementeens,  
   
 We look forward to welcoming you back to school on **Tuesday, 4 January 2022.**  
@@ -12,15 +11,15 @@ We will continue to adhere to the Safe Management Measures to ensure the school 
   
 Let's start 2022 well by starting right with necessary information you need for Day 1.  
   
-1\. 🎉**Start Well Start Right Information for 2022** - This [document](/files/Start%20Well.pdf) has the information you need for Day 1 such as reporting time and gates, attire and grooming, where to meet and more.  
+1\. 🎉 **Start Well Start Right Information for 2022** - This [document](/files/Start%20Well.pdf) has the information you need for Day 1 such as reporting time and gates, attire and grooming, where to meet and more.  
   
 
 2\. 🧍‍♀️🧍‍♂️ **Attire & Grooming** - Full school uniform from Day 1 onwards. Ensure that you adhere to the grooming and attire expectations. You will have to take responsibility otherwise.
 
   
-3. **🧭 Venues** - We will be report for morning assembly by CCA for Orientation Programme. Do check the allocated CCA [classroom plan](/files/classroom%20venues.pdf).   
+3. **🧭  Venues** - We will be report for morning assembly by CCA for Orientation Programme. Do check the allocated CCA [classroom plan](/files/classroom%20venues.pdf).   
   
-4\. 🔴 **Orientation Programme** (4 & 5 January 2022) - The first 2 days of school is purposefully planned to orientate you back to school. Please click on the following links for the Orientation Progranmme for your respective level:  
+4\. 🔴 **Orientation Programme** (4 & 5 January 2022) - The first 2 days of school is purposefully planned to orientate you back to school. Please click on the following links for the Orientation Progranmme for your respective level:  
 (a) [Secondary 2](/files/Sec%202%20Orientation.pdf) <br>
 (b) [Secondary 3](/files/Sec%203%20Orientation.pdf) <br>
 (c) [Secondary 4 & 5](/files/Sec%204%20Orientation.pdf)
