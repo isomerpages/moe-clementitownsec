@@ -4,8 +4,6 @@ permalink: /about-us/school-wide-achievements/lee-kuan-yew-award-for-all-round-e
 description: ""
 third_nav_title: School Wide Achievements
 ---
-
-
 <style>  
 img {  
   display: block;  
@@ -13,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/LKY%20Award%202016.jpeg" alt="LKY Award 2016" style="width:40%;">  
+<body><img src="/images/LKY%20Award%202016.jpeg" alt="LKY Award 2016" style="width:33%;">  
   
 </body>
 
