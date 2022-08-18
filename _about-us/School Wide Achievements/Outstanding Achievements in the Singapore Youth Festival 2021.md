@@ -4,8 +4,6 @@ permalink: /about-us/school-wide-achievements/outstanding-achievements-in-the-si
 description: ""
 third_nav_title: School Wide Achievements
 ---
-
-
 This year, the various Aesthetic CCAs took part in the Singapore Youth Festival held biennially. Our students did well and achieved the following results:
 
   
@@ -17,8 +15,8 @@ This year, the various Aesthetic CCAs took part in the Singapore Youth Festival 
 \- Malay Dance - Certificate of Distinction
 
 <br>
-
-
+<br>
+<br>
 <style>  
 img {  
   display: block;  
