@@ -44,11 +44,11 @@ CCA PARENTS
   </tr>
   <tr>
     <td class="tg-2g1l"><span style="color:#000;background-color:#FFF"> </span>Badminton (Boys)</td>
-    <td class="tg-ut6w"><span style="color:#000;background-color:#FFF">Ms Low Liqing</span><br><a href="mailto:low_liqing@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">low_liqing@moe.edu.sg</span></a><br></td>
+    <td class="tg-ut6w"><span style="color:#000;background-color:#FFF">Ms Low Liqing</span><br><a href="mailto:low_liqing@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#002B79">low_liqing@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-gbeq">Basketball (Boys)</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Mr Chia Chun Kiat</span><a href="mailto:chia_chun_kiat@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">chia_chun_kiat@moe.edu.sg</span></a></td>
+    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Mr Chia Chun Kiat</span><br><a href="mailto:chia_chun_kiat@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#002B79">chia_chun_kiat@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-9hzb">Chinese Dance (Girls)</td>
