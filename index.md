@@ -19,6 +19,11 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
+      title: Announcements
+      subtitle: Latest Announcements
+      button: Click here for announcemets
+      url: /faq
+  - infobar:
       title: Upcoming Events
       subtitle: "Parent Workshop "
       description: "The Parent Workshop on the Use of Technology for Effective
