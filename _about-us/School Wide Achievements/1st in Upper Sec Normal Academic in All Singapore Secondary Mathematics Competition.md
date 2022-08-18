@@ -5,7 +5,6 @@ permalink: /about-us/school-wide-achievements/1st-position-in-team-upper-sec-nor
 description: ""
 third_nav_title: School Wide Achievements
 ---
-
 <img src="/images/20180816_170556.jpeg"  
 style="width:80%">
 
@@ -21,6 +20,9 @@ We would like to share the good news that our Sec 4NA students did the school p
 
 The Prize presentation ceremony was successfully held on 16 Aug 2018 in the school hall to recognise the achievements of all the team and individual prize winners.
 
+<br>
+<br>
+<br>
 <style>  
 img {  
   display: block;  
