@@ -9,7 +9,7 @@ description: ""
     
 *   [Principals’ Letter to Parents](/letters-to-parents)  
     
-*   [Parent Support Group (PSG)](https://clementitownsec.moe.edu.sg/partners/parent-support-group-psg)  
+*   [Parent Support Group (PSG)](/partners/parent-support-group-psg)  
     
 
 *   [Facebook](https://www.facebook.com/ctss.psg)  
