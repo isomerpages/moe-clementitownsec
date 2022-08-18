@@ -3,8 +3,7 @@ title: School History
 permalink: /about-us/school-history
 description: ""
 ---
-
-PLANTING THE SEEDS: CTSS’ HUMBLE BEGINNINGS        1980 – 1989
+PLANTING THE SEEDS: CTSS’ HUMBLE BEGINNINGS 1980 – 1989
 --------------------------------------------------------------
 
   
@@ -35,7 +34,7 @@ GROWING TO THE SKIES: 2000 – 2010
   
 Receiving the baton from Mrs Lim Thian Loke, Dr. Hang Kim Hoo led the school to develop a new school mission and vision to align with Thinking Schools, Learning Nation. Strategic goals were crafted to focus on character education, mathematics, science, technology, arts, innovation and entrepreneurship as early as in year 2000, and Dr. Hang was pivotal in cultivating the students’ love for Mathematics and Science. Under our seventh principal, Mrs Tan Jong Lek, the school started ASPIRE, school-wide camps for all levels. She also formed the Youth Wing in the Clementi Town Secondary School Alumni (CTSSA), who became crucial support for the school camps as facilitators. The school facilities were further upgraded and the school underwent the PRIME programme in 2007 to 2008. During this period of time, the school’s holding site was in Queensway. We returned to our refurnished home end of 2008, in a whole-school Big Walk from Queensway back to the heart of Clementi. The current compound now has bigger classrooms and an Indoor Sports Hall. The school continues to develop students holistically and support their passion in the arts, and had embarked on its biennial musical journey in 2009.  
 
-APPRECIATING ROOTS, GROWING TO THE SKIES:            2011 – PRESENT
+APPRECIATING ROOTS, GROWING TO THE SKIES: 2011 – PRESENT
 -------------------------------------------------------------------
 
   
@@ -48,6 +47,9 @@ The school has also staged five school-wide musicals since 2009, with the most r
   
 To further develop our students’ character and guide our students’ navigation about the modern VUCA world, the school included ‘Empathy’ as our sixth school value (joining Adaptability, Self-Discipline, Perseverance, Integrity and Respect). The school currently offers O-level computing as part of our Applied Learning Programme (ALP), and the school remains much connected with the graduated students in the field of IT, to better support students’ authentic learning. Tapping on the school’s achievements and strong foundation in the Uniformed Groups, the school also offers Leadership through the Uniformed Groups as our Learning for Life Programme (LLP).
 
+<br>
+<br>
+<br>
 <style>  
 img {  
   display: block;  
