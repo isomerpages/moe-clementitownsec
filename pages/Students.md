@@ -15,6 +15,6 @@ description: ""
 	*     [AskNLearn](https://lms.asknlearn.com/CTSS/login.aspx)
 	*     [ACE Learning](http://www.ace-learning.com/index.php.)
 	*     [iMTL](https://imtl.sg/wp-login.php)
-	*     [Home-based Learning 2022](https://clementitownsec-moe-edu-sg-admin.cwp.sg/clementeens/home-based-learning-2020)
+	*     [Home-based Learning 2022](/clementeens/home-based-learning-2020)
 *   [Reset MIMS Password](https://student.iams.ssoe.moe.edu.sg/)
 *   [CTSS Library Search Portal (OPAC](https://schoolibrary.moe.edu.sg/clementitownsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
