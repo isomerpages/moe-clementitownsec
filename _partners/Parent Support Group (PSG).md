@@ -90,3 +90,67 @@ For year 2022
   </tr>
 </tbody>
 </table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gfyz{background-color:#1C3836;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Treasurer</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3icd" colspan="5">5.    Che Guat Yu</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gfyz{background-color:#1C3836;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-8c83{background-color:#EBEBEB;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Matrix Team</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8c83" colspan="5"><span style="color:#000;background-color:#EBEBEB">6.</span>    <span style="color:#000;background-color:#EBEBEB">Patrick Tan (Leader)</span><br>7.    <span style="color:#000;background-color:#EBEBEB">Pang Sze Yuen (Assistant Team Lead)</span><br></td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gfyz{background-color:#1C3836;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-8c83{background-color:#EBEBEB;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Team Leader</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8c83" colspan="5"><span style="color:#000;background-color:#EBEBEB">8.    Alan Poh</span></td>
+  </tr>
+</tbody>
+</table>
+	
