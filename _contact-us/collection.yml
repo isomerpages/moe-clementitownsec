@@ -2,13 +2,13 @@ collections:
   contact-us:
     output: true
     order:
-      - Subject Teachers Contact Details.md
+      - School Contact Details.md
+      - School Management Committee.md
+      - Senior and Lead Teachers.md
+      - All Staff.md
       - CCA Parents/.keep
       - CCA Parents/CCA Parents Secondary 1.md
       - CCA Parents/CCA Parents Secondary 2.md
       - CCA Parents/CCA Parents Secondary 3.md
       - CCA Parents/CCA Parents Secondary 4 and 5.md
-      - All Staff.md
-      - Senior and Lead Teachers.md
-      - School Management Committee.md
-      - School Contact Details.md
+      - Subject Teachers Contact Details.md
