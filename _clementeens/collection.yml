@@ -2,6 +2,7 @@ collections:
   clementeens:
     output: true
     order:
+      - Student Protection Plan.md
       - Purchase of School Uniform and PE Attire.md
       - Textbook List for 2022.md
       - Exam Timetable.md
