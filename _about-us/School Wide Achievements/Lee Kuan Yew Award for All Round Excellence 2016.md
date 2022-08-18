@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/LKY%20Award%202016.jpeg" alt="LKY Award 2016" style="width:33%;">  
+<body><img src="/images/LKY%20Award%202016.jpeg" alt="LKY Award 2016" style="width:28%;">  
   
 </body>
 
