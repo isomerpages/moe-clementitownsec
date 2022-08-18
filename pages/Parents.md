@@ -7,7 +7,7 @@ description: ""
     
 *   [Timetable](/clementeens/time-table)  
     
-*   [Principals’ Letter to Parents](https://clementitownsec.moe.edu.sg/ctss/letters-to-parents/all-levels)  
+*   [Principals’ Letter to Parents](/letters-to-parents)  
     
 *   [Parent Support Group (PSG)](https://clementitownsec.moe.edu.sg/partners/parent-support-group-psg)  
     
