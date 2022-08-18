@@ -47,3 +47,18 @@ description: ""
 *   [21 March 2022 - Principal's Letter to Parents for Secondary 4 and 5 (Term 2 2022)](/files/Ps%20letter%20Term%202%202022%20Sec%204%20and%205%20Final_.pdf)
 *   [6 Jan 2022 - Principal's Letter to Parents for Secondary 4 and 5 (Term 1 2022)](/files/Ps%20letter%20Term%201%202022%20Sec%204%20and%205%20Final.pdf)
 *   [28 Dec 2021 - Principal's Letter to Parents on School Reopening](/files/Ps%20letter%20on%20school%20reopening%20for%20Sec%202%20to%205%20Final_.pdf)
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
+  
+</body>
