@@ -2,11 +2,11 @@ collections:
   clementeens:
     output: true
     order:
-      - Parents Gateway.md
-      - Home Based Learning 2022.md
-      - Student Protection Plan.md
-      - Purchase of School Uniform and PE Attire.md
-      - Textbook List for 2022.md
-      - Exam Timetable.md
-      - Timetable.md
       - School Safety.md
+      - Timetable.md
+      - Exam Timetable.md
+      - Textbook List for 2022.md
+      - Purchase of School Uniform and PE Attire.md
+      - Student Protection Plan.md
+      - Home Based Learning 2022.md
+      - Parents Gateway.md
