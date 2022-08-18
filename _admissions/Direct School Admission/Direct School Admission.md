@@ -15,9 +15,9 @@ Introduced in 2004, the Direct School Admission (DSA) scheme provides students w
 For Admission to Secondary One in 2023, Clementi Town Secondary School is pleased to offer DSA in the following areas:
 
 1.  [Direct School Admission to CTSS: STEM Coding](/admissions/direct-school-admission/direct-school-admission-to-ctss-stem-coding)
-2.  [Direct School Admission to CTSS: Leadership and Uniformed Groups](/admissions/direct-school-admission/direct-school-admission-to-clementi-town-secondary-school-leadership-and-uniformed-groups)
-3.  [Direct School Admission to CTSS: Performing Arts](/admissions/direct-school-admission/direct-school-admission-to-clementi-town-secondary-school-performing-arts)
-4.  [Direct School Admission to CTSS: Sports Groups](/admissions/direct-school-admission/direct-school-admission-to-clementi-town-secondary-school-sports-groups)
+2.  [Direct School Admission to CTSS: Leadership and Uniformed Groups](/admissions/direct-school-admission/direct-school-admission-to-ctss-leadership-and-uniformed-groups)
+3.  [Direct School Admission to CTSS: Performing Arts](/admissions/direct-school-admission/direct-school-admission-to-ctss-performing-arts)
+4.  [Direct School Admission to CTSS: Sports Groups](/admissions/direct-school-admission/direct-school-admission-to-ctss-sports-groups)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
