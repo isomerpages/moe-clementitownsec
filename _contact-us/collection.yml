@@ -2,6 +2,7 @@ collections:
   contact-us:
     output: true
     order:
+      - CCA Parents/CCA Parents Secondary 3.md
       - CCA Parents/CCA Parents Secondary 2.md
       - CCA Parents/CCA Parents Secondary 1.md
       - CCA Parents/.keep
