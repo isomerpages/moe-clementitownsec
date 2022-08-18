@@ -15,4 +15,4 @@ description: ""
 *   [Facebook](https://www.facebook.com/ctss.psg)  
     
 
-*   [Parents Gateway](https://clementitownsec-moe-edu-sg-admin.cwp.sg/clementeens/parents-gateway)
+*   [Parents Gateway](/clementeens/parents-gateway)
