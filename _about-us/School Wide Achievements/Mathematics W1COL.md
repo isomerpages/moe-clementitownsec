@@ -4,8 +4,6 @@ permalink: /about-us/school-wide-achievements/mathematics-w1col
 description: ""
 third_nav_title: School Wide Achievements
 ---
-
-
 ### A CENTRE OF LEARNING FOR MATHEMATICS TEACHING AND LEARNING
 
 
@@ -41,9 +39,11 @@ PROGRAMMES FOR TEACHERS AND STUDENTS INCLUDE:
 
 *   All Singapore Secondary Mathematics Competition for Normal Course Students
 
-![](/images/DSC_0260.jpeg)
+<img src="/images/DSC_0260.jpeg"  
+style="width:80%">
 
-![](/images/DSC_0387.jpeg)
+<img src="/images/DSC_0387.jpeg"  
+style="width:80%">
 
 
 <br>
