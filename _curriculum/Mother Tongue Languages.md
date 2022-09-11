@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages
-permalink: /curriculum/mother-tongue-languages
+permalink: /curriculum/mother-tongue-languages/
 description: ""
 ---
 MISSION
@@ -15,8 +15,7 @@ KEY PROGRAMMES
 
 To enhance students' understanding and interest towards their own Mother Tongue culture through experiential learning, the Mother Tongue department organized the Mother Tongue Fortnight Programme for all students. A range of interesting MTL activities, such as Chinese paper cutting, opera mask painting, bean drawing, clay modelling, Malay Scabble, Indian Poetry Workshops, were organized to expose students to their individual Mother Tongue culture.
 
-####   
-**CULTURAL IMMERSION TRIP TO BEIJING 2019**  
+####   **CULTURAL IMMERSION TRIP TO BEIJING 2019**  
 
  In order to cultivate cross-cultural skills, socio-cultural sensitivity and global awareness, the Mother Tongue department has organized an overseas cultural immersion trip to Beijing from 29 Oct to 3 Nov 2019. Besides local school visits and attending a lecture in Peking University, students also had the opportunities to visit famous cultural sites such as the Great Wall of China, Forbidden Palace and Yuan Ming Yuan. Visits to the National Museum of China and Science and Technology Museum had also enhanced students’ understanding of the history of China and the vast advancement of technology. 
 
