@@ -1,6 +1,6 @@
 ---
 title: Aesthetics and Craft & Technology Department
-permalink: /curriculum/aesthetics-and-craft-n-technology-department
+permalink: /curriculum/aesthetics-and-craft-n-technology-department/
 description: ""
 ---
 VISION
@@ -110,7 +110,7 @@ style="width:75%">
 **Art CCA – Art Club**
 
 <img src="/images/Art03.jpeg"  
-style="width:50%">
+style="width:35%">
 
 **Student's Artwork: Jolin Faith Lim**
 ![Student's Artwork: Jolin Faith Lim](/images/Art04.jpeg)
