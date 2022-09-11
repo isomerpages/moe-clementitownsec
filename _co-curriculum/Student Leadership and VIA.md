@@ -1,6 +1,6 @@
 ---
 title: Student Leadership and VIA
-permalink: /co-curriculum/student-leadership-and-via
+permalink: /co-curriculum/student-leadership-and-via/
 description: ""
 ---
 ![student leadership and value in action committee](/images/student%20leadership%20and%20value-in-action%20committee%202.jpeg)
@@ -41,28 +41,28 @@ The approach to develop the leaders’ competencies at each level includes teach
 **1)     Class Management Committee (CMC)**
 
 <img src="/images/SL01.jpeg"  
-style="width:70%">
+style="width:60%">
 
 The CMC comprises of the Chairperson, Vice-Chairperson, Secretary and NE Representative in every class to lead in their class Values-In-Action project and manage the class. They undergo annual training to be equipped with skills such as conflict management, proposal writing and peer leadership in order to better manage the class.
 
 **2)     Sports Leaders**
 
 <img src="/images/SL02.jpeg"  
-style="width:70%">
+style="width:60%">
 
 Sports Leaders in CTSS strive for “Personal development in the context of a team”. Riding on the Singapore Sports Council’s Vision 2030, we believe that sports can be used as a strategy for Clementeens to have a healthier and better life through the impactful experience of Sport. We hope that through Sport, we are able to develop leaders who are stronger and more resilient individuals who are anchored on core values, whilst at the same time forging a strong identity with shared memories and strengthened friendships.
 
 **3)     NE Ambassadors**
 
 <img src="/images/SL03.jpeg"  
-style="width:70%">
+style="width:60%">
 
 The NE Ambassadors’ Board was set up in 2010 to champion the NE initiative through engaging the head, heart and hands of Clementeens and members of the community via promoting and role modeling the NE Values and Messages. The NE Ambassadors wear the Lion Head, a national symbol of Singapore on their badge to remind them of having courage, strength and excellence as well as resilience in the pursuit of their goals.The NE Ambassadors have been responsible for the planning and execution of the NE Commemorative Days and the Environment Commemorative Days such as World Water Day and Youth for Environment Day. They have been instrumental in facilitating knowledge on history and heritage through conceptualizing National Education and History Trails around the school and Singapore  and acting as docents for their peers and members of the public. They are also involved in promoting messages of racial harmony and eco living through the HDB Heartland Ambassadors Programme to the heartlands. The NE Ambassadors also act as Environment Ambassadors as they promote the messages of environmental conservation and environmental advocacy to their peers and actively participate in environmental related values in actions projects.
 
 **4)     CCA Leaders**
 
 <img src="/images/SL04.jpeg"  
-style="width:70%">
+style="width:60%">
 
 The CCA leaders of the 21 different CCAs undergo an annual leadership camp to equip them with the necessary leadership competencies to lead in their respective CCA groups.
 
@@ -71,7 +71,7 @@ The CCA leaders of the 21 different CCAs undergo an annual leadership camp to eq
 **5)     Student Council**
 
 <img src="/images/SL05.jpeg"  
-style="width:70%">
+style="width:50%">
 
 The student council is a group of students chosen to make decisions or give advice on student matters, to represent the student body and to run certain events or programmes for the school. They are the apex student organisation body. 
 
@@ -107,15 +107,15 @@ The S-L programme @ CTSS is aligned to the School Strategic Thrust 1: Future-Rea
 At Secondary 1, students participate in Project Clean-My-School to clean up CTSS compounds and learn to appreciate the hard work which our school cleaners put in daily to provide a conducive environment for everyone.
 
 <img src="/images/SL06.jpeg"  
-style="width:70%">
+style="width:50%">
 
 <img src="/images/SL07.jpeg"  
-style="width:60%">
+style="width:40%">
 
 At Secondary 2, students are required to engage in Service-Learning that impacts the environment of the Clementi community. They are involved in a recycling outreach programme to publicise and collect recyclables from residents living in Clementi neighbourhood.
 
 <img src="/images/SL08.jpeg"  
-style="width:60%">
+style="width:40%">
 
 <img src="/images/SL09.jpeg"  
 style="width:70%">
