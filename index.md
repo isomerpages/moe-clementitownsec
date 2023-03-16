@@ -18,6 +18,7 @@ sections:
         - title: Alumni
           description: CTSS Alumni Sign Up Form
           url: https://docs.google.com/forms/d/e/1FAIpQLSfy2LUHyZiyfo8gvODjBkDEEY6WlfFAJEFxevUE8bqy8HBhcg/viewform
+      title: CTSS
   - infobar:
       title: Announcements
       subtitle: Latest Announcements
@@ -34,5 +35,3 @@ sections:
       button: Click here to read Letters to PARENTS
       url: /letters-to-parents
 ---
-
-
