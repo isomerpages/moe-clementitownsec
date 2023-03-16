@@ -34,4 +34,10 @@ sections:
       title: Letters to Parents
       button: Click here to read Letters to PARENTS
       url: /letters-to-parents
+  - infopic:
+      title: Adaptability
+      subtitle: Adaptibility
+      description: Infopic description
+      image: /images/FLL.jpg
+      alt: Image alt text
 ---
