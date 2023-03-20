@@ -52,52 +52,21 @@ Mr Chia Chun Keong
 Mr Chia Chun Kiat   
 [chia\_chun\_kiat@moe.edu.sg](mailto:chia_chun_kiat@moe.edu.sg)
 
+![](/images/Mr%20Chidambaram%20Saravanan.jpeg)
+Mr Chidambaram Saravanan 
+[chidambaram\_saravanan@moe.edu.sg](mailto:chidambaram_saravanan@moe.edu.sg)
+
+![](/images/Mrs%20Chin%20Leong%20Hwai%20Ee%20Stella.jpeg)
+Mrs Chin-Leong Hwai Ee, Stella 
+[leong\_hwai\_ee\_stella@moe.edu.sg](mailto:leong_hwai_ee_stella@moe.edu.sg)
+
+![](/images/mr%20chng%20chia%20yii.jpeg)
+Mr Chng Chia Yi    
+[chng\_chia\_yi@moe.edu.sg](mailto:chng_chia_yi@moe.edu.sg)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Mr Chua Keng Yeow  
+[chua\_keng\_yeow@moe.edu.sg](mailto:chua_keng_yeow@moe.edu.sg)
 
 
 
