@@ -22,3 +22,82 @@ Ms Cao Lei Lei                                                                  
 ![](/images/mr%20chan%20bin%20chuan.jpeg)
 Mr Chan Bin Chuan                          
 [chan\_bin\_chuan@moe.edu.sg](mailto:chan_bin_chuan@moe.edu.sg)
+
+
+![](/images/Ms%20Chan%20Lay%20Leng.jpeg)
+Ms Chan Lay Leng, Chloe
+[chan\lay\leng@moe.edu.sg](mailto:chanlayleng@moe.edu.sg)
+
+![](/images/ms%20chan%20lai%20peng.jpeg)
+Ms Chan Lai Peng  
+[chan\_lai\_peng@moe.edu.sg](mailto:chan_lai_peng@moe.edu.sg)
+
+![](/images/Mr%20Chan%20Siew%20Kwai.jpeg)
+Mr Chan Siew Kwai            
+[chan\_siew\_kwai@moe.edu.sg](mailto:chan_siew_kwai@moe.edu.sg)
+
+![](/images/Mdm%20Chen%20Liping.jpeg)
+Mdm Chen Liping  
+[chen\_liping@moe.edu.sg](mailto:chen_liping@moe.edu.sg)
+
+![](/images/Mrs%20Cheong%20Poh%20Suan.jpeg)
+Mrs Cheong Poh Suan   
+[soh\_poh\_suan@moe.edu.sg](mailto:soh_poh_suan@moe.edu.sg)
+
+![](/images/Mr%20Chia%20Chun%20Keong.jpeg)
+Mr Chia Chun Keong  
+[chia\_chun\_keong@moe.edu.sg](mailto:chia_chun_keong@moe.edu.sg)
+
+![](/images/Mr%20Chia%20Chun%20Kiat.jpeg)
+Mr Chia Chun Kiat   
+[chia\_chun\_kiat@moe.edu.sg](mailto:chia_chun_kiat@moe.edu.sg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
