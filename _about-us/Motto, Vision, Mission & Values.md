@@ -1,28 +1,28 @@
 ---
 title: Motto, Vision, Mission & Values
-permalink: /about-us/motto-vision-mission-n-values
+permalink: /about-us/motto-vision-mission-n-values/
 description: ""
 ---
-SCHOOL MOTTO
-------------
+##### **SCHOOL MOTTO**
+
 
 Aspire & Grow  
   
 
-SCHOOL VISION
--------------
+##### **SCHOOL VISION**
+
 
 To be a vibrant community of learners, with the heart to value every individual and the spirit to serve and to excel.  
   
 
-SCHOOL MISSION
---------------
+##### **SCHOOL MISSION**
+
 
 To develop in every Clementeen the passion to learn, the confidence to lead and the humility to serve.  
   
 
-SCHOOL VALUES
--------------
+##### **SCHOOL VALUES**
+
 
 **A**daptability
 
@@ -37,8 +37,8 @@ SCHOOL VALUES
 **E**mpathy  
   
 
-STRATEGIC THRUSTS
------------------
+##### **STRATEGIC THRUSTS**
+
 
 1\. Future-Ready Clementeens  
 
