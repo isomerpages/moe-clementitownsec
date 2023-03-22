@@ -118,3 +118,27 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
   </tr>
 </tbody>
 </table>
+
+##### **LEE KUAN YEW AWARD FOR ALL-ROUND EXCELLENCE 2016**
+
+
+  
+
+*   [Lee Jia Ying](https://clementitownsec.moe.edu.sg/about-us/outstanding-clementeens/lee-kuan-yew-award-for-all-round-excellence-2016)
+
+##### **OUTSTANDING ALUMNI**
+
+
+  
+1. [Chay Yen Yee Ericia](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/Outstanding%20Clementeens/2022/Clementi%20Town_Ericia%20Chay_.jpg)  
+2. [Thejus Unnikrishnan](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/Outstanding%20Clementeens/2022/Clementi%20Town.png)  
+3. [Desmond Chan Keng Hui](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/Outstanding%20Clementeens/Desmond%20Chan%20Keng%20Hui.pdf)  
+4. [Don Loi Xu](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/Outstanding%20Clementeens/Don%20Loi%20Xu.pdf)  
+5. [Kenneth Chan Kang Er](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/Outstanding%20Clementeens/Kenneth%20Chan%20Kang%20Er.pdf)  
+6. [Rakesh Roy Joseph](https://clementitownsec.moe.edu.sg/qql/slot/u534/About%20Us/Outstanding%20Clementeens/Rakesh%20Roy%20Joseph.pdf)  
+7. [Songkiat Ow Shiyuan](https://clementitownsec.moe.edu.sg/about-us/outstanding-clementeens/outstanding-alumni/songkiat-ow-shiyuan)  
+
+##### **NSF OF THE YEAR 2019**
+
+
+[CFC Haw Yuan Zhi](https://clementitownsec-moe-edu-sg-admin.cwp.sg/about-us/outstanding-clementeens/nsf-of-the-year-2019)
