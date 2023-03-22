@@ -141,4 +141,4 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
 ##### **NSF OF THE YEAR 2019**
 
 
-[CFC Haw Yuan Zhi](https://clementitownsec-moe-edu-sg-admin.cwp.sg/about-us/outstanding-clementeens/nsf-of-the-year-2019)
+[CFC Haw Yuan Zhi](/files/Outstanding%20Clementeens/A10.pdf)
