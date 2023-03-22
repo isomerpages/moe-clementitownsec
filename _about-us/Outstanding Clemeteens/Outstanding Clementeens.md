@@ -124,7 +124,7 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
 
   
 
-*   [Lee Jia Ying](https://clementitownsec.moe.edu.sg/about-us/outstanding-clementeens/lee-kuan-yew-award-for-all-round-excellence-2016)
+*   [Lee Jia Ying](/lee-jia-ying/)
 
 ##### **OUTSTANDING ALUMNI**
 
