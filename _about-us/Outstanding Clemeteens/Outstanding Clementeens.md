@@ -24,7 +24,7 @@ Please click on the following link to find out more about their achievement:
 We are pleased to share that our Clementeens have clinched the Gold Award at the Singapore Science and Engineering Fair 2022.  
   
 Please click on the following link to find out more about their achievement:  
-[Singapore Science and Engineering Fair 2022 Gold Award](https://clementitownsec-moe-edu-sg-admin.cwp.sg/about-us/outstanding-clementeens/singapore-science-and-engineering-fair-2022)  
+[Singapore Science and Engineering Fair 2022 Gold Award](/singapore-science-and-engineering-fair2022-gold-award/)  
   
 
 ##### **CTSS EXCELLENCE AWARDS WINNERS 2022**
