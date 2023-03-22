@@ -1,10 +1,10 @@
 ---
 title: School History
-permalink: /about-us/school-history
+permalink: /about-us/school-history/
 description: ""
 ---
-PLANTING THE SEEDS: CTSS’ HUMBLE BEGINNINGS 1980 – 1989
---------------------------------------------------------------
+##### **PLANTING THE SEEDS: CTSS’ HUMBLE BEGINNINGS 1980 – 1989**
+
 
   
 Located in the heart of Clementi, Clementi Town Secondary School’s growth began in 1980 under the loving cultivation by our first principal Ms Kan Sou Tin. Students were and have been since then, endearingly referred to as Clementeens. The school’s crest was designed by Mrs. Lim T.W. and Mr. M. Yazid using the school’s initials, with the letters ‘C’ and ‘S’ seeded beside the ‘T’, a graphical symbol of a budding tree. Green, white and black were set as the official school colours, expressing growth, purity and strength. The school’s motto is ‘Aspire and Grow’, and the teachers have been dedicated since then to nurture the students’ dreams, where they believe strongly that Clementeens will give “from each his best” and yet, strive to aspire and grow “as one”. The school song’s lyrics were penned by teachers Mrs Lee Hong Leong and Ms. Ho Swee Yin, and the music was written by Mr John De ‘Souza. The principals of CTSS had believed strongly in nurturing Clementeens to strive to grow and be kind and empathetic members of society, and hence also placed focus on pastoral guidance and care. In line with the devoted support of the students’ dreams, the school had nurtured the seeds of IT interest as early as in the 1980s, and the first fully equipped computer laboratory was declared open in 1988.  
@@ -14,8 +14,8 @@ Located in the heart of Clementi, Clementi Town Secondary School’s growth bega
   
 To further support the aims of student pastoral care, Form Teachers took on the term ‘Classparents’ since 1988, making CTSS even more so, the “one big family” that we are.
 
-NOURISHING THE BUDDING TREE: OUR DEVELOPMENT, 1990 – 1999
----------------------------------------------------------
+##### **NOURISHING THE BUDDING TREE: OUR DEVELOPMENT, 1990 – 1999**
+
 
   
 The tradition was carried on by the next Principal, Mrs Virginia Cheng, who continued to grow Clementeens’ characters and nurture their dreams. To further support the aims of student pastoral care, she began the Peer Support Programme where Secondary 3 students served as Peer Support leaders to the Secondary 1 students new to the family.  
@@ -28,14 +28,14 @@ With her focused aims, the Apple Macintosh Computer laboratory was set up in 199
 
   
 
-GROWING TO THE SKIES: 2000 – 2010
----------------------------------
+##### **GROWING TO THE SKIES: 2000 – 2010**
+
 
   
 Receiving the baton from Mrs Lim Thian Loke, Dr. Hang Kim Hoo led the school to develop a new school mission and vision to align with Thinking Schools, Learning Nation. Strategic goals were crafted to focus on character education, mathematics, science, technology, arts, innovation and entrepreneurship as early as in year 2000, and Dr. Hang was pivotal in cultivating the students’ love for Mathematics and Science. Under our seventh principal, Mrs Tan Jong Lek, the school started ASPIRE, school-wide camps for all levels. She also formed the Youth Wing in the Clementi Town Secondary School Alumni (CTSSA), who became crucial support for the school camps as facilitators. The school facilities were further upgraded and the school underwent the PRIME programme in 2007 to 2008. During this period of time, the school’s holding site was in Queensway. We returned to our refurnished home end of 2008, in a whole-school Big Walk from Queensway back to the heart of Clementi. The current compound now has bigger classrooms and an Indoor Sports Hall. The school continues to develop students holistically and support their passion in the arts, and had embarked on its biennial musical journey in 2009.  
 
-APPRECIATING ROOTS, GROWING TO THE SKIES: 2011 – PRESENT
--------------------------------------------------------------------
+##### **APPRECIATING ROOTS, GROWING TO THE SKIES: 2011 – PRESENT**
+
 
   
 
