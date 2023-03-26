@@ -1,25 +1,18 @@
 ---
 title: Applied Learning Programme (ALP)
-permalink: /key-programmes/applied-learning-programme-alp
+permalink: /key-programmes/applied-learning-programme-alp/
 description: ""
 ---
-CODING TO DISCOVER AND EMPOWER (CODE)
--------------------------------------
+##### MASTERY THROUGH APPLICATION AND RESEARCH IN STEM (MARS)
+
 
   
-Clementi Town Secondary School offers its ALP programme abbreviated CODE under the STEM (Science, Technology, Engineering and Mathematics) strand and is focused on developing computational thinking through coding.  
-  
-The key objectives of CODE are to provide every Clementeen an early exposure to computer science (CS) and to ignite our students’ interest to pursue CS-related courses in Institutes of Higher Learning, and a career in the CS-related industries.  
-  
-As part of applied learning, programmes have been designed to enable students to work through problems in groups and to come up with practical solutions and real products. This authentic and hands-on approach would provide additional platforms for our Clementeens to practice 21st century skills such as creative problem solving, team work and analytical thinking and also turn our Clementeens from passive consumers into active producers of technology.  
-  
-The CODE curriculum is based on the Treffinger's Level of Service Model and is designed for the differing profiles of Clementeens.
 
-![CODE Curriculum](/images/ALP01.jpeg)
+Clementi Town Secondary School offers its ALP programme abbreviated MARS under the STEM (Science, Technology, Engineering and Mathematics) strand and seeks to develop our students to be Future-ready Clementeens who possess digital literacy and are architects of their own STEM learning.
 
-**Tier 1 - Project Work (PW@CTSS)**  
+  
 
-All lower secondary students would be taught Project Work (PW@CTSS), which seeks to develop in our students the ability to Empathise with the needs of the people around them, as they identify problems that need to be solved, Explore new skills, emerging technologies and possible solutions to the identified problem and Evaluate their possible options in order to craft the most efficient solution that best meets the needs of the target group. Central to this are the four key competencies of Communications Skills, Collaborative Skills, Critical and Creative Thinking and Computational Thinking.
+The ALP framework reflects the emphasis on developing Science, Technology, Engineering and Mathematics (STEM) skills in our students, in addition to Thinking, Collaborative and Communications skills.
 
 <img src="/images/ALP02.jpeg"  
 style="width:65%">
