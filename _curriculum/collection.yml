@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Chinese (Special Programme).md
       - CTSS School Curriculum Framework.md
       - Subject Based Banding.md
       - Assessment.md
