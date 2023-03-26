@@ -31,8 +31,8 @@ style="width:75%">
 <img src="/images/CD02.jpeg"  
 style="width:75%">
 
-TEACHERS IN-CHARGE
-------------------
+##### TEACHERS IN-CHARGE
+
 
   
 
@@ -42,8 +42,8 @@ TEACHERS IN-CHARGE
 *   Ms Woong Choy Wan  
     
 
-STUDENT EXECUTIVE COMMITTEE
----------------------------
+##### STUDENT EXECUTIVE COMMITTEE
+
 
  
 
@@ -51,8 +51,8 @@ STUDENT EXECUTIVE COMMITTEE
 
   
 
-KEY EVENTS
-----------
+##### KEY EVENTS
+
 
   
   
@@ -61,8 +61,8 @@ KEY EVENTS
 
   
 
-KEY ACHIEVEMENTS IN 2016 - 2019
--------------------------------
+##### KEY ACHIEVEMENTS IN 2016 - 2019
+
 
   
   
@@ -72,8 +72,8 @@ KEY ACHIEVEMENTS IN 2016 - 2019
   
   
 
-TRAINING DETAILS
-----------------
+###### TRAINING DETAILS
+
 
   
   
