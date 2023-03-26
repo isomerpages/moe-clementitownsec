@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - "Teaching and Learning Framework: ALIVE@CTSS.md"
       - Subject Based Banding.md
       - Assessment.md
       - Aesthetics and Craft & Technology Department.md
