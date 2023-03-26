@@ -1,13 +1,11 @@
 ---
 title: Basketball (Boys)
-permalink: /co-curriculum/co-curricular-activities/basketball-boys
+permalink: /co-curriculum/co-curricular-activities/basketball-boys/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+##### ABOUT THE CCA
 
-
-ABOUT THE CCA
--------------
 
   
 
@@ -19,8 +17,8 @@ The CT Basketball Team – or the CT Brotherhood as we call it has faced a lot o
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTL3YZrdntE6OKlgUihMsrGTSCpgQ_HdoGEdkEYZv8hCNg1t_DSF0gIuUMwoD3bEsPwqgbM-kn7rFsX/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
-TEACHERS IN-CHARGE
-------------------
+##### TEACHERS IN-CHARGE
+
 
   
 
@@ -32,8 +30,8 @@ TEACHERS IN-CHARGE
 
   
 
-STUDENT EXECUTIVE COMMITTEE
----------------------------
+##### STUDENT EXECUTIVE COMMITTEE
+
 
    
 
@@ -42,8 +40,8 @@ STUDENT EXECUTIVE COMMITTEE
   
   
 
-KEY EVENTS
-----------
+##### KEY EVENTS
+
 
   
 
@@ -53,8 +51,8 @@ KEY EVENTS
   
   
 
-TRAINING DETAILS
-----------------
+##### TRAINING DETAILS
+
 
   
 
