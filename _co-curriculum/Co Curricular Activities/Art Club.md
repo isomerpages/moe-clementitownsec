@@ -1,21 +1,19 @@
 ---
 title: Art Club
-permalink: /co-curriculum/co-curricular-activities/art-club
+permalink: /co-curriculum/co-curricular-activities/art-club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+##### **ABOUT THE CCA**
 
-
-ABOUT THE CCA
--------------
 
 The CTSS Art Club aims to nurture in members love and appreciation of fine art. Through exposing our members to diverse art forms such as painting, sculpture and mixed media, we hope to hone their creativity and self expression.  
 To enrich their Art Education, visits to art institutions and galleries are also organized periodically to pique the members' interest in different art styles, artists and movements.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeWr20n1slGt-xE7IV5oX6Vb_sFQMLW24w_QODmbYsaopdHam2zL-emPyxe-a7XZm3ZSkjCPYI3J67/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-TEACHERS IN-CHARGE
-------------------
+##### **TEACHERS IN-CHARGE**
+
 
   
 
@@ -26,15 +24,15 @@ TEACHERS IN-CHARGE
 
   
 
-STUDENT EXECUTIVE COMMITTEE
----------------------------
+##### STUDENT EXECUTIVE COMMITTEE
+
 
   
 
 <table class="iveo_table ives_tab_dark" width="608" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 732px; height: 111px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 244px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Name</p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 120px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Class</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 367px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Position / Appointment</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Goh Yun Ying</p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">204</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">President</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Pang Ing Jia</p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2O3</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Vice-President</p></td></tr></tbody></table>
 
-KEY EVENTS
-----------
+##### KEY EVENTS
+
 
    
 
@@ -42,8 +40,8 @@ KEY EVENTS
 
   
 
-KEY ACHIEVEMENTS (2018 - 2021)
-------------------------------
+##### KEY ACHIEVEMENTS (2018 - 2021)
+
 
   
 
@@ -51,8 +49,8 @@ KEY ACHIEVEMENTS (2018 - 2021)
 
   
 
-TRAINING DETAILS
-----------------
+##### TRAINING DETAILS
+
 
   
 
