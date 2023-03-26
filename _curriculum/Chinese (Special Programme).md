@@ -63,10 +63,7 @@ _\*If there is a clash with the school timetable/other compulsory school program
 
 _However, all class transfers will be subject to the availability of vacancies. Where there are no vacancies in the requested day/time slot(s), students will be put on a waiting list. While waiting for a place to be freed up, students are to make arrangements to attend the class initially assigned to them._
 
-**Contact Details**
-
-CSP coordinator: Ms Ma Ning / Mr Tan Teck Soon
-
-DID: 6572 1140 / 65721133
-
+**Contact Details**  
+CSP coordinator: Ms Ma Ning / Mr Tan Teck Soon  
+DID: 6572 1140 / 65721133  
 Email: [ma\_ning\_a@moe.edu.sg](mailto:ma_ning_a@moe.edu.sg); [tan\_teck\_soon@moe.edu.sg](mailto:tan_teck_soon@moe.edu.sg)
