@@ -90,20 +90,62 @@ In the course of the CCA, students are also encouraged to participate in select 
 </table>
   
 
-#####  KEY EVENTS (2021)
+#####  KEY EVENTS (2023)
 
 
-• PA Training  
-• Photography Workshops  
-• Robotics Workshops  
+• Artificial Intelligence Workshops  
+• Swift App Development Workshops  
+• Robotics Workshops
 
-##### KEY ACHIEVEMENTS (2020 - 2021)
+##### KEY ACHIEVEMENTS (2020 - 2022)
 
 
   
 
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 717px; height: 510px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="235" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 357px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Event</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="236" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 359px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Achievement</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="235" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Our Schools Our Stories (OSOS) Photography Competition</span></p></td><td width="236" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Participation</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="235" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">First Lego League Competition</span></p></td><td width="236" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Participation</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="235" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Singapore Young Photographer Award</span></p></td><td width="236" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Certificate of Distinction</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="235" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">iBuildSG Pinnacle Competition 2021</span></p></td><td width="236" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Participation</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="235" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Applied AI for Recycling: Making a Difference for the Environment programme 2021</span></p></td><td width="236" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Gaven Yong (S2-MM)</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Lim Zhengwei Javier (S2-MM)</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Rehan Faris Bin Nazirudin (S2-MM)</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="235" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Swift Accelerator Programme 2021</span></p></td><td width="236" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Cheung Yi Kai (S1-MM)</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Nguyen Viet Truong (S3-MM)</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="235" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Swift Innovators' Summit 2020<b class="" style="margin: 0px; outline: 0px; padding: 0px;"></b></span></p></td><td width="236" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Sood Tapan (S3-MM)</span></p></td></tr></tbody></table>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Event</th>
+    <th class="tg-dgl5">Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b1n3">Our Schools Our Stories (OSOS) Photography Competition</td>
+    <td class="tg-b1n3">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">First Lego League Competition</td>
+    <td class="tg-7yig">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-b1n3">Singapore Young Photographer Award</td>
+    <td class="tg-b1n3">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">iBuildSG Pinnacle Competition 2021</td>
+    <td class="tg-7yig">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-b1n3">Applied AI for Recycling: Making a Difference for the Environment programme 2021</td>
+    <td class="tg-b1n3">Gaven Yong (S2-MM)<br>Lim Zhengwei Javier (S2-MM)<br>Rehan Faris Bin Nazirudin (S2-MM)</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Swift Accelerator Programme 2022</td>
+    <td class="tg-7yig"><br>Isaac Emmanuel Isaiah Lea (S1-MM)<br>Raditya Aryo Wahyudi (S3-MM)</td>
+  </tr>
+</tbody>
+</table>
   
 
 ##### TRAINING DETAILS
