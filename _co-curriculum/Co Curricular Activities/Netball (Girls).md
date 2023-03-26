@@ -1,13 +1,11 @@
 ---
 title: Netball (Girls)
-permalink: /co-curriculum/co-curricular-activities/netball-girls
+permalink: /co-curriculum/co-curricular-activities/netball-girls/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+##### ABOUT THE CCA
 
-
-ABOUT THE CCA
--------------
 
 In Netball, we aim to nurture our girls' passion for the game as well as inculcate in them the ASPIRE values in facing the challenges associated with the game.
 
@@ -17,8 +15,8 @@ We truly believe that no amount of talent can make up for the lack of practice. 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-hZsaPXyUOAkmb2QxzVLUi12pSnecvx5aHDaRDEEbL7GwpTQUcH9LQsP-X3mV1P3V8jmFhJQmTEFg/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
-TEACHERS IN-CHARGE
-------------------
+##### TEACHERS IN-CHARGE
+
 
 *   Ms Chan Lay Leng (OIC)  
     
@@ -28,8 +26,8 @@ TEACHERS IN-CHARGE
 *   Ms Sim Shin Jie
     
 
-STUDENT EXECUTIVE COMMITTEE
----------------------------
+#### STUDENT EXECUTIVE COMMITTEE
+
 
     
 
@@ -37,8 +35,8 @@ STUDENT EXECUTIVE COMMITTEE
 
   
 
-KEY EVENTS
-----------
+#### KEY EVENTS
+
 
   
 
@@ -47,8 +45,8 @@ KEY EVENTS
   
   
 
-KEY ACHIEVEMENTS
-----------------
+#### KEY ACHIEVEMENTS
+
 
    
 
