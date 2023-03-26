@@ -4,10 +4,7 @@ permalink: /co-curriculum/co-curricular-activities/infocomm-technology/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
-
-Multimedia Services Club (MMS) is a service-oriented club, where we aim to develop technical skills among students in the areas of public announcement (PA), photography and robotics so that they can apply their skills in supporting the school through the various school events.  
+InfoComm Technology Club (IT) is a service-oriented club, where we aim to develop technical skills among students in the areas of public announcement (PA), photography and robotics so that they can apply their skills in supporting the school through the various school events.  
   
 In their four years, students learn different skill sets to ensure they are competent in supporting the various school events. Secondary One students learn to set-up PA and AV systems to support school and departmental events. They are also introduced to robotics and coding. In Secondary Two, students learn to take event photographs, do basic editing and archive photographs for easy retrieval. From Secondary Three, students are actively involved in applying the skills acquired to take on the roles of training their juniors and taking charge of rendering PA and photography support for school events.  
   
