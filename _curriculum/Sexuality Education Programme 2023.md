@@ -113,3 +113,22 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+##### INFORMATION FOR PARENTS
+
+
+  
+
+10.   Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and / or supplementary sexuality education programmes by MOE-approved external providers.
+
+  
+
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://clementitownsec.moe.edu.sg/qql/slot/u534/SED%202023/Annex%20A.pdf). The completed form is to be submitted by 25/01/2023.
+
+  
+
+12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://clementitownsec.moe.edu.sg/qql/slot/u534/SED%202023/Annex%20B.pdf).  The completed form is to be submitted by 25/01/2023.
+
+  
+
+13.      Parents can contact the school at ctss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
