@@ -68,3 +68,48 @@ description: ""
 ![](/images/SexEd2023/S14.jpg)
 ![](/images/SexEd2023/S15.jpg)
 ![](/images/SexEd2023/S16.jpg)
+
+##### ETEENS PROGRAMME:
+
+
+  
+
+8.      eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.  
+  
+9.      Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.  
+  
+**At CLEMENTI TOWN Secondary School, the eTeens programme will be implemented as follows in 2023:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Topics/Lessons</th>
+    <th class="tg-dgl5">Programme Learning Objectives</th>
+    <th class="tg-dgl5">Time Period<br>(e.g. Term 3 Week 9)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b1n3">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-3icd"><br>Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV<br><br></td>
+    <td class="tg-b1n3"><br>Term 3 Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Classroom-based Lesson</td>
+    <td class="tg-ktyi"><br>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br></td>
+    <td class="tg-ktyi"><br>Term 3 Week 9</td>
+  </tr>
+</tbody>
+</table>
