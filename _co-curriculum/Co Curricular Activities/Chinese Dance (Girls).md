@@ -72,7 +72,7 @@ style="width:75%">
   
   
 
-###### TRAINING DETAILS
+##### TRAINING DETAILS
 
 
   
