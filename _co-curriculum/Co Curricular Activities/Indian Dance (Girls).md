@@ -1,13 +1,11 @@
 ---
 title: Indian Dance (Girls)
-permalink: /co-curriculum/co-curricular-activities/indian-dance-girls
+permalink: /co-curriculum/co-curricular-activities/indian-dance-girls/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+##### ABOUT THE CCA
 
-
-ABOUT THE CCA
--------------
 
 Indian Dance has 40 years of rich history in Clementi Town Secondary School. In our school, we mainly focus on Classical Indian Dance called Bharathanatyam. This dance form has a rich ancient and cultural history to it. Dance allows our dancers to integrate their thinking, movement and feelings and also connect back to their cultural roots.
 
@@ -17,8 +15,8 @@ Our dancers are involved in Value in Action (VIA) community events as well, wher
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDhOgJLIu5J8Dk11Elmb9Mwc1mxIDBup54VsTGiS8YJC7CfQOq3n-cG6dR4zJrGYTWD554q0cUI1hM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-TEACHERS IN-CHARGE
-------------------
+##### TEACHERS IN-CHARGE
+
 
   
 
@@ -28,8 +26,8 @@ TEACHERS IN-CHARGE
 
   
 
-STUDENT EXECUTIVE COMMITTEE
----------------------------
+##### STUDENT EXECUTIVE COMMITTEE
+
 
     
 
@@ -37,8 +35,8 @@ STUDENT EXECUTIVE COMMITTEE
 
   
 
-KEY EVENTS
-----------
+##### KEY EVENTS
+
 
   
 
@@ -47,8 +45,8 @@ KEY EVENTS
   
   
 
-KEY ACHIEVEMENTS IN 2016 - 2019
--------------------------------
+##### KEY ACHIEVEMENTS IN 2016 - 2019
+
 
   
 
@@ -57,8 +55,8 @@ KEY ACHIEVEMENTS IN 2016 - 2019
   
   
 
-TRAINING DETAILS
-----------------
+##### TRAINING DETAILS
+
 
   
 
