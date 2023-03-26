@@ -1,13 +1,11 @@
 ---
 title: Badminton (Boys)
-permalink: /co-curriculum/co-curricular-activities/badminton-boys
+permalink: /co-curriculum/co-curricular-activities/badminton-boys/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+##### ABOUT THE CCA
 
-
-ABOUT THE CCA
--------------
 
   
 
@@ -17,8 +15,8 @@ Clementi Town Secondary Badminton Team consists of a group of like-minded indivi
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkgDX2b5l93tS3cwq_7XZimNJdbtE0IFDiZlNdJ_yZ2qKu9V9Ha82nBFb6QzdiEURMb4KZZuVTmnQd/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
-TEACHER ICS
------------
+##### TEACHER ICS
+
 
   
 
@@ -27,15 +25,15 @@ TEACHER ICS
 *   Ms Syafiqah Zaini
 *   Mrs Magdalene Peh
 
-STUDENT EXECUTIVE COMMITTEE
----------------------------
+##### STUDENT EXECUTIVE COMMITTEE
+
 
   
 
 <table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 687px; height: 208px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="166" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 241px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Name</span></p></td><td width="76" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 119px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Class</span></p></td><td width="229" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 327px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Position / Appointment</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="166" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Koh Feng Wei</span></p></td><td width="76" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Sec 3B1</span></p></td><td width="229" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">B Division Captain</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="166" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Goh Kai Bin</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="76" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Sec 3B2</span></p></td><td width="229" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">B Division Vice-Captain</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="166" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Parthasarathy Kavin</span></p></td><td width="76" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Sec 2M1</span></p></td><td width="229" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">C Division Captain</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="166" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Abdul Kadir Zaafir Ahamed</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="76" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Sec 2M2</span></p></td><td width="229" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">B Division Vice-Captain</span></p></td></tr></tbody></table>
 
-KEY EVENTS
-----------
+##### KEY EVENTS
+
 
     
 
@@ -44,8 +42,8 @@ KEY EVENTS
   
   
 
-TRAINING DETAILS
-----------------
+##### TRAINING DETAILS
+
 
   
 
