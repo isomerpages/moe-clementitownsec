@@ -1,13 +1,11 @@
 ---
 title: Symphonic Band
-permalink: /co-curriculum/co-curricular-activities/symphonic-band
+permalink: /co-curriculum/co-curricular-activities/symphonic-band/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+##### ABOUT THE CCA
 
-
-ABOUT THE CCA
--------------
 
   
 
@@ -19,8 +17,8 @@ With an established Band Program, CTWinds Bandsmen learn and hone technical skil
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQccvFPw52heBkreKa7skS3M_Jepo5zJmqUHKEC6OR_EFNFD6DcB3NgUQChq1spZbmhDTt4U2vTEKvh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-TEACHERS IN-CHARGE
-------------------
+##### TEACHERS IN-CHARGE
+
 
   
 
@@ -31,8 +29,8 @@ TEACHERS IN-CHARGE
 
   
 
-STUDENT EXECUTIVE COMMITTEE
----------------------------
+##### STUDENT EXECUTIVE COMMITTEE
+
 
    
   
@@ -41,8 +39,8 @@ STUDENT EXECUTIVE COMMITTEE
 
   
 
-KEY EVENTS
-----------
+##### KEY EVENTS
+
 
   
   
@@ -52,8 +50,8 @@ KEY EVENTS
   
   
 
-KEY ACHIEVEMENTS 
------------------
+##### KEY ACHIEVEMENTS 
+
 
   
   
@@ -63,8 +61,8 @@ KEY ACHIEVEMENTS 
   
   
 
-TRAINING DETAILS
-----------------
+##### TRAINING DETAILS
+
 
   
 
