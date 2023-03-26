@@ -12,16 +12,16 @@ In the course of the CCA, students are also encouraged to participate in select 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZe8iy0updhZLHlEvlwNZxCLik-4uBIYgOaiW5GBbjdAoY9QTlNsqe31IA9hSzLEHwsPJCyXLTZt5n/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-TEACHER ICS
------------
+##### TEACHER ICS
+
 
 *   Ms Asmah Beevi(OIC)
 *   Mr Peter Tan (AIC)
 *   Ms Nurul Farhanah
 *   Mdm Stella Ng
 
-STUDENT EXECUTIVE COMMITTEE
----------------------------
+##### STUDENT EXECUTIVE COMMITTEE
+
 
   
 
@@ -29,15 +29,15 @@ STUDENT EXECUTIVE COMMITTEE
 
   
 
- KEY EVENTS (2021)
-------------------
+#####  KEY EVENTS (2021)
+
 
 • PA Training  
 • Photography Workshops  
 • Robotics Workshops  
 
-KEY ACHIEVEMENTS (2020 - 2021)
-------------------------------
+##### KEY ACHIEVEMENTS (2020 - 2021)
+
 
   
 
@@ -45,23 +45,37 @@ KEY ACHIEVEMENTS (2020 - 2021)
 
   
 
-TRAINING DETAILS
-----------------
-
-<table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 743px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 173px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Day</b></p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 183px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Time</b></p></td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 284px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Venue</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Monday</p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3.30 – 5.30 pm</p></td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">MMS Room</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Wednesday</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">3.30 – 5.30 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">MMS Room&nbsp;</td></tr></tbody></table>
+##### TRAINING DETAILS
 
 
-<br>
-<br>
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Day</th>
+    <th class="tg-9hzb">Time</th>
+    <th class="tg-9hzb">Venue</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b1n3"><span style="color:#000">Monday</span></td>
+    <td class="tg-b1n3"><span style="color:#000">3.30 – 5.30 pm</span></td>
+    <td class="tg-b1n3"><span style="color:#000">MMS Room</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Wednesday</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">3.30 – 6.00 pm</span><br></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">MMS Room </span></td>
+  </tr>
+</tbody>
+</table>
