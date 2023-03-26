@@ -1,11 +1,11 @@
 ---
 title: Chinese Dance (Girls)
-permalink: /co-curriculum/co-curricular-activities/chinese-dance-girls
+permalink: /co-curriculum/co-curricular-activities/chinese-dance-girls/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-ABOUT THE CCA
--------------
+##### ABOUT THE CCA
+
 
 CTSS Chinese Dance Club, which comprises 35 members, aims to foster interest, engagement and appreciation for Dance. Under the guidance of our instructor, the dancers are given firm grounding in basic Chinese dance movements and development of challenging moves and repertoires.&nbsp;
 
