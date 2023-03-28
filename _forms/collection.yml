@@ -2,8 +2,8 @@ collections:
   forms:
     output: true
     order:
-      - ECHA Nomination Form Students 2022.md
       - Application for Student Admission (Year 2023 Sec 2 and 3 only).md
       - Application for MOE FAS.md
       - School Based FAS for SC Application Form.md
       - Application for GIRO.md
+      - ECHA Nomination Form Students 2022.md
