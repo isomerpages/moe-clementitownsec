@@ -53,7 +53,7 @@ Phase 1: Inclusive App Design Activity (5 hours of SDL activities)
 Phase 2: Everyone Can Code Bootcamp (5 hours of virtual workshops)  
 Phase 3: Build Apps with Swift Playgrounds (for selected teams)  
   
-![](/images/ALP/A2.jpg)Students during their Swift Explorers Singapore 2022 Graduation Ceremony
+![](/images/ALP/A3.jpeg)Students during their Swift Explorers Singapore 2022 Graduation Ceremony
 
   
   
@@ -67,7 +67,7 @@ The Apple Swift Programme brings an accessible introduction to mobile app develo
 4.  Design and storytelling skills to propose, build, and present a meaningful app prototype on a social entrepreneurship theme
 
   
-![](/images/ALP/A3.jpeg)
+![](/images/ALP/A4.jpg)
   
 **AR/VR Workshop at HCI**  
   
@@ -77,7 +77,7 @@ Eighteen Secondary 3 Clementeens participated in the Augmented Reality/Virtual R
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7tNK4l8FzmC3hCp05oc-UfOb3QYFDrALPAOcVOlmdiT2ZJJpohZU4sUDaalCLUIP6ZZNHtBkvaBcK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
   
   
-AI Bootcamp  
+**AI Bootcamp**  
   
 A 5-day Artificial Intelligence (AI) Bootcamp was organised during the June Holidays to:  
 provide Clementeens, who have demonstrated an interest and passion for programming, the opportunity to develop deep technology skills for the emergent fields of Data Science and Artificial Intelligence.  
@@ -85,25 +85,8 @@ further inspire and ignite our Clementeens' passion for Technology through appli
   
 At the end of the bootcamp, participants created their own projects. Please click on the image below to find out more about one of the AI projects that was created upon completion of the bootcamp.  
   
-![AI Bootcamp.jpg](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/2022/Photos%202022/Talent%20Development/AI%20Bootcamp%20_%20Computing%20Project/AI%20Bootcamp.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+![](/images/ALP/A5.jpg)
+
 **Tier 3 – Participation in Olympiad Training, App Development Programmes, Mentorship Programmes**  
   
 
@@ -111,36 +94,13 @@ Tier 3 of the ALP is designed to provide opportunities for a few students excell
 
   
   
-National Olympiad in Informatics (NOI) 2022  
+**National Olympiad in Informatics (NOI) 2022**  
   
 
 NOI is a computing competition organized by National University of Singapore. It is an annual nation-wide programming competition that aims to provide our best students the ultimate challenge in computing and programming and is open to all current junior college and secondary school students.
 
   
-![IMG-8811.jpg](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/2022/Photos%202022/Enrichment%20Programme/NOI/IMG-8811.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
+![](/images/ALP/A6.jpg)
 Students participating in the National Olympiad in Informatics 2022
 
   
@@ -154,7 +114,7 @@ In addition, two other Clementeens were awarded the Certificate of Participation
 2.  Nguyen Viet Truong (Bill), S4-MM (4B1)
 
   
-Computing Project  
+**Computing Project**  
   
 
 Computing students who were keen to work on a real-world computing project were given the opportunity to first identify an authentic problem related to their school experience and work on a solution to the problem.
@@ -165,13 +125,8 @@ Two of our students, Aidan Ong and Hu Bowen, have worked proactively and tireles
 
   
 Please click on the attached video below, to find out more about their project.  
-![](https://clementitownsec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)
 
-![](https://clementitownsec.moe.edu.sg/pix/spacer.gif)
-
-  
-  
-Participation in the Swift Accelerator&nbsp;Programme  
+**Participation in the Swift Accelerator&nbsp;Programme** 
   
 
 The Swift Accelerator Programme is an intensive 180-hour programme in which students who are talented in coding are trained to develop iOS apps using the Swift coding language, leveraging on the principles of challenge based learning, storytelling and design thinking. Only 50 students, aged 13 to 15, are selected for this programme.
@@ -187,333 +142,48 @@ The students involved in the Swift Accelerator Programme 2021 are:
 
   
 
-![WhatsApp Image 2022-03-24 at 8.54.34 AM (1).jpeg](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/2022/Photos%202022/Talent%20Development/Swift%20Accelerator/WhatsApp%20Image%202022-03-24%20at%208.54.34%20AM%20(1).jpeg)  
-
+![](/images/ALP/A7.jpeg)
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-2.    
-    
-
-  
-
-1.    
-    
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
 2\. Cheung Yi Kai, S2-MMS&nbsp;and his team mates from have published an App called “GPA Buddy” which helps students to set targets, calculate their GPA, and chart their learning progress. You may download the app via this link:&nbsp;[http://tk.sg/sis22-gpabuddy](http://tk.sg/sis22-gpabuddy)  
   
-![Swift Accelerator.jpg](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/2022/Photos%202022/Talent%20Development/Swift%20Accelerator/Swift%20Accelerator.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Participation in the First Lego League Competition  
+![](/images/ALP/A8.jpg)
+
+
+**Participation in the First Lego League Competition**  
   
 Students from the Multimedia Services Club, who showed an interest and dedication to robotics, had participated in the&nbsp;First Lego League (FLL) Competition 2021.This year, two teams from MMS took part in the FLL competition for the first time. One of the teams won praise from the judges for their creativity, understanding of robot mechanism, and applying sound concepts of Physics in designing their robot. They were also nominated for the “Rising Star Award” which is given out to schools participating in the tournament for the first time.&nbsp;  
   
-![WhatsApp Image 2021-04-01 at 9.03.37 AM.jpeg](https://clementitownsec.moe.edu.sg/qql/slot/u534/DSA/CODE/2021/WhatsApp%20Image%202021-04-01%20at%209.03.37%20AM.jpeg)  
-  
-**  
+![](/images/ALP/A9.jpeg)
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Industrial Visits and Learning Journeys**  
+**Industrial Visits and Learning Journeys**  
   
 To expose students to STEM careers at an early age, Industrial Visits and Learning Journeys were conducted to organisations and STEM-related events.  
   
 1\. Microsoft DigiGirlz 2019  
   
-![DigiGirlz.jpg](https://clementitownsec.moe.edu.sg/qql/slot/u534/Programmes/ALP/DigiGirlz.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+![](/images/ALP/A10.jpg)
+
 2.&nbsp;Ministry of Education’s Experimental Systems and Technology Laboratory (MOE ESTL)  
   
-![IMG_2018.JPG](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/DAL/IMG_2018.JPG)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+![](/images/ALP/A11.jpg)
   
 3\. Visit to Google Office (STEM'IN with Google)  
   
-![WhatsApp Image 2019-11-04 at 9.00.59 AM.jpeg](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/Learning%20Journeys/Google/WhatsApp%20Image%202019-11-04%20at%209.00.59%20AM.jpeg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![WhatsApp Image 2019-11-04 at 9.38.33 AM.jpeg](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/Learning%20Journeys/Google/WhatsApp%20Image%202019-11-04%20at%209.38.33%20AM.jpeg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![WhatsApp Image 2019-11-04 at 10.39.26 AM.jpeg](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/Learning%20Journeys/Google/WhatsApp%20Image%202019-11-04%20at%2010.39.26%20AM.jpeg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![WhatsApp Image 2019-11-04 at 12.19.41 PM.jpeg](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/Learning%20Journeys/Google/WhatsApp%20Image%202019-11-04%20at%2012.19.41%20PM.jpeg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+![](/images/ALP/A12.jpg)
+  
+![](/images/ALP/A13.jpg)
+
+![](/images/ALP/A14.jpg)
+
+![](/images/ALP/A15.jpg)
+
+
 4\. Visit to Anglo American (Chat with Data Scientist)  
   
-![IMG_2346.jpg](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/Learning%20Journeys/Anglo%20American/IMG_2346.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![IMG_2384.JPG](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/Learning%20Journeys/Anglo%20American/IMG_2384.JPG)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![IMG_2385.JPG](https://clementitownsec.moe.edu.sg/qql/slot/u534/ALP%20&amp;%20LLP/Learning%20Journeys/Anglo%20American/IMG_2385.JPG)
+![](/images/ALP/A16.jpg)
+ 
+![](/images/ALP/A17.jpg)
+ 
+![](/images/ALP/A18.jpg)
