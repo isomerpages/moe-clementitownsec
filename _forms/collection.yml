@@ -2,7 +2,7 @@ collections:
   forms:
     output: true
     order:
-      - Application for Student Admission Year 2022 (Sec 2 and 3 Only).md
+      - Application for Student Admission (Year 2023 Sec 2 and 3 only).md
       - Application for MOE FAS.md
       - School Based FAS for SC Application Form.md
       - Application for GIRO.md
