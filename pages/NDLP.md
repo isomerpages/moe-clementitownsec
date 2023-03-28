@@ -3,7 +3,6 @@ title: NDLP
 permalink: /ndlp/
 description: ""
 ---
-  
 At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.
 
   
@@ -51,7 +50,7 @@ Students involved in the pilot had an overall positive experience. The devices i
 Let's watch the following video to hear from our students about their experiences using their PLDs as part of lessons.  
   
 
-![](https://clementitownsec.moe.edu.sg/pix/spacer.gif)
+
 
   
   
@@ -62,7 +61,6 @@ The Subject Teachers involved in the pilot had shared that the PLDs, when couple
 Let's watch the following video to hear from our Subject Teachers about their experiences during the NDLP Pilot.  
   
 
-![](https://clementitownsec.moe.edu.sg/pix/spacer.gif)
 
   
   
