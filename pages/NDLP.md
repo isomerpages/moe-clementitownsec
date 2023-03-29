@@ -85,20 +85,13 @@ Purchase of PLD bundle. The school has made arrangements for you to purchase the
 
 **Financial Assistance.** Subsidies are available for students who require funding support to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for the PLD, after subsidies have been granted. Please see the table below for information on the eligibility for the subsidy: 
 
-![PLD 2023 b.jpg](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/2023/PLD%202023%20b.jpg)  
-  
-  
-  
-  
-  
-  
+![](/images/NDLP/PLD%202023%20b.jpg)
   
 **\* PCI** refers to the GHI divided by the total number of family members in the household.  
 
   
 
-**Why did the school choose the iPad as the PLD?  
-**  
+**Why did the school choose the iPad as the PLD?**  
 
 Using ICT in teaching and learning is not new to CTSS and our Clementeens. We have been tapping on the Google Classroom and the various Google Collaboration Tools (Google Docs, Spreadsheets, Forms etc) for many years as part of our efforts to prepare our students to be collaborative and self-directed learners. As such, it is natural to continue on this platform for the familiarity of both teachers and students. The Google apps and Google Classroom can be used on the iPad to facilitate learning. In addition, tablets as compared to laptops and Chromebooks are lighter, and have longer battery life.
 
