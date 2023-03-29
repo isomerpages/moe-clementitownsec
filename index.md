@@ -19,6 +19,10 @@ sections:
           description: CTSS Alumni Sign Up Form
           url: https://docs.google.com/forms/d/e/1FAIpQLSfy2LUHyZiyfo8gvODjBkDEEY6WlfFAJEFxevUE8bqy8HBhcg/viewform
   - infobar:
+      title: NDLP
+      button: Click here to read about ndlp
+      url: /ndlp/
+  - infobar:
       title: Announcements
       subtitle: Latest Announcements
       button: Click here for announcements
@@ -39,8 +43,4 @@ sections:
       description: Infopic description
       image: /images/FLL.jpg
       alt: Image alt text
-  - infobar:
-      title: NDLP
-      button: Click here to read about ndlp
-      url: /ndlp/
 ---
