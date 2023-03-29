@@ -128,7 +128,7 @@ In addition, various toolkits and resources on cyber-wellness and blended learni
 
 
   
-Please refer to our [Frequently Asked Questions](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/2022/FAQs%20on%20NDLP%20at%20CTSS%2020220113.pdf) for more information on the rollout of the NDLP at Clementi Town Secondary School.  
+Please refer to our [Frequently Asked Questions](/files/NDLP/FAQs%20on%20NDLP%20at%20CTSS%2020220113%20(1).pdf) for more information on the rollout of the NDLP at Clementi Town Secondary School.  
   
 Should there be any further queries or clarification, please email the school at [askndlp@ctss.edu.sg](mailto:askndlp@ctss.edu.sg).  
   
