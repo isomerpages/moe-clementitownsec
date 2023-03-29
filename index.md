@@ -39,4 +39,8 @@ sections:
       description: Infopic description
       image: /images/FLL.jpg
       alt: Image alt text
+  - infobar:
+      title: NDLP
+      button: Click here to read about ndlp
+      url: /ndlp/
 ---
