@@ -23,7 +23,7 @@ For students who would like to appeal for Chinese/Malay (Special Programme), ple
 
 ##### **Online Registration for 2023 Sec 1 Chinese (Special Programme) (C(SP)) Successful Applicants**
 
-Dear successful Chinese (Special Programme) applicants, Please refer to the attached file for more informationabout online registration
+Dear successful Chinese (Special Programme) applicants, Please refer to the attached [FILE](/files/Announcements/Registration.pdf) for more informationabout online registration
 
 
 
