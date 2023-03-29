@@ -5,14 +5,14 @@ description: ""
 ---
 ### All levels
 
-*   [11 Jan 2023 - Principal's Letter to Parents on School Attendance](https://clementitownsec.moe.edu.sg/qql/slot/u534/LettersToParents/2023/Ps%20letter%20on%20School%20Attendance.pdf)
+*   [11 Jan 2023 - Principal's Letter to Parents on School Attendance](/files/Letter%20to%20Parents/All%20Levels/Ps%20letter%20on%20School%20Attendance.pdf)
 
 ### Secondary 1
 
-*   [21 Mar 2023 - Principal's Termly Letter to Parents (Term 1) for Secondary 1](https://clementitownsec.moe.edu.sg/qql/slot/u534/LettersToParents/2023/Term%202/Ps%20letter%20Term%202%202023%20Sec%201%20Final.pdf)  
+*   [21 Mar 2023 - Principal's Termly Letter to Parents (Term 1) for Secondary 1](/files/Letter%20to%20Parents/Secondary%201/Ps%20letter%20Term%202%202023%20Sec%201%20Final.pdf)
     
-*   [5 Jan 2023 - Principal's Termly Letter to Parents (Term 1) for Secondary 1](https://clementitownsec.moe.edu.sg/qql/slot/u534/LettersToParents/2023/Ps%20letter%20Term%201%202023%20Sec%201%20Final2.pdf)
-*   [29 Dec 2022 - Principal's Welcome Letter to Parents of Secondary 1](https://clementitownsec.moe.edu.sg/qql/slot/u534/LettersToParents/2023/Ps%20welcome%20letter%20for%20Sec%201%202023%20Final.pdf)
+*   [5 Jan 2023 - Principal's Termly Letter to Parents (Term 1) for Secondary 1](/files/Letter%20to%20Parents/Secondary%201/Ps%20letter%20Term%201%202023%20Sec%201%20Final2.pdf)
+*   [29 Dec 2022 - Principal's Welcome Letter to Parents of Secondary 1](/files/Letter%20to%20Parents/Secondary%201/Ps%20welcome%20letter%20for%20Sec%201%202023%20Final.pdf)
 
 ### Secondary 2
 
