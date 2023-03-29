@@ -74,29 +74,7 @@ Let's watch the following video to hear from our Subject Teachers about their ex
 
 Purchase of PLD bundle. The school has made arrangements for you to purchase the PLD from AsiaPac Distribution Ptd Ltd for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be the Apple iPad with the following specifications and add-ons:
 
-![PLD 2023.jpg](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/2023/PLD%202023.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+![](/images/NDLP/PLD%202023.jpg)
 
 *   Price: $850.00 ++  
     
