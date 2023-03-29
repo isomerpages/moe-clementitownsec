@@ -112,14 +112,14 @@ In rolling out the PLD, MOE is acutely aware of concerns regarding students’ c
 (b) monitoring, filtering and limiting the type of websites accessible to the student, and  
 (c) placing restrictions on students’ screen time in order to prevent cyber addiction.  
   
-Please refer to our [Frequently Asked Questions](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/2022/FAQs%20on%20NDLP%20at%20CTSS%2020220113.pdf) document for more information on the DMA as well as MOE’s collection of data.  
+Please refer to our [Frequently Asked Questions](/files/NDLP/FAQs%20on%20NDLP%20at%20CTSS%2020220113.pdf) document for more information on the DMA as well as MOE’s collection of data.  
   
 In addition, various toolkits and resources on cyber-wellness and blended learning have been crafted for parents:  
 [1\. NDLP Google Site for Parents](https://sites.google.com/moe.edu.sg/ndlp-clementi-town-secondary/resources-for-parents)  
-[2\. Click Clique: Bringing up children in the digital age](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/Clique%20Click.pdf)  
-[3. Parent Handbook (I) on Learning with a PLD](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)  
-[4. Resource Kit: Experiencing Blended Learning (BL) with Our Children](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/Resource%20Kit%20-%20Experiencing%20Blended%20Learning%20BL%20with%20Our%20Children.pdf)  
-[5. Safe and Smart Online Parent Guide](https://clementitownsec.moe.edu.sg/qql/slot/u534/NDLP/Safe-and-Smart-Online-Parent-Guide.pdf)  
+[2\. Click Clique: Bringing up children in the digital age](/files/NDLP/Clique%20Click.pdf)  
+[3. Parent Handbook (I) on Learning with a PLD](/files/NDLP/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)  
+[4. Resource Kit: Experiencing Blended Learning (BL) with Our Children](/files/NDLP/Resource%20Kit%20-%20Experiencing%20Blended%20Learning%20BL%20with%20Our%20Children.pdf)  
+[5. Safe and Smart Online Parent Guide](/files/NDLP/Safe-and-Smart-Online-Parent-Guide.pdf)
   
 
   
