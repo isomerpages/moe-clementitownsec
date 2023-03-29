@@ -21,6 +21,12 @@ Dear Parents / Guardians, <br>
 For students who would like to appeal for Chinese/Malay (Special Programme), please refer to the attached [FILE](/files/Announcements/Information%20for%20Sec%201%20students%20who%20would%20like%20to%20appeal%20for%20ChineseMalay%20Special%20Programme.pdf) for more information about late application/appeal procedure.
 
 
+##### **Online Registration for 2023 Sec 1 Chinese (Special Programme) (C(SP)) Successful Applicants**
+
+Dear successful Chinese (Special Programme) applicants, Please refer to the attached file for more informationabout online registration
+
+
+
 <br>
 <br>
 <br>
