@@ -18,7 +18,7 @@ Dear Parents / Guardians, <br>
 
 ##### **Information for Sec 1 students who would like to appeal for Chinese/Malay (Special Programme)**
 
-For students who would like to appeal for Chinese/Malay (Special Programme), please refer to the attached file for more information about late application/appeal procedure.
+For students who would like to appeal for Chinese/Malay (Special Programme), please refer to the attached [FILE](/files/Announcements/Information%20for%20Sec%201%20students%20who%20would%20like%20to%20appeal%20for%20ChineseMalay%20Special%20Programme.pdf) for more information about late application/appeal procedure.
 
 
 <br>
