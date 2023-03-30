@@ -91,3 +91,15 @@ Ms Hamizah Begum Bte Md Hanif
 ![](/images/Ms%20He%20Meiyu.jpeg)
 Ms He Meiyu        
 [he\_meiyu@moe.edu.sg](mailto:he_meiyu@moe.edu.sg)
+
+![](/images/Ms%20Heng%20Hui%20Zhen.jpeg)
+Ms Heng Hui Zhen    
+[heng\_hui\_zhen@moe.edu.sg](mailto:heng_hui_zhen@moe.edu.sg)
+
+![](/images/Ms%20Ho%20Xiu%20Hui,%20Tessa.jpg)
+Ms Ho Xiu Hui Tessa   
+[ho\_xiu\_hui\_tessa@moe.edu.sg](mailto:ho_xiu_hui_tessa@moe.edu.sg)
+
+![](/images/Mr%20Xiao%20Jing%20Joshua.jpg)
+Mr Joshua Xiao Jing       
+[xiao\_jing\_joshua@moe.edu.sg](mailto:xiao_jing_joshua@moe.edu.sg)
