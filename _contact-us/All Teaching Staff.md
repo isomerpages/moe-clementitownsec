@@ -111,3 +111,22 @@ Ms Joyner Tay
 ![](/images/Mr%20Kamal%20Bin%20Yacob.jpeg)
 Mr Kamal Bin Yacob   
 [kamal\_yacob@moe.edu.sg](mailto:kamal_yacob@moe.edu.sg)
+
+![](/images/Mr%20Ke%20Kaijie%20Justin.jpeg)
+Mr Ke Kaijie, Justin   
+[ke\_kaijie\_justin@moe.edu.sg](mailto:ke_kaijie_justin@moe.edu.sg)
+
+![](/images/Kishan%20School%20Website.jpeg)
+Mr Kishan Kannan  
+[kishan\_kannan@moe.edu.sg](mailto:kishan_kannan@moe.edu.sg)
+
+![](/images/Doreen.png)
+Ms Lau Ying Ying Doreen
+[lau\_ying\_ying\_doreen@moe.edu.sg](mailto:lau_ying_ying_doreen@moe.edu.sg)
+
+![](/images/miss%20rachel%20lee%20jueyi.jpeg)
+Ms Lee Jueyi, Rachel    
+[rachel\_lee\_jueyi@moe.edu.sg](mailto:rachel_lee_jueyi@moe.edu.sg)
+
+
+
