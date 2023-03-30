@@ -3,6 +3,7 @@ title: All Teaching Staff
 permalink: /contact-us/permalink/
 description: Teaching Staff
 ---
+
 Ms Adeline Liu  
 [liu\_jiazhen\_adeline@moe.edu.sg](mailto:liu_jiazhen_adeline@moe.edu.sg)
 
@@ -11,6 +12,9 @@ Ms Adeline Liu
 Mr Aidil Bin Md Idris      
  [aidil\_md\_idris@moe.edu.sg](mailto:aidil_md_idris@moe.edu.sg)
 
+
+Mr Alvin Tan Jia Jie     
+tan\_jia\_jie@moe.edu.sg
 
 ![](/images/Mdm%20Ang%20Choon%20Keow.jpeg)
 Mdm Ang Choon Keow [ang\_choon\_keow@moe.edu.sg](mailto:ang_choon_keow@moe.edu.sg)
@@ -68,5 +72,24 @@ Mr Chng Chia Yi
 Mr Chua Keng Yeow  
 [chua\_keng\_yeow@moe.edu.sg](mailto:chua_keng_yeow@moe.edu.sg)
 
+![](/images/Mrs%20Chua%20Teng%20May%20Hwee%20Teresa.jpeg)
+Mrs Chua-Teng May Hwee Teresa
+[teng\_may\_hwee\_teresa@moe.edu.sg](mailto:teng_may_hwee_teresa@moe.edu.sg)
+
+![](/images/ms%20sandy%20ee.jpeg)
+Ms Ee Wen Lin, Sandy 
+[ee\_wen\_lin\_sandy@moe.edu.sg](mailto:ee_wen_lin_sandy@moe.edu.sg)
+
+![](/images/Ms%20Eng%20Chia%20Lee.jpeg)
+Ms Eng Chia Lee    
+[eng\_chia\_lee@moe.edu.sg](mailto:eng_chia_lee@moe.edu.sg)
+
+![](/images/Ms%20Hamizah%20Begum%20Bte%20Md%20Hanif.jpeg)
+Ms Hamizah Begum Bte Md Hanif 
+[hamizah\_begum\_mohd\_hanif@moe.edu.sg](mailto:hamizah_begum_mohd_hanif@moe.edu.sg)
+
+
+Ms He Meiyu        
+[he\_meiyu@moe.edu.sg](mailto:he_meiyu@moe.edu.sg)
 
 
