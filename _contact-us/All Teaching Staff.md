@@ -3,7 +3,7 @@ title: All Teaching Staff
 permalink: /contact-us/permalink/
 description: Teaching Staff
 ---
-
+![](/images/Ms%20Liu%20Jiazhen%20Adeline.jpg)
 Ms Adeline Liu  
 [liu\_jiazhen\_adeline@moe.edu.sg](mailto:liu_jiazhen_adeline@moe.edu.sg)
 
@@ -12,7 +12,7 @@ Ms Adeline Liu
 Mr Aidil Bin Md Idris      
  [aidil\_md\_idris@moe.edu.sg](mailto:aidil_md_idris@moe.edu.sg)
 
-
+![](/images/Alvin%20Tan.jpeg)
 Mr Alvin Tan Jia Jie     
 tan\_jia\_jie@moe.edu.sg
 
@@ -88,8 +88,6 @@ Ms Eng Chia Lee
 Ms Hamizah Begum Bte Md Hanif 
 [hamizah\_begum\_mohd\_hanif@moe.edu.sg](mailto:hamizah_begum_mohd_hanif@moe.edu.sg)
 
-
+![](/images/Ms%20He%20Meiyu.jpeg)
 Ms He Meiyu        
 [he\_meiyu@moe.edu.sg](mailto:he_meiyu@moe.edu.sg)
-
-
