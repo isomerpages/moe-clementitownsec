@@ -139,105 +139,132 @@ Mrs Lehming-Teo Shi Hui, Rachel
 Ms Li Qianyi
 li_qianyi@moe.edu.sg
 
-Mrs Lim-Quek Chwee Tiang, Linda
-quek_chwee_tiang_linda@moe.edu.sg
-
-
+![](/images/Ms%20Lim%20Keng%20Woon%20Madeline.jpeg)
 Ms Lim Keng Woon, Madeline
 lim_keng_woon_madeline@moe.edu.sg
 
-
+![](/images/Mr%20Jeremy.jpeg)
 Mr Lim Liangcai, Jeremy
 lim_liangcai_jeremy@moe.edu.sg
  
-
+![](/images/mrs%20ng%20lye%20sim.jpeg)
 Mrs Lim Lye Sim  
 ng_lye_sim@moe.edu.sg 
  
+![](/images/ms%20lim%20tze%20min%20joyce_1.jpeg)
 Ms Lim Tze Min Joyce    
 lim_tze_min@moe.edu.sg
- 
+
+
+![](/images/Mrs%20Lim%20Quek%20Chwee%20Tiang%20Linda.jpeg)
+Mrs Lim-Quek Chwee Tiang, Linda
+quek_chwee_tiang_linda@moe.edu.sg
+
+![](/images/Ms%20Low%20Li%20Qing.jpg)
 Ms Low Liqing    
 low_liqing@moe.edu.sg
 
-
+![](/images/Mr%20Mohideeen%20Nizar.jpeg)
 Mr Mohideen Nizar s/o Anwar
 mohideen_nizar_anwar@moe.edu.sg
  
+ ![](/images/Mdm%20Mursalina.jpeg)
 Mdm Mursalina Bte Mohd Saim
 mursalina_mohd_saim@moe.edu.sg
 
-
-
+![](/images/Mdm%20Natarajan%20Umarani%20(Teacher).jpg)
 Ms Natarajan Umarani 
 natarajan_umarani@moe.edu.sg
-	 
+
+![](/images/Mr%20Ng%20Loong%20Kin,%20Alvin.jpg)
 Mr Ng Loong Kin, Alvin
 ng_loong_kin_alvin@moe.edu.sg
- 
+
+![](/images/Ms%20Nurul%20Farhanah%20Bte%20Ramlan.jpg)
 Ms Nurul Farhanah Bte Ramlan
 nurul_farhanah_binte_ramlan@moe.edu.sg
- 
+
+![](/images/Mrs%20Peh%20Yeo%20Hwee%20Ching%20Magdelene.jpeg)
 Mrs Peh-Yeo Hwee Ching Magdalene
 yeo_hwee_ching_magdalene@moe.edu.sg
- 
+
+![](/images/mr%20phua%20chwee%20ghua.jpeg)
 Mr Phua Chwee Ghua
 phua_chwee_ghua@moe.edu.sg 
 
+![](/images/Mdm%20Rajamanickam.jpeg)
 Mdm Rajamanickam Renuka
 rajamanickam_renuka@moe.edu.sg
 
+![](/images/Mdm%20Rashidah%20Kassim.jpeg)
 Mdm Rashidah Kassim
 rashidah_kassim@moe.edu.sg
- 
+
+![](/images/Mdm%20Rosezalina.jpeg)
 Mdm Rosezalina Bte Asmoin
 rosezalina_asmoin@moe.edu.sg
 
+![](/images/Mr%20See%20Gim%20Hwee%20(1).jpg)
 Mr See Gim Hwee
 see_gim_hwee@moe.edu.sg 
 
+![](/images/Ms%20Sia%20Gee%20Han.jpeg)
 Ms Sia Gee Han, Karen
 karen_sia_gee_han@moe.edu.sg
- 
+
+
 Ms Sharon Tham Kum Chee
 sharon_tham_kum_chee@moe.edu.sg
 
+![](/images/Mdm%20Sheetal%20Sonawane.jpeg)
 Ms Sheetal Sonawane
 sheetal_madhukar_sonawane@moe.edu.sg
 
-Ms Sim Shin Jie 
+![](/images/Ms%20Sim%20Shin%20Jie.jpg)
+Ms Sim Shin Jie    
 sim_shin_jie@moe.edu.sg
- 
+
+![](/images/ms%20siti%20nurwati%20dalduri.jpeg)
 Ms Siti Nurwati Dalduri
 siti_nurwati_dalduri@moe.edu.sg 
- 
+
+![](/images/Ms%20Soon%20Si%20Lin%20Jocelyn%20(Teacher).png)
 Ms Soon Si Lin Jocelyn
 soon_si_lin_jocelyn@moe.edu.sg 
 
-Ms Sophia Ng
+![](/images/Ms%20Sophia%20Ng%20Jia%20Ming.jpg)
+Ms Sophia Ng    
 sophia_ng_jia_ming@moe.edu.sg
-	 
+
+![](/images/Ms%20Sumitha.jpeg)
 Mdm Sumitha Kirsnan
 sumitha_kirsnan@moe.edu.sg
 
+![](/images/Ms%20Syafiqah%20Binte%20Zaini.jpg)
 Ms Syafiqah Binte Zaini
 syafiqah_zaini@moe.edu.sg
- 	 
+
+![](/images/Mr%20Tan%20Chor%20Seng.jpg)
 Mr Tan Chor Seng
 tan_chor_seng_a@moe.edu.sg
 
+![](/images/Ms%20Joycelyn.jpeg)
 Ms Tan E-Fung, Joycelyn
 tan_e_fung_joycelyn@moe.edu.sg
 
+![](/images/Mr%20Peter.jpeg)
 Mr Tan Eng Hoe, Peter
 peter_tan_eng_hoe@moe.edu.sg
 
+![](/images/Mr%20John.jpeg)
 Mr Tan Hong Soong, John
 tan_hong_soong@moe.edu.sg
 
+![](/images/mr%20tan%20jit%20jin.jpeg)
 Mr Tan Jit Jin
 tan_jit_jin@moe.edu.sg
-	 
+
+![](/images/ms%20tan%20kay%20shin.jpeg)
 Mdm Tan Kay Shin 
 tan_kay_shin@moe.edu.sg
 
