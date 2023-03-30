@@ -103,3 +103,11 @@ Ms Ho Xiu Hui Tessa
 ![](/images/Mr%20Xiao%20Jing%20Joshua.jpg)
 Mr Joshua Xiao Jing       
 [xiao\_jing\_joshua@moe.edu.sg](mailto:xiao_jing_joshua@moe.edu.sg)
+
+![](/images/ms%20joyner%20tay%20kai%20ling.jpeg)
+Ms Joyner Tay        
+[tay\_kai\_ling\_joyner@moe.edu.sg](mailto:tay_kai_ling_joyner@moe.edu.sg)
+
+![](/images/Mr%20Kamal%20Bin%20Yacob.jpeg)
+Mr Kamal Bin Yacob   
+[kamal\_yacob@moe.edu.sg](mailto:kamal_yacob@moe.edu.sg)
