@@ -112,6 +112,9 @@ Ms Joyner Tay
 Mr Kamal Bin Yacob   
 [kamal\_yacob@moe.edu.sg](mailto:kamal_yacob@moe.edu.sg)
 
+Mrs Karine Nai  
+nai_sok_khoon_karine@moe.edu.sg
+
 ![](/images/Mr%20Ke%20Kaijie%20Justin.jpeg)
 Mr Ke Kaijie, Justin   
 [ke\_kaijie\_justin@moe.edu.sg](mailto:ke_kaijie_justin@moe.edu.sg)
@@ -128,5 +131,184 @@ Ms Lau Ying Ying Doreen
 Ms Lee Jueyi, Rachel    
 [rachel\_lee\_jueyi@moe.edu.sg](mailto:rachel_lee_jueyi@moe.edu.sg)
 
+![](/images/Mrs%20Lehming%20Teo%20Shi%20Hui%20Rachel.jpeg)
+Mrs Lehming-Teo Shi Hui, Rachel
+[teo\_shi\_hui\_rachel@moe.edu.sg](mailto:teo_shi_hui_rachel@moe.edu.sg)
+
+![](/images/Ms%20Li%20Qianyi.jpeg)
+Ms Li Qianyi
+li_qianyi@moe.edu.sg
+
+Mrs Lim-Quek Chwee Tiang, Linda
+quek_chwee_tiang_linda@moe.edu.sg
 
 
+Ms Lim Keng Woon, Madeline
+lim_keng_woon_madeline@moe.edu.sg
+
+
+Mr Lim Liangcai, Jeremy
+lim_liangcai_jeremy@moe.edu.sg
+ 
+
+Mrs Lim Lye Sim  
+ng_lye_sim@moe.edu.sg 
+ 
+Ms Lim Tze Min Joyce    
+lim_tze_min@moe.edu.sg
+ 
+Ms Low Liqing    
+low_liqing@moe.edu.sg
+
+
+Mr Mohideen Nizar s/o Anwar
+mohideen_nizar_anwar@moe.edu.sg
+ 
+Mdm Mursalina Bte Mohd Saim
+mursalina_mohd_saim@moe.edu.sg
+
+
+
+Ms Natarajan Umarani 
+natarajan_umarani@moe.edu.sg
+	 
+Mr Ng Loong Kin, Alvin
+ng_loong_kin_alvin@moe.edu.sg
+ 
+Ms Nurul Farhanah Bte Ramlan
+nurul_farhanah_binte_ramlan@moe.edu.sg
+ 
+Mrs Peh-Yeo Hwee Ching Magdalene
+yeo_hwee_ching_magdalene@moe.edu.sg
+ 
+Mr Phua Chwee Ghua
+phua_chwee_ghua@moe.edu.sg 
+
+Mdm Rajamanickam Renuka
+rajamanickam_renuka@moe.edu.sg
+
+Mdm Rashidah Kassim
+rashidah_kassim@moe.edu.sg
+ 
+Mdm Rosezalina Bte Asmoin
+rosezalina_asmoin@moe.edu.sg
+
+Mr See Gim Hwee
+see_gim_hwee@moe.edu.sg 
+
+Ms Sia Gee Han, Karen
+karen_sia_gee_han@moe.edu.sg
+ 
+Ms Sharon Tham Kum Chee
+sharon_tham_kum_chee@moe.edu.sg
+
+Ms Sheetal Sonawane
+sheetal_madhukar_sonawane@moe.edu.sg
+
+Ms Sim Shin Jie 
+sim_shin_jie@moe.edu.sg
+ 
+Ms Siti Nurwati Dalduri
+siti_nurwati_dalduri@moe.edu.sg 
+ 
+Ms Soon Si Lin Jocelyn
+soon_si_lin_jocelyn@moe.edu.sg 
+
+Ms Sophia Ng
+sophia_ng_jia_ming@moe.edu.sg
+	 
+Mdm Sumitha Kirsnan
+sumitha_kirsnan@moe.edu.sg
+
+Ms Syafiqah Binte Zaini
+syafiqah_zaini@moe.edu.sg
+ 	 
+Mr Tan Chor Seng
+tan_chor_seng_a@moe.edu.sg
+
+Ms Tan E-Fung, Joycelyn
+tan_e_fung_joycelyn@moe.edu.sg
+
+Mr Tan Eng Hoe, Peter
+peter_tan_eng_hoe@moe.edu.sg
+
+Mr Tan Hong Soong, John
+tan_hong_soong@moe.edu.sg
+
+Mr Tan Jit Jin
+tan_jit_jin@moe.edu.sg
+	 
+Mdm Tan Kay Shin 
+tan_kay_shin@moe.edu.sg
+
+Mr Tan Kiang Chye
+tan_kiang_chye@moe.edu.sg
+
+Mr Tan Liang Hooi, Aloysius
+tan_liang_hooi@moe.edu.sg
+
+Mr Tan Ming Hon, Kenneth
+tan_ming_hon@moe.edu.sg
+ 
+Mr Tan Teck Soon
+tan_teck_soon@moe.edu.sg 
+
+Mr Tan Ser Yong, Philip
+tan_ser_yong_philip@moe.edu.sg
+
+Mrs Tan-Wong Siew Har, Winnie
+wong_siew_har_winnie@moe.edu.sg
+ 
+Mr Tang Xu Yang Timothy
+tang_xu_yang_timothy@moe.edu.sg
+
+Mrs Tan Wen Yi
+tan_wen_yi@moe.edu.sg
+ 
+Mrs Teng-Tay Soo Chin, Emmeline
+tay_soo_chin_emmeline@moe.edu.sg
+
+Ms Teo Li Yin
+teo_li_yin@moe.edu.sg
+ 
+Mr Teo Chai Yaw
+teo_chai_yaw@moe.edu.sg
+
+Ms Teo Wei Na
+teo_wei_na@moe.edu.sg
+ 
+Mr Timothy Tang Xu Yang
+tang_xu_yang_timothy@moe.edu.sg
+ 
+Mr Thomas Law
+law_choon_ting_thomas@moe.edu.sg 
+
+Ms Tnee Li Ling, Valane
+tnee_li_ling_valane@moe.edu.sg
+
+Ms Tracy Tey
+tracy_tey_pin_pin@moe.edu.sg
+ 
+Ms Wee Ni Swen
+wee_ni_swen@moe.edu.sg
+
+Ms Wee Yee Ing
+wee_yee_ing@moe.edu.sg
+
+Mrs Wee-Loh Wee Sin
+loh_wee_sin@moe.edu.sg
+
+Ms Woong Choy Wan
+woong_choy_wan@moe.edu.sg
+
+Mr Yap Jin Hua, Andy
+yap_jin_hua_andy@moe.edu.sg
+ 
+Mr Yong Teck Sin
+yong_teck_sin@moe.edu.sg
+
+Mrs Yuen Lay Eng
+ang_lay_eng@moe.edu.sg 
+ 
+Mr Zulhilmi Bin Zulkiflee
+zulkiflee_zulhilmi@moe.edu.sg
