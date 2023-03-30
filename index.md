@@ -17,7 +17,7 @@ sections:
           url: /parents
         - title: Key Programs
           description: ALP, LLP, Musical
-          url: key-programmes
+          url: /key-programmes
   - infobar:
       title: NDLP
       button: Click here to read about ndlp
