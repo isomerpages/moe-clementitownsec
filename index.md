@@ -18,6 +18,9 @@ sections:
         - title: Alumni
           description: CTSS Alumni Sign Up Form
           url: https://docs.google.com/forms/d/e/1FAIpQLSfy2LUHyZiyfo8gvODjBkDEEY6WlfFAJEFxevUE8bqy8HBhcg/viewform
+        - title: Key Program
+          description: ALP
+          url: https://cms.isomer.gov.sg/sites/moe-clementitownsec/folders/key-programmes
   - infobar:
       title: NDLP
       button: Click here to read about ndlp
