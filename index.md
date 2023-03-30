@@ -46,4 +46,9 @@ sections:
       description: Infopic description
       image: /images/FLL.jpg
       alt: Image alt text
+  - infobar:
+      title: Alumni
+      description: CTSS Alumni Sign Up Form
+      button: Click here to sign up
+      url: https://docs.google.com/forms/d/e/1FAIpQLSfy2LUHyZiyfo8gvODjBkDEEY6WlfFAJEFxevUE8bqy8HBhcg/viewform
 ---
