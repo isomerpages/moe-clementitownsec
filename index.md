@@ -15,10 +15,7 @@ sections:
         - title: Parents
           description: ""
           url: /parents
-        - title: Alumni
-          description: CTSS Alumni Sign Up Form
-          url: https://docs.google.com/forms/d/e/1FAIpQLSfy2LUHyZiyfo8gvODjBkDEEY6WlfFAJEFxevUE8bqy8HBhcg/viewform
-        - title: Key Program
+        - title: Key Programs
           description: ALP, LLP, Musical
           url: https://cms.isomer.gov.sg/sites/moe-clementitownsec/folders/key-programmes
   - infobar:
