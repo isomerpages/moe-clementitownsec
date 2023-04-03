@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Key Programs.md
       - Motto, Vision, Mission & Values.md
       - Principal's Message 2023.md
       - School History.md
