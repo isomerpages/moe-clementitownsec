@@ -1,5 +1,5 @@
 collections:
-  key-programmes:
+  key-programmes-in-ctss:
     output: true
     order:
       - Applied Learning Programme (ALP).md
