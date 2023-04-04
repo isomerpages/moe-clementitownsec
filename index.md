@@ -9,18 +9,18 @@ sections:
   - hero:
       background: /images/ctss homepage.gif
       key_highlights:
+        - title: About CTSS
+          description: ""
+          url: ""
+        - title: Key Programs
+          description: ""
+          url: /key-programs/
         - title: Students
           description: ""
           url: /students
         - title: Parents
           description: ""
           url: /parents
-        - title: Key Programs
-          description: ALP, LLP, Musical
-          url: /key-programs/
-        - title: About CTSS
-          description: ""
-          url: ""
   - infobar:
       title: NDLP
       button: Click here to read about ndlp
