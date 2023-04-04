@@ -17,7 +17,7 @@ sections:
           url: /parents
         - title: Key Programs
           description: ALP, LLP, Musical
-          url: https://cms.isomer.gov.sg/sites/moe-clementitownsec/editPage/Key%20Programs.md
+          url: /key-programs/
   - infobar:
       title: NDLP
       button: Click here to read about ndlp
