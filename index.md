@@ -40,9 +40,4 @@ sections:
       title: Letters to Parents
       button: Click here to read Letters to PARENTS
       url: /letters-to-parents
-  - infobar:
-      title: Alumni
-      description: CTSS Alumni Sign Up Form
-      button: Click here to sign up
-      url: https://docs.google.com/forms/d/e/1FAIpQLSfy2LUHyZiyfo8gvODjBkDEEY6WlfFAJEFxevUE8bqy8HBhcg/viewform
 ---
