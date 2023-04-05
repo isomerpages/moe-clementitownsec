@@ -1,5 +1,5 @@
 collections:
-  contact-us:
+  contact-our-staff:
     output: true
     order:
       - School Contact Details.md
