@@ -12,9 +12,9 @@ sections:
         - title: About CTSS
           description: ""
           url: ""
-        - title: Key Programs
+        - title: NDLP
           description: ""
-          url: /key-programs/
+          url: /ndlp/
         - title: Students
           description: ""
           url: /students
