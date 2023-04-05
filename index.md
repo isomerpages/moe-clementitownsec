@@ -9,18 +9,18 @@ sections:
   - hero:
       background: /images/ctss homepage.gif
       key_highlights:
-        - title: About CTSS
+        - title: Announcements
           description: ""
-          url: ""
-        - title: NDLP
-          description: ""
-          url: /ndlp/
-        - title: Students
-          description: ""
-          url: /students
+          url: /announcements/
         - title: Parents
           description: ""
           url: /parents
+        - title: Students
+          description: ""
+          url: /students
+        - title: NDLP
+          description: ""
+          url: /ndlp/
   - infobar:
       title: NDLP
       button: Click here to read about ndlp
