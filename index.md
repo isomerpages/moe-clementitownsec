@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ctss_facade03.jpg
+      background: /images/ctss_facade06.jpg
       key_highlights:
         - title: Announcements
           description: ""
