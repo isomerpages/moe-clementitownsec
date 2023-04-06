@@ -21,7 +21,6 @@ sections:
         - title: NDLP
           description: ""
           url: /ndlp/
-      title: Clementi Town Secondary School
   - infobar:
       title: Announcements
       subtitle: Latest Announcements
