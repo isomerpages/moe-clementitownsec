@@ -22,10 +22,6 @@ sections:
           description: ""
           url: /ndlp/
   - infobar:
-      title: NDLP
-      button: Click here to read about ndlp
-      url: /ndlp/
-  - infobar:
       title: Announcements
       subtitle: Latest Announcements
       button: Click here for announcements
