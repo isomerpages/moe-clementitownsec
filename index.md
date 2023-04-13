@@ -26,4 +26,14 @@ sections:
       subtitle: Latest Announcements
       button: Click here for announcements
       url: /announcements
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Vision, Mission and Values
+      button: Vision, Mission and Values
+      url: /about-us/motto-vision-mission-n-values/
 ---
