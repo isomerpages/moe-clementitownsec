@@ -12,15 +12,15 @@ sections:
         - title: About Us
           description: ""
           url: /about-ctss/
+        - title: Key Programs
+          description: ""
+          url: /key-programs/
         - title: Parents
           description: ""
           url: /parents
         - title: Students
           description: ""
           url: /students
-        - title: NDLP
-          description: ""
-          url: /ndlp/
   - infobar:
       title: Announcements
       subtitle: Latest Announcements
