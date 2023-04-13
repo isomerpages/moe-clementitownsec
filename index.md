@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/ctss_facade07.jpg
       key_highlights:
-        - title: Announcements
+        - title: About Us
           description: ""
-          url: /announcements/
+          url: /about-ctss/
         - title: Parents
           description: ""
           url: /parents
