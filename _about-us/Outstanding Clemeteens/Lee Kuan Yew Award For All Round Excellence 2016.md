@@ -8,4 +8,4 @@ Lee Jia Ying
 
 Class 5B2
 
-<img style="width:50%;height:50%" src="/images/Outstanding%20Clementeens/A1.jpg">
+<img style="width:40%;height:40%" src="/images/Outstanding%20Clementeens/A1.jpg">
