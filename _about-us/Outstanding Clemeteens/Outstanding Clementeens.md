@@ -61,10 +61,10 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">1</span></td>
+    <td class="tg-3icd"><span style="color:#000;background-color:#EBEBEB">1</span></td>
     <td class="tg-8c83"><span style="color:#000;background-color:#EBEBEB">Misha Tan Zi Hui</span></td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">S4-CD</span><br></td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> 4B1</span></td>
+    <td class="tg-3icd"><span style="color:#000;background-color:#EBEBEB">S4-CD</span><br></td>
+    <td class="tg-3icd"><span style="color:#000;background-color:#EBEBEB"> 4B1</span></td>
     <td class="tg-3icd"><span style="color:#000;background-color:#EBEBEB">Clementeen Of The Year Award  2021</span></td>
   </tr>
   <tr>
