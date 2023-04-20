@@ -61,7 +61,7 @@ Note that:
 1.  WA1, WA2, WA3 and WA4 represent the WA in Term 1, 2, 3 and 4 respectively.
 2.  For Sec 3 Design &amp; Technology, the EYE constitutes 100% of the Overall Results. Teachers will monitor students’ progress closely and provide feedback to parents.
 
-**Lower Sec Modular Subjects in Semester 1 (_i.e. Sec 1 Design &amp; Technology and Sec 2 Food and Consumer Education_)**
+**<u>Lower Sec Modular Subjects in Semester 1 (_i.e. Sec 1 Design &amp; Technology and Sec 2 Food and Consumer Education_)</u>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -72,26 +72,26 @@ Note that:
 .tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-dgl5">WA1</th>
-    <th class="tg-dgl5">WA2</th>
-    <th class="tg-dgl5">MYE (coursework)</th>
-    <th class="tg-dgl5">Overall</th>
+    <th style="border: 1px solid black" class="tg-dgl5">WA1</th>
+    <th style="border: 1px solid black" class="tg-dgl5">WA2</th>
+    <th style="border: 1px solid black" class="tg-dgl5">MYE (coursework)</th>
+    <th style="border: 1px solid black" class="tg-dgl5">Overall</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3icd">15%</td>
-    <td class="tg-3icd">15%</td>
-    <td class="tg-3icd">70%</td>
-    <td class="tg-3icd">100%</td>
+    <td style="border: 1px solid black" class="tg-3icd">15%</td>
+    <td style="border: 1px solid black" class="tg-3icd">15%</td>
+    <td style="border: 1px solid black" class="tg-3icd">70%</td>
+    <td style="border: 1px solid black" class="tg-3icd">100%</td>
   </tr>
 </tbody>
 </table>
 
-**Lower Sec Modular Subjects in Semester 2 (_i.e. Sec 1 Food and Consumer Education, and Sec 2 Design &amp; Technology_)**
+**<u>Lower Sec Modular Subjects in Semester 2 (_i.e. Sec 1 Food and Consumer Education, and Sec 2 Design &amp; Technology_)</u>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -102,25 +102,25 @@ Note that:
 .tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-dgl5">WA1</th>
-    <th class="tg-dgl5">WA2</th>
-    <th class="tg-dgl5">WA3</th>
-    <th class="tg-dgl5">WA4</th>
-    <th class="tg-dgl5">EYE (coursework)</th>
-    <th class="tg-dgl5">Overall</th>
+    <th style="border: 1px solid black" class="tg-dgl5">WA1</th>
+    <th style="border: 1px solid black" class="tg-dgl5">WA2</th>
+    <th style="border: 1px solid black" class="tg-dgl5">WA3</th>
+    <th style="border: 1px solid black" class="tg-dgl5">WA4</th>
+    <th style="border: 1px solid black" class="tg-dgl5">EYE (coursework)</th>
+    <th style="border: 1px solid black" class="tg-dgl5">Overall</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3icd">-</td>
-    <td class="tg-3icd">-</td>
-    <td class="tg-3icd">15%</td>
-    <td class="tg-3icd">15%</td>
-    <td class="tg-3icd">70%</td>
-    <td class="tg-3icd">100%</td>
+    <td style="border: 1px solid black" class="tg-3icd">-</td>
+    <td style="border: 1px solid black" class="tg-3icd">-</td>
+    <td style="border: 1px solid black" class="tg-3icd">15%</td>
+    <td style="border: 1px solid black" class="tg-3icd">15%</td>
+    <td style="border: 1px solid black" class="tg-3icd">70%</td>
+    <td style="border: 1px solid black" class="tg-3icd">100%</td>
   </tr>
 </tbody>
 </table>
