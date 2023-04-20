@@ -43,19 +43,32 @@ As we embark on our next adventure, we endeavour our students to do so with a st
 
 #### **KEY ACHIEVEMENTS IN 2016-2019**
 
-  
-
-| Year | Position, Name of Competition |
-| --- | --- |
-| 2019 | Inaugural recruitment of Sec 1 members  
- |
-
-  
-  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
+.tg .tg-ahip{background-color:#EBEBEB;text-align:center;vertical-align:middle}
+.tg .tg-85w7{background-color:#1C3836;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table style="border: 1px solid black" class="tg">
+<thead>
+  <tr>
+    <th style="border: 1px solid black" class="tg-85w7"><span style="color:#FFF;background-color:#1C3836">Year</span></th>
+    <th style="border: 1px solid black" class="tg-85w7"><span style="color:#FFF;background-color:#1C3836">Position, Name of Competition</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">2019</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000;background-color:#EBEBEB">Inaugural recruitment of Sec 1 members</span></td>
+  </tr>
+</tbody>
+</table>
 
 #### **TRAINING DETAILS**
-
-  
 
 <table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 727px; height: 170px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 242px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Day</p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 242px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Time</p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 242px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Venue</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Wednesdays</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">3.30 pm – 6.15 pm</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">School Compound,&nbsp;<br class="" style="margin: 0px; outline: 0px; padding: 0px;">Outdoor Venue</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Fridays</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">2.30 pm – 5.45 pm*</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">School Compound,&nbsp;<br class="" style="margin: 0px; outline: 0px; padding: 0px;">Outdoor Venue</span></p></td></tr></tbody></table>
 
