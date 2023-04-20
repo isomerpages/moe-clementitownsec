@@ -226,34 +226,34 @@ Students are given opportunities to:
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-85w7"><span style="color:#FFF;background-color:#1C3836">CT Music Curriculum</span></th>
-    <th class="tg-opw7"></th>
-    <th class="tg-opw7"></th>
+    <th style="border: 1px solid black" class="tg-85w7"><span style="color:#FFF;background-color:#1C3836">CT Music Curriculum</span></th>
+    <th style="border: 1px solid black" class="tg-opw7"></th>
+    <th style="border: 1px solid black" class="tg-opw7"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Lower Secondary</span></td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Secondary One</span></td>
-    <td class="tg-3icd"><br>I.        Samba Percussion<br>II.        Keyboard<br>III.        Drum set/ CajonIV.        Garageband / Band Lab<span style="color:#000"> </span></td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Lower Secondary</span></td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Secondary One</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><br>I.        Samba Percussion<br>II.        Keyboard<br>III.        Drum set/ CajonIV.        Garageband / Band Lab<span style="color:#000"> </span></td>
   </tr>
   <tr>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Lower Secondary</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Secondary Two</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">V.</span>        IPAD Band<br>VI.       Pop Band<br>VII.      Ethnic Music <span style="color:#000">Songwriting</span></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Lower Secondary</span></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Secondary Two</span></td>
+    <td style="border: 1px solid black" class="tg-zr06"><span style="color:#000;background-color:#FFF">V.</span>        IPAD Band<br>VI.       Pop Band<br>VII.      Ethnic Music <span style="color:#000">Songwriting</span></td>
   </tr>
   <tr>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Upper Secondary</span><br></td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Secondary Three</span></td>
-    <td class="tg-3icd"><br>I.        Music Literacy<br>II.        Keyboard Skills<span style="color:#000"> </span></td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Upper Secondary</span><br></td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Secondary Three</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><br>I.        Music Literacy<br>II.        Keyboard Skills<span style="color:#000"> </span></td>
   </tr>
   <tr>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Upper Secondary</span><br></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Secondary Four</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">III.</span>        Garageband /  Musescore<br>IV.        Music Technology<br>V.        Individual and Ensemble      Music Making / Performance<br>VI.        Western Music styles and traditions<br>VII.        Traditional Music in Singapore<br><span style="color:#000">* Music is also offered at O levels. Students who are interested to pursue O level music will need to undergo a compulsory audition, aural and written assessment. Entry to the course is strictly based on clearing these components.</span></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF">Upper Secondary</span><br></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Secondary Four</span></td>
+    <td style="border: 1px solid black" class="tg-zr06"><span style="color:#000;background-color:#FFF">III.</span>        Garageband /  Musescore<br>IV.        Music Technology<br>V.        Individual and Ensemble      Music Making / Performance<br>VI.        Western Music styles and traditions<br>VII.        Traditional Music in Singapore<br><span style="color:#000">* Music is also offered at O levels. Students who are interested to pursue O level music will need to undergo a compulsory audition, aural and written assessment. Entry to the course is strictly based on clearing these components.</span></td>
   </tr>
 </tbody>
 </table>
