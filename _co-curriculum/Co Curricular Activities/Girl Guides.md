@@ -1,33 +1,26 @@
 ---
 title: Girl Guides
-permalink: /co-curriculum/co-curricular-activities/girl-guides
+permalink: /co-curriculum/co-curricular-activities/girl-guides/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
-ABOUT THE CCA
--------------
+#### **ABOUT THE CCA**
 
   
 The CTSS 1st Coy aims to provide the girls with the opportunity for self-training in their personal character development, towards the realization of responsible citizenship and promotion of service to the community. We learn skills like outdoor cooking, tent-pitching and gadgets making. Through various activities, the girls are able to adapt quickly, and also put what skills they had learnt to good use. We also have courses on first-aid, enabling us to be well-prepared to handle any emergency situation at any time.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwd2ZTlmt5chf-tmr25gZwAcz1KEZc85mHiguzFiG-zk3F7F4Ry3CzF7hOzCB1WZTFtFY6oKmnsexW/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
-TEACHERS IN-CHARGE
-------------------
-
-  
+#### **TEACHERS IN-CHARGE**
 
 *   Ms Loh Wan Ting (OIC)
 *   Ms Yang Linxi (AIC)
-*   Ms Rashidah Kassim 
+*   Ms Rashidah Kassim&nbsp;
 *   Ms Chen Liping
 
   
 
-STUDENT EXECUTIVE COMMITTEE
----------------------------
+#### **STUDENT EXECUTIVE COMMITTEE**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -67,8 +60,7 @@ STUDENT EXECUTIVE COMMITTEE
 </tbody>
 </table>
 
-KEY ACHIEVEMENTS IN 2020 - 2021
--------------------------------
+#### **KEY ACHIEVEMENTS IN 2020 - 2021**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -100,8 +92,7 @@ KEY ACHIEVEMENTS IN 2020 - 2021
 </tbody>
 </table>
 
-KEY EVENTS
-----------
+#### **KEY EVENTS**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -146,8 +137,7 @@ KEY EVENTS
 </tbody>
 </table>
 
-TRAINING DETAILS
-----------------
+#### **TRAINING DETAILS**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -193,5 +183,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
