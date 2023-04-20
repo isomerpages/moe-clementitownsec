@@ -121,10 +121,7 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
 
 ##### **LEE KUAN YEW AWARD FOR ALL-ROUND EXCELLENCE 2016**
 
-
-  
-
-*   [Lee Jia Ying](/lee-jia-ying/)
+*   [Lee Jia Ying](/about-us/outstanding-clemeteens/lee-kuan-yew-award-for-all-round-excellence-2016/)
 
 ##### **OUTSTANDING ALUMNI**
 
