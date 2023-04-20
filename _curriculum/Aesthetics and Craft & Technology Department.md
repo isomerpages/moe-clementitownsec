@@ -253,7 +253,7 @@ Students are given opportunities to:
   <tr>
     <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF">Upper Secondary</span><br></td>
     <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Secondary Four</span></td>
-    <td style="border: 1px solid black" class="tg-zr06"><span style="color:#000;background-color:#FFF">III.</span>        Garageband /  Musescore<br>IV.        Music Technology<br>V.        Individual and Ensemble      Music Making / Performance<br>VI.        Western Music styles and traditions<br>VII.        Traditional Music in Singapore<br><span style="color:#000">* Music is also offered at O levels. Students who are interested to pursue O level music will need to undergo a compulsory audition, aural and written assessment. Entry to the course is strictly based on clearing these components.</span></td>
+    <td style="border: 1px solid black" class="tg-zr06"><span style="color:#000;background-color:#FFF">III.</span>        Garageband /  Musescore<br>IV.        Music Technology<br>V.        Individual and Ensemble      Music Making / Performance<br>VI.        Western Music styles and traditions<br>VII.        Traditional Music in Singapore<br><br><span style="color:#000">* Music is also offered at O levels. Students who are interested to pursue O level music will need to undergo a compulsory audition, aural and written assessment. Entry to the course is strictly based on clearing these components.</span></td>
   </tr>
 </tbody>
 </table>
