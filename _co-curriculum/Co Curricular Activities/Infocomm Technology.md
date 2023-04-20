@@ -12,18 +12,14 @@ In the course of the CCA, students are also encouraged to participate in select 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZe8iy0updhZLHlEvlwNZxCLik-4uBIYgOaiW5GBbjdAoY9QTlNsqe31IA9hSzLEHwsPJCyXLTZt5n/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-##### TEACHER ICS
-
+#### **TEACHER ICS**
 
 *   Ms Asmah Beevi(OIC)
 *   Mr Peter Tan (AIC)
 *   Ms Nurul Farhanah
 *   Mdm Stella Ng
 
-##### STUDENT EXECUTIVE COMMITTEE
-
-
-  
+#### **STUDENT EXECUTIVE COMMITTEE**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -90,17 +86,14 @@ In the course of the CCA, students are also encouraged to participate in select 
 </table>
   
 
-##### &nbsp;KEY EVENTS (2023)
+#### **KEY EVENTS (2023)**
 
 
 • Artificial Intelligence Workshops  
 • Swift App Development Workshops  
 • Robotics Workshops
 
-##### KEY ACHIEVEMENTS (2020 - 2022)
-
-
-  
+#### **KEY ACHIEVEMENTS (2020 - 2022)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -148,7 +141,7 @@ In the course of the CCA, students are also encouraged to participate in select 
 </table>
   
 
-##### TRAINING DETAILS
+#### **TRAINING DETAILS**
 
 
 <style type="text/css">
