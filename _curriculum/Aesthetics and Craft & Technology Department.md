@@ -1,25 +1,22 @@
 ---
-title: Aesthetics and Craft & Technology Department
+title: Aesthetics and Craft &amp; Technology Department
 permalink: /curriculum/aesthetics-and-craft-n-technology-department/
 description: ""
 ---
-VISION
-------
+#### **VISION**
 
   
 Future-Ready Contributors with a Passion for Creative Expression.  
   
 
-MISSION
--------
+#### **MISSION**
 
   
 Discovering Passion, Empowering Skills.  
   
   
 
-DEPARTMENT OBJECTIVES
----------------------
+#### **DEPARTMENT OBJECTIVES**
 
   
 
@@ -27,16 +24,13 @@ The Craft &amp; Technology and Aesthetics Department offers applied learning sub
 
 The department aims to develop students by encouraging critical thinking skills, fostering creativity and developing life skills through the appreciation of aesthetics, design and food sciences in their everyday life.
 
-ART UNIT
---------
+#### **ART UNIT**
 
-  
-
-**MISSION**  
+**<u>MISSION</u>**  
 To enable every Clementeen to appreciate art and be equipped with fundamental art skills  
   
 
-**KEY PROGRAMMES**
+**<u>KEY PROGRAMMES</u>**
 
 In CTSS, art lessons are planned closely in line with MOE syllabus guidelines:  
   
@@ -104,13 +98,11 @@ The Studio Practice engages students in the creation of artworks. Students hone 
 
 **Painting Classes**
 
-<img src="/images/painting%20classes.jpg"  
-style="width:75%">
+<img src="/images/painting%20classes.jpg" style="width:75%">
 
 **Art CCA – Art Club**
 
-<img src="/images/Art03.jpeg"  
-style="width:35%">
+<img src="/images/Art03.jpeg" style="width:35%">
 
 **Student's Artwork: Jolin Faith Lim**
 ![Student's Artwork: Jolin Faith Lim](/images/Art04.jpeg)
@@ -121,15 +113,14 @@ style="width:35%">
 **Student's Artwork: Joey Chang**
 ![Student's Artwork: Joey Chang](/images/Art06.jpeg)
 
-**Student's Artwork**: **Sarah Qinstina’**
+**Student's Artwork**:&nbsp;**Sarah Qinstina’**
 ![Student's Artwork: Sarah Qinstina’](/images/Art07.jpeg)
 
-DESIGN & TECHNOLOGY UNIT
-------------------------
+#### **DESIGN &amp; TECHNOLOGY UNIT**
 
   
 
-**Mission** 
+**Mission**&nbsp;
 
 To nurture students with designerly dispositions through designing and making.
 
@@ -139,11 +130,11 @@ The designerly dispositions are as follows: 1. embracing uncertainties and compl
 
 **<u>Key Programmes</u>**
 
-The Design & Technology (DT) Unit runs a four year programme equipping the pupils with the knowledge and skills for their N and O levels examinations. Lower secondary pupils learn basic technologies, designing processes and hands-on skills. They get to put the knowledge into practice, cumulating in mini-projects and prototypes.
+The Design &amp; Technology (DT) Unit runs a four year programme equipping the pupils with the knowledge and skills for their N and O levels examinations. Lower secondary pupils learn basic technologies, designing processes and hands-on skills. They get to put the knowledge into practice, cumulating in mini-projects and prototypes.
 
 We prepare the upper secondary pupils for their N and O levels examinations at Secondary Three by assimilating to the requirements of the national examinations, involving knowledge application and problem-solving. They expand on their basic knowledge to develop greater understanding and appreciation of the relatedness to real-life situations. They also take on real-time design tasks to arrive at feasible design solutions.
 
-Students from different levels also participate in external competitions such as Annual Design & Technology Awards and Science and Technology Challenge organised by Nanyang Polytechnic annually.
+Students from different levels also participate in external competitions such as Annual Design &amp; Technology Awards&nbsp;and Science and Technology Challenge organised by Nanyang Polytechnic annually.
 
 **<u>Lower Secondary Projects</u>**
 ![Lower Secondary Projects](/images/lower%20secondary%20projects.jpg)
@@ -151,31 +142,30 @@ Students from different levels also participate in external competitions such as
 **<u>Upper Secondary Projects</u>**
 ![Upper Secondary Projects](/images/upper%20secondary%20projects.jpg)
 
-NUTRITION & FOOD SCIENCE UNIT
------------------------------
+#### **NUTRITION &amp; FOOD SCIENCE UNIT**
 
   
 
-**Mission** 
+**Mission**
 
-To develop every Clementeen the passions to learn knowledge and skills in Nutrition and Food Science, empowering them to be innovative, health-conscious and discerning consumer for the present and future.
+To develop every Clementeen the passions to learn knowledge and skills in Nutrition and Food Science,&nbsp;empowering them to be innovative, health-conscious and discerning consumer for the present and future.
 
 **<u>Key Programmes</u>** <br>
-**Lower Secondary (Food and consumer education FCE)** 
+**Lower Secondary (Food and consumer education FCE)**&nbsp;
 
-FCE in the 21st century is designed with the social and economic landscape of Singapore in mind, both current and future.  The syllabus takes into consideration new lifestyles and consumer trends, and therefore, the knowledge, skills and attitudes required of young learners related to health and financial management. 
+FCE in the 21st century is designed with the social and economic landscape of Singapore in mind, both current and future.&nbsp; The syllabus takes into consideration new lifestyles and consumer trends, and therefore, the knowledge, skills and attitudes required of young learners related to health and financial management.&nbsp;
 
-**Food Studies** and **Consumer Studies** are two Core Areas of Study that students need to learn. Food studies will equip students with food management and culinary skills, the knowledge about diet and health, so that they could be more discerning in choosing nutritious food for good health and be informed of the benefits of a balanced meal. Consumer Studies will learn basic principles of consumer education to manage resources and understand consumer rights and responsibilities. 
-
-  
-
-**Elective Modules** are included in FCE syllabus for students to extend their learning and provides opportunities for students to undertake projects through which they are required to do planning, research, problem-solving and evaluation.
+**Food Studies**&nbsp;and&nbsp;**Consumer Studies**&nbsp;are two Core Areas of Study that students need to learn. Food studies will equip students with food management and culinary skills, the knowledge about diet and health, so that they could be more discerning in choosing nutritious food for good health and be informed of the benefits of a balanced meal. Consumer Studies will learn basic principles of consumer education to manage resources and understand consumer rights and responsibilities.&nbsp;
 
   
 
-**Upper Secondary (Food and Nutrition F&N)** 
+**Elective Modules**&nbsp;are&nbsp;included in&nbsp;FCE syllabus for students to extend their learning and provides opportunities for students to undertake projects through which they are required to do planning, research, problem-solving and evaluation.
 
-F&N is an elective subject offered at upper secondary level to provide students with fundamental grounding in nutrition, health and food science that prepares them for tertiary studies in applied food science and careers in the health food and beverage industries. They will gain knowledge of being an informed consumer through food selection and be equipped with culinary skills and nutrition knowledge in food preparation and recipe modification.
+  
+
+**Upper Secondary (Food and Nutrition F&amp;N)**&nbsp;
+
+F&amp;N is an elective subject offered at upper secondary level to provide students with fundamental grounding in nutrition, health and food science that prepares them for tertiary studies in applied food science and careers in the health food and beverage industries. They will gain knowledge of being an informed consumer through food selection and be equipped with culinary skills and nutrition knowledge in food preparation and recipe modification.
 
   
 
@@ -183,7 +173,7 @@ F&N is an elective subject offered at upper secondary level to provide students 
 **2019 Hospitality Race By Republic Polytechnic**
 
 ![2019 Hospitality Race By Republic Polytechnic](/images/achievemnts%201.jpg)
-**Main course** : Gaba Rice chicken porridge <br>
+**Main course**&nbsp;: Gaba Rice chicken porridge <br>
 **Dessert**: Super passion fruit BuBur Cha Cha
 
   
@@ -193,7 +183,7 @@ F&N is an elective subject offered at upper secondary level to provide students 
 ![2019 Sandwich Making Competition By Keat Hong CC](/images/achievements%202.jpg)
 
 **<u>Enrichment Programme</u>** <br>
-**Food Science in the kitchen @ Singapore Science Centre** 
+**Food Science in the kitchen @ Singapore Science Centre**&nbsp;
 
 Molecular gastronomy uses the chemistry behind various cooking methods to create innovative food items. Students created caviers and chocolate spaghetti.
 ![Food Science in the kitchen @ Singapore Science Centre](/images/enrichment%20programme%201.jpg)
@@ -215,11 +205,11 @@ Create and provide opportunities for all to learn and be engaged through active 
 
 Students are given opportunities to:
 
-1.    **Listen** to various music genres
+1.&nbsp; &nbsp;&nbsp;**Listen**&nbsp;to various music genres
 
-2.    **Create** simple compositions using authentic instruments and electronic mediums
+2.&nbsp;&nbsp;&nbsp;&nbsp;**Create**&nbsp;simple compositions using authentic instruments and electronic mediums
 
-3.    **Perform** individually and as an ensemble
+3.&nbsp;&nbsp;&nbsp;&nbsp;**Perform**&nbsp;individually and as an ensemble
 
 
 <p style="text-align:center;"> <strong>CT Music Curriculum</strong></p>
@@ -271,9 +261,9 @@ Students are given opportunities to:
 
 **CT Performance Programmes**
 
-I.        Voice of CT
+I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voice of CT
 
-II.        Starz@Canteen
+II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Starz@Canteen
 
 ![CT Performance Programmes](/images/CT%20Performance%20Programmes.jpg)
 
@@ -288,6 +278,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
