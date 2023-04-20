@@ -9,3 +9,13 @@ Lee Jia Ying
 Class 5B2
 
 <img style="width:40%;height:40%" src="/images/Outstanding%20Clementeens/A1.jpg">
+
+<br><br><br>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
