@@ -192,8 +192,7 @@ Molecular gastronomy uses the chemistry behind various cooking methods to create
 Students learnt the processes involved in pasta making.
 ![Pasta Workshop @ SMU](/images/enrichment%20programme%202.jpg)
 
-MUSIC UNIT
-----------
+#### MUSIC UNIT
 
   
 
@@ -201,7 +200,7 @@ MUSIC UNIT
 
 Create and provide opportunities for all to learn and be engaged through active music making in a scholastic environment
 
-**Key Programmes:**
+**<u>Key Programmes:</u>**
 
 Students are given opportunities to:
 
