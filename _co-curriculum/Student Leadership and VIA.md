@@ -109,9 +109,9 @@ At Secondary 2, students are required to engage in Service-Learning that impacts
 
 <img src="/images/SL08.jpeg" style="width:30%">
 
-<img src="/images/SL09.jpeg" style="width:70%">
+<img src="/images/SL09.jpeg" style="width:60%">
 
-<img src="/images/SL10.jpeg" style="width:70%">
+<img src="/images/SL10.jpeg" style="width:60%">
 
 At upper secondary levels, students are required to self-initiate their own Service-Learning project with facilitation by teachers. The programme not only strives to encourage an active student voice but also to engage Clementeens in meaningful service to the school and communities through careful integration with established service and learning objectives so that they are able to work effectively in teams to come up with innovative ideas and collectively play an active role in bettering the lives of others.
 
