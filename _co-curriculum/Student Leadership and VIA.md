@@ -107,7 +107,7 @@ At Secondary 1, students participate in Project Clean-My-School to clean up CTSS
 
 At Secondary 2, students are required to engage in Service-Learning that impacts the environment of the Clementi community. They are involved in a recycling outreach programme to publicise and collect recyclables from residents living in Clementi neighbourhood.
 
-<img src="/images/SL08.jpeg" style="width:40%">
+<img src="/images/SL08.jpeg" style="width:30%">
 
 <img src="/images/SL09.jpeg" style="width:70%">
 
