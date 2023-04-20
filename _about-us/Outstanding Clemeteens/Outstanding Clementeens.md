@@ -11,7 +11,7 @@ Our Clementeens have excelled in multiple areas. Please click on the following l
 
 
   
-We are pleased to announce that our Clementeens have clinched the Special Award from China Association for Science and Technology (CAST) in the Regeneron International Science and Engineering Fair 2022.   
+We are pleased to announce that our Clementeens have clinched the&nbsp;Special Award from China Association for Science and Technology (CAST) in the&nbsp;Regeneron International Science and Engineering Fair 2022.&nbsp;  
   
 Please click on the following link to find out more about their achievement:  
 [Singapore Students Clinch Four Awards at International Science Fair](https://www.moe.gov.sg/news/press-releases/20220530-singapore-students-clinch-four-awards-at-international-science-fair)  
@@ -61,11 +61,11 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> 1</span></td>
+    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">1</span></td>
     <td class="tg-8c83"><span style="color:#000;background-color:#EBEBEB">Misha Tan Zi Hui</span></td>
     <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">S4-CD</span><br></td>
     <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> 4B1</span></td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Clementeen Of The Year Award  2021</span></td>
+    <td class="tg-3icd"><span style="color:#000;background-color:#EBEBEB">Clementeen Of The Year Award  2021</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="color:#000">2</span></td>
@@ -79,7 +79,7 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
     <td class="tg-8c83"><span style="color:#000;background-color:#EBEBEB">Sofia Alisha Binte Mohamed Razip</span><br></td>
     <td class="tg-3icd"><span style="color:#000">S4-DC</span></td>
     <td class="tg-3icd"><span style="color:#000">4A1</span></td>
-    <td class="tg-b1n3"><span style="color:#000">Performing Arts Medallion</span></td>
+    <td class="tg-3icd"><span style="color:#000">Performing Arts Medallion</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="color:#000">4</span></td>
@@ -130,13 +130,13 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
 
 
   
-1. [Chay Yen Yee Ericia](/chay-yen-yee-ericia/)  
-2. [Thejus Unnikrishnan](/thejus-unnikrishnan/)  
-3. [Desmond Chan Keng Hui](/files/Outstanding%20Clementeens/A4.pdf)  
-4. [Don Loi Xu](/files/Outstanding%20Clementeens/A5.pdf)   
-5. [Kenneth Chan Kang Er](/files/Outstanding%20Clementeens/A6.pdf)  
-6. [Rakesh Roy Joseph](/files/Outstanding%20Clementeens/A7.pdf)   
-7. [Songkiat Ow Shiyuan](/songkiat-ow-shiyuan/)  
+1.&nbsp;[Chay Yen Yee Ericia](/chay-yen-yee-ericia/)  
+2.&nbsp;[Thejus Unnikrishnan](/thejus-unnikrishnan/)  
+3.&nbsp;[Desmond Chan Keng Hui](/files/Outstanding%20Clementeens/A4.pdf)  
+4.&nbsp;[Don Loi Xu](/files/Outstanding%20Clementeens/A5.pdf)   
+5.&nbsp;[Kenneth Chan Kang Er](/files/Outstanding%20Clementeens/A6.pdf)  
+6.&nbsp;[Rakesh Roy Joseph](/files/Outstanding%20Clementeens/A7.pdf)   
+7.&nbsp;[Songkiat Ow Shiyuan](/songkiat-ow-shiyuan/)  
 
 ##### **NSF OF THE YEAR 2019**
 
