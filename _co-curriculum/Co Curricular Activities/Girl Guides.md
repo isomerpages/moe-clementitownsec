@@ -33,29 +33,29 @@ The CTSS 1st Coy aims to provide the girls with the opportunity for self-trainin
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-jxgv">Name</th>
-    <th class="tg-ktyi">Class</th>
-    <th class="tg-ktyi">Position / Appointment</th>
+    <th style="border: 1px solid black" class="tg-jxgv">Name</th>
+    <th style="border: 1px solid black" class="tg-ktyi">Class</th>
+    <th style="border: 1px solid black" class="tg-ktyi">Position / Appointment</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b1n3">NUR SYARAFYNA BINTE ROSLEE</td>
-    <td class="tg-b1n3">3C1</td>
-    <td class="tg-b1n3">Company Leader</td>
+    <td style="border: 1px solid black" class="tg-b1n3">NUR SYARAFYNA BINTE ROSLEE</td>
+    <td style="border: 1px solid black" class="tg-b1n3">3C1</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Company Leader</td>
   </tr>
   <tr>
-    <td class="tg-7yig">KHOO JING WEI</td>
-    <td class="tg-7yig">3B1</td>
-    <td class="tg-7yig">Assistant Company Leader</td>
+    <td style="border: 1px solid black" class="tg-7yig">KHOO JING WEI</td>
+    <td style="border: 1px solid black" class="tg-7yig">3B1</td>
+    <td style="border: 1px solid black" class="tg-7yig">Assistant Company Leader</td>
   </tr>
   <tr>
-    <td class="tg-b1n3">MUTHUKUMARAN HARSHITHASREE</td>
-    <td class="tg-b1n3">3D1</td>
-    <td class="tg-b1n3">Assistant Company Leader</td>
+    <td style="border: 1px solid black" class="tg-b1n3">MUTHUKUMARAN HARSHITHASREE</td>
+    <td style="border: 1px solid black" class="tg-b1n3">3D1</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Assistant Company Leader</td>
   </tr>
 </tbody>
 </table>
@@ -73,21 +73,21 @@ The CTSS 1st Coy aims to provide the girls with the opportunity for self-trainin
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">Year</th>
-    <th class="tg-9hzb">Position, Name of Competition</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Year</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Position, Name of Competition</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">2021</span></td>
-    <td class="tg-b1n3">Baden Powell Award (BPA) 2021 – Khoo Jing Wei (3B1) </td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">2021</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3">Baden Powell Award (BPA) 2021 – Khoo Jing Wei (3B1) </td>
   </tr>
   <tr>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">2020</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Silver, Puan Noor Aishah Award (PNAA)</span></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF">2020</span></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF">Silver, Puan Noor Aishah Award (PNAA)</span></td>
   </tr>
 </tbody>
 </table>
@@ -106,32 +106,32 @@ The CTSS 1st Coy aims to provide the girls with the opportunity for self-trainin
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">Year</th>
-    <th class="tg-9hzb">Name of Event</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Year</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Name of Event</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> 2021</span></td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Tent Pitching Skills Training at Camp Christine (5-Feb/ 19-Feb Fri)</span></td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> 2021</span></td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Tent Pitching Skills Training at Camp Christine (5-Feb/ 19-Feb Fri)</span></td>
   </tr>
   <tr>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> 2021</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> World Thinking Day Celebrations (20 Feb Sat)</span></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF"> 2021</span></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF"> World Thinking Day Celebrations (20 Feb Sat)</span></td>
   </tr>
   <tr>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> 2021</span></td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Outdoor Skills Training Day at Camp Christine (13-Mar Sat) </span></td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> 2021</span></td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Outdoor Skills Training Day at Camp Christine (13-Mar Sat) </span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="color:#000">2020</span></td>
-    <td class="tg-7yig"><span style="color:#000">World Thinking Day</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">2020</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">World Thinking Day</span></td>
   </tr>
   <tr>
-    <td class="tg-b1n3"><span style="color:#000">2020</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000">2020</span></td>
     <td class="tg-b1n3"><span style="color:#000">Unit Camp</span></td>
   </tr>
 </tbody>
@@ -150,24 +150,24 @@ The CTSS 1st Coy aims to provide the girls with the opportunity for self-trainin
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">Day</th>
-    <th class="tg-9hzb">Time</th>
-    <th class="tg-9hzb">Venue</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Day</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Time</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Venue</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Wednesday</span></td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">3.20 - 5.45 pm </span></td>
-    <td class="tg-b1n3">Sch Compound</td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Wednesday</span></td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">3.20 - 5.45 pm </span></td>
+    <td style="border: 1px solid black" class="tg-b1n3">Sch Compound</td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="color:#000">Friday</span></td>
-    <td class="tg-7yig"><span style="color:#000">2.30 - </span>5.45 pm </td>
-    <td class="tg-7yig"><span style="color:#000">Sch Compound</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">Friday</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">2.30 - </span>5.45 pm </td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">Sch Compound</span></td>
   </tr>
 </tbody>
 </table>
