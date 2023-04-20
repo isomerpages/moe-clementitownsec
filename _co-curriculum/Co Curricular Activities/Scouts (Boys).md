@@ -70,21 +70,21 @@ In line with the mission of Scouting, the CTS Griffin Scout Unit aims to contrib
 .tg .tg-ahip{background-color:#EBEBEB;text-align:center;vertical-align:middle}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-7yig">2021</th>
-    <th class="tg-7yig">Night Hike (20 km)</th>
+    <th style="border: 1px solid black" class="tg-7yig">2021</th>
+    <th style="border: 1px solid black" class="tg-7yig">Night Hike (20 km)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b1n3">2021</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Scouts Wood Badge Award Presentation Ceremony</span><br></td>
+    <td style="border: 1px solid black" class="tg-b1n3">2021</td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Scouts Wood Badge Award Presentation Ceremony</span><br></td>
   </tr>
   <tr>
-    <td class="tg-7yig">2020</td>
-    <td class="tg-7yig">eCCA and participation in e-SLC. (Student Leadership Course)</td>
+    <td style="border: 1px solid black" class="tg-7yig">2020</td>
+    <td style="border: 1px solid black" class="tg-7yig">eCCA and participation in e-SLC. (Student Leadership Course)</td>
   </tr>
 </tbody>
 </table>
@@ -100,21 +100,21 @@ In line with the mission of Scouting, the CTS Griffin Scout Unit aims to contrib
 .tg .tg-b1n3{background-color:#EBEBEB;text-align:center;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-7yig">Year</th>
-    <th class="tg-7yig">Position, Name of Competition</th>
+    <th style="border: 1px solid black" class="tg-7yig">Year</th>
+    <th style="border: 1px solid black" class="tg-7yig">Position, Name of Competition</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b1n3"> 2020</td>
-    <td class="tg-b1n3">FRANK COOPER SANDS AWARD –GOLD AWARD</td>
+    <td style="border: 1px solid black" class="tg-b1n3"> 2020</td>
+    <td style="border: 1px solid black" class="tg-b1n3">FRANK COOPER SANDS AWARD –GOLD AWARD</td>
   </tr>
   <tr>
-    <td class="tg-7yig"> 2019</td>
-    <td class="tg-7yig">FRANK COOPER SANDS AWARD –GOLD AWARD</td>
+    <td style="border: 1px solid black" class="tg-7yig"> 2019</td>
+    <td style="border: 1px solid black" class="tg-7yig">FRANK COOPER SANDS AWARD –GOLD AWARD</td>
   </tr>
 </tbody>
 </table>
