@@ -125,6 +125,6 @@ Note that:
 </tbody>
 </table>
 
-**Sec 4 and 5**
+**<u>Sec 4 and 5</u>**
 
 **For Sec 4 and 5 students**, the Preliminary Examinations will account for 100% of the Overall Results in school-based assessments.
