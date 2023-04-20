@@ -133,24 +133,24 @@ In line with the mission of Scouting, the CTS Griffin Scout Unit aims to contrib
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">Day</th>
-    <th class="tg-9hzb">Time</th>
-    <th class="tg-9hzb">Venue</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Day</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Time</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Venue</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b1n3"><span style="color:#000">Wednesday</span></td>
-    <td class="tg-b1n3"><span style="color:#000">3.30 - 5.30</span> pm</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Foyer, Quadrangle, Fitness Area, Field</span><br></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000">Wednesday</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000">3.30 - 5.30</span> pm</td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Foyer, Quadrangle, Fitness Area, Field</span><br></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="color:#000">Friday</span></td>
-    <td class="tg-7yig"><span style="color:#000">2.30 – 5.30 pm</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Foyer, Quadrangle, Fitness Area, Field</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">Friday</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">2.30 – 5.30 pm</span></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF">Foyer, Quadrangle, Fitness Area, Field</span></td>
   </tr>
 </tbody>
 </table>
