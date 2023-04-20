@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities/drama-club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-##### ABOUT THE CCA
+#### **ABOUT THE CCA**
 
 
   
@@ -12,12 +12,12 @@ CTSS Drama Club was established in 2010, with three official Secondary 1 members
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_ViVj7GG_VLKroe0jQHTJqkt-BkoPWa5T7z7bHszf6QE8E-OeF_koAKsJ9r5brL2CDp26nImDSB8K/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-##### TEACHERS IN-CHARGE
+#### **TEACHERS IN-CHARGE**
 
 
   
 
-*   Mrs Rachel Lee (OIC)  
+*   Mrs Rachel Lee&nbsp;(OIC)  
     
 *   Mr Vivek Venugopal (AIC)
 *   Mrs Lim Lye Sim  
@@ -26,7 +26,7 @@ CTSS Drama Club was established in 2010, with three official Secondary 1 members
 
   
 
-##### STUDENT EXECUTIVE COMMITTEE
+#### **STUDENT EXECUTIVE COMMITTEE**
 
 
   
@@ -35,9 +35,7 @@ CTSS Drama Club was established in 2010, with three official Secondary 1 members
 
   
 
-##### KEY EVENTS 
-
-
+#### **KEY EVENTS**
   
 
 <table class="ive_eobj_center iveo_table ives_tab_dark" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 719px; height: 144px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 165px;"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Year</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 553px;"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Events</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;CTSS ONLINE MUSICAL 2021- REPLAY</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2020&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;The Show Must Go On (CT Drama’s 1st online production)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;CTSS’ 7<sup style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>Musical - “All Of Her Yesterdays"</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;FOUR(四)&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2018</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">CTSS’ 6th Musical – Where Did You Go?&nbsp;</td></tr></tbody></table>
@@ -45,22 +43,15 @@ CTSS Drama Club was established in 2010, with three official Secondary 1 members
   
   
 
-##### KEY ACHIEVEMENTS IN 2019 - 2021
+#### **KEY ACHIEVEMENTS IN 2019 - 2021**
 
 
   
 
 <table class="ive_eobj_center iveo_table ives_tab_dark" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 717px; height: 151px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 119px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Year&nbsp; &nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 597px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Position, Name of Competition</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Singapore Youth Festival Arts Appreciation (The Sun Sets The Same) – English Drama (Certificate of Accomplishment)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Singapore Youth Festival Arts Appreciation (Normal) – English Drama (Certificate of Distinction)&nbsp; &nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">Singapore Youth Festival Arts Appreciation (Everything In Its Place) – English Drama (Certificate of Distinction)&nbsp;</td></tr></tbody></table>
 
-  
-  
-  
 
-##### TRAINING DETAILS
-
-
-  
-  
+#### **TRAINING DETAILS**
 
 <table class="ive_eobj_center iveo_table ives_tab_dark" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 744px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 216px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Day</span></b></p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 210px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Time</span></b></p></td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 317px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Venue</span></b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Monday</span></p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">3.00 pm – 6.00 pm</span></p></td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">AVA Room</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Wednesday</p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">3.00 pm – 6.00 pm</td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">AVA Room</span></p></td></tr></tbody></table>
 
@@ -75,6 +66,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
