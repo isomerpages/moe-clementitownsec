@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/outdoor-adventure-club-odac/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-#### ABOUT THE CCA
+#### **ABOUT THE CCA**
   
 
 Formed in 2014, CT ODAC started out initially as an interest group with a focus on exposing students with sporting activities such as ultimate frisbee. Over the years, ODAC has grown to be a more closely-knit family to all. Through shared experiences in the outdoors such as weekly hikes, cycling, high elements, kayaking, we provide a safe space for ODACians to discover more about their own strengths and limitations, and to develop the willingness to learn and grow.
@@ -15,7 +15,7 @@ As we embark on our next adventure, we endeavour our students to do so with a st
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLAgb9FND0FqW5VjCrTkB2dokNR67fNs0diGIxUjTLWhrjfjsF9plkg4VG-bdtcexayXevt0oUD80Q/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
-#### TEACHERS IN-CHARGE
+#### **TEACHERS IN-CHARGE**
 
   
 
@@ -25,7 +25,7 @@ As we embark on our next adventure, we endeavour our students to do so with a st
 
   
 
-#### STUDENT EXECUTIVE COMMITTEE
+#### **STUDENT EXECUTIVE COMMITTEE**
 
   
 
@@ -33,7 +33,7 @@ As we embark on our next adventure, we endeavour our students to do so with a st
 
   
 
-#### KEY EVENTS
+#### **KEY EVENTS**
 
   
 
@@ -41,7 +41,7 @@ As we embark on our next adventure, we endeavour our students to do so with a st
 
   
 
-#### KEY ACHIEVEMENTS IN 2016-2019
+#### **KEY ACHIEVEMENTS IN 2016-2019**
 
   
 
@@ -53,7 +53,7 @@ As we embark on our next adventure, we endeavour our students to do so with a st
   
   
 
-#### TRAINING DETAILS
+#### **TRAINING DETAILS**
 
   
 
