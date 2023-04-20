@@ -139,3 +139,13 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
 
 
 [CFC Haw Yuan Zhi](/files/Outstanding%20Clementeens/A10.pdf)
+
+<br><br><br>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
