@@ -47,3 +47,13 @@ We are grateful and humbled by your support. We will continue to work hard!&nbsp
   
 
 Team SiA would love to thank all those who supported us throughout our journey! We appreciate your effort and are grateful for all the guidance and support we have received from all of you.
+
+<br><br><br>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
