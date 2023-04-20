@@ -96,25 +96,25 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
     <td style="border: 1px solid black" class="tg-3icd"><span style="color:#000">Uniformed Groups Cadet Of The Year</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="color:#000">6</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Sahana Ramamoorthy</span><br></td>
-    <td class="tg-ktyi"><span style="color:#000">S4-ID</span></td>
-    <td class="tg-ktyi"><span style="color:#000">4B1</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Bilingual Award</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">6</span></td>
+    <td style="border: 1px solid black" class="tg-zr06"><span style="color:#000;background-color:#FFF">Sahana Ramamoorthy</span><br></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">S4-ID</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">4B1</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">Bilingual Award</span></td>
   </tr>
   <tr>
-    <td class="tg-3icd"><span style="color:#000">7</span></td>
-    <td class="tg-8c83"><span style="color:#000;background-color:#EBEBEB">Lim Jee Kei</span><br></td>
-    <td class="tg-3icd"><span style="color:#000">S4-AC</span></td>
-    <td class="tg-3icd"><span style="color:#000">4B1</span></td>
-    <td class="tg-3icd"><span style="color:#000">Humanities Award</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="color:#000">7</span></td>
+    <td style="border: 1px solid black" class="tg-8c83"><span style="color:#000;background-color:#EBEBEB">Lim Jee Kei</span><br></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="color:#000">S4-AC</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="color:#000">4B1</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="color:#000">Humanities Award</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="color:#000">8</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Kuok Ray Ann</span><br></td>
-    <td class="tg-ktyi"><span style="color:#000">S4-GG</span></td>
-    <td class="tg-ktyi"><span style="color:#000">4B1</span></td>
-    <td class="tg-ktyi"><span style="color:#000">Mathematics and Science Award</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">8</span></td>
+    <td style="border: 1px solid black" class="tg-zr06"><span style="color:#000;background-color:#FFF">Kuok Ray Ann</span><br></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">S4-GG</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">4B1</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">Mathematics and Science Award</span></td>
   </tr>
 </tbody>
 </table>
