@@ -37,60 +37,60 @@ In the course of the CCA, students are also encouraged to participate in select 
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-ktyi">Name</th>
-    <th class="tg-ktyi">Class</th>
-    <th class="tg-ktyi">Position / Appointment</th>
+    <th style="border: 1px solid black" class="tg-ktyi">Name</th>
+    <th style="border: 1px solid black" class="tg-ktyi">Class</th>
+    <th style="border: 1px solid black" class="tg-ktyi">Position / Appointment</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Uy Samuel Mason Villalobos</span><br></td>
-    <td class="tg-b1n3">4MM</td>
-    <td class="tg-b1n3">President</td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Uy Samuel Mason Villalobos</span><br></td>
+    <td style="border: 1px solid black" class="tg-b1n3">4MM</td>
+    <td style="border: 1px solid black" class="tg-b1n3">President</td>
   </tr>
   <tr>
-    <td class="tg-7yig"><br>Ivan Chan Guan Yu</td>
-    <td class="tg-7yig">4MM</td>
-    <td class="tg-7yig">Vice-President</td>
+    <td style="border: 1px solid black" class="tg-7yig"><br>Ivan Chan Guan Yu</td>
+    <td style="border: 1px solid black" class="tg-7yig">4MM</td>
+    <td style="border: 1px solid black" class="tg-7yig">Vice-President</td>
   </tr>
   <tr>
-    <td class="tg-b1n3"><br>Heng Yu Hang</td>
-    <td class="tg-b1n3">4MM</td>
-    <td class="tg-b1n3">Secretary</td>
+    <td style="border: 1px solid black" class="tg-b1n3"><br>Heng Yu Hang</td>
+    <td style="border: 1px solid black" class="tg-b1n3">4MM</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Secretary</td>
   </tr>
   <tr>
-    <td class="tg-7yig"><br>Lim Zhengwei Javier</td>
-    <td class="tg-7yig">4MM</td>
-    <td class="tg-7yig">PA Head</td>
+    <td style="border: 1px solid black" class="tg-7yig"><br>Lim Zhengwei Javier</td>
+    <td style="border: 1px solid black" class="tg-7yig">4MM</td>
+    <td style="border: 1px solid black" class="tg-7yig">PA Head</td>
   </tr>
   <tr>
-    <td class="tg-b1n3"><br>Rehan Faris Bin Nazirudin</td>
-    <td class="tg-b1n3">4MM</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">PA Head</span><br></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><br>Rehan Faris Bin Nazirudin</td>
+    <td style="border: 1px solid black" class="tg-b1n3">4MM</td>
+    <td style="border: 1px solid black" class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">PA Head</span><br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Koh Yu Heng</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> 4MM</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Photo Head</span><br></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Koh Yu Heng</span></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF"> 4MM</span></td>
+    <td style="border: 1px solid black" class="tg-f4yw"><span style="color:#000;background-color:#FFF">Photo Head</span><br></td>
   </tr>
   <tr>
-    <td class="tg-b1n3"><br>Wang Xian Yao</td>
-    <td class="tg-b1n3">4MM</td>
-    <td class="tg-b1n3">Video Head</td>
+    <td style="border: 1px solid black" class="tg-b1n3"><br>Wang Xian Yao</td>
+    <td style="border: 1px solid black" class="tg-b1n3">4MM</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Video Head</td>
   </tr>
   <tr>
-    <td class="tg-7yig"><br>Xavier Shen Ru Feng</td>
-    <td class="tg-7yig">4MM</td>
-    <td class="tg-7yig">Robotics Head</td>
+    <td style="border: 1px solid black" class="tg-7yig"><br>Xavier Shen Ru Feng</td>
+    <td style="border: 1px solid black" class="tg-7yig">4MM</td>
+    <td style="border: 1px solid black" class="tg-7yig">Robotics Head</td>
   </tr>
 </tbody>
 </table>
   
 
-#####  KEY EVENTS (2023)
+##### &nbsp;KEY EVENTS (2023)
 
 
 • Artificial Intelligence Workshops  
