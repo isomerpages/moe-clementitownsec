@@ -7,7 +7,7 @@ From 2023, the school will remove Mid-Year Examinations (MYE) which is in line w
 
   
 
-The WA can take the form of class tests, projects, oral presentations, coursework, performance tasks, practical tests, etc. In order to manage the assessment load for students and to optimise their learning, the school also has a policy of no more than:
+The WA can take the form of class tests, projects, oral presentations, coursework, performance tasks, practical tests, etc. In order to manage the assessment load for students and to optimise their learning, the school also has a policy of&nbsp;<u>no more than</u>:
 
 *   1 WA per subject per term,  
     
@@ -20,9 +20,9 @@ The WA can take the form of class tests, projects, oral presentations, coursewor
 
 **Assessment Weighting Plan**
 
-An Assessment Weighting Plan summarises the weightage contributed by each WA and EYE towards the Overall Results of students. A student’s promotion to the next level is based on his/her Overall Results.
+An Assessment Weighting Plan summarises the weightage contributed by each WA and EYE towards the Overall Results of students.&nbsp;<u>A student’s promotion to the next level is based on his/her Overall Results</u>.
 
-**Sec 1, 2 and 3 Non-Modular Subjects**
+**<u>Sec 1, 2 and 3 Non-Modular Subjects</u>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -33,25 +33,25 @@ An Assessment Weighting Plan summarises the weightage contributed by each WA and
 .tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-dgl5">WA1</th>
-    <th class="tg-dgl5">WA2</th>
-    <th class="tg-dgl5">WA3</th>
-    <th class="tg-dgl5">WA4</th>
-    <th class="tg-dgl5">EYE</th>
-    <th class="tg-dgl5">Overall</th>
+    <th style="border: 1px solid black" class="tg-dgl5">WA1</th>
+    <th style="border: 1px solid black" class="tg-dgl5">WA2</th>
+    <th style="border: 1px solid black" class="tg-dgl5">WA3</th>
+    <th style="border: 1px solid black" class="tg-dgl5">WA4</th>
+    <th style="border: 1px solid black" class="tg-dgl5">EYE</th>
+    <th style="border: 1px solid black" class="tg-dgl5">Overall</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3icd">15%</td>
-    <td class="tg-3icd">15%</td>
-    <td class="tg-3icd">15%</td>
-    <td class="tg-3icd">-</td>
-    <td class="tg-3icd">55%</td>
-    <td class="tg-3icd">100%</td>
+    <td style="border: 1px solid black" class="tg-3icd">15%</td>
+    <td style="border: 1px solid black" class="tg-3icd">15%</td>
+    <td style="border: 1px solid black" class="tg-3icd">15%</td>
+    <td style="border: 1px solid black" class="tg-3icd">-</td>
+    <td style="border: 1px solid black" class="tg-3icd">55%</td>
+    <td style="border: 1px solid black" class="tg-3icd">100%</td>
   </tr>
 </tbody>
 </table>
@@ -59,9 +59,9 @@ An Assessment Weighting Plan summarises the weightage contributed by each WA and
 Note that:
 
 1.  WA1, WA2, WA3 and WA4 represent the WA in Term 1, 2, 3 and 4 respectively.
-2.  For Sec 3 Design & Technology, the EYE constitutes 100% of the Overall Results. Teachers will monitor students’ progress closely and provide feedback to parents.
+2.  For Sec 3 Design &amp; Technology, the EYE constitutes 100% of the Overall Results. Teachers will monitor students’ progress closely and provide feedback to parents.
 
-**Lower Sec Modular Subjects in Semester 1 (_i.e. Sec 1 Design & Technology and Sec 2 Food and Consumer Education_)**
+**Lower Sec Modular Subjects in Semester 1 (_i.e. Sec 1 Design &amp; Technology and Sec 2 Food and Consumer Education_)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -91,7 +91,7 @@ Note that:
 </tbody>
 </table>
 
-**Lower Sec Modular Subjects in Semester 2 (_i.e. Sec 1 Food and Consumer Education, and Sec 2 Design & Technology_)**
+**Lower Sec Modular Subjects in Semester 2 (_i.e. Sec 1 Food and Consumer Education, and Sec 2 Design &amp; Technology_)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
