@@ -1,36 +1,25 @@
 ---
 title: Scouts
-permalink: /co-curriculum/co-curricular-activities/scouts
+permalink: /co-curriculum/co-curricular-activities/scouts/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
-ABOUT THE CCA
--------------
+#### **ABOUT THE CCA**
 
   
 In line with the mission of Scouting, the CTS Griffin Scout Unit aims to contribute to the education of Clementeens, through a values system based on the Scout Promise and Law; to help build a better world where people are self-fulfilled as individuals and play a constructive role in society.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTh1oPZb9hSU9m8acgX_l2kNNp0kJO4oVwy0DJztqPAM01f3zyZ0sZ3xSoIT-wsv0XJQlEmNGpcJG-h/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
-TEACHERS IN-CHARGE
-------------------
-
-  
+#### **TEACHERS IN-CHARGE**
 
 *   Mr Mohideen (OIC)  
-    
 *   Mr Chidambaran Saravanan (AIC)  
-    
 *   Mr Alvin Ng
 *   Mr Kamal Bin Yacob  
     
 
-  
-
-STUDENT EXECUTIVE COMMITTEE
----------------------------
+#### **STUDENT EXECUTIVE COMMITTEE**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -69,8 +58,7 @@ STUDENT EXECUTIVE COMMITTEE
 </tbody>
 </table>
 
-KEY EVENTS IN 2020 AND 2021
----------------------------
+#### **KEY EVENTS IN 2020 AND 2021**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -101,8 +89,7 @@ KEY EVENTS IN 2020 AND 2021
 </tbody>
 </table>
 
-KEY ACHIEVEMENTS IN 2019 - 2020
--------------------------------
+#### **KEY ACHIEVEMENTS IN 2019 - 2020**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -132,9 +119,7 @@ KEY ACHIEVEMENTS IN 2019 - 2020
 </tbody>
 </table>
 
-TRAINING DETAILS
-----------------
-
+#### **TRAINING DETAILS**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -181,4 +166,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
