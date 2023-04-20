@@ -3,7 +3,7 @@ title: School Brochure
 permalink: /about-us/school-brochure/
 description: ""
 ---
-Please click on this&nbsp;[link]()&nbsp;to view our School Brochure. Thank you.
+Please click on this&nbsp;[link](/files/2020%20school%20brochure_compressed.pdf)&nbsp;to view our School Brochure. Thank you.
 
 <br>
 <br>
