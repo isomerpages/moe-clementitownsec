@@ -112,37 +112,37 @@ In the course of the CCA, students are also encouraged to participate in select 
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-dgl5">Event</th>
-    <th class="tg-dgl5">Achievement</th>
+    <th style="border: 1px solid black" class="tg-dgl5">Event</th>
+    <th style="border: 1px solid black" class="tg-dgl5">Achievement</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b1n3">Our Schools Our Stories (OSOS) Photography Competition</td>
-    <td class="tg-b1n3">Participation</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Our Schools Our Stories (OSOS) Photography Competition</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Participation</td>
   </tr>
   <tr>
-    <td class="tg-7yig">First Lego League Competition</td>
-    <td class="tg-7yig">Participation</td>
+    <td style="border: 1px solid black" class="tg-7yig">First Lego League Competition</td>
+    <td style="border: 1px solid black" class="tg-7yig">Participation</td>
   </tr>
   <tr>
-    <td class="tg-b1n3">Singapore Young Photographer Award</td>
-    <td class="tg-b1n3">Certificate of Distinction</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Singapore Young Photographer Award</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Certificate of Distinction</td>
   </tr>
   <tr>
-    <td class="tg-7yig">iBuildSG Pinnacle Competition 2021</td>
-    <td class="tg-7yig">Participation</td>
+    <td style="border: 1px solid black" class="tg-7yig">iBuildSG Pinnacle Competition 2021</td>
+    <td style="border: 1px solid black" class="tg-7yig">Participation</td>
   </tr>
   <tr>
-    <td class="tg-b1n3">Applied AI for Recycling: Making a Difference for the Environment programme 2021</td>
-    <td class="tg-b1n3">Gaven Yong (S2-MM)<br>Lim Zhengwei Javier (S2-MM)<br>Rehan Faris Bin Nazirudin (S2-MM)</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Applied AI for Recycling: Making a Difference for the Environment programme 2021</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Gaven Yong (S2-MM)<br>Lim Zhengwei Javier (S2-MM)<br>Rehan Faris Bin Nazirudin (S2-MM)</td>
   </tr>
   <tr>
-    <td class="tg-7yig">Swift Accelerator Programme 2022</td>
-    <td class="tg-7yig"><br>Isaac Emmanuel Isaiah Lea (S1-MM)<br>Raditya Aryo Wahyudi (S3-MM)</td>
+    <td style="border: 1px solid black" class="tg-7yig">Swift Accelerator Programme 2022</td>
+    <td style="border: 1px solid black" class="tg-7yig"><br>Isaac Emmanuel Isaiah Lea (S1-MM)<br>Raditya Aryo Wahyudi (S3-MM)</td>
   </tr>
 </tbody>
 </table>
