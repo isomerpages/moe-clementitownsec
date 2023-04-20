@@ -31,7 +31,7 @@ In line with the mission of Scouting, the CTS Griffin Scout Unit aims to contrib
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
     <th style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">Name</span></th>
