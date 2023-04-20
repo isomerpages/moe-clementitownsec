@@ -34,26 +34,26 @@ In line with the mission of Scouting, the CTS Griffin Scout Unit aims to contrib
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ktyi"><span style="color:#000">Name</span></th>
-    <th class="tg-ktyi"><span style="color:#000">Class</span></th>
-    <th class="tg-ktyi"><span style="color:#000">Position / Appointment</span></th>
+    <th style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">Name</span></th>
+    <th style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">Class</span></th>
+    <th style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">Position / Appointment</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b1n3"><span style="color:#000">Branden Zhao Kang Jun</span></td>
-    <td class="tg-b1n3">3A1</td>
-    <td class="tg-b1n3">Troop Leader</td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000">Branden Zhao Kang Jun</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3">3A1</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Troop Leader</td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="color:#000">Austin Tan Boon Choong</span></td>
-    <td class="tg-7yig">3A1</td>
-    <td class="tg-7yig">Senior Patrol Leader</td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">Austin Tan Boon Choong</span></td>
+    <td style="border: 1px solid black" class="tg-7yig">3A1</td>
+    <td style="border: 1px solid black" class="tg-7yig">Senior Patrol Leader</td>
   </tr>
   <tr>
-    <td class="tg-b1n3"><span style="color:#000">Lung Alex Hotin</span></td>
-    <td class="tg-b1n3">3B1</td>
-    <td class="tg-b1n3">Senior Patrol Leader </td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000">Lung Alex Hotin</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3">3B1</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Senior Patrol Leader </td>
   </tr>
 </tbody>
 </table>
