@@ -31,13 +31,13 @@ The Science-in-Action (SiA) students would like to thank their:&nbsp;
 
   
 
-a/ Research Mentor  
-b/ Teacher Mentors  
-c/ Seniors, especially our senior lab alumni - Ms Joyce Yip  
-d/ our School Leaders, HOD, all Teachers, CCAPs and Lab Techs&nbsp;  
-e/ our Families - who supported us and gave us the strength and encouragement to find the courage to persevere throughout our journey  
-f/ our school's ICT Team  
-g/ External Mentors - Ms Sylvia Law and Ms Anni Wang&nbsp;  
+a. Research Mentor  
+b. Teacher Mentors  
+c. Seniors, especially our senior lab alumni - Ms Joyce Yip  
+d. our School Leaders, HOD, all Teachers, CCAPs and Lab Techs&nbsp;  
+e. our Families - who supported us and gave us the strength and encouragement to find the courage to persevere throughout our journey  
+f. our school's ICT Team  
+g.  External Mentors - Ms Sylvia Law and Ms Anni Wang&nbsp;  
 
   
 
