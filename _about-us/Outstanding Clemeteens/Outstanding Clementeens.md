@@ -72,7 +72,7 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Javen Lam</span><br></td>
     <td class="tg-ktyi"><span style="color:#000">S4-MM</span></td>
     <td class="tg-ktyi"><span style="color:#000">4C1</span></td>
-    <td class="tg-7yig"><span style="color:#000">Community Service Award</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Community Service Award</span></td>
   </tr>
   <tr>
     <td class="tg-3icd"><span style="color:#000">3</span></td>
@@ -86,7 +86,7 @@ Congratulations to the CTSS Excellence Awards Winners 2022.
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Muhammad Albaqir s/o Mohamad Nasir</span><br></td>
     <td class="tg-ktyi"><span style="color:#000">S4-BB</span></td>
     <td class="tg-ktyi"><span style="color:#000">4A2</span></td>
-    <td class="tg-7yig"><span style="color:#000">Sportsperson of the Year</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Sportsperson of the Year</span></td>
   </tr>
   <tr>
     <td class="tg-3icd"><span style="color:#000">5</span></td>
