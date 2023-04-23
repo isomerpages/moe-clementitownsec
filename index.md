@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/website banner size white.gif
+      background: /images/website banner size white_new.gif
       key_highlights:
         - title: About Us
           description: ""
