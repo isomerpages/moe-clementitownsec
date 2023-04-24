@@ -4,9 +4,9 @@ permalink: /co-curriculum/co-curricular-activities/infocomm-technology/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-InfoComm Technology Club (IT) is a service-oriented club, where we aim to develop technical skills among students in the areas of public announcement (PA), photography and robotics so that they can apply their skills in supporting the school through the various school events.  
+InfoComm Technology Club (IT) is a service-oriented club, where we aim to develop technical skills among students in the areas of Artificial Intelligence, App Development, Public Announcement (PA), Photography and Robotics so that they can apply their skills in supporting the school through the various school events.  
   
-In their four years, students learn different skill sets to ensure they are competent in supporting the various school events. Secondary One students learn to set-up PA and AV systems to support school and departmental events. They are also introduced to robotics and coding. In Secondary Two, students learn to take event photographs, do basic editing and archive photographs for easy retrieval. From Secondary Three, students are actively involved in applying the skills acquired to take on the roles of training their juniors and taking charge of rendering PA and photography support for school events.  
+In their four years, students learn different skill sets to ensure they are competent in supporting the various school events. Secondary One students learn App Development as well as to set-up PA and AV systems to support school and departmental events. They are also introduced to robotics and coding. In Secondary Two, students learn either App Development or Artificial Intelligence, as well as to take event photographs, do basic editing and archive photographs for easy retrieval. In Secondary Three, students learn Artificial Intelligence are actively involved in applying the skills acquired to take on the roles of training their juniors and taking charge of rendering PA and photography support for school events, as well as in setting up App Development and Artificial Intelligence Interest Groups.  
   
 In the course of the CCA, students are also encouraged to participate in select photography and robotics competitions to hone their skills and work collaboratively with one another.
 
@@ -14,10 +14,11 @@ In the course of the CCA, students are also encouraged to participate in select 
 
 #### **TEACHER ICS**
 
-*   Ms Asmah Beevi(OIC)
+*   Mr Kamal Bin Yacob (OIC)
 *   Mr Peter Tan (AIC)
+*   Mr Zhang Ming
 *   Ms Nurul Farhanah
-*   Mdm Stella Ng
+*   Mr Tan Jit Jin
 
 #### **STUDENT EXECUTIVE COMMITTEE**
 
@@ -89,11 +90,13 @@ In the course of the CCA, students are also encouraged to participate in select 
 #### **KEY EVENTS (2023)**
 
 
-• Artificial Intelligence Workshops  
-• Swift App Development Workshops  
-• Robotics Workshops
+* Artificial Intelligence Workshops  
+* Swift App Development Workshops  
+* Robotics Workshops
+* PA Training
+* Photography Training
 
-#### **KEY ACHIEVEMENTS (2020 - 2022)**
+#### **KEY ACHIEVEMENTS **
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
