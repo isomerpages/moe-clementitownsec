@@ -21,81 +21,81 @@ To develop Clementeens to be proficient in the language, confident of using it a
 .tg .tg-xt05{background-color:#D9D9D9;text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-xt05">Head of Department</th>
-    <th class="tg-ktyi">Mrs Teresa Chua</th>
+    <th style="border: 1px solid black" class="tg-xt05">Head of Department</th>
+    <th style="border: 1px solid black" class="tg-ktyi">Mrs Teresa Chua</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3icd">Subject Head (Internal)</td>
-    <td class="tg-3icd">Mr Alvin Ng</td>
+    <td style="border: 1px solid black" class="tg-3icd">Subject Head (Internal)</td>
+    <td style="border: 1px solid black" class="tg-3icd">Mr Alvin Ng</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Literature Coordinator</td>
-    <td class="tg-ktyi">Ms Chloe Chan</td>
+    <td style="border: 1px solid black" class="tg-ktyi">Literature Coordinator</td>
+    <td style="border: 1px solid black" class="tg-ktyi">Ms Chloe Chan</td>
   </tr>
   <tr>
-    <td class="tg-3icd"> </td>
-    <td class="tg-3icd">Mr Chia Chun Kiat</td>
+    <td style="border: 1px solid black" class="tg-3icd"> </td>
+    <td style="border: 1px solid black" class="tg-3icd">Mr Chia Chun Kiat</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Valane Tnee</td>
+    <td style="border: 1px solid black" class="tg-ktyi"> </td>
+    <td style="border: 1px solid black" class="tg-ktyi">Ms Valane Tnee</td>
   </tr>
   <tr>
-    <td class="tg-3icd"> </td>
-    <td class="tg-3icd">Ms Stella Leong</td>
+    <td style="border: 1px solid black" class="tg-3icd"> </td>
+    <td style="border: 1px solid black" class="tg-3icd">Ms Stella Leong</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mr Peter Tan</td>
+    <td style="border: 1px solid black" class="tg-ktyi"> </td>
+    <td style="border: 1px solid black" class="tg-ktyi">Mr Peter Tan</td>
   </tr>
   <tr>
-    <td class="tg-3icd"> </td>
-    <td class="tg-3icd">Mr Vivek Venugopal</td>
+    <td style="border: 1px solid black" class="tg-3icd"> </td>
+    <td style="border: 1px solid black" class="tg-3icd">Mr Vivek Venugopal</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mr Kishan Kannan</td>
+    <td style="border: 1px solid black" class="tg-ktyi"> </td>
+    <td style="border: 1px solid black" class="tg-ktyi">Mr Kishan Kannan</td>
   </tr>
   <tr>
-    <td class="tg-3icd"> </td>
-    <td class="tg-3icd">Mrs Yuen Lay Eng</td>
+    <td style="border: 1px solid black" class="tg-3icd"> </td>
+    <td style="border: 1px solid black" class="tg-3icd">Mrs Yuen Lay Eng</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Joycelyn Tan</td>
+    <td style="border: 1px solid black" class="tg-ktyi"> </td>
+    <td style="border: 1px solid black" class="tg-ktyi">Ms Joycelyn Tan</td>
   </tr>
   <tr>
-    <td class="tg-3icd"> </td>
-    <td class="tg-3icd">Ms Karen Sia</td>
+    <td style="border: 1px solid black" class="tg-3icd"> </td>
+    <td style="border: 1px solid black" class="tg-3icd">Ms Karen Sia</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Rachel Lee</td>
+    <td style="border: 1px solid black" class="tg-ktyi"> </td>
+    <td style="border: 1px solid black" class="tg-ktyi">Ms Rachel Lee</td>
   </tr>
   <tr>
-    <td class="tg-3icd"> </td>
-    <td class="tg-3icd">Ms Sophia Ng</td>
+    <td style="border: 1px solid black" class="tg-3icd"> </td>
+    <td style="border: 1px solid black" class="tg-3icd">Ms Sophia Ng</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mrs Winnie Tan</td>
+    <td style="border: 1px solid black" class="tg-ktyi"> </td>
+    <td style="border: 1px solid black" class="tg-ktyi">Mrs Winnie Tan</td>
   </tr>
   <tr>
-    <td class="tg-3icd"> </td>
-    <td class="tg-3icd">Mrs Linda Lim</td>
+    <td style="border: 1px solid black" class="tg-3icd"> </td>
+    <td style="border: 1px solid black" class="tg-3icd">Mrs Linda Lim</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Janice Soh</td>
+    <td style="border: 1px solid black" class="tg-ktyi"> </td>
+    <td style="border: 1px solid black" class="tg-ktyi">Ms Janice Soh</td>
   </tr>
   <tr>
-    <td class="tg-3icd"> </td>
-    <td class="tg-3icd">Ms Shena Tng</td>
+    <td style="border: 1px solid black" class="tg-3icd"> </td>
+    <td style="border: 1px solid black" class="tg-3icd">Ms Shena Tng</td>
   </tr>
 </tbody>
 </table>
