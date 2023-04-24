@@ -102,31 +102,30 @@ _\*meeting all the criteria does not guarantee the student will be shortlisted/g
 MODERN DANCE (BOYS &amp; GIRLS)
 ---------------------------
 
-  
 
 Clementi Town Secondary School welcomes students with outstanding talent in dance to apply through the DSA programme.
 
-Students selected via DSA can expect to take part in&nbsp;various national level competitions (eg. Singapore Youth Festival) as well as external performances organised by various organizations or initiated by our dancers. There are also opportunities to showcase their dance and talent in school during school events
+Students selected via DSA can expect to take part in various national level competitions (eg. Singapore Youth Festival) as well as external performances organised by various organizations or initiated by our dancers. There are also opportunities to showcase their dance and talent in school during school events.
 
-In this Direct School Admission Exercise, we are looking for promising Primary 6 pupils who exhibit the following:&nbsp;&nbsp;&nbsp;
+![](/images/dsa%20dance.jpg)
 
-*   Very Good Conduct
-*   Possess interest and passion for Dance
-*   Represented school in Singapore Youth Festival (SYF) and/or external dance performances or competitions
-*   Show positive attitude, commitment and determination to develop their&nbsp;dance&nbsp;and leadership skills  
-    
 
-&nbsp;  
+In this Direct School Admission Exercise, we are looking for promising Primary 6 pupils who exhibit the following:&nbsp;&nbsp;
 
-Shortlisted applicants will be invited to Clementi Town Secondary School for an audition and interview in July 2022.
+* Very Good Conduct
+* Possess interest and passion for Dance
+* Represented school in Singapore Youth Festival (SYF) and/or external dance performances or competitions
+* Show positive attitude, commitment and determination to develop their dance and leadership skills
 
-Selected applicants may be invited for a 2nd&nbsp;round interview with the School Leaders and/or CCA Key Personnel in August 2022.
+Shortlisted applicants will be invited to Clementi Town Secondary School for an audition and interview in July 2023.
+
+Selected applicants may be invited for a 2nd round interview with the School Leaders and/or CCA Key Personnel in August 2023.
 
 Students will be assessed on both their demonstrated and potential ability and qualities, so as to ensure that they benefit from the rigorous curriculum offered at CTSS.
 
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1–4. &nbsp;
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Year 1–4.&nbsp;
 
-Successful applicants will join CTSS in January 2023.
+Successful applicants will join CTSS in January 2024.
 
 _\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
 
