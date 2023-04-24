@@ -1,15 +1,14 @@
 ---
 title: Humanities
-permalink: /curriculum/humanities
+permalink: /curriculum/humanities/
 description: ""
 ---
-MISSION
--------
+#### **MISSION**
 
   
 We seek to cultivate in students a lifelong passion for the Humanities subjects through Inquiry Based Learning that leverages on the use of ICT. We also seek to equip students with critical and analytical skills to be future ready and self-directed learners.&nbsp;  
 
-### OUR TEACHERS:
+##### **OUR TEACHERS:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -75,8 +74,7 @@ We seek to cultivate in students a lifelong passion for the Humanities subjects 
 </tbody>
 </table>
 
-KEY PROGRAMMES
---------------
+#### **KEY PROGRAMMES**
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMSab0IeLSt0-az8h0ltBJGsffiOLZk8C6hcbhBOGimpnqKr8b7XgVXSRLB380MjmzYiBl6XQ4jsK4/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
@@ -114,8 +112,7 @@ _“I like and enjoy the way we are doing our fieldwork. It is fun as we get to 
 _“I like how we are given the freedom to choose what we can investigate. It’s fun! At least I know what I am doing and why and how we are doing it.”_ <br>
 &nbsp; &nbsp; - Student A, 3NA
 
-<img src="/images/Geography02.jpeg"  
-style="width:70%"><br>
+<img src="/images/Geography02.jpeg" style="width:70%"><br>
 
 **Singapore Footprints**
 
@@ -148,6 +145,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
