@@ -30,8 +30,7 @@ Students will be assessed on both their demonstrated and potential ability and q
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1–4. Students will also be assigned to a related CCA based on their DSA application.
 
-Successful applicants will join CTSS in January 2024.
-
+Successful applicants will join CTSS in January 2024. <br>
 _\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
 
 <br>
