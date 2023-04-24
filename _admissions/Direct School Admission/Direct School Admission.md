@@ -1,10 +1,10 @@
 ---
 title: Direct School Admission
-permalink: /admissions/direct-school-admission
+permalink: /admissions/direct-school-admission/
 description: ""
 third_nav_title: Direct School Admission
 ---
-In the recent press release, the Ministry of Education (MOE) announced that selected secondary schools can invite students to participate in the 2022 DSA-Sec Exercise for Admission to Secondary One in 2023. 
+In the recent press release, the Ministry of Education (MOE) announced that selected secondary schools can invite students to participate in the 2022 DSA-Sec Exercise for Admission to Secondary One in 2023.&nbsp;
 
 Introduced in 2004, the Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the PSLE.
 
@@ -30,50 +30,50 @@ For Admission to Secondary One in 2023, Clementi Town Secondary School is please
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-dgl5">DSA Category</th>
-    <th class="tg-dgl5">*Criteria</th>
+    <th style="border: 1px solid black" class="tg-dgl5">DSA Category</th>
+    <th style="border: 1px solid black" class="tg-dgl5">*Criteria</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3icd">STEM – Coding<span style="color:#000"> Computing to Discover and Empower (CODE)</span><br><br><br><br><br><br><br><br><br><br></td>
-    <td class="tg-3icd">- Very Good Conduct <br><br>- Demonstrate special talents in Robotics or Computing (e.g. robot design and programming, app coding, micro-controller programming)<br>  <br>- Represented school and achieved accolades in Robotics/Computing-related competitions (e.g. National Junior Robotics Competition)<br><br>- Preferred to have held leadership position(s) in Robotics/Computing-related clubs or societies (e.g. Robotics Club, Infocomm Club)<br><br>- Have some background in coding (applicants may wish to submit and showcase a portfolio of the programmes which they have created)</td>
+    <td style="border: 1px solid black" class="tg-3icd">STEM – Coding<span style="color:#000"> Computing to Discover and Empower (CODE)</span><br><br><br><br><br><br><br><br><br><br></td>
+    <td style="border: 1px solid black" class="tg-3icd">- Very Good Conduct <br><br>- Demonstrate special talents in Robotics or Computing (e.g. robot design and programming, app coding, micro-controller programming)<br>  <br>- Represented school and achieved accolades in Robotics/Computing-related competitions (e.g. National Junior Robotics Competition)<br><br>- Preferred to have held leadership position(s) in Robotics/Computing-related clubs or societies (e.g. Robotics Club, Infocomm Club)<br><br>- Have some background in coding (applicants may wish to submit and showcase a portfolio of the programmes which they have created)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Leadership and Uniformed Groups<br><span style="color:#000">Girl Guides</span><br>National Cadet Corps (NCC) Land<br>National Civil Defence Cadet Corps (NCDCC)<br><span style="color:#000">National Police Cadet Corps (NPCC)</span></td>
-    <td class="tg-ktyi">- Very Good conduct <br><br>- Strong leadership qualities (track records such as leadership role(s) <span style="text-decoration:underline">at cohort or school level</span>) <br><br>- Leads in VIA projects in school and community <br> </td>
+    <td style="border: 1px solid black" class="tg-ktyi">Leadership and Uniformed Groups<br><span style="color:#000">Girl Guides</span><br>National Cadet Corps (NCC) Land<br>National Civil Defence Cadet Corps (NCDCC)<br><span style="color:#000">National Police Cadet Corps (NPCC)</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi">- Very Good conduct <br><br>- Strong leadership qualities (track records such as leadership role(s) <span style="text-decoration:underline">at cohort or school level</span>) <br><br>- Leads in VIA projects in school and community <br> </td>
   </tr>
   <tr>
-    <td class="tg-3icd">Performing Arts – Symphonic Band (Mixed)<br><br></td>
-    <td class="tg-3icd">- Very Good Conduct<br><br>- Positive attitude, commitment and determination to develop their leadership and instrumental skills <br><br>- Experience in playing a Wind Band instrument (Winds, Brass, Double Bass or Percussion) </td>
+    <td style="border: 1px solid black" class="tg-3icd">Performing Arts – Symphonic Band (Mixed)<br><br></td>
+    <td style="border: 1px solid black" class="tg-3icd">- Very Good Conduct<br><br>- Positive attitude, commitment and determination to develop their leadership and instrumental skills <br><br>- Experience in playing a Wind Band instrument (Winds, Brass, Double Bass or Percussion) </td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Performing Arts– Drama Club (Mixed)<br><br></td>
-    <td class="tg-ktyi">- Very Good conduct <br><br>- Possess interest and passion for Theatre and the Arts<br><br>- Positive attitude, commitment and determination to develop their drama/acting skills<br></td>
+    <td style="border: 1px solid black" class="tg-ktyi">Performing Arts– Drama Club (Mixed)<br><br></td>
+    <td style="border: 1px solid black" class="tg-ktyi">- Very Good conduct <br><br>- Possess interest and passion for Theatre and the Arts<br><br>- Positive attitude, commitment and determination to develop their drama/acting skills<br></td>
   </tr>
   <tr>
-    <td class="tg-8c83"><span style="color:#000;background-color:#EBEBEB">Performing Arts – Modern Dance (Mixed)</span><br><br><br><br><br><br></td>
-    <td class="tg-3icd">- Very Good Conduct<br><br>- Possess interest and passion for Dance<br><br>- Positive attitude, commitment and determination to develop their dance and leadership skills<br><br>- Represented school in Singapore Youth Festival (SYF) and/or external performances or competitions</td>
+    <td style="border: 1px solid black" class="tg-8c83"><span style="color:#000;background-color:#EBEBEB">Performing Arts – Modern Dance (Mixed)</span><br><br><br><br><br><br></td>
+    <td style="border: 1px solid black" class="tg-3icd">- Very Good Conduct<br><br>- Possess interest and passion for Dance<br><br>- Positive attitude, commitment and determination to develop their dance and leadership skills<br><br>- Represented school in Singapore Youth Festival (SYF) and/or external performances or competitions</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Sports – Wushu <span style="color:#000">(Mixed)</span><br></td>
-    <td class="tg-ktyi">- Very Good Conduct<br><br>- Possess interest and passion for Wushu<br><br>- Represented school in National School Games (NSG) for Wushu</td>
+    <td style="border: 1px solid black" class="tg-ktyi">Sports – Wushu <span style="color:#000">(Mixed)</span><br></td>
+    <td style="border: 1px solid black" class="tg-ktyi">- Very Good Conduct<br><br>- Possess interest and passion for Wushu<br><br>- Represented school in National School Games (NSG) for Wushu</td>
   </tr>
   <tr>
-    <td class="tg-8c83"><span style="color:#000;background-color:#EBEBEB"> Sports – Volleyball (Boys)</span><br><br><br></td>
-    <td class="tg-3icd">- Very Good Conduct<br><br>- Possess interest and passion for Volleyball<br><br>- Represented school in National School Games (NSG) for Volleyball or similar ball games</td>
+    <td style="border: 1px solid black" class="tg-8c83"><span style="color:#000;background-color:#EBEBEB"> Sports – Volleyball (Boys)</span><br><br><br></td>
+    <td style="border: 1px solid black" class="tg-3icd">- Very Good Conduct<br><br>- Possess interest and passion for Volleyball<br><br>- Represented school in National School Games (NSG) for Volleyball or similar ball games</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Sports – Netball (Girls)<br><br></td>
-    <td class="tg-ktyi">- Very Good Conduct<br><br>- Possess interest and passion for Netball<br><br>- Represented school in National School Games (NSG) for Netball or similar ball games</td>
+    <td style="border: 1px solid black" class="tg-ktyi">Sports – Netball (Girls)<br><br></td>
+    <td style="border: 1px solid black" class="tg-ktyi">- Very Good Conduct<br><br>- Possess interest and passion for Netball<br><br>- Represented school in National School Games (NSG) for Netball or similar ball games</td>
   </tr>
 </tbody>
 </table>
 
-\*Applicants are advised that meeting all the criteria does not guarantee that the student will be shortlisted or given an offer. Thank you.
+\*Applicants are advised that&nbsp;meeting all the criteria does not guarantee that the student will be shortlisted or given an offer. Thank you.
 
 <br>
 <br>
@@ -86,6 +86,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
