@@ -149,8 +149,7 @@ Our department has been developing Clementeens for various writing competitions 
 
 ![](/images/EL7.jpeg)
 
-STUDENT ACHIEVEMENTS
---------------------
+#### **STUDENT ACHIEVEMENTS**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
