@@ -67,7 +67,7 @@ Phase 3: Build Apps with Swift Playgrounds (for selected teams)
 
   
   
-**Apple Swift Programming**  
+<u>Apple Swift Programming</u>
   
 The Apple Swift Programme brings an accessible introduction to mobile app development in Swift for iOS devices, by providing Clementeens with a chance to learn about introductory programming concepts in Swift. Upon completion of this programme, students would have learnt:  
 
@@ -79,7 +79,7 @@ The Apple Swift Programme brings an accessible introduction to mobile app develo
   
 ![](/images/ALP/A4.jpg)
   
-**AR/VR Workshop at HCI**  
+<u>AR/VR Workshop at HCI</u> 
   
 Eighteen Secondary 3 Clementeens participated in the Augmented Reality/Virtual Reality (AR/VR) Workshop organised by Hwa Chong Institution (HCI) on 17 and 18 May 2022. During this workshop, our students learnt how to create Augmented Reality and Virtual Reality projects, while establishing collaborations with their peers from Hwa Chong Institution.  
   
@@ -87,7 +87,7 @@ Eighteen Secondary 3 Clementeens participated in the Augmented Reality/Virtual R
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7tNK4l8FzmC3hCp05oc-UfOb3QYFDrALPAOcVOlmdiT2ZJJpohZU4sUDaalCLUIP6ZZNHtBkvaBcK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
   
   
-**AI Bootcamp**  
+<u>AI Bootcamp</u>
   
 A 5-day Artificial Intelligence (AI) Bootcamp was organised during the June Holidays to:  
 provide Clementeens, who have demonstrated an interest and passion for programming, the opportunity to develop deep technology skills for the emergent fields of Data Science and Artificial Intelligence.  
@@ -104,7 +104,7 @@ Tier 3 of the ALP is designed to provide opportunities for a few students excell
 
   
   
-**National Olympiad in Informatics (NOI) 2022**  
+<u>National Olympiad in Informatics (NOI) 2022</u>
   
 
 NOI is a computing competition organized by National University of Singapore. It is an annual nation-wide programming competition that aims to provide our best students the ultimate challenge in computing and programming and is open to all current junior college and secondary school students.
