@@ -92,24 +92,24 @@ description: ""
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-dgl5">Topics/Lessons</th>
-    <th class="tg-dgl5">Programme Learning Objectives</th>
-    <th class="tg-dgl5">Time Period<br>(e.g. Term 3 Week 9)</th>
+    <th style="border: 1px solid black" class="tg-dgl5">Topics/Lessons</th>
+    <th style="border: 1px solid black" class="tg-dgl5">Programme Learning Objectives</th>
+    <th style="border: 1px solid black" class="tg-dgl5">Time Period<br>(e.g. Term 3 Week 9)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b1n3">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-3icd"><br>Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV<br><br></td>
-    <td class="tg-b1n3"><br>Term 3 Week 7</td>
+    <td style="border: 1px solid black" class="tg-b1n3">Mass Talk by HPB appointed vendor</td>
+    <td style="border: 1px solid black" class="tg-3icd"><br>Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV<br><br></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><br>Term 3 Week 7</td>
   </tr>
   <tr>
-    <td class="tg-7yig">Classroom-based Lesson</td>
-    <td class="tg-ktyi"><br>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br></td>
-    <td class="tg-ktyi"><br>Term 3 Week 9</td>
+    <td style="border: 1px solid black" class="tg-7yig">Classroom-based Lesson</td>
+    <td style="border: 1px solid black" class="tg-ktyi"><br>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><br>Term 3 Week 9</td>
   </tr>
 </tbody>
 </table>
