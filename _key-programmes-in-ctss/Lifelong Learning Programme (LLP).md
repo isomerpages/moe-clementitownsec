@@ -10,4 +10,17 @@ description: ""
 ![](/images/LLP/L5.png)
 ![](/images/LLP/L6.png)
 
-Click on this [link](/files/LLP/Student%20Leaders%20in%20action%20posters.pdf) to view our Student Leaders in action
+Click on this&nbsp;[link](/files/LLP/Student%20Leaders%20in%20action%20posters.pdf)&nbsp;to view our Student Leaders in action
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
