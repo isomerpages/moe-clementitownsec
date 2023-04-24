@@ -19,57 +19,57 @@ We seek to cultivate in students a lifelong passion for the Humanities subjects 
 .tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-ktyi"><span style="background-color:transparent">SH/Humanities</span></th>
-    <th class="tg-ktyi"><span style="background-color:transparent">Ms Sandy Ee Wen Lin</span></th>
+    <th style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">SH/Humanities</span></th>
+    <th style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">Ms Sandy Ee Wen Lin</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3icd"><span style="background-color:transparent">LT/Geography</span></td>
-    <td class="tg-3icd"><span style="background-color:transparent">Ms Tay Soo Chin Emmeline</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">LT/Geography</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">Ms Tay Soo Chin Emmeline</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:transparent">SH/Social Studies</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Ms Rashidah Kassim</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">SH/Social Studies</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">Ms Rashidah Kassim</span></td>
   </tr>
   <tr>
-    <td class="tg-3icd"><span style="background-color:transparent">Teacher</span></td>
-    <td class="tg-3icd"><span style="background-color:transparent">Mr Chan Siew Kwai</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">Teacher</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">Mr Chan Siew Kwai</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:transparent">Teacher</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Ms Sheetal Sonawane</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">Teacher</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">Ms Sheetal Sonawane</span></td>
   </tr>
   <tr>
-    <td class="tg-3icd"><span style="background-color:transparent">Teacher </span></td>
-    <td class="tg-3icd"><span style="background-color:transparent">Ms Chan Lai Peng</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">Teacher </span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">Ms Chan Lai Peng</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:transparent">Teacher</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Mr Ressal Mohamed</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">Teacher</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">Mr Ressal Mohamed</span></td>
   </tr>
   <tr>
-    <td class="tg-3icd"><span style="background-color:transparent">Teacher</span></td>
-    <td class="tg-3icd"><span style="background-color:transparent">Mr Kennedy Loo Tian Peng</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">Teacher</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">Mr Kennedy Loo Tian Peng</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:transparent">Teacher </span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Ms Wee Ni Xuan</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">Teacher </span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">Ms Wee Ni Xuan</span></td>
   </tr>
   <tr>
-    <td class="tg-3icd"><span style="background-color:transparent">Teacher</span></td>
-    <td class="tg-3icd"><span style="background-color:transparent">Mr Jeremy Lim Liangcai</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">Teacher</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">Mr Jeremy Lim Liangcai</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:transparent">Teacher</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Mdm Zainab Atan</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">Teacher</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="background-color:transparent">Mdm Zainab Atan</span></td>
   </tr>
   <tr>
-    <td class="tg-3icd"><span style="background-color:transparent">Teacher</span></td>
-    <td class="tg-3icd"><span style="background-color:transparent">Mdm Poon Yik Khuan</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">Teacher</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="background-color:transparent">Mdm Poon Yik Khuan</span></td>
   </tr>
 </tbody>
 </table>
