@@ -23,7 +23,7 @@ The CTSS 1st Coy aims to provide the girls with the opportunity for self-trainin
 
 ![](/images/CCA/Girl%20Guides/gg%20exco.jpg)
 
-#### **KEY ACHIEVEMENTS IN 2020 - 2021**
+#### **KEY ACHIEVEMENTS **
 
 ![](/images/CCA/Girl%20Guides/gg%20achievements.jpg)
 
