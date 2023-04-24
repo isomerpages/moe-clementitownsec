@@ -118,6 +118,41 @@ _\*meeting all the criteria does not guarantee the student will be shortlisted/g
   
 <img src="/images/NETBALL.jpeg" style="width:40%">
 
+
+
+BADMINTON (BOYS)
+---------------
+
+
+The Clementi Town Secondary School Badminton Team aims to develop our students’ sporting talent and passion for the sport through rigorous training sessions, friendly matches and various inter-school competitions. In addition, we also want to instill in them the values of discipline, hard work and teamwork that are crucial in the area of character building.
+
+Students can expect to participate in the following activities (subject to prevailing safe management measures):
+
+1. West Zone Badminton Competition
+2. Various external badminton tournaments and friendly matches
+4. Annual camp and/or enrichment programme&nbsp;&nbsp;&nbsp;&nbsp;
+
+In this Direct School Admission Exercise, we are looking for promising Primary 6 students who exhibit the following\*:
+
+* Very Good Conduct
+* Possess interest and passion for Badminton
+* Represented school in National School Games (NSG) for Badminton or similar racquet sports.
+
+We also welcome applicants who possess good psychomotor skills in other sports to apply.
+
+Shortlisted applicants will be invited to Clementi Town Secondary School for a selection exercise consisting of performance tasks and interview in July 2023.
+
+Selected applicants may be invited for a 2nd round interview with the School Leaders and/or CCA Key Personnel in August 2023.
+
+Students will be assessed on both their demonstrated and potential ability and qualities, so as to ensure that they benefit from the rigorous curriculum offered at CTSS.
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1–4.&nbsp;
+
+Successful applicants will join CTSS in January 2024.
+
+_\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
+
+* * *
 <br>
 <br>
 <br>
@@ -130,10 +165,3 @@ img {
 }  
 </style>  
 <img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
-
-BADMINTON (BOYS)
----------------
-
-
-
-
