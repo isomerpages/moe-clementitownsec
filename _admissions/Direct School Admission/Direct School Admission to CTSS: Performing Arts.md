@@ -43,82 +43,56 @@ _\*meeting all the criteria does not guarantee the student will be shortlisted/g
 DRAMA CLUB (MIXED)
 ------------------
 
-  
-
 Clementi Town Drama Club (CT Drama) was first started in Clementi Town Secondary School by Ms Valane Tnee with the vision to achieve the ‘5Es’ of Arts Education – Exposure, Experience, Experiment, Evaluate, and Educate.
 
 In Clementi Town, Drama Club focuses on educating our students about the human condition and teaching values through theatre- empathy, respect, love- and reinforcing the school values of adaptability and self-discipline. In CT Drama, students are strongly encouraged to develop their strengths and interests with discipline and zeal. Alongside passionate teachers, our CT Drama students have managed to do receive tremendous recognition in multiple aspects.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dgl5"></th>
-    <th class="tg-dgl5">2017</th>
-    <th class="tg-dgl5">2019</th>
-    <th class="tg-amwm">2021</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-3icd">Singapore Youth Festival – Arts Presentation</td>
-    <td class="tg-3icd">Certificate of Distinction</td>
-    <td class="tg-3icd">Certificate of Distinction</td>
-    <td class="tg-3icd">Certificate of Accomplishment</td>
-  </tr>
-</tbody>
-</table>
+![](/images/dsa%20drama.jpg)
 
 For the students who choose Drama as CCA, they are put through training in three areas – Cast, Crew and Creatives.
 
 For Cast work, students undergo rigorous training in acting to hone their skills of voice projection, stage presence and characterization. Crew work focuses on training students to run events, and in the stage-management of a big production. They are also trained in stage make-up, and the managing of sound and lighting of a show. For Creative work, students are encouraged to write scripts and have opportunities to choreograph dances for the shows that we put up, outside of school.
 
-CT Drama also helms the production of the biennial school musical since it began in 2009. To date, we have progressed from staging it in the school hall to performing in NUS’ University Cultural Centre (2018) and Victoria Theatre (2016). The CT Musical journey began in 2009, and we staged our 6th musical in 2018 at University Cultural Centre. The ground-up production sees the devotion of both alumni and current students. CT Drama believes in providing our students with quality and authentic performing experience. With a 25-person teacher team behind each production and a six-month long preparation for the eventual show in June, CT Musical aims to always teach students strong lessons of life and values.
+CT Drama also helms the production of the biennial school musical since it began in 2009. To date, we have progressed from staging it in the school hall to performing in:
 
-Other than our school musical, students will also get opportunities to put up performances outside of school. Some examples of our performances include:
+* NAFA Lee Foundation Theatre (2022)
+* NUS’ University Cultural Centre (2020, 2018)
+* and Victoria Theatre (2016)
 
-*   FOUR (四) @ SOTA Studio Theatre 2019
-*   SYF Celebrations @ Esplanade 2019
-*   M1 Fringe Festival @ Esplanade 2017
-*   Pen in a Bag @ Old Parliament 2016
-*   Project Hiraeth @DBS Arts Centre 2015
+The CT Musical journey began in 2009, and we staged our 6th musical in 2018 at University Cultural Centre. The ground-up production sees the devotion of both alumni and current students. CT Drama believes in providing our students with quality and authentic performing experience. With a 25-person teacher team behind each production and a six-month long preparation for the eventual show in June, CT Musical aims to always teach students strong lessons of life and values.
 
-In this Direct School Admission Exercise, we are looking for promising Primary 6 pupils who exhibit the following:&nbsp; &nbsp;
+Other than our school musical, students will also get opportunities to put up performances to hone their craft. Some examples of our performances include:
 
-*   Very Good Conduct
-*   Possess interest and passion for Theater and the Arts
-*   Positive attitude, commitment and determination to develop their drama/acting skills  
-    
+*CT Drama’s Online Interactive Play- REPLAY \[A Virtual Time Machine\] 2021
+* CT Drama’s 1st online production- The Show Must Go On 2020
+* FOUR (四) @ SOTA Studio Theatre 2019
+* SYF Celebrations @ Esplanade 2019
 
-  
+In this Direct School Admission Exercise, we are looking for promising Primary 6 pupils who exhibit the following:
 
-Shortlisted applicants are required to undergo an audition and an interview:
+*Very Good Conduct
+* Possess interest and passion for Theater and the Arts
+* Positive attitude, commitment and determination to develop their drama/acting skills
+* 
+Shortlisted applicants are required to undergo an audition and an interview in July 2022.
 
-**I.&nbsp; &nbsp; &nbsp;Auditions**&nbsp;
+&nbsp;**I.**&nbsp;&nbsp; **Audition**
 
-*   Applicants will also be given a monologue, at least 2 weeks beforehand, to prepare for their E-Audition.
-*   The monologue given is meant to test the applicant’s voice projection, stage presence and characterization skills.&nbsp;
+* Applicants will be given a monologue, at least 2 weeks beforehand, to prepare for their Audition.
 
-**I.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interview**
+The monologue given is meant to test the applicant’s voice projection, stage presence and characterization skills.
 
-*   Students will have an interview with the teachers
+**II.**&nbsp;&nbsp; **Interview**
 
-Selected applicants may be invited for a 2nd&nbsp;round interview with the School Leaders and/or CCA Key Personnel in August 2022.
+* Students will have an interview with the teachers
+
+Selected applicants may be invited for a 2nd round interview with the School Leaders and/or CCA Key Personnel in August 2022.
 
 Students will be assessed on both their demonstrated and potential ability and qualities, so as to ensure that they benefit from the rigorous curriculum offered at CTSS.
 
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1–4. &nbsp;
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1–4.&nbsp;
 
-Successful applicants will join CTSS in January 2023.
+Successful applicants will join CTSS in January 2024.
 
 _\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
 
