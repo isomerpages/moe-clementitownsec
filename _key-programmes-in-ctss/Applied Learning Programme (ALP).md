@@ -3,7 +3,7 @@ title: Applied Learning Programme (ALP)
 permalink: /key-programmes/applied-learning-programme-alp/
 description: ""
 ---
-##### MASTERY THROUGH APPLICATION AND RESEARCH IN STEM (MARS)
+#### **MASTERY THROUGH APPLICATION AND RESEARCH IN STEM (MARS)**
 
 Clementi Town Secondary School offers its ALP programme abbreviated MARS under the STEM (Science, Technology, Engineering and Mathematics) strand and seeks to develop our students to be Future-ready Clementeens who possess digital literacy and are architects of their own STEM learning.
 
@@ -197,3 +197,16 @@ To expose students to STEM careers at an early age, Industrial Visits and Learni
 ![](/images/ALP/A17.jpg)
  
 ![](/images/ALP/A18.jpg)
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
