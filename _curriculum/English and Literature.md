@@ -160,39 +160,39 @@ Our department has been developing Clementeens for various writing competitions 
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">S/N</th>
-    <th class="tg-9hzb">Competition</th>
-    <th class="tg-9hzb">Results</th>
-    <th class="tg-9hzb">Names</th>
+    <th style="border: 1px solid black" class="tg-9hzb">S/N</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Competition</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Results</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Names</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7yig">1</td>
-    <td class="tg-7yig">Speech Arts Competition</td>
-    <td class="tg-7yig">3nd Runner-Up, Comic Monologue Upper Sec /JC category</td>
-    <td class="tg-7yig">Giovanna Teresa Kristiani</td>
+    <td style="border: 1px solid black" class="tg-7yig">1</td>
+    <td style="border: 1px solid black" class="tg-7yig">Speech Arts Competition</td>
+    <td style="border: 1px solid black" class="tg-7yig">3nd Runner-Up, Comic Monologue Upper Sec /JC category</td>
+    <td style="border: 1px solid black" class="tg-7yig">Giovanna Teresa Kristiani</td>
   </tr>
   <tr>
-    <td class="tg-7yig">2</td>
-    <td class="tg-7yig">Unity Writers Festival</td>
-    <td class="tg-7yig">2nd Position</td>
-    <td class="tg-7yig">Evan Wong Yi Feng</td>
+    <td style="border: 1px solid black" class="tg-7yig">2</td>
+    <td style="border: 1px solid black" class="tg-7yig">Unity Writers Festival</td>
+    <td style="border: 1px solid black" class="tg-7yig">2nd Position</td>
+    <td style="border: 1px solid black" class="tg-7yig">Evan Wong Yi Feng</td>
   </tr>
   <tr>
-    <td class="tg-7yig" rowspan="3">3</td>
-    <td class="tg-7yig" rowspan="3">Interschool Poetry Appreciation 2021 </td>
-    <td class="tg-7yig" rowspan="3"> <br>Silver Award<br> </td>
-    <td class="tg-7yig">Angel Tan Xiang Qi</td>
+    <td style="border: 1px solid black" class="tg-7yig" rowspan="3">3</td>
+    <td style="border: 1px solid black" class="tg-7yig" rowspan="3">Interschool Poetry Appreciation 2021 </td>
+    <td style="border: 1px solid black" class="tg-7yig" rowspan="3"> <br>Silver Award<br> </td>
+    <td style="border: 1px solid black" class="tg-7yig">Angel Tan Xiang Qi</td>
   </tr>
   <tr>
-    <td class="tg-7yig">Sahana Ramamoorthy</td>
+    <td style="border: 1px solid black" class="tg-7yig">Sahana Ramamoorthy</td>
   </tr>
   <tr>
-    <td class="tg-7yig">Lim Jee Kei</td>
+    <td style="border: 1px solid black" class="tg-7yig">Lim Jee Kei</td>
   </tr>
 </tbody>
 </table>
