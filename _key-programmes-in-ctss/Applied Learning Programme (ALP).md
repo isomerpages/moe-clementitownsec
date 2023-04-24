@@ -62,7 +62,8 @@ Phase 1: Inclusive App Design Activity (5 hours of SDL activities)
 Phase 2: Everyone Can Code Bootcamp (5 hours of virtual workshops)  
 Phase 3: Build Apps with Swift Playgrounds (for selected teams)  
   
-![](/images/ALP/A3.jpeg)Students during their Swift Explorers Singapore 2022 Graduation Ceremony
+![](/images/ALP/A3.jpeg)
+<figcaption style="text-align:center;">Students during their Swift Explorers Singapore 2022 Graduation Ceremony</figcaption>
 
   
   
