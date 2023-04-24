@@ -1,16 +1,14 @@
 ---
 title: Mathematics
-permalink: /curriculum/mathematics
+permalink: /curriculum/mathematics/
 description: ""
 ---
-MISSION:
---------
+#### **MISSION:**
 
 To nurture Independent Learners with an Analytical mind for Problem Solving who appreciate the Relevance and Fun in Mathematics  
   
 
-KEY PROGRAMMES
---------------
+#### **KEY PROGRAMMES**
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFnx71QPm9eB7MC0ixK0-qgSC6lcio6Niw_xaRQ2HqnPVj6p9Uv239gLzr2gBkEe246Wkwt0jvtk-p/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
@@ -34,8 +32,7 @@ The Singapore Mathematical Project Festival is a nationwide event organised annu
 
 In the Singapore Mathematical Society (SMS) Essay Competition, where the&nbsp;objective of the competition is to expose students to various topics that are related to mathematics. Such topics could be related to the history, applications or other aspects of mathematics. For example, the&nbsp;theme of the 2021 competition was "Mathematics and Pandemics".&nbsp;
 
-SUMMARY OF MATHEMATICS COMPETITION RESULTS 2019
------------------------------------------------
+#### **SUMMARY OF MATHEMATICS COMPETITION RESULTS 2019**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -104,6 +101,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
