@@ -22,21 +22,28 @@ Mr Alvin Tan Jia Jie
 
 #### **STUDENT EXECUTIVE COMMITTEE**
 
-
+![](/images/CCA/NCC/ncc%20exco.jpg)
 
 #### **KEY EVENTS**
 
-
+* Unit Camp 2022
+* PESTA-SUKAN (Dragonboat) 2022
+* Precision Drill Competition 2023
+* iFly Sky Diving Experience
 
 
 #### **KEY ACHIEVEMENTS**
 
 
+* Unit Recognition 2020 (Distinction)
+* Unit Recognition 2021 (Distinction)
+* Unit Recognition 2022 (Distinction)
+* Unit Recognition 2023 (Distinction)
 
 
 #### **TRAINING DETAILS**
 
-
+![](/images/CCA/NCC/ncc%20trg.jpg)
 
 <br>
 <br>
