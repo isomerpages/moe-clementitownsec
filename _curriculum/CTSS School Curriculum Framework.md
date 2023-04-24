@@ -46,3 +46,16 @@ The School Curriculum Framework comprises the:
 </table>
 
 *   **Elements of student-centric educational experiences,**&nbsp;which include how we establish a&nbsp;**positive learning culture**&nbsp;through fostering positive relationships between students and teachers as well as among students, and motivating students to have a mastery goal orientation and growth mindset. Teachers&nbsp;**design and implement learning experiences**&nbsp;to meet the varied needs of our Clementeens through differentiated approaches, sound assessment practices and the use of educational technology, combined with the knowledge of how to deliver the subject matter through approaches unique to each subject.
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
