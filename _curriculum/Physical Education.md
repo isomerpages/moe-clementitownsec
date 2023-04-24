@@ -1,10 +1,9 @@
 ---
 title: Physical Education
-permalink: /curriculum/physical-education
+permalink: /curriculum/physical-education/
 description: ""
 ---
-MISSION
--------
+#### **MISSION**
 
 To nurture in every Clementeen, a love for healthy living.
 
@@ -62,8 +61,7 @@ The PE Programme aims to equip every Clementeen with the skills and knowledge fo
 </tbody>
 </table>
 
-KEY PROGRAMMES
---------------
+#### **KEY PROGRAMMES**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUFTknyJUyYOlDzRTbhG1yac-W9C5KdS3ZImbEYgqNg1cOa0iQbgogCt6Ey3j0Hq6lNZV0MUkNVnU2/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
@@ -134,8 +132,7 @@ Racial Harmony Day activities carried out in alignment with the Sports Carnival 
 
   
 
-SPORTS LEADERS PROGRAMME
-------------------------
+#### **SPORTS LEADERS PROGRAMME**
 
   
 
@@ -165,6 +162,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
