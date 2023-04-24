@@ -10,7 +10,16 @@ Clementi Town Secondary School offers its ALP programme abbreviated MARS under t
 
 The ALP framework reflects the emphasis on developing Science, Technology, Engineering and Mathematics (STEM) skills in our students, in addition to Thinking, Collaborative and Communications skills.
 
-![](/images/ALP/A1.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:55%;" alt="Applied Learning Programme" src="/images/ALP/A1.jpg">  
+  
+
 
 The objectives of MARS are to provide opportunities for Clementeens to:
 
