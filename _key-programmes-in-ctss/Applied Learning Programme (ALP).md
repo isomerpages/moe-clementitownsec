@@ -111,7 +111,7 @@ NOI is a computing competition organized by National University of Singapore. It
 
   
 ![](/images/ALP/A6.jpg)
-Students participating in the National Olympiad in Informatics 2022
+<figcaption style="text-align:center;">Students participating in the National Olympiad in Informatics 2022</figcaption>
 
   
 
@@ -124,7 +124,7 @@ In addition, two other Clementeens were awarded the Certificate of Participation
 2.  Nguyen Viet Truong (Bill), S4-MM (4B1)
 
   
-**Computing Project**  
+<u>Computing Project</u>
   
 
 Computing students who were keen to work on a real-world computing project were given the opportunity to first identify an authentic problem related to their school experience and work on a solution to the problem.
@@ -136,7 +136,7 @@ Two of our students, Aidan Ong and Hu Bowen, have worked proactively and tireles
   
 Please click on the attached video below, to find out more about their project.  
 
-**Participation in the Swift Accelerator&nbsp;Programme** 
+<u>Participation in the Swift Accelerator&nbsp;Programme</u>
   
 
 The Swift Accelerator Programme is an intensive 180-hour programme in which students who are talented in coding are trained to develop iOS apps using the Swift coding language, leveraging on the principles of challenge based learning, storytelling and design thinking. Only 50 students, aged 13 to 15, are selected for this programme.
@@ -160,7 +160,7 @@ The students involved in the Swift Accelerator Programme 2021 are:
 ![](/images/ALP/A8.jpg)
 
 
-**Participation in the First Lego League Competition**  
+<u>Participation in the First Lego League Competition</u> 
   
 Students from the Multimedia Services Club, who showed an interest and dedication to robotics, had participated in the&nbsp;First Lego League (FLL) Competition 2021.This year, two teams from MMS took part in the FLL competition for the first time. One of the teams won praise from the judges for their creativity, understanding of robot mechanism, and applying sound concepts of Physics in designing their robot. They were also nominated for the “Rising Star Award” which is given out to schools participating in the tournament for the first time.&nbsp;  
   
