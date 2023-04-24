@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/project%20work.png">  
+<img src="/images/project%20work.png" style="width:70%;">  
   
 #### **RATIONALE FOR PROJECT WORK**
 
@@ -85,7 +85,7 @@ _Key Features_
 *   Students practice active listening and learn to present ideas clearly to group mates and their class.
 *   Following an oral presentation, there will be a Q&amp;A session to help students become more confident speakers.
 
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS015gfYzw-XzAkT0yzwIwjbK44kZuqOfhYhL9XZgnKSLZFbU1p8HZJ02s7nxYccJ6UxaWcT27iljqF/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <br>
 <br>
@@ -98,4 +98,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+<img style="width:95%;" alt="banner awards" src="/images/banner_awards_.png">
