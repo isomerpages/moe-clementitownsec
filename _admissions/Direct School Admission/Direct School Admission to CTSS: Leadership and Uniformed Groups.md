@@ -38,6 +38,3 @@ Successful applicants will join CTSS in January 2024.
 
 _\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
 
-
-
-
