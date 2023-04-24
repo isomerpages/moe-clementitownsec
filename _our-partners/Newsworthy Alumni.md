@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Dr. Toh Tai Chong**
 
-
+![](/images/dr%20toh%20tai%20chong.jpg)
 
 Dr. Toh Tai Chong graduated from Clementi Town Secondary School in 2000. Passionate about Science, he was conferred the PhD in Life Sciences, and has sought to contribute to Science Awards in CTSS. 
 
