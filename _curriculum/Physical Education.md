@@ -22,41 +22,41 @@ The PE Programme aims to equip every Clementeen with the skills and knowledge fo
 .tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-ktyi"><span style="color:#000;background-color:#FFF">Head of Department</span><br></th>
-    <th class="tg-ktyi"><span style="color:#000">Mr Tan Jit Jin</span></th>
+    <th style="border: 1px solid black" class="tg-ktyi"><span style="color:#000;background-color:#FFF">Head of Department</span><br></th>
+    <th style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">Mr Tan Jit Jin</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3icd"><span style="color:#000;background-color:#EBEBEB">Subject Head</span><br></td>
-    <td class="tg-3icd"><span style="color:#000">Ms Teo Li Yin</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="color:#000;background-color:#EBEBEB">Subject Head</span><br></td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="color:#000">Ms Teo Li Yin</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"><span style="color:#000">Ms Siti Nurwati Dalduri</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"> </td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">Ms Siti Nurwati Dalduri</span></td>
   </tr>
   <tr>
-    <td class="tg-3icd"> </td>
-    <td class="tg-3icd"><span style="color:#000">Mr Kenneth Tan Ming Hon</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"> </td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="color:#000">Mr Kenneth Tan Ming Hon</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"><span style="color:#000">Mr Chia Chun Keong</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"> </td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">Mr Chia Chun Keong</span></td>
   </tr>
   <tr>
-    <td class="tg-3icd"> </td>
-    <td class="tg-3icd"><span style="color:#000">Mr Thomas Law Choon Ting</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"> </td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="color:#000">Mr Thomas Law Choon Ting</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"><span style="color:#000">Mr Xiao Jing, Joshua</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"> </td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="color:#000">Mr Xiao Jing, Joshua</span></td>
   </tr>
   <tr>
-    <td class="tg-3icd"> </td>
-    <td class="tg-3icd"><span style="color:#000">Mr Chua Keng Yeow</span></td>
+    <td style="border: 1px solid black" class="tg-3icd"> </td>
+    <td style="border: 1px solid black" class="tg-3icd"><span style="color:#000">Mr Chua Keng Yeow</span></td>
   </tr>
 </tbody>
 </table>
@@ -89,33 +89,33 @@ The games and sports have been carefully selected to align with their physical g
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">Level</th>
-    <th class="tg-9hzb">Games</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Level</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Games</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b1n3"><span style="color:#000">Sec 1</span></td>
-    <td class="tg-b1n3"><span style="color:#000">Volleyball and Netball</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000">Sec 1</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000">Volleyball and Netball</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="color:#000">Sec 2</span></td>
-    <td class="tg-7yig"><span style="color:#000">Basketball</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">Sec 2</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">Basketball</span></td>
   </tr>
   <tr>
-    <td class="tg-b1n3"><span style="color:#000">Sec 3</span></td>
-    <td class="tg-b1n3"><span style="color:#000">Tchoukball and Badminton</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000">Sec 3</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000">Tchoukball and Badminton</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><span style="color:#000">Sec 4</span></td>
-    <td class="tg-7yig"><span style="color:#000">Frisbee</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">Sec 4</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="color:#000">Frisbee</span></td>
   </tr>
   <tr>
-    <td class="tg-b1n3"><span style="color:#000">Sec 5</span></td>
-    <td class="tg-b1n3"><span style="color:#000">Floorball</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000">Sec 5</span></td>
+    <td style="border: 1px solid black" class="tg-b1n3"><span style="color:#000">Floorball</span></td>
   </tr>
 </tbody>
 </table>
