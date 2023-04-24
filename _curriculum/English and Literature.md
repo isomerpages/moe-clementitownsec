@@ -1,10 +1,9 @@
 ---
 title: English and Literature
-permalink: /curriculum/english-and-literature
+permalink: /curriculum/english-and-literature/
 description: ""
 ---
-MISSION
--------
+#### **MISSION**
 
   
 To develop Clementeens to be proficient in the language, confident of using it and appreciate the language arts.  
@@ -101,32 +100,28 @@ To develop Clementeens to be proficient in the language, confident of using it a
 </tbody>
 </table>
 
-READ@CTSS
----------
+#### **READ@CTSS**
 
   
 To instill the love of reading and inculcate good reading habits in our Clementeens, we have a structured and supervised time slot for Clementeens to immerse themselves in a good book of their choice. In our English curriculum, we introduce popular teenage fiction to our Clementeens with Narratives Thursdays, and proceed to build general and current affairs knowledge in our upper secondary levels through the exposure to articles of non-fiction genres. CTSS R.E.A.D model is employed to encourage Clementeens to respond critically to their reading texts. This reading technique, that is developed in-house, hones students’ critical reading skills as they react, explore, analyse and discern the text. At the end of the 4 to 5 years of CTSS reading programme, our Clementeens will be familiar with a multitude of genres, and have a broadened mindset that will prepare them for their next phase of higher education.
 
-LITERATURE MOSAIC
------------------
+#### **LITERATURE MOSAIC**
 
-Our Secondary 2 Literature curriculum aims to develop the love and appreciation of English literary arts in our students. The focus this year is on introducing students to Shakespearean texts – Macbeth, Romeo and Juliet, A Midsummer Night’s Dream and The Merchant of Venice.  To get students to take ownership of their own learning, we allow our students to choose the text that they are interested in. 
+Our Secondary 2 Literature curriculum aims to develop the love and appreciation of English literary arts in our students. The focus this year is on introducing students to Shakespearean texts – Macbeth, Romeo and Juliet, A Midsummer Night’s Dream and The Merchant of Venice. &nbsp;To get students to take ownership of their own learning, we allow our students to choose the text that they are interested in.&nbsp;
 
-DRAMA-IN-CURRICULUM
--------------------
+#### **DRAMA-IN-CURRICULUM**
 
 Drama education helps develop self-confidence, public speaking skills and interpersonal skills in our students. As such, we have a drama-in-curriculum programme where our lower secondary Normal Technical students develop and perform their own interpretation of classic and well-known drama pieces such as Army Daze and Othello. Our students are introduced to the fundamental elements of drama, and learn to express themselves freely through language and motion. They will also understand the importance of teamwork as they form groups and produce their own drama pieces. At the end of this programme, students will have developed essential communication and interpersonal skills whilst learning creative writing and drama techniques.
 
-**<u>PerspeCTives!</u>**
--------------------
+#### **<u>PerspeCTives!</u>**
 
-To develop Clementeens with the 21st century competencies for a globalised world, the department has curated PerspeCTives to develop our Clementeens with civic literacy, global awareness and cross-cultural skills, critical and inventive thinking, and communication, collaboration, and information skills. PerspeCTives extends training and learning for our Clementeens through the following 3 Cs:  
+To develop Clementeens with the 21st century competencies for a globalised world, the department has&nbsp;curated&nbsp;PerspeCTives to develop our Clementeens&nbsp;with civic literacy, global awareness and cross-cultural skills, critical and inventive thinking, and communication, collaboration, and information skills. PerspeCTives extends&nbsp;training and learning for our Clementeens through the following 3 Cs:  
 
-**Curate ­–** Digital content curation on current affairs and school events
+**Curate ­–**&nbsp;Digital content curation on current affairs and school events
 
-**Connect –** Article writing on student issues/perspectives
+**Connect –**&nbsp;Article writing on student issues/perspectives
 
-**Create ­–** Recorded podcasts for publication and sharing (CT Spotify Account)
+**Create&nbsp;­–**&nbsp;Recorded podcasts for publication and sharing (CT Spotify Account)
 
 PerspeCTives aims to develop our Clementeens in creating content and imparting knowledge by increasing media literacy and sparking meaningful conversations about currents affairs amongst participants. Clementeens will also have the opportunity to serve as journalists, reporters, interviewers and podcasters and have their works showcased.
 
@@ -136,8 +131,7 @@ PerspeCTives aims to develop our Clementeens in creating content and imparting k
 
 ![](/images/EL3.jpeg)
 
-DEVELOPMENT PROGRAMMES
-----------------------
+#### **DEVELOPMENT PROGRAMMES**
 
 **Public Speaking Competition**
 
@@ -215,6 +209,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
