@@ -54,7 +54,7 @@ description: ""
 
   
 
-**At CLEMENTI TOWN Secondary School, the following lessons from the Sexuality Education&nbsp;lessons will be taught in&nbsp;2023:**
+<strong>At CLEMENTI TOWN Secondary School, the following lessons from the Sexuality Education&nbsp;lessons will be taught in&nbsp;<u>2023:</u></strong>
 
 ![](/images/SexEd2023/S1.jpg)
 ![](/images/SexEd2023/S3.jpg)
