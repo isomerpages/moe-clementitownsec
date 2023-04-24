@@ -25,22 +25,19 @@ As we embark on our next adventure, we endeavour our students to do so with a st
 
 #### **STUDENT EXECUTIVE COMMITTEE**
 
-  
+![](/images/CCA/ODAC/odac%20exco.jpg)
 
 #### **KEY EVENTS**
 
-  
-
-
-  
+![](/images/CCA/ODAC/odac%20events.jpg)  
 
 #### **KEY ACHIEVEMENTS**
 
-
+![](/images/CCA/ODAC/odac%20achievements.jpg)
 
 #### **TRAINING DETAILS**
 
-
+![](/images/CCA/ODAC/odac%20trg.jpg)
   
 \*CCA sessions may end later for out-of-school activities.
 
