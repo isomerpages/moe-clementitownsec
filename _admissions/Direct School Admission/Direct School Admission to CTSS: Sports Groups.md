@@ -42,8 +42,7 @@ Successful applicants will join CTSS in January 2024.
 
 _\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
 
-VOLLEYBALL (BOYS)
------------------
+#### **VOLLEYBALL (BOYS)**
 
 
 Clementi Town Secondary School’s Volleyball team has a proud tradition of excellence at inter-school competitions. Through the programme, students undergo rigorous training sessions, friendly matches and local competitions so as to enhance their skills, as well as, knowledge of the sport. The programme also hopes to instill and develop the values of discipline, perseverance and teamwork in the players during their time at Clementi Town Secondary School.
@@ -82,8 +81,7 @@ _\*meeting all the criteria does not guarantee the student will be shortlisted/g
 <img src="/images/VB%20DSA.jpeg" style="width:80%">
 
 
-NETBALL (GIRLS)
----------------
+#### **NETBALL (GIRLS)**
 
 
 The Clementi Town Secondary School Netball Team aims to develop our students’ sporting talent and passion for the sport through rigorous training sessions, friendly matches and various inter-school competitions. In addition, we also want to instill in them the values of discipline, hard work and teamwork that are crucial in the area of character building.
@@ -119,8 +117,7 @@ _\*meeting all the criteria does not guarantee the student will be shortlisted/g
 
 
 
-BADMINTON (BOYS)
----------------
+#### **BADMINTON (BOYS)**
 
 
 The Clementi Town Secondary School Badminton Team aims to develop our students’ sporting talent and passion for the sport through rigorous training sessions, friendly matches and various inter-school competitions. In addition, we also want to instill in them the values of discipline, hard work and teamwork that are crucial in the area of character building.
@@ -151,7 +148,6 @@ Successful applicants will join CTSS in January 2024.
 
 _\*meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
 
-* * *
 <br>
 <br>
 <br>
