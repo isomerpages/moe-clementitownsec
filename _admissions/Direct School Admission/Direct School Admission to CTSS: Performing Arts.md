@@ -4,8 +4,7 @@ permalink: /admissions/direct-school-admission/direct-school-admission-to-ctss-p
 description: ""
 third_nav_title: Direct School Admission
 ---
-SYMPHONIC BAND (MIXED)
-----------------------
+#### **SYMPHONIC BAND (MIXED)**
 
 Clementi Town Secondary School Symphonic Band, also known as CTWinds, started in the 1980s with humble beginnings. Currently under the music directorship of Main Conductor Mr Hendrik Quek and Assistant Conductor Mr &nbsp;Kartik Alan Jairamin, CTWinds has continuously done well in local and international competitions and festivals. They have attained the Certificate of Distinction at the biennial Singapore Youth Festival (SYF) Arts Presentation since 2013.
 
@@ -40,8 +39,7 @@ _\*meeting all the criteria does not guarantee the student will be shortlisted/g
 
 <img src="/images/BAND.jpeg" style="width:80%">
 
-DRAMA CLUB (MIXED)
-------------------
+#### **DRAMA CLUB (MIXED)**
 
 Clementi Town Drama Club (CT Drama) was first started in Clementi Town Secondary School by Ms Valane Tnee with the vision to achieve the ‘5Es’ of Arts Education – Exposure, Experience, Experiment, Evaluate, and Educate.
 
@@ -99,8 +97,7 @@ _\*meeting all the criteria does not guarantee the student will be shortlisted/g
 <img src="/images/drama.jpeg" style="width:80%">
 
 
-MODERN DANCE (BOYS &amp; GIRLS)
----------------------------
+#### **MODERN DANCE (BOYS &amp; GIRLS)**
 
 
 Clementi Town Secondary School welcomes students with outstanding talent in dance to apply through the DSA programme.
