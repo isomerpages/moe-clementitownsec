@@ -1,16 +1,16 @@
 ---
-title: Textbook List for 2022
-permalink: /clementeens/textbook-list-for-2022
+title: Textbook List for 2023
+permalink: /clementeens/textbook-list-for-2023/
 description: ""
 ---
-Click [here](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/PACIFIC%20BOOKSTORES%20PURCHASE%20GUIDE%20CTSS.pdf) for Information on Purchase of School Textbooks & Stationery.
+Click&nbsp;[here](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/PACIFIC%20BOOKSTORES%20PURCHASE%20GUIDE%20CTSS.pdf)&nbsp;for&nbsp;Information on&nbsp;Purchase of School Textbooks &amp;&nbsp;Stationery.
 
 **Pacific Bookstores**  
 14 Arumugam Road #08-01 LTC Building C  
 Singapore 409959  
 Tel : 6559 2269  
-Email : [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)  
-Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/)  
+Email :&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)  
+Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)  
   
 
 SECONDARY 2
@@ -50,6 +50,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">

@@ -21,13 +21,20 @@ sections:
         - title: Students
           description: ""
           url: /students
-  - infobar:
+  - infopic:
       title: Vision, Mission and Values
       button: Vision, Mission and Values
       url: /about-us/motto-vision-mission-n-values/
+      image: /images/mission vision.jpg
+      alt: Vision Mission  Values
   - infobar:
       title: Announcements
       subtitle: Latest Announcements
       button: Click here for announcements
       url: /announcements
+  - infobar:
+      title: Highlights
+      description: Highlights of Key Events
+      button: Highlights of Key Events
+      url: /highlights/
 ---
