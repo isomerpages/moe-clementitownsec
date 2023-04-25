@@ -1,0 +1,28 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Character and Citizenship Education.md
+      - Student Leadership and VIA.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co Curricular Activities.md
+      - Co Curricular Activities/Art Club.md
+      - Co Curricular Activities/Drama Club.md
+      - Co Curricular Activities/Chinese Dance (Girls).md
+      - Co Curricular Activities/Guzheng.md
+      - Co Curricular Activities/Indian Dance (Girls).md
+      - Co Curricular Activities/Modern Dance.md
+      - Co Curricular Activities/Symphonic Band.md
+      - Co Curricular Activities/Infocomm Technology.md
+      - Co Curricular Activities/Badminton (Boys).md
+      - Co Curricular Activities/Basketball (Boys).md
+      - Co Curricular Activities/Netball (Girls).md
+      - Co Curricular Activities/Outdoor Adventure Club (ODAC).md
+      - Co Curricular Activities/Football (Boys).md
+      - Co Curricular Activities/Volleyball (Boys).md
+      - Co Curricular Activities/Wushu.md
+      - Co Curricular Activities/Girl Guides.md
+      - Co Curricular Activities/National Cadet Corps.md
+      - Co Curricular Activities/National Civil Defence Cadet Corps.md
+      - Co Curricular Activities/National Police Cadet Corps.md
+      - Co Curricular Activities/Scouts (Boys).md

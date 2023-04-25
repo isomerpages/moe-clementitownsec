@@ -1,0 +1,16 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - CTSS School Curriculum Framework.md
+      - Subject Based Banding.md
+      - Assessment.md
+      - Aesthetics and Craft & Technology Department.md
+      - Chinese (Special Programme).md
+      - English and Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science Department.md
+      - Sexuality Education Programme 2023.md

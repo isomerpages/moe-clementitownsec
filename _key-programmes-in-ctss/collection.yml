@@ -1,0 +1,8 @@
+collections:
+  key-programmes-in-ctss:
+    output: true
+    order:
+      - Applied Learning Programme (ALP).md
+      - Lifelong Learning Programme (LLP).md
+      - Musical.md
+      - Project Work.md
