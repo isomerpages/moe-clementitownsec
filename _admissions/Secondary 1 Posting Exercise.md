@@ -23,4 +23,17 @@ N(T): 25-27
   
 Please fill in the&nbsp;[application form](https://form.gov.sg/6334e093a2d8f7001240a238)&nbsp;for Secondary 1 Appeal. Thank you!  
   
-<img style="width:30%;height:50%" src="/images/Admissions/Sec%201%20Posting%20Exercise/appeal%20form.jpg">
+<img style="width:35%;" src="/images/Admissions/Sec%201%20Posting%20Exercise/appeal%20form.jpg">
+
+<br>
+<br>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
