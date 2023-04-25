@@ -35,4 +35,5 @@ sections:
       button: Vision, Mission and Values
       url: /about-us/motto-vision-mission-n-values/
       image: /images/mission vision.jpg
+      alt: Vision Mission  Values
 ---
