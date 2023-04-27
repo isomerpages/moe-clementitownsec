@@ -22,6 +22,7 @@ SECONDARY 1
 
 [Secondary 1 Normal Academic](/files/sec1na.pdf)
 
+[[Secondary 1 Normal Technical](/files/SEC1NT.pdf))](/files/sec1na.pdf)
 
 
 SECONDARY 2
