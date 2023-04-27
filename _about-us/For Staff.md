@@ -19,11 +19,12 @@ description: ""
 14. [OPAL 2.0](https://opal2.moe.edu.sg/)
 15. [Parents Gateway (PG)](https://pg.moe.edu.sg/)
 16. [PDLP One-Stop Portal by ETD](http://go.gov.sg/PDLP)
-17. [SC Mobile](https://scmobile.moe.edu.sg/login)
-18. [School Cockpit](https://schoolcockpit.moe.gov.sg)
-19. [School Cockpit Curriculum, Subject and Results (CSR) Module](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30018912&amp;rand=8221)
-20. [SG Learning Designers Circle](https://www.facebook.com/groups/sglearningdesigners/)
-21. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
+17. [Request for Relief](https://docs.google.com/forms/d/e/1FAIpQLSdQrxWO1YOydM5brxOlc0OBOo8FGcCIP1CnGXzdzuLpaRIbkQ/viewform)
+18. [SC Mobile](https://scmobile.moe.edu.sg/login)
+19. [School Cockpit](https://schoolcockpit.moe.gov.sg)
+20. [School Cockpit Curriculum, Subject and Results (CSR) Module](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30018912&amp;rand=8221)
+21. [SG Learning Designers Circle](https://www.facebook.com/groups/sglearningdesigners/)
+22. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
 
 
 <br>
