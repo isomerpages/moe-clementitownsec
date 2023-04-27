@@ -19,8 +19,8 @@ Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)
 SECONDARY 1
 -----------
 * [Secondary 1 Express](https://www.clementitownsec.moe.edu.sg/files/sec1exp.pdf)
-* [Secondary 1 Normal Academic](/files/sec1na.pdf)
-* [Secondary 1 Normal Technical](/files/sec1nt.pdf)
+* [Secondary 1 Normal Academic](https://www.clementitownsec.moe.edu.sg/files/sec1na.pdf)
+* [Secondary 1 Normal Technical](https://www.clementitownsec.moe.edu.sg/files/sec1nt.pdf)
 
 
 SECONDARY 2
