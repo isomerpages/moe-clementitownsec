@@ -5,7 +5,7 @@ description: ""
 ---
 *   [School Safety](/clementeens/school-safety)  
 *   [Calendar](https://calendar.google.com/calendar/embed?src=moe.edu.sg_07rtue1mp6980u56a7tt9ui2qo%40group.calendar.google.com&amp;ctz=Asia%2FSingapore)    
-*   [Timetable](/clementeens/time-table)
+*   [Semester 1 2023 Class Time Table]([](/files/2023%20sem%201_classes.pdf))
 *   [Textbook List for 2023](/clementeens/textbook-list-for-2022) 
 *   [Purchase of School Uniform and PE Attire](/clementeens/purchase-of-school-uniform-and-pe-attire)
 *   [School Rules and Regulations](/files/CTSS%20CODE%20OF%20CONDUCT%2026Oct2021.pdf)
