@@ -5,12 +5,12 @@ description: ""
 ---
 *   [School Safety](/clementeens/school-safety)  
 *   [Calendar](https://calendar.google.com/calendar/embed?src=moe.edu.sg_07rtue1mp6980u56a7tt9ui2qo%40group.calendar.google.com&amp;ctz=Asia%2FSingapore)    
-*   [Timetable](/clementeens/time-table)
-*   [Exam Timetable](/clementeens/examination-time-table)
-*   [Textbook List for 2023](/clementeens/textbook-list-for-2022) 
+*   Semester 1 2023 Class Time Table
+[](/files/2023%20sem%201_classes.pdf)
+*   [Textbook List for 2023](https://clementitownsec.moe.edu.sg/clementeens/textbook-list-for-2023/)
 *   [Purchase of School Uniform and PE Attire](/clementeens/purchase-of-school-uniform-and-pe-attire)
 *   [School Rules and Regulations](/files/CTSS%20CODE%20OF%20CONDUCT%2026Oct2021.pdf)
-*   [Student Protection Plan](/clementeens/student-protection-plan)
+*  [Student Protection Plan](https://www.clementitownsec.moe.edu.sg/clementeens/student-protection-plan)
 *   Online learning
 	*   &nbsp;&nbsp;[AskNLearn](https://lms.asknlearn.com/CTSS/login.aspx)
 	*   &nbsp;&nbsp;[ACE Learning](http://www.ace-learning.com/index.php.)

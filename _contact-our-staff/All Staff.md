@@ -1,6 +1,6 @@
 ---
-title: All Teaching Staff
-permalink: /contact-us/permalink/
+title: All Staff
+permalink: /contact-us/all-staff/
 description: Teaching Staff
 ---
 ![](/images/Ms%20Liu%20Jiazhen%20Adeline.jpg)
@@ -199,6 +199,10 @@ rajamanickam_renuka@moe.edu.sg
 ![](/images/Mdm%20Rashidah%20Kassim.jpeg)
 Mdm Rashidah Kassim
 rashidah_kassim@moe.edu.sg
+
+![](/images/Mr%20Mohamed%20Ressal.jpeg)
+Mr Mohamed Ressal Mohamed Raffi
+mohamed_ressal_mohamed_raffi@moe.edu.sg
 
 ![](/images/Mdm%20Rosezalina.jpeg)
 Mdm Rosezalina Bte Asmoin

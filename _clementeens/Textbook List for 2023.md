@@ -3,7 +3,10 @@ title: Textbook List for 2023
 permalink: /clementeens/textbook-list-for-2023/
 description: ""
 ---
-Click&nbsp;[here](https://clementitownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u534/Textbook%20and%20Uniform/2022/Textbook/PACIFIC%20BOOKSTORES%20PURCHASE%20GUIDE%20CTSS.pdf)&nbsp;for&nbsp;Information on&nbsp;Purchase of School Textbooks &amp;&nbsp;Stationery.
+Click on the attachment for Information on Purchase of School Textbooks &amp; Stationery. [](/files/pacific%20bookstores%20purchase%20guide%20ctss.pdf)
+
+
+
 
 **Pacific Bookstores**  
 14 Arumugam Road #08-01 LTC Building C  
@@ -12,6 +15,13 @@ Tel : 6559 2269
 Email :&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)  
 Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)  
   
+
+SECONDARY 1
+-----------
+* [Secondary 1 Express](/files/sec1exp.pdf)
+* [Secondary 1 Normal Academic](/files/sec1na.pdf)
+* [Secondary 1 Normal Technical](/files/sec1nt.pdf)
+
 
 SECONDARY 2
 -----------
