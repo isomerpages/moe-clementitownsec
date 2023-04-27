@@ -3,7 +3,7 @@ title: Timetable
 permalink: /clementeens/timetable/
 description: ""
 ---
-Please click on the following links to view the Class Time Table for Semester 2 2023.
+Please click on the following links to view the Class Time Table for Semester 1 2023.
 
 [](/files/2023%20sem%201_classes.pdf)
 
