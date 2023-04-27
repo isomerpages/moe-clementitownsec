@@ -20,9 +20,9 @@ SECONDARY 1
 -----------
 [Secondary 1 Express](https://www.clementitownsec.moe.edu.sg/files/SEC1EXP.pdf)
 
-[[Secondary 1 Normal Academic](/files/SEC1NA.pdf))](/files/sec1na.pdf)
+[[Secondary 1 Normal Academic](/files/SEC1NA.pdf)
 
-[[Secondary 1 Normal Technical](/files/SEC1NT.pdf))](/files/sec1na.pdf)
+[[Secondary 1 Normal Technical](/files/SEC1NT.pdf)
 
 
 SECONDARY 2
