@@ -13,6 +13,7 @@ description: ""
 8. [School Cockpit](https://schoolcockpit.moe.gov.sg)
 9. [SC Mobile](https://scmobile.moe.edu.sg/login)
 10. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
+11. [CTSS Student Management Portal](https://sites.google.com/moe.edu.sg/ctss-sm-portal/home?authuser=0)
 
 <br>
 <br>
