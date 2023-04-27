@@ -11,9 +11,10 @@ description: ""
 6. [MOE Intranet](https://intranet.moe.gov.sg)
 7. [OPAL 2.0](https://opal2.moe.edu.sg/)
 8. [Parents Gateway (PG)](https://pg.moe.edu.sg/)
-9. [School Cockpit](https://schoolcockpit.moe.gov.sg)
-10. [SC Mobile](https://scmobile.moe.edu.sg/login)
-11. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
+9. [SC Mobile](https://scmobile.moe.edu.sg/login)
+10. [School Cockpit](https://schoolcockpit.moe.gov.sg)
+11. [School Cockpit Curriculum, Subject and Results (CSR) Module](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30018912&amp;rand=8221)
+12. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
 
 
 <br>
