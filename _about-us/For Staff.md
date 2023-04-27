@@ -15,12 +15,15 @@ description: ""
 10. [iExams](https://iexams.seab.gov.sg/login)
 11. [iMTL Portal](https://imtl.moe.edu.sg/)
 12. [MOE Intranet](https://intranet.moe.gov.sg)
-13. [OPAL 2.0](https://opal2.moe.edu.sg/)
-14. [Parents Gateway (PG)](https://pg.moe.edu.sg/)
-15. [SC Mobile](https://scmobile.moe.edu.sg/login)
-16. [School Cockpit](https://schoolcockpit.moe.gov.sg)
-17. [School Cockpit Curriculum, Subject and Results (CSR) Module](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30018912&amp;rand=8221)
-18. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
+13. [My Skills Future Portal](http://www.myskillsfuture.sg/secondary)
+14. [OPAL 2.0](https://opal2.moe.edu.sg/)
+15. [Parents Gateway (PG)](https://pg.moe.edu.sg/)
+16. [PDLP One-Stop Portal by ETD](http://go.gov.sg/PDLP)
+17. [SC Mobile](https://scmobile.moe.edu.sg/login)
+18. [School Cockpit](https://schoolcockpit.moe.gov.sg)
+19. [School Cockpit Curriculum, Subject and Results (CSR) Module](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30018912&amp;rand=8221)
+20. [SG Learning Designers Circle](https://www.facebook.com/groups/sglearningdesigners/)
+21. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
 
 
 <br>
