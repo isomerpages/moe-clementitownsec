@@ -200,6 +200,10 @@ rajamanickam_renuka@moe.edu.sg
 Mdm Rashidah Kassim
 rashidah_kassim@moe.edu.sg
 
+![](/images/Mr%20Mohamed%20Ressal.jpeg)
+Mr Mohamed Ressal Mohamed Raffi
+mohamed_ressal_mohamed_raffi@moe.edu.sg
+
 ![](/images/Mdm%20Rosezalina.jpeg)
 Mdm Rosezalina Bte Asmoin
 rosezalina_asmoin@moe.edu.sg
