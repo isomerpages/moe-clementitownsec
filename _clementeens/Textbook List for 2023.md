@@ -18,6 +18,8 @@ Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)
 
 SECONDARY 1
 -----------
+[Secondary 1 Express](/files/SEC1EXP.pdf)
+
 
 SECONDARY 2
 -----------
