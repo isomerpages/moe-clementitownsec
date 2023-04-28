@@ -5,7 +5,7 @@ description: ""
 ---
 1. [All EARS Form Builder](https://forms.moe.edu.sg/)
 2. [Apple Learning Centre](https://education.apple.com/#/home/resources)
-3. [CT Learn Microsite](https://sites.google.com/d/1U8na108ULRukXScCCOS67XH8TbW0lnuQ/p/1tEZjWOd4MgHtbbnHOxSqUnR65Oyzj3BR/edit)
+3. [CT Learn Microsite](https://sites.google.com/moe.edu.sg/ctss-learn/)
 4. [CTSS Student Management Portal](https://sites.google.com/moe.edu.sg/ctss-sm-portal/home?authuser=0)
 5. [E-Pedagogy One-Stop Site by ETD](https://go.gov.sg/eped-onestop)
 6. [Edtech Leaders One-Stop Site by ETD](https://go.gov.sg/edtech-onestop)
