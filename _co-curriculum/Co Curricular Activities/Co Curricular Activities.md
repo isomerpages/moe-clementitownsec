@@ -1,16 +1,14 @@
 ---
 title: Co Curricular Activities
-permalink: /co-curriculum/co-curricular-activities
+permalink: /co-curriculum/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
 Clementi Town Secondary School has a wide range of Co-Curricular Activities to cater to the varied interests of our Clementeens.  
   
 
 **Aesthetics** <br>
-[Art Club](/co-curriculum/co-curricular-activities/art-club) <br>
+[Art Club](/co-curriculum/co-curricular-activities/art-club)&nbsp;<br>
 [Drama Club](/co-curriculum/co-curricular-activities/drama-club) <br>
 [Chinese Dance (Girls)](/co-curriculum/co-curricular-activities/chinese-dance-girls) <br>
 [Guzheng](/co-curriculum/co-curricular-activities/guzheng) <br>
@@ -19,7 +17,7 @@ Clementi Town Secondary School has a wide range of Co-Curricular Activities to c
 [Symphonic Band](/co-curriculum/co-curricular-activities/symphonic-band)
 
 **Services** <br>
-[Multimedia Services](/co-curriculum/co-curricular-activities/multimedia-services)
+[InfoComm Technology](/co-curriculum/co-curricular-activities/infocomm-technology/)
 
 **Sports and Games** <br>
 [Badminton (Boys)](/co-curriculum/co-curricular-activities/badminton-boys) <br>
@@ -48,6 +46,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
