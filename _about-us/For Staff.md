@@ -24,7 +24,8 @@ description: ""
 19. [School Cockpit](https://schoolcockpit.moe.gov.sg)
 20. [School Cockpit Curriculum, Subject and Results (CSR) Module](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30018912&amp;rand=8221)
 21. [SG Learning Designers Circle](https://www.facebook.com/groups/sglearningdesigners/)
-22. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
+22. [STEM Lesson Ideas](https://www.meristem.site/esepp-20212022-lesson-packages-summary)
+23. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
 
 
 <br>
