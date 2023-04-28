@@ -13,7 +13,7 @@ Clementi Town Secondary School has a wide range of Co-Curricular Activities to c
 [Chinese Dance (Girls)](/co-curriculum/co-curricular-activities/chinese-dance-girls) <br>
 [Guzheng](/co-curriculum/co-curricular-activities/guzheng) <br>
 [Indian Dance (Girls)](/co-curriculum/co-curricular-activities/indian-dance-girls) <br>
-[Malay Dance](/co-curriculum/co-curricular-activities/malay-dance) <br>
+[Modern Dance](/co-curriculum/co-curricular-activities/modern-dance/) <br>
 [Symphonic Band](/co-curriculum/co-curricular-activities/symphonic-band)
 
 **Services** <br>
