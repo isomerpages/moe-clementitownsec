@@ -1,11 +1,11 @@
 ---
-title: For Staff
+title: Useful Links For Staff
 permalink: /about-us/for-staff/
 description: ""
 ---
 1. [All EARS Form Builder](https://forms.moe.edu.sg/)
 2. [Apple Learning Centre](https://education.apple.com/#/home/resources)
-3. [CT Learn Microsite](https://sites.google.com/d/1U8na108ULRukXScCCOS67XH8TbW0lnuQ/p/1tEZjWOd4MgHtbbnHOxSqUnR65Oyzj3BR/edit)
+3. [CT Learn Microsite](https://sites.google.com/moe.edu.sg/ctss-learn/)
 4. [CTSS Student Management Portal](https://sites.google.com/moe.edu.sg/ctss-sm-portal/home?authuser=0)
 5. [E-Pedagogy One-Stop Site by ETD](https://go.gov.sg/eped-onestop)
 6. [Edtech Leaders One-Stop Site by ETD](https://go.gov.sg/edtech-onestop)
@@ -24,7 +24,8 @@ description: ""
 19. [School Cockpit](https://schoolcockpit.moe.gov.sg)
 20. [School Cockpit Curriculum, Subject and Results (CSR) Module](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30018912&amp;rand=8221)
 21. [SG Learning Designers Circle](https://www.facebook.com/groups/sglearningdesigners/)
-22. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
+22. [STEM Lesson Ideas](https://www.meristem.site/esepp-20212022-lesson-packages-summary)
+23. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
 
 
 <br>

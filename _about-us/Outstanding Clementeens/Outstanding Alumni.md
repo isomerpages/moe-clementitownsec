@@ -2,7 +2,7 @@
 title: Outstanding Alumni
 permalink: /about-us/outstanding-clemeteens/outstanding-alumni/
 description: ""
-third_nav_title: Outstanding Clemeteens
+third_nav_title: Outstanding Clementeens
 ---
 1.&nbsp;[Desmond Chan Keng Hui](/files/Outstanding%20Clementeens/A4.pdf)  
 2.&nbsp;[Don Loi Xu](/files/Outstanding%20Clementeens/A5.pdf)   

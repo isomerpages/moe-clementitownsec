@@ -2,7 +2,7 @@
 title: Singapore Science and Engineering Fair 2022
 permalink: /about-us/outstanding-clemeteens/singapore-science-and-engineering-fair-2022/
 description: ""
-third_nav_title: Outstanding Clemeteens
+third_nav_title: Outstanding Clementeens
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwryQY3UqtSDnSbm5CwOQl3Ve9V26iX6RVlS9Xjzy4wpAfwizB9QjQnr5RYVYD0Y43YB4ex4zQ4l7x/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 

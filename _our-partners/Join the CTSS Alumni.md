@@ -1,5 +1,5 @@
 ---
-title: Alumni
+title: Join the CTSS Alumni
 permalink: /our-partners/alumni/
 description: ""
 ---

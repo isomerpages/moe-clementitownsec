@@ -2,7 +2,7 @@
 title: NSF of the year 2019
 permalink: /about-us/outstanding-clemeteens/nsf-of-the-year-2019/
 description: ""
-third_nav_title: Outstanding Clemeteens
+third_nav_title: Outstanding Clementeens
 ---
 [Corporal First Class Haw Yuan Zhi](/files/Outstanding%20Clementeens/A10.pdf)  
 Alumni of CTSS

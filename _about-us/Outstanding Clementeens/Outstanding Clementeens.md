@@ -2,7 +2,7 @@
 title: Outstanding Clementeens
 permalink: /about-us/outstanding-clemeteens/outstanding-clementeens/
 description: ""
-third_nav_title: Outstanding Clemeteens
+third_nav_title: Outstanding Clementeens
 ---
 Our Clementeens have excelled in multiple areas. Please click on the following links to find out more.  
   
