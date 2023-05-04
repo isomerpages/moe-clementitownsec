@@ -14,7 +14,7 @@ Introduced in 2004, the Direct School Admission (DSA) scheme provides students w
 
 For Admission to Secondary One in 2023, Clementi Town Secondary School is pleased to offer DSA in the following areas:
 
-1.  [Direct School Admission to CTSS: STEM Coding](/admissions/direct-school-admission/direct-school-admission-to-ctss-stem-coding)
+1.  [Direct School Admission to CTSS: STEM (Science and Technology)](/admissions/direct-school-admission/direct-school-admission-to-ctss-stem-science-and-technology/)
 2.  [Direct School Admission to CTSS: Leadership and Uniformed Groups](/admissions/direct-school-admission/direct-school-admission-to-ctss-leadership-and-uniformed-groups)
 3.  [Direct School Admission to CTSS: Performing Arts](/admissions/direct-school-admission/direct-school-admission-to-ctss-performing-arts)
 4.  [Direct School Admission to CTSS: Sports Groups](/admissions/direct-school-admission/direct-school-admission-to-ctss-sports-groups)
@@ -39,7 +39,7 @@ For Admission to Secondary One in 2023, Clementi Town Secondary School is please
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid black" class="tg-3icd">STEM – Coding<span style="color:#000"> Computing to Discover and Empower (CODE)</span><br><br><br><br><br><br><br><br><br><br></td>
+    <td style="border: 1px solid black" class="tg-3icd">STEM – <span style="color:#000"> STEM (Science and Technology)</span><br><br><br><br><br><br><br><br><br><br></td>
     <td style="border: 1px solid black" class="tg-3icd">- Very Good Conduct <br><br>- Demonstrate special talents in Robotics or Computing (e.g. robot design and programming, app coding, micro-controller programming)<br>  <br>- Represented school and achieved accolades in Robotics/Computing-related competitions (e.g. National Junior Robotics Competition)<br><br>- Preferred to have held leadership position(s) in Robotics/Computing-related clubs or societies (e.g. Robotics Club, Infocomm Club)<br><br>- Have some background in coding (applicants may wish to submit and showcase a portfolio of the programmes which they have created)</td>
   </tr>
   <tr>
