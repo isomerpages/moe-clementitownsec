@@ -395,43 +395,38 @@ tan_hong_soong@moe.edu.sg
 Mr Tan Jit Jin
 tan_jit_jin@moe.edu.sg
 
-![](/images/ms%20tan%20kay%20shin.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/ms%20tan%20kay%20shin.jpeg">
 
 Mdm Tan Kay Shin 
 tan_kay_shin@moe.edu.sg
 
-![](/images/Mr%20Tan%20Kiang%20Chye.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mr%20Tan%20Kiang%20Chye.jpeg">
 
 Mr Tan Kiang Chye
 tan_kiang_chye@moe.edu.sg
 
-Mr Tan Liang Hooi![](/images/Mr%20Tan%20Liang%20Hooi.jpeg)
-<img style="width:50%" src="000">
+Mr Tan Liang Hooi
+
+<img style="width:50%" src="/images/Mr%20Tan%20Liang%20Hooi.jpeg">
 
 tan_liang_hooi@moe.edu.sg
 
-![](/images/kenneth.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/kenneth.jpeg">
 
 Mr Tan Ming Hon, Kenneth
 tan_ming_hon@moe.edu.sg
 
-![](/images/mr%20tan%20teck%20soon.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/mr%20tan%20teck%20soon.jpeg">
 
 Mr Tan Teck Soon
 tan_teck_soon@moe.edu.sg 
 
-![](/images/Mr%20Tan%20Ser%20Yong.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mr%20Tan%20Ser%20Yong.jpeg">
 
 Mr Tan Ser Yong, Philip
 tan_ser_yong_philip@moe.edu.sg
 
-![](/images/Mrs%20Tan%20Wong%20Siew%20Har.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mrs%20Tan%20Wong%20Siew%20Har.jpeg">
 
 Mrs Tan-Wong Siew Har, Winnie
 wong_siew_har_winnie@moe.edu.sg
