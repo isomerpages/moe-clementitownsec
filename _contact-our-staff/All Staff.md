@@ -248,50 +248,74 @@ Mr Mohideen Nizar s/o Anwar
 mohideen_nizar_anwar@moe.edu.sg
  
  ![](/images/Mdm%20Mursalina.jpeg)
+ <img style="width:50%" src="000">
+ 
 Mdm Mursalina Bte Mohd Saim
 mursalina_mohd_saim@moe.edu.sg
 
 ![](/images/Mdm%20Natarajan%20Umarani%20(Teacher).jpg)
+<img style="width:50%" src="000">
+
 Ms Natarajan Umarani 
 natarajan_umarani@moe.edu.sg
 
 ![](/images/Mr%20Ng%20Loong%20Kin,%20Alvin.jpg)
+<img style="width:50%" src="000">
+
 Mr Ng Loong Kin, Alvin
 ng_loong_kin_alvin@moe.edu.sg
 
 ![](/images/Ms%20Nurul%20Farhanah%20Bte%20Ramlan.jpg)
+<img style="width:50%" src="000">
+
 Ms Nurul Farhanah Bte Ramlan
 nurul_farhanah_binte_ramlan@moe.edu.sg
 
 ![](/images/Mrs%20Peh%20Yeo%20Hwee%20Ching%20Magdelene.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Peh-Yeo Hwee Ching Magdalene
 yeo_hwee_ching_magdalene@moe.edu.sg
 
 ![](/images/mr%20phua%20chwee%20ghua.jpeg)
+<img style="width:50%" src="000">
+
 Mr Phua Chwee Ghua
 phua_chwee_ghua@moe.edu.sg 
 
 ![](/images/Mdm%20Rajamanickam.jpeg)
+<img style="width:50%" src="000">
+
 Mdm Rajamanickam Renuka
 rajamanickam_renuka@moe.edu.sg
 
 ![](/images/Mdm%20Rashidah%20Kassim.jpeg)
+<img style="width:50%" src="000">
+
 Mdm Rashidah Kassim
 rashidah_kassim@moe.edu.sg
 
 ![](/images/Mr%20Mohamed%20Ressal.jpeg)
+<img style="width:50%" src="000">
+
 Mr Mohamed Ressal Mohamed Raffi
 mohamed_ressal_mohamed_raffi@moe.edu.sg
 
 ![](/images/Mdm%20Rosezalina.jpeg)
+<img style="width:50%" src="000">
+
 Mdm Rosezalina Bte Asmoin
 rosezalina_asmoin@moe.edu.sg
 
 ![](/images/Mr%20See%20Gim%20Hwee%20(1).jpg)
+<img style="width:50%" src="000">
+
 Mr See Gim Hwee
 see_gim_hwee@moe.edu.sg 
 
 ![](/images/Ms%20Sia%20Gee%20Han.jpeg)
+<img style="width:50%" src="000">
+
 Ms Sia Gee Han, Karen
 karen_sia_gee_han@moe.edu.sg
 
@@ -300,93 +324,139 @@ Ms Sharon Tham Kum Chee
 sharon_tham_kum_chee@moe.edu.sg
 
 ![](/images/Mdm%20Sheetal%20Sonawane.jpeg)
+<img style="width:50%" src="000">
+
 Ms Sheetal Sonawane
 sheetal_madhukar_sonawane@moe.edu.sg
 
 ![](/images/Ms%20Sim%20Shin%20Jie.jpg)
+<img style="width:50%" src="000">
+
 Ms Sim Shin Jie    
 sim_shin_jie@moe.edu.sg
 
 ![](/images/ms%20siti%20nurwati%20dalduri.jpeg)
+<img style="width:50%" src="000">
+
 Ms Siti Nurwati Dalduri
 siti_nurwati_dalduri@moe.edu.sg 
 
 ![](/images/Ms%20Soon%20Si%20Lin%20Jocelyn%20(Teacher).png)
+<img style="width:50%" src="000">
+
 Ms Soon Si Lin Jocelyn
 soon_si_lin_jocelyn@moe.edu.sg 
 
 ![](/images/Ms%20Sophia%20Ng%20Jia%20Ming.jpg)
+<img style="width:50%" src="000">
+
 Ms Sophia Ng    
 sophia_ng_jia_ming@moe.edu.sg
 
 ![](/images/Ms%20Sumitha.jpeg)
+<img style="width:50%" src="000">
+
 Mdm Sumitha Kirsnan
 sumitha_kirsnan@moe.edu.sg
 
 ![](/images/Ms%20Syafiqah%20Binte%20Zaini.jpg)
+<img style="width:50%" src="000">
+
 Ms Syafiqah Binte Zaini
 syafiqah_zaini@moe.edu.sg
 
 ![](/images/Mr%20Tan%20Chor%20Seng.jpg)
+<img style="width:50%" src="000">
+
 Mr Tan Chor Seng
 tan_chor_seng_a@moe.edu.sg
 
 ![](/images/Ms%20Joycelyn.jpeg)
+<img style="width:50%" src="000">
+
 Ms Tan E-Fung, Joycelyn
 tan_e_fung_joycelyn@moe.edu.sg
 
 ![](/images/Mr%20Peter.jpeg)
+<img style="width:50%" src="000">
+
 Mr Tan Eng Hoe, Peter
 peter_tan_eng_hoe@moe.edu.sg
 
 ![](/images/Mr%20John.jpeg)
+<img style="width:50%" src="000">
+
 Mr Tan Hong Soong, John
 tan_hong_soong@moe.edu.sg
 
 ![](/images/mr%20tan%20jit%20jin.jpeg)
+<img style="width:50%" src="000">
+
 Mr Tan Jit Jin
 tan_jit_jin@moe.edu.sg
 
 ![](/images/ms%20tan%20kay%20shin.jpeg)
+<img style="width:50%" src="000">
+
 Mdm Tan Kay Shin 
 tan_kay_shin@moe.edu.sg
 
 ![](/images/Mr%20Tan%20Kiang%20Chye.jpeg)
+<img style="width:50%" src="000">
+
 Mr Tan Kiang Chye
 tan_kiang_chye@moe.edu.sg
 
 Mr Tan Liang Hooi![](/images/Mr%20Tan%20Liang%20Hooi.jpeg)
+<img style="width:50%" src="000">
+
 tan_liang_hooi@moe.edu.sg
 
 ![](/images/kenneth.jpeg)
+<img style="width:50%" src="000">
+
 Mr Tan Ming Hon, Kenneth
 tan_ming_hon@moe.edu.sg
 
 ![](/images/mr%20tan%20teck%20soon.jpeg)
+<img style="width:50%" src="000">
+
 Mr Tan Teck Soon
 tan_teck_soon@moe.edu.sg 
 
 ![](/images/Mr%20Tan%20Ser%20Yong.jpeg)
+<img style="width:50%" src="000">
+
 Mr Tan Ser Yong, Philip
 tan_ser_yong_philip@moe.edu.sg
 
 ![](/images/Mrs%20Tan%20Wong%20Siew%20Har.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Tan-Wong Siew Har, Winnie
 wong_siew_har_winnie@moe.edu.sg
 
 ![](/images/Timothy.jpeg)
+<img style="width:50%" src="000">
+
 Mr Tang Xu Yang Timothy
 tang_xu_yang_timothy@moe.edu.sg
 
 ![](/images/Mrs%20Tan%20Wen%20Yi.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Tan Wen Yi
 tan_wen_yi@moe.edu.sg
 
 ![](/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Teng-Tay Soo Chin, Emmeline
 tay_soo_chin_emmeline@moe.edu.sg
 
 ![](/images/Ms%20Teo%20Li%20Yin.jpeg)
+<img style="width:50%" src="000">
+
 Ms Teo Li Yin
 teo_li_yin@moe.edu.sg
 
@@ -395,14 +465,20 @@ Mr Teo Chai Yaw
 teo_chai_yaw@moe.edu.sg
 
 ![](/images/Ms%20Teo%20Wei%20Na.jpeg)
+<img style="width:50%" src="000">
+
 Ms Teo Wei Na
 teo_wei_na@moe.edu.sg
 
 ![](/images/mr%20thomas%20law%20choon%20ting.jpeg)
+<img style="width:50%" src="000">
+
 Mr Thomas Law
 law_choon_ting_thomas@moe.edu.sg 
 
 ![](/images/Valane%20Passport%20Photo%202.jpeg)
+<img style="width:50%" src="000">
+
 Ms Tnee Li Ling, Valane
 tnee_li_ling_valane@moe.edu.sg
 
@@ -410,33 +486,49 @@ Ms Tracy Tey
 tracy_tey_pin_pin@moe.edu.sg
 
 ![](/images/Ms%20Wee%20Ni%20Swen.jpg)
+<img style="width:50%" src="000">
+
 Ms Wee Ni Swen
 wee_ni_swen@moe.edu.sg
 
 ![](/images/Ms%20Wee%20Yee%20Ing.jpg)
+<img style="width:50%" src="000">
+
 Ms Wee Yee Ing
 wee_yee_ing@moe.edu.sg
 
 ![](/images/Mrs%20Wee%20Loh%20Wee%20Sin.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Wee-Loh Wee Sin
 loh_wee_sin@moe.edu.sg
 
 ![](/images/Ms%20Woong%20Choy%20Wan.jpeg)
+<img style="width:50%" src="000">
+
 Ms Woong Choy Wan
 woong_choy_wan@moe.edu.sg
 
 ![](/images/Mr%20Andy.jpeg)
+<img style="width:50%" src="000">
+
 Mr Yap Jin Hua, Andy
 yap_jin_hua_andy@moe.edu.sg
 
 ![](/images/Mr%20Yong%20Teck%20Sin.jpg)
+<img style="width:50%" src="000">
+
 Mr Yong Teck Sin
 yong_teck_sin@moe.edu.sg
 
 ![](/images/Mrs%20Yuen%20Lay%20Eng.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Yuen Lay Eng
 ang_lay_eng@moe.edu.sg 
  
 ![](/images/Mr%20Zulhilmi%20Bin%20Zulkiflee.jpeg)
+<img style="width:50%" src="000">
+
 Mr Zulhilmi Bin Zulkiflee
 zulkiflee_zulhilmi@moe.edu.sg
