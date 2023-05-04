@@ -436,26 +436,22 @@ tan_ser_yong_philip@moe.edu.sg
 Mrs Tan-Wong Siew Har, Winnie
 wong_siew_har_winnie@moe.edu.sg
 
-![](/images/Timothy.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Timothy.jpeg">
 
 Mr Tang Xu Yang Timothy
 tang_xu_yang_timothy@moe.edu.sg
 
-![](/images/Mrs%20Tan%20Wen%20Yi.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mrs%20Tan%20Wen%20Yi.jpeg">
 
 Mrs Tan Wen Yi
 tan_wen_yi@moe.edu.sg
 
-![](/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg">
 
 Mrs Teng-Tay Soo Chin, Emmeline
 tay_soo_chin_emmeline@moe.edu.sg
 
-![](/images/Ms%20Teo%20Li%20Yin.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20Teo%20Li%20Yin.jpeg">
 
 Ms Teo Li Yin
 teo_li_yin@moe.edu.sg
@@ -464,14 +460,12 @@ teo_li_yin@moe.edu.sg
 Mr Teo Chai Yaw
 teo_chai_yaw@moe.edu.sg
 
-![](/images/Ms%20Teo%20Wei%20Na.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20Teo%20Wei%20Na.jpeg">
 
 Ms Teo Wei Na
 teo_wei_na@moe.edu.sg
 
-![](/images/mr%20thomas%20law%20choon%20ting.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/mr%20thomas%20law%20choon%20ting.jpeg">
 
 Mr Thomas Law
 law_choon_ting_thomas@moe.edu.sg 
