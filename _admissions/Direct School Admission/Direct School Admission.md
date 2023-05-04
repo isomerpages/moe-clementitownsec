@@ -4,7 +4,7 @@ permalink: /admissions/direct-school-admission/
 description: ""
 third_nav_title: Direct School Admission
 ---
-In the recent press release, the Ministry of Education (MOE) announced that selected secondary schools can invite students to participate in the 2022 DSA-Sec Exercise for Admission to Secondary One in 2023.&nbsp;
+In the recent press release, the Ministry of Education (MOE) announced that selected secondary schools can invite students to participate in the 2023 DSA-Sec Exercise for Admission to Secondary One in 2024.&nbsp;
 
 Introduced in 2004, the Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the PSLE.
 
@@ -12,9 +12,9 @@ Introduced in 2004, the Direct School Admission (DSA) scheme provides students w
 
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 – 4.**
 
-For Admission to Secondary One in 2023, Clementi Town Secondary School is pleased to offer DSA in the following areas:
+For Admission to Secondary One in 2024, Clementi Town Secondary School is pleased to offer DSA in the following areas:
 
-1.  [Direct School Admission to CTSS: STEM Coding](/admissions/direct-school-admission/direct-school-admission-to-ctss-stem-coding)
+1.  [Direct School Admission to CTSS: STEM (Science and Technology)](/admissions/direct-school-admission/direct-school-admission-to-ctss-stem-science-and-technology/)
 2.  [Direct School Admission to CTSS: Leadership and Uniformed Groups](/admissions/direct-school-admission/direct-school-admission-to-ctss-leadership-and-uniformed-groups)
 3.  [Direct School Admission to CTSS: Performing Arts](/admissions/direct-school-admission/direct-school-admission-to-ctss-performing-arts)
 4.  [Direct School Admission to CTSS: Sports Groups](/admissions/direct-school-admission/direct-school-admission-to-ctss-sports-groups)
@@ -39,8 +39,8 @@ For Admission to Secondary One in 2023, Clementi Town Secondary School is please
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid black" class="tg-3icd">STEM – Coding<span style="color:#000"> Computing to Discover and Empower (CODE)</span><br><br><br><br><br><br><br><br><br><br></td>
-    <td style="border: 1px solid black" class="tg-3icd">- Very Good Conduct <br><br>- Demonstrate special talents in Robotics or Computing (e.g. robot design and programming, app coding, micro-controller programming)<br>  <br>- Represented school and achieved accolades in Robotics/Computing-related competitions (e.g. National Junior Robotics Competition)<br><br>- Preferred to have held leadership position(s) in Robotics/Computing-related clubs or societies (e.g. Robotics Club, Infocomm Club)<br><br>- Have some background in coding (applicants may wish to submit and showcase a portfolio of the programmes which they have created)</td>
+    <td style="border: 1px solid black" class="tg-3icd">STEM – <span style="color:#000"> STEM (Science and Technology)</span><br><br><br><br><br><br><br><br><br><br></td>
+    <td style="border: 1px solid black" class="tg-3icd">- Very Good Conduct <br><br>- Demonstrate special talents in Science, Robotics or Computing (e.g. Scientific Investigation, robot design and programming, app&nbsp;coding, micro-controller programming)&nbsp;&nbsp;<br>  <br>- Represented school and achieved accolades in Science and / or Robotics/Computing-related competitions (e.g. Singapore Primary Science Olympiad (SPSO), National Junior Robotics Competition)<br><br>- Preferred to have held leadership position(s) in Science / Robotics / Computing-related clubs or societies (e.g. Science Club, Robotics Club, Infocomm Club)<br><br>- Have some background in Scientific Investigations or coding (applicants may wish to submit and showcase a portfolio of the Science experiments or computing programmes which they have created)</td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-ktyi">Leadership and Uniformed Groups<br><span style="color:#000">Girl Guides</span><br>National Cadet Corps (NCC) Land<br>National Civil Defence Cadet Corps (NCDCC)<br><span style="color:#000">National Police Cadet Corps (NPCC)</span></td>
