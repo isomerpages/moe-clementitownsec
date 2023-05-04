@@ -3,16 +3,12 @@ title: All Staff
 permalink: /contact-us/all-staff/
 description: Teaching Staff
 ---
-![](/images/Ms%20Liu%20Jiazhen%20Adeline.jpg)
-
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20Liu%20Jiazhen%20Adeline.jpg">
 
 Ms Adeline Liu  
 [liu\_jiazhen\_adeline@moe.edu.sg](mailto:liu_jiazhen_adeline@moe.edu.sg)
 
-
-![](/images/Mr%20Aidil%20Bin%20Md%20Idris.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mr%20Aidil%20Bin%20Md%20Idris.jpeg">
 
 Mr Aidil Bin Md Idris      
  [aidil\_md\_idris@moe.edu.sg](mailto:aidil_md_idris@moe.edu.sg)
