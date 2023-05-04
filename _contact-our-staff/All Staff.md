@@ -4,68 +4,101 @@ permalink: /contact-us/all-staff/
 description: Teaching Staff
 ---
 ![](/images/Ms%20Liu%20Jiazhen%20Adeline.jpg)
+
+<img style="width:50%" src="000">
+
 Ms Adeline Liu  
 [liu\_jiazhen\_adeline@moe.edu.sg](mailto:liu_jiazhen_adeline@moe.edu.sg)
 
 
 ![](/images/Mr%20Aidil%20Bin%20Md%20Idris.jpeg)
+<img style="width:50%" src="000">
+
 Mr Aidil Bin Md Idris      
  [aidil\_md\_idris@moe.edu.sg](mailto:aidil_md_idris@moe.edu.sg)
 
 ![](/images/Alvin%20Tan.jpeg)
+<img style="width:50%" src="000">
+
 Mr Alvin Tan Jia Jie     
 tan\_jia\_jie@moe.edu.sg
 
 ![](/images/Mdm%20Ang%20Choon%20Keow.jpeg)
+<img style="width:50%" src="000">
+
 Mdm Ang Choon Keow [ang\_choon\_keow@moe.edu.sg](mailto:ang_choon_keow@moe.edu.sg)
 
 
 ![](/images/CAOLEILEI.jpeg)
-Ms Cao Lei Lei                                                                                                       [cao\_leilei@moe.edu.sg](mailto:cao_leilei@moe.edu.sg)
+<img style="width:50%" src="000">
+
+Ms Cao Lei Lei                                                                           [cao\_leilei@moe.edu.sg](mailto:cao_leilei@moe.edu.sg)
 
 ![](/images/mr%20chan%20bin%20chuan.jpeg)
-Mr Chan Bin Chuan                          
+<img style="width:50%" src="000">
+
+Mr&nbsp;Chan Bin Chuan                          
 [chan\_bin\_chuan@moe.edu.sg](mailto:chan_bin_chuan@moe.edu.sg)
 
 
 ![](/images/Ms%20Chan%20Lay%20Leng.jpeg)
+<img style="width:50%" src="000">
+
 Ms Chan Lay Leng, Chloe
 [chan\lay\leng@moe.edu.sg](mailto:chanlayleng@moe.edu.sg)
 
 ![](/images/ms%20chan%20lai%20peng.jpeg)
+<img style="width:50%" src="000">
+
 Ms Chan Lai Peng  
 [chan\_lai\_peng@moe.edu.sg](mailto:chan_lai_peng@moe.edu.sg)
 
 ![](/images/Mr%20Chan%20Siew%20Kwai.jpeg)
+<img style="width:50%" src="000">
+
 Mr Chan Siew Kwai            
 [chan\_siew\_kwai@moe.edu.sg](mailto:chan_siew_kwai@moe.edu.sg)
 
 ![](/images/Mdm%20Chen%20Liping.jpeg)
+<img style="width:50%" src="000">
+
 Mdm Chen Liping  
 [chen\_liping@moe.edu.sg](mailto:chen_liping@moe.edu.sg)
 
 ![](/images/Mrs%20Cheong%20Poh%20Suan.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Cheong Poh Suan   
 [soh\_poh\_suan@moe.edu.sg](mailto:soh_poh_suan@moe.edu.sg)
 
 ![](/images/Mr%20Chia%20Chun%20Keong.jpeg)
+<img style="width:50%" src="000">
+
 Mr Chia Chun Keong  
 [chia\_chun\_keong@moe.edu.sg](mailto:chia_chun_keong@moe.edu.sg)
 
 ![](/images/Mr%20Chia%20Chun%20Kiat.jpeg)
+<img style="width:50%" src="000">
+
 Mr Chia Chun Kiat   
 [chia\_chun\_kiat@moe.edu.sg](mailto:chia_chun_kiat@moe.edu.sg)
 
 ![](/images/Mr%20Chidambaram%20Saravanan.jpeg)
+<img style="width:50%" src="000">
+
 Mr Chidambaram Saravanan 
 [chidambaram\_saravanan@moe.edu.sg](mailto:chidambaram_saravanan@moe.edu.sg)
 
 ![](/images/Mrs%20Chin%20Leong%20Hwai%20Ee%20Stella.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Chin-Leong Hwai Ee, Stella 
 [leong\_hwai\_ee\_stella@moe.edu.sg](mailto:leong_hwai_ee_stella@moe.edu.sg)
 
 ![](/images/mr%20chng%20chia%20yii.jpeg)
-Mr Chng Chia Yi    
+<img style="width:50%" src="000">
+
+Mr&nbsp;Chng Chia Yi    
 [chng\_chia\_yi@moe.edu.sg](mailto:chng_chia_yi@moe.edu.sg)
 
 
@@ -105,7 +138,7 @@ Mr Joshua Xiao Jing
 [xiao\_jing\_joshua@moe.edu.sg](mailto:xiao_jing_joshua@moe.edu.sg)
 
 ![](/images/ms%20joyner%20tay%20kai%20ling.jpeg)
-Ms Joyner Tay        
+Ms&nbsp;Joyner Tay        
 [tay\_kai\_ling\_joyner@moe.edu.sg](mailto:tay_kai_ling_joyner@moe.edu.sg)
 
 ![](/images/Mr%20Kamal%20Bin%20Yacob.jpeg)
@@ -120,11 +153,11 @@ Mr Ke Kaijie, Justin
 [ke\_kaijie\_justin@moe.edu.sg](mailto:ke_kaijie_justin@moe.edu.sg)
 
 ![](/images/Kishan%20School%20Website.jpeg)
-Mr Kishan Kannan  
+Mr&nbsp;Kishan Kannan  
 [kishan\_kannan@moe.edu.sg](mailto:kishan_kannan@moe.edu.sg)
 
 ![](/images/Doreen.png)
-Ms Lau Ying Ying Doreen
+Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen
 [lau\_ying\_ying\_doreen@moe.edu.sg](mailto:lau_ying_ying_doreen@moe.edu.sg)
 
 ![](/images/miss%20rachel%20lee%20jueyi.jpeg)
