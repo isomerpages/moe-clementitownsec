@@ -106,42 +106,62 @@ Mr Chua Keng Yeow
 [chua\_keng\_yeow@moe.edu.sg](mailto:chua_keng_yeow@moe.edu.sg)
 
 ![](/images/Mrs%20Chua%20Teng%20May%20Hwee%20Teresa.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Chua-Teng May Hwee Teresa
 [teng\_may\_hwee\_teresa@moe.edu.sg](mailto:teng_may_hwee_teresa@moe.edu.sg)
 
 ![](/images/ms%20sandy%20ee.jpeg)
+<img style="width:50%" src="000">
+
 Ms Ee Wen Lin, Sandy 
 [ee\_wen\_lin\_sandy@moe.edu.sg](mailto:ee_wen_lin_sandy@moe.edu.sg)
 
 ![](/images/Ms%20Eng%20Chia%20Lee.jpeg)
+<img style="width:50%" src="000">
+
 Ms Eng Chia Lee    
 [eng\_chia\_lee@moe.edu.sg](mailto:eng_chia_lee@moe.edu.sg)
 
 ![](/images/Ms%20Hamizah%20Begum%20Bte%20Md%20Hanif.jpeg)
+<img style="width:50%" src="000">
+
 Ms Hamizah Begum Bte Md Hanif 
 [hamizah\_begum\_mohd\_hanif@moe.edu.sg](mailto:hamizah_begum_mohd_hanif@moe.edu.sg)
 
 ![](/images/Ms%20He%20Meiyu.jpeg)
+<img style="width:50%" src="000">
+
 Ms He Meiyu        
 [he\_meiyu@moe.edu.sg](mailto:he_meiyu@moe.edu.sg)
 
 ![](/images/Ms%20Heng%20Hui%20Zhen.jpeg)
+<img style="width:50%" src="000">
+
 Ms Heng Hui Zhen    
 [heng\_hui\_zhen@moe.edu.sg](mailto:heng_hui_zhen@moe.edu.sg)
 
 ![](/images/Ms%20Ho%20Xiu%20Hui,%20Tessa.jpg)
+<img style="width:50%" src="000">
+
 Ms Ho Xiu Hui Tessa   
 [ho\_xiu\_hui\_tessa@moe.edu.sg](mailto:ho_xiu_hui_tessa@moe.edu.sg)
 
 ![](/images/Mr%20Xiao%20Jing%20Joshua.jpg)
+<img style="width:50%" src="000">
+
 Mr Joshua Xiao Jing       
 [xiao\_jing\_joshua@moe.edu.sg](mailto:xiao_jing_joshua@moe.edu.sg)
 
 ![](/images/ms%20joyner%20tay%20kai%20ling.jpeg)
+<img style="width:50%" src="000">
+
 Ms&nbsp;Joyner Tay        
 [tay\_kai\_ling\_joyner@moe.edu.sg](mailto:tay_kai_ling_joyner@moe.edu.sg)
 
 ![](/images/Mr%20Kamal%20Bin%20Yacob.jpeg)
+<img style="width:50%" src="000">
+
 Mr Kamal Bin Yacob   
 [kamal\_yacob@moe.edu.sg](mailto:kamal_yacob@moe.edu.sg)
 
@@ -149,55 +169,81 @@ Mrs Karine Nai
 nai_sok_khoon_karine@moe.edu.sg
 
 ![](/images/Mr%20Ke%20Kaijie%20Justin.jpeg)
+<img style="width:50%" src="000">
+
 Mr Ke Kaijie, Justin   
 [ke\_kaijie\_justin@moe.edu.sg](mailto:ke_kaijie_justin@moe.edu.sg)
 
 ![](/images/Kishan%20School%20Website.jpeg)
+<img style="width:50%" src="000">
+
 Mr&nbsp;Kishan Kannan  
 [kishan\_kannan@moe.edu.sg](mailto:kishan_kannan@moe.edu.sg)
 
 ![](/images/Doreen.png)
+<img style="width:50%" src="000">
+
 Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen
 [lau\_ying\_ying\_doreen@moe.edu.sg](mailto:lau_ying_ying_doreen@moe.edu.sg)
 
 ![](/images/miss%20rachel%20lee%20jueyi.jpeg)
+<img style="width:50%" src="000">
+
 Ms Lee Jueyi, Rachel    
 [rachel\_lee\_jueyi@moe.edu.sg](mailto:rachel_lee_jueyi@moe.edu.sg)
 
 ![](/images/Mrs%20Lehming%20Teo%20Shi%20Hui%20Rachel.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Lehming-Teo Shi Hui, Rachel
 [teo\_shi\_hui\_rachel@moe.edu.sg](mailto:teo_shi_hui_rachel@moe.edu.sg)
 
 ![](/images/Ms%20Li%20Qianyi.jpeg)
+<img style="width:50%" src="000">
+
 Ms Li Qianyi
 li_qianyi@moe.edu.sg
 
 ![](/images/Ms%20Lim%20Keng%20Woon%20Madeline.jpeg)
+<img style="width:50%" src="000">
+
 Ms Lim Keng Woon, Madeline
 lim_keng_woon_madeline@moe.edu.sg
 
 ![](/images/Mr%20Jeremy.jpeg)
+<img style="width:50%" src="000">
+
 Mr Lim Liangcai, Jeremy
 lim_liangcai_jeremy@moe.edu.sg
  
 ![](/images/mrs%20ng%20lye%20sim.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Lim Lye Sim  
 ng_lye_sim@moe.edu.sg 
  
 ![](/images/ms%20lim%20tze%20min%20joyce_1.jpeg)
+<img style="width:50%" src="000">
+
 Ms Lim Tze Min Joyce    
 lim_tze_min@moe.edu.sg
 
 
 ![](/images/Mrs%20Lim%20Quek%20Chwee%20Tiang%20Linda.jpeg)
+<img style="width:50%" src="000">
+
 Mrs Lim-Quek Chwee Tiang, Linda
 quek_chwee_tiang_linda@moe.edu.sg
 
 ![](/images/Ms%20Low%20Li%20Qing.jpg)
+<img style="width:50%" src="000">
+
 Ms Low Liqing    
 low_liqing@moe.edu.sg
 
 ![](/images/Mr%20Mohideeen%20Nizar.jpeg)
+<img style="width:50%" src="000">
+
 Mr Mohideen Nizar s/o Anwar
 mohideen_nizar_anwar@moe.edu.sg
  
