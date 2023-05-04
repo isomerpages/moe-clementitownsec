@@ -89,14 +89,12 @@ Mr Chia Chun Kiat
 Mr Chidambaram Saravanan 
 [chidambaram\_saravanan@moe.edu.sg](mailto:chidambaram_saravanan@moe.edu.sg)
 
-![](/images/Mrs%20Chin%20Leong%20Hwai%20Ee%20Stella.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mrs%20Chin%20Leong%20Hwai%20Ee%20Stella.jpeg">
 
 Mrs Chin-Leong Hwai Ee, Stella 
 [leong\_hwai\_ee\_stella@moe.edu.sg](mailto:leong_hwai_ee_stella@moe.edu.sg)
 
-![](/images/mr%20chng%20chia%20yii.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/mr%20chng%20chia%20yii.jpeg">
 
 Mr&nbsp;Chng Chia Yi    
 [chng\_chia\_yi@moe.edu.sg](mailto:chng_chia_yi@moe.edu.sg)
@@ -105,44 +103,37 @@ Mr&nbsp;Chng Chia Yi
 Mr Chua Keng Yeow  
 [chua\_keng\_yeow@moe.edu.sg](mailto:chua_keng_yeow@moe.edu.sg)
 
-![](/images/Mrs%20Chua%20Teng%20May%20Hwee%20Teresa.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mrs%20Chua%20Teng%20May%20Hwee%20Teresa.jpeg">
 
 Mrs Chua-Teng May Hwee Teresa
 [teng\_may\_hwee\_teresa@moe.edu.sg](mailto:teng_may_hwee_teresa@moe.edu.sg)
 
-![](/images/ms%20sandy%20ee.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/ms%20sandy%20ee.jpeg">
 
 Ms Ee Wen Lin, Sandy 
 [ee\_wen\_lin\_sandy@moe.edu.sg](mailto:ee_wen_lin_sandy@moe.edu.sg)
 
-![](/images/Ms%20Eng%20Chia%20Lee.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20Eng%20Chia%20Lee.jpeg">
 
 Ms Eng Chia Lee    
 [eng\_chia\_lee@moe.edu.sg](mailto:eng_chia_lee@moe.edu.sg)
 
-![](/images/Ms%20Hamizah%20Begum%20Bte%20Md%20Hanif.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20Hamizah%20Begum%20Bte%20Md%20Hanif.jpeg">
 
 Ms Hamizah Begum Bte Md Hanif 
 [hamizah\_begum\_mohd\_hanif@moe.edu.sg](mailto:hamizah_begum_mohd_hanif@moe.edu.sg)
 
-![](/images/Ms%20He%20Meiyu.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20He%20Meiyu.jpeg">
 
 Ms He Meiyu        
 [he\_meiyu@moe.edu.sg](mailto:he_meiyu@moe.edu.sg)
 
-![](/images/Ms%20Heng%20Hui%20Zhen.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20Heng%20Hui%20Zhen.jpeg">
 
 Ms Heng Hui Zhen    
 [heng\_hui\_zhen@moe.edu.sg](mailto:heng_hui_zhen@moe.edu.sg)
 
-![](/images/Ms%20Ho%20Xiu%20Hui,%20Tessa.jpg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20Ho%20Xiu%20Hui,%20Tessa.jpg">
 
 Ms Ho Xiu Hui Tessa   
 [ho\_xiu\_hui\_tessa@moe.edu.sg](mailto:ho_xiu_hui_tessa@moe.edu.sg)
