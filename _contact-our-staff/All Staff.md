@@ -17,74 +17,60 @@ Ms Adeline Liu
 Mr Aidil Bin Md Idris      
  [aidil\_md\_idris@moe.edu.sg](mailto:aidil_md_idris@moe.edu.sg)
 
-![](/images/Alvin%20Tan.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Alvin%20Tan.jpeg">
 
 Mr Alvin Tan Jia Jie     
 tan\_jia\_jie@moe.edu.sg
 
-![](/images/Mdm%20Ang%20Choon%20Keow.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mdm%20Ang%20Choon%20Keow.jpeg">
 
 Mdm Ang Choon Keow [ang\_choon\_keow@moe.edu.sg](mailto:ang_choon_keow@moe.edu.sg)
 
-
-![](/images/CAOLEILEI.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/CAOLEILEI.jpeg">
 
 Ms Cao Lei Lei                                                                           [cao\_leilei@moe.edu.sg](mailto:cao_leilei@moe.edu.sg)
 
-![](/images/mr%20chan%20bin%20chuan.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/mr%20chan%20bin%20chuan.jpeg">
 
 Mr&nbsp;Chan Bin Chuan                          
 [chan\_bin\_chuan@moe.edu.sg](mailto:chan_bin_chuan@moe.edu.sg)
 
-
-![](/images/Ms%20Chan%20Lay%20Leng.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20Chan%20Lay%20Leng.jpeg">
 
 Ms Chan Lay Leng, Chloe
 [chan\lay\leng@moe.edu.sg](mailto:chanlayleng@moe.edu.sg)
 
-![](/images/ms%20chan%20lai%20peng.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/ms%20chan%20lai%20peng.jpeg">
 
 Ms Chan Lai Peng  
 [chan\_lai\_peng@moe.edu.sg](mailto:chan_lai_peng@moe.edu.sg)
 
-![](/images/Mr%20Chan%20Siew%20Kwai.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mr%20Chan%20Siew%20Kwai.jpeg">
 
 Mr Chan Siew Kwai            
 [chan\_siew\_kwai@moe.edu.sg](mailto:chan_siew_kwai@moe.edu.sg)
 
-![](/images/Mdm%20Chen%20Liping.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mdm%20Chen%20Liping.jpeg">
 
 Mdm Chen Liping  
 [chen\_liping@moe.edu.sg](mailto:chen_liping@moe.edu.sg)
 
-![](/images/Mrs%20Cheong%20Poh%20Suan.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mrs%20Cheong%20Poh%20Suan.jpeg">
 
 Mrs Cheong Poh Suan   
 [soh\_poh\_suan@moe.edu.sg](mailto:soh_poh_suan@moe.edu.sg)
 
-![](/images/Mr%20Chia%20Chun%20Keong.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mr%20Chia%20Chun%20Keong.jpeg">
 
 Mr Chia Chun Keong  
 [chia\_chun\_keong@moe.edu.sg](mailto:chia_chun_keong@moe.edu.sg)
 
-![](/images/Mr%20Chia%20Chun%20Kiat.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mr%20Chia%20Chun%20Kiat.jpeg">
 
 Mr Chia Chun Kiat   
 [chia\_chun\_kiat@moe.edu.sg](mailto:chia_chun_kiat@moe.edu.sg)
 
-![](/images/Mr%20Chidambaram%20Saravanan.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mr%20Chidambaram%20Saravanan.jpeg">
 
 Mr Chidambaram Saravanan 
 [chidambaram\_saravanan@moe.edu.sg](mailto:chidambaram_saravanan@moe.edu.sg)
