@@ -476,8 +476,7 @@ teo_wei_na@moe.edu.sg
 Mr Thomas Law
 law_choon_ting_thomas@moe.edu.sg 
 
-![](/images/Valane%20Passport%20Photo%202.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Valane%20Passport%20Photo%202.jpeg">
 
 Ms Tnee Li Ling, Valane
 tnee_li_ling_valane@moe.edu.sg
@@ -485,50 +484,42 @@ tnee_li_ling_valane@moe.edu.sg
 Ms Tracy Tey
 tracy_tey_pin_pin@moe.edu.sg
 
-![](/images/Ms%20Wee%20Ni%20Swen.jpg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20Wee%20Ni%20Swen.jpg">
 
 Ms Wee Ni Swen
 wee_ni_swen@moe.edu.sg
 
-![](/images/Ms%20Wee%20Yee%20Ing.jpg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20Wee%20Yee%20Ing.jpg">
 
 Ms Wee Yee Ing
 wee_yee_ing@moe.edu.sg
 
-![](/images/Mrs%20Wee%20Loh%20Wee%20Sin.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mrs%20Wee%20Loh%20Wee%20Sin.jpeg">
 
 Mrs Wee-Loh Wee Sin
 loh_wee_sin@moe.edu.sg
 
-![](/images/Ms%20Woong%20Choy%20Wan.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Ms%20Woong%20Choy%20Wan.jpeg">
 
 Ms Woong Choy Wan
 woong_choy_wan@moe.edu.sg
 
-![](/images/Mr%20Andy.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mr%20Andy.jpeg">
 
 Mr Yap Jin Hua, Andy
 yap_jin_hua_andy@moe.edu.sg
 
-![](/images/Mr%20Yong%20Teck%20Sin.jpg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mr%20Yong%20Teck%20Sin.jpg">
 
 Mr Yong Teck Sin
 yong_teck_sin@moe.edu.sg
 
-![](/images/Mrs%20Yuen%20Lay%20Eng.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mrs%20Yuen%20Lay%20Eng.jpeg">
 
 Mrs Yuen Lay Eng
 ang_lay_eng@moe.edu.sg 
  
-![](/images/Mr%20Zulhilmi%20Bin%20Zulkiflee.jpeg)
-<img style="width:50%" src="000">
+<img style="width:50%" src="/images/Mr%20Zulhilmi%20Bin%20Zulkiflee.jpeg">
 
 Mr Zulhilmi Bin Zulkiflee
 zulkiflee_zulhilmi@moe.edu.sg
