@@ -24,7 +24,7 @@ description: ""
 * Address: 10 Clementi Town Secondary School S129904
 * Contact No:  67777362
 * Email:  ctss@moe.edu.sg
-* Contact Person: Ms June Kwek
+* Contact Person: Ms Nur FAREEZA AHMAD RUMAIZI
 
 **How to get there?**
 * Nearest MRT: Clementi MRT (EW23 line) – 5 minutes walking distance
@@ -44,4 +44,4 @@ description: ""
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's 
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's
