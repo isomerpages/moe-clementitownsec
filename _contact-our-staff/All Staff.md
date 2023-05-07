@@ -388,97 +388,117 @@ tan_ming_hon@moe.edu.sg
 
 <img style="width:35%" src="/images/mr%20tan%20teck%20soon.jpeg">
 
-Mr Tan Teck Soon
+Mr Tan Teck Soon <br>
+[email](mailto:email)
 tan_teck_soon@moe.edu.sg 
 
 <img style="width:35%" src="/images/Mr%20Tan%20Ser%20Yong.jpeg">
 
-Mr Tan Ser Yong, Philip
+Mr Tan Ser Yong, Philip <br>
+[email](mailto:email)
 tan_ser_yong_philip@moe.edu.sg
 
 <img style="width:35%" src="/images/Mrs%20Tan%20Wong%20Siew%20Har.jpeg">
 
-Mrs Tan-Wong Siew Har, Winnie
+Mrs Tan-Wong Siew Har, Winnie <br>
+[email](mailto:email)
 wong_siew_har_winnie@moe.edu.sg
 
 <img style="width:35%" src="/images/Timothy.jpeg">
 
-Mr Tang Xu Yang Timothy
+Mr Tang Xu Yang Timothy <br>
+[email](mailto:email)
 tang_xu_yang_timothy@moe.edu.sg
 
 <img style="width:35%" src="/images/Mrs%20Tan%20Wen%20Yi.jpeg">
 
-Mrs Tan Wen Yi
+Mrs Tan Wen Yi <br>
+[email](mailto:email)
 tan_wen_yi@moe.edu.sg
 
 <img style="width:35%" src="/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg">
 
-Mrs Teng-Tay Soo Chin, Emmeline
+Mrs Teng-Tay Soo Chin, Emmeline <br>
+[email](mailto:email)
 tay_soo_chin_emmeline@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Teo%20Li%20Yin.jpeg">
 
-Ms Teo Li Yin
+Ms Teo Li Yin <br>
+[email](mailto:email)
 teo_li_yin@moe.edu.sg
 
 
-Mr Teo Chai Yaw
+Mr Teo Chai Yaw <br>
+[email](mailto:email)
 teo_chai_yaw@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Teo%20Wei%20Na.jpeg">
 
-Ms Teo Wei Na
+Ms Teo Wei Na <br>
+[email](mailto:email)
 teo_wei_na@moe.edu.sg
 
 <img style="width:35%" src="/images/mr%20thomas%20law%20choon%20ting.jpeg">
 
-Mr Thomas Law
+Mr Thomas Law <br>
+[email](mailto:email)
 law_choon_ting_thomas@moe.edu.sg 
 
 <img style="width:35%" src="/images/Valane%20Passport%20Photo%202.jpeg">
 
-Ms Tnee Li Ling, Valane
+Ms Tnee Li Ling, Valane <br>
+[email](mailto:email)
 tnee_li_ling_valane@moe.edu.sg
 
-Ms Tracy Tey
+Ms Tracy Tey <br>
+[email](mailto:email)
 tracy_tey_pin_pin@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Wee%20Ni%20Swen.jpg">
 
-Ms Wee Ni Swen
+Ms Wee Ni Swen <br>
+[email](mailto:email)
 wee_ni_swen@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Wee%20Yee%20Ing.jpg">
 
-Ms Wee Yee Ing
+Ms Wee Yee Ing <br>
+[email](mailto:email)
 wee_yee_ing@moe.edu.sg
 
 <img style="width:35%" src="/images/Mrs%20Wee%20Loh%20Wee%20Sin.jpeg">
 
-Mrs Wee-Loh Wee Sin
+Mrs Wee-Loh Wee Sin <br>
+[email](mailto:email)
 loh_wee_sin@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Woong%20Choy%20Wan.jpeg">
 
-Ms Woong Choy Wan
+Ms Woong Choy Wan <br>
+[email](mailto:email)
 woong_choy_wan@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20Andy.jpeg">
 
-Mr Yap Jin Hua, Andy
+Mr Yap Jin Hua, Andy <br>
+[email](mailto:email)
 yap_jin_hua_andy@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20Yong%20Teck%20Sin.jpg">
 
-Mr Yong Teck Sin
+Mr Yong Teck Sin <br>
+[email](mailto:email)
 yong_teck_sin@moe.edu.sg
 
 <img style="width:35%" src="/images/Mrs%20Yuen%20Lay%20Eng.jpeg">
 
-Mrs Yuen Lay Eng
+Mrs Yuen Lay Eng <br>
+[email](mailto:email)
 ang_lay_eng@moe.edu.sg 
  
 <img style="width:35%" src="/images/Mr%20Zulhilmi%20Bin%20Zulkiflee.jpeg">
 
-Mr Zulhilmi Bin Zulkiflee
+Mr Zulhilmi Bin Zulkiflee <br>
+[email](mailto:email)
 zulkiflee_zulhilmi@moe.edu.sg
