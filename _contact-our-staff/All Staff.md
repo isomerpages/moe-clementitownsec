@@ -21,7 +21,7 @@ tan\_jia\_jie@moe.edu.sg
 
 <img style="width:35%" src="/images/Mdm%20Ang%20Choon%20Keow.jpeg">
 
-Mdm Ang Choon Keow [ang\_choon\_keow@moe.edu.sg](mailto:ang_choon_keow@moe.edu.sg)
+Mdm Ang Choon Keow <br> [ang\_choon\_keow@moe.edu.sg](mailto:ang_choon_keow@moe.edu.sg)
 
 <img style="width:35%" src="/images/CAOLEILEI.jpeg">
 
