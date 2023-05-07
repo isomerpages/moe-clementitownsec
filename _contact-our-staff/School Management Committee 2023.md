@@ -10,7 +10,7 @@ Mdm Rasidah Binte Rahim
 
 #### **VICE-PRINCIPAL 1**
 ![](/images/mr%20ng%20ping%20hwee.jpg)
-Mr Ng Ping Hwee
+Mr Ng Ping Hwee   
 [ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
 
 #### **HEAD OF DEPARTMENT,  SCHOOL STAFF DEVELOPER AND YEAR HEADS**
@@ -19,7 +19,7 @@ Mr Ng Ping Hwee
 
 ![](/images/Ms%20Liu%20Jiazhen%20Adeline.jpg)
 
-Ms Adeline Liu
+Ms Adeline Liu   
 [](mailto:liu_jiazhen_adeline@moe.edu.sg)[liu\_jiazhen\_adeline@moe.edu.sg](mailto:liu_jiazhen_adeline@moe.edu.sg)
 
 **HOD / English Language and Literature**
@@ -33,5 +33,5 @@ Mdm Teng May Hwee Teresa
 
 ![](/images/mr%20chng%20chia%20yi.jpeg)
 
-Mr Chng Chia Yi
+Mr Chng Chia Yi     
 [chng\_chia\_yi@moe.edu.sg](mailto:chng_chia_yi@moe.edu.sg)
