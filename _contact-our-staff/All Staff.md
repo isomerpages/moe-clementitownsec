@@ -280,84 +280,101 @@ see_gim_hwee@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Sia%20Gee%20Han.jpeg">
 
-Ms Sia Gee Han, Karen
+Ms Sia Gee Han, Karen <br>
+[email](mailto:email)
 karen_sia_gee_han@moe.edu.sg
 
 
-Ms Sharon Tham Kum Chee
+Ms Sharon Tham Kum Chee <br>
+[email](mailto:email)
 sharon_tham_kum_chee@moe.edu.sg
 
 <img style="width:35%" src="/images/Mdm%20Sheetal%20Sonawane.jpeg">
 
-Ms Sheetal Sonawane
+Ms Sheetal Sonawane <br>
+[email](mailto:email)
 sheetal_madhukar_sonawane@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Sim%20Shin%20Jie.jpg">
 
-Ms Sim Shin Jie    
+Ms Sim Shin Jie <br>
+[email](mailto:email)
 sim_shin_jie@moe.edu.sg
 
 <img style="width:35%" src="/images/ms%20siti%20nurwati%20dalduri.jpeg">
 
-Ms Siti Nurwati Dalduri
+Ms Siti Nurwati Dalduri <br>
+[email](mailto:email)
 siti_nurwati_dalduri@moe.edu.sg 
 
 <img style="width:35%" src="/images/Ms%20Soon%20Si%20Lin%20Jocelyn%20(Teacher).png">
 
-Ms Soon Si Lin Jocelyn
+Ms Soon Si Lin Jocelyn <br>
+[email](mailto:email)
 soon_si_lin_jocelyn@moe.edu.sg 
 
 <img style="width:35%" src="/images/Ms%20Sophia%20Ng%20Jia%20Ming.jpg">
 
-Ms Sophia Ng    
+Ms Sophia Ng <br>
+[email](mailto:email)
 sophia_ng_jia_ming@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Sumitha.jpeg">
 
-Mdm Sumitha Kirsnan
+Mdm Sumitha Kirsnan <br>
+[email](mailto:email)
 sumitha_kirsnan@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Syafiqah%20Binte%20Zaini.jpg">
 
-Ms Syafiqah Binte Zaini
+Ms Syafiqah Binte Zaini <br>
+[email](mailto:email)
 syafiqah_zaini@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20Tan%20Chor%20Seng.jpg">
 
-Mr Tan Chor Seng
+Mr Tan Chor Seng <br>
+[email](mailto:email)
 tan_chor_seng_a@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Joycelyn.jpeg">
 
-Ms Tan E-Fung, Joycelyn
+Ms Tan E-Fung, Joycelyn <br>
+[email](mailto:email)
 tan_e_fung_joycelyn@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20Peter.jpeg">
 
-Mr Tan Eng Hoe, Peter
+Mr Tan Eng Hoe, Peter <br>
+[email](mailto:email)
 peter_tan_eng_hoe@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20John.jpeg">
 
-Mr Tan Hong Soong, John
+Mr Tan Hong Soong, John <br>
+[email](mailto:email)
 tan_hong_soong@moe.edu.sg
 
 <img style="width:35%" src="/images/mr%20tan%20jit%20jin.jpeg">
 
-Mr Tan Jit Jin
+Mr Tan Jit Jin <br>
+[email](mailto:email)
 tan_jit_jin@moe.edu.sg
 
 <img style="width:35%" src="/images/ms%20tan%20kay%20shin.jpeg">
 
-Mdm Tan Kay Shin 
+Mdm Tan Kay Shin <br>
+[email](mailto:email)
 tan_kay_shin@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20Tan%20Kiang%20Chye.jpeg">
 
-Mr Tan Kiang Chye
+Mr Tan Kiang Chye <br>
+[email](mailto:email)
 tan_kiang_chye@moe.edu.sg
 
-Mr Tan Liang Hooi
+Mr Tan Liang Hooi <br>
+[email](mailto:email)
 
 <img style="width:35%" src="/images/Mr%20Tan%20Liang%20Hooi.jpeg">
 
@@ -365,7 +382,8 @@ tan_liang_hooi@moe.edu.sg
 
 <img style="width:35%" src="/images/kenneth.jpeg">
 
-Mr Tan Ming Hon, Kenneth
+Mr Tan Ming Hon, Kenneth <br>
+[email](mailto:email)
 tan_ming_hon@moe.edu.sg
 
 <img style="width:35%" src="/images/mr%20tan%20teck%20soon.jpeg">
