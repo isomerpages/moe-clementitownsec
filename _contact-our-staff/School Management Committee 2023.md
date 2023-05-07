@@ -79,8 +79,41 @@ Mr Chng Chia Yi
 Ms Siti Nurwati Dalduri  
 [siti\_nurwati\_dalduri@moe.edu.sg](mailto:siti_nurwati_dalduri@moe.edu.sg)
 
+**Year Head (Lower Secondary)**
+
+![](/images/Chia%20Chun%20Kiat.jpeg)
+Mr Chia Chun Kiat    
+[chia\_chun\_kiat@moe.edu.sg](mailto:chia_chun_kiat@moe.edu.sg)
+
+**Year Head (Upper Secondary)  and SEN OiC**
+
+![](/images/Valane%20Passport%20Photo%202.jpeg)
+Ms Tnee Li Ling, Valane  
+[tnee\_li\_ling\_valane@moe.edu.sg](mailto:tnee_li_ling_valane@moe.edu.sg)
+
+
 ASSISTANT YEAR HEADS AND SUBJECT HEADS
 --------------------------------------
+
+**AYH / Secondary 1**
+
+![](/images/Mdm%20Rosezalina.jpeg)
+Mdm Rosezalina Bte Asmoin
+[rosezalina\_asmoin@moe.edu.sg](mailto:rosezalina_asmoin@moe.edu.sg)
+
+**AYH / Secondary 3**
+
+![](/images/kenneth.jpeg)
+Mr Kenneth Tan Ming Hon
+[](mailto:tan_ming_hon@moe.edu.sg)[tan\_ming\_hon@moe.edu.sg](mailto:tan_ming_hon@moe.edu.sg)
+
+**SH / Chinese Language**
+![](/images/Ms%20Woong%20Choy%20Wan.jpeg)
+Ms Woong Choy Wan    
+[woong\_choy\_wan@moe.edu.sg](mailto:woong_choy_wan@moe.edu.sg)
+
+
+
 
 
 
