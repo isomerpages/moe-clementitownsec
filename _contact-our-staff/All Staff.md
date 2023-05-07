@@ -108,7 +108,7 @@ Ms Hamizah Begum Bte Md Hanif
 
 <img style="width:35%" src="/images/Ms%20He%20Meiyu.jpeg">
 
-Ms He Meiyu        
+Ms He Meiyu <br>       
 [he\_meiyu@moe.edu.sg](mailto:he_meiyu@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Heng%20Hui%20Zhen.jpeg">
@@ -136,7 +136,8 @@ Ms&nbsp;Joyner Tay
 Mr Kamal Bin Yacob   
 [kamal\_yacob@moe.edu.sg](mailto:kamal_yacob@moe.edu.sg)
 
-Mrs Karine Nai  
+Mrs Karine Nai  <br>
+[email](mailto:email)
 nai_sok_khoon_karine@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20Ke%20Kaijie%20Justin.jpeg">
@@ -166,47 +167,56 @@ Mrs Lehming-Teo Shi Hui, Rachel
 
 <img style="width:35%" src="/images/Ms%20Li%20Qianyi.jpeg">
 
-Ms Li Qianyi
+Ms Li Qianyi <br>
+[email](mailto:email)
 li_qianyi@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Lim%20Keng%20Woon%20Madeline.jpeg">
 
-Ms Lim Keng Woon, Madeline
+Ms Lim Keng Woon, Madeline <br>
+[email](mailto:email)
 lim_keng_woon_madeline@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20Jeremy.jpeg">
 
-Mr Lim Liangcai, Jeremy
+Mr Lim Liangcai, Jeremy <br>
+[email](mailto:email)
 lim_liangcai_jeremy@moe.edu.sg
  
 <img style="width:35%" src="/images/mrs%20ng%20lye%20sim.jpeg">
 
-Mrs Lim Lye Sim  
+Mrs Lim Lye Sim  <br>
+[email](mailto:email)
 ng_lye_sim@moe.edu.sg 
  
 <img style="width:35%" src="/images/ms%20lim%20tze%20min%20joyce_1.jpeg">
 
-Ms Lim Tze Min Joyce    
+Ms Lim Tze Min Joyce <br>
+[email](mailto:email)
 lim_tze_min@moe.edu.sg
 
 
 <img style="width:35%" src="/images/Mrs%20Lim%20Quek%20Chwee%20Tiang%20Linda.jpeg">
 
-Mrs Lim-Quek Chwee Tiang, Linda
+Mrs Lim-Quek Chwee Tiang, Linda <br>
+[email](mailto:email)
 quek_chwee_tiang_linda@moe.edu.sg
 <img style="width:35%" src="/images/Ms%20Low%20Li%20Qing.jpg">
 
-Ms Low Liqing    
+Ms Low Liqing <br>
+[email](mailto:email)
 low_liqing@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20Mohideeen%20Nizar.jpeg">
 
-Mr Mohideen Nizar s/o Anwar
+Mr Mohideen Nizar s/o Anwar <br>
+[email](mailto:email)
 mohideen_nizar_anwar@moe.edu.sg
  
  <img style="width:35%" src="/images/Mdm%20Mursalina.jpeg">
  
-Mdm Mursalina Bte Mohd Saim
+Mdm Mursalina Bte Mohd Saim <br>
+[email](mailto:email)
 mursalina_mohd_saim@moe.edu.sg
 
 <img style="width:35%" src="/images/Mdm%20Natarajan%20Umarani%20(Teacher).jpg">
@@ -216,47 +226,56 @@ natarajan_umarani@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20Ng%20Loong%20Kin,%20Alvin.jpg">
 
-Mr Ng Loong Kin, Alvin
+Mr Ng Loong Kin, Alvin <br>
+[email](mailto:email)
 ng_loong_kin_alvin@moe.edu.sg
 
 <img style="width:35%" src="/images/Ms%20Nurul%20Farhanah%20Bte%20Ramlan.jpg">
 
-Ms Nurul Farhanah Bte Ramlan
+Ms Nurul Farhanah Bte Ramlan <br>
+[email](mailto:email)
 nurul_farhanah_binte_ramlan@moe.edu.sg
 
 <img style="width:35%" src="/images/Mrs%20Peh%20Yeo%20Hwee%20Ching%20Magdelene.jpeg">
 
-Mrs Peh-Yeo Hwee Ching Magdalene
+Mrs Peh-Yeo Hwee Ching Magdalene <br>
+[email](mailto:email)
 yeo_hwee_ching_magdalene@moe.edu.sg
 
 <img style="width:35%" src="/images/mr%20phua%20chwee%20ghua.jpeg">
 
-Mr Phua Chwee Ghua
+Mr Phua Chwee Ghua <br>
+[email](mailto:email)
 phua_chwee_ghua@moe.edu.sg 
 
 <img style="width:35%" src="/images/Mdm%20Rajamanickam.jpeg">
 
-Mdm Rajamanickam Renuka
+Mdm Rajamanickam Renuka <br>
+[email](mailto:email)
 rajamanickam_renuka@moe.edu.sg
 
 <img style="width:35%" src="/images/Mdm%20Rashidah%20Kassim.jpeg">
 
-Mdm Rashidah Kassim
+Mdm Rashidah Kassim <br>
+[email](mailto:email)
 rashidah_kassim@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20Mohamed%20Ressal.jpeg">
 
-Mr Mohamed Ressal Mohamed Raffi
+Mr Mohamed Ressal Mohamed Raffi <br>
+[email](mailto:email)
 mohamed_ressal_mohamed_raffi@moe.edu.sg
 
 <img style="width:35%" src="/images/Mdm%20Rosezalina.jpeg">
 
-Mdm Rosezalina Bte Asmoin
+Mdm Rosezalina Bte Asmoin <br>
+[email](mailto:email)
 rosezalina_asmoin@moe.edu.sg
 
 <img style="width:35%" src="/images/Mr%20See%20Gim%20Hwee%20(1).jpg">
 
-Mr See Gim Hwee
+Mr See Gim Hwee <br>
+[email](mailto:email)
 see_gim_hwee@moe.edu.sg 
 
 <img style="width:35%" src="/images/Ms%20Sia%20Gee%20Han.jpeg">
