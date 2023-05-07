@@ -17,6 +17,7 @@ Mr Aidil Bin Md Idris
 
 Mr Alvin Tan Jia Jie     
 tan\_jia\_jie@moe.edu.sg
+[email](mailto:email)
 
 <img style="width:35%" src="/images/Mdm%20Ang%20Choon%20Keow.jpeg">
 
