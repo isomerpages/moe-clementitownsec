@@ -132,12 +132,11 @@ Ms&nbsp;Joyner Tay
 
 <img style="width:35%" src="/images/Mr%20Kamal%20Bin%20Yacob.jpeg">
 
-Mr Kamal Bin Yacob   
+Mr Kamal Bin Yacob <br>
 [kamal\_yacob@moe.edu.sg](mailto:kamal_yacob@moe.edu.sg)
 
 Mrs Karine Nai  <br>
-[email](mailto:email)
-nai_sok_khoon_karine@moe.edu.sg
+[nai_sok_khoon_karine@moe.edu.sg](mailto:nai_sok_khoon_karine@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Ke%20Kaijie%20Justin.jpeg">
 
