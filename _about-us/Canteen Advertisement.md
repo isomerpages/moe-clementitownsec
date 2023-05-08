@@ -4,6 +4,7 @@ permalink: /about-us/canteen-advertisement/
 description: ""
 ---
 **Canteen Stalls**
+
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Nil    | NA    |     |
