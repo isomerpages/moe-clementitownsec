@@ -227,97 +227,81 @@ natarajan_umarani@moe.edu.sg
 <img style="width:35%" src="/images/Mr%20Ng%20Loong%20Kin,%20Alvin.jpg">
 
 Mr Ng Loong Kin, Alvin <br>
-[email](mailto:email)
-ng_loong_kin_alvin@moe.edu.sg
+[ng_loong_kin_alvin@moe.edu.sg](mailto:ng_loong_kin_alvin@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Nurul%20Farhanah%20Bte%20Ramlan.jpg">
 
 Ms Nurul Farhanah Bte Ramlan <br>
-[email](mailto:email)
-nurul_farhanah_binte_ramlan@moe.edu.sg
+[nurul_farhanah_binte_ramlan@moe.edu.sg](mailto:nurul_farhanah_binte_ramlan@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mrs%20Peh%20Yeo%20Hwee%20Ching%20Magdelene.jpeg">
 
 Mrs Peh-Yeo Hwee Ching Magdalene <br>
-[email](mailto:email)
-yeo_hwee_ching_magdalene@moe.edu.sg
+[yeo_hwee_ching_magdalene@moe.edu.sg](mailto:yeo_hwee_ching_magdalene@moe.edu.sg)
 
 <img style="width:35%" src="/images/mr%20phua%20chwee%20ghua.jpeg">
 
 Mr Phua Chwee Ghua <br>
-[email](mailto:email)
-phua_chwee_ghua@moe.edu.sg 
+[phua_chwee_ghua@moe.edu.sg](mailto:phua_chwee_ghua@moe.edu.sg) 
 
 <img style="width:35%" src="/images/Mdm%20Rajamanickam.jpeg">
 
 Mdm Rajamanickam Renuka <br>
-[email](mailto:email)
-rajamanickam_renuka@moe.edu.sg
+[rajamanickam_renuka@moe.edu.sg](mailto:rajamanickam_renuka@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mdm%20Rashidah%20Kassim.jpeg">
 
 Mdm Rashidah Kassim <br>
-[email](mailto:email)
-rashidah_kassim@moe.edu.sg
+[rashidah_kassim@moe.edu.sg](mailto:rashidah_kassim@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Mohamed%20Ressal.jpeg">
 
 Mr Mohamed Ressal Mohamed Raffi <br>
-[email](mailto:email)
-mohamed_ressal_mohamed_raffi@moe.edu.sg
+[mohamed_ressal_mohamed_raffi@moe.edu.sg](mailto:mohamed_ressal_mohamed_raffi@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mdm%20Rosezalina.jpeg">
 
 Mdm Rosezalina Bte Asmoin <br>
-[email](mailto:email)
-rosezalina_asmoin@moe.edu.sg
+[rosezalina_asmoin@moe.edu.sg](mailto:rosezalina_asmoin@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20See%20Gim%20Hwee%20(1).jpg">
 
 Mr See Gim Hwee <br>
-[email](mailto:email)
-see_gim_hwee@moe.edu.sg 
+[see_gim_hwee@moe.edu.sg](mailto:see_gim_hwee@moe.edu.sg) 
 
 <img style="width:35%" src="/images/Ms%20Sia%20Gee%20Han.jpeg">
 
 Ms Sia Gee Han, Karen <br>
-[email](mailto:email)
-karen_sia_gee_han@moe.edu.sg
+[karen_sia_gee_han@moe.edu.sg](mailto:karen_sia_gee_han@moe.edu.sg)
 
 
 Ms Sharon Tham Kum Chee <br>
-[email](mailto:email)
-sharon_tham_kum_chee@moe.edu.sg
+[sharon_tham_kum_chee@moe.edu.sg](mailto:sharon_tham_kum_chee@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mdm%20Sheetal%20Sonawane.jpeg">
 
 Ms Sheetal Sonawane <br>
-[email](mailto:email)
-sheetal_madhukar_sonawane@moe.edu.sg
+[sheetal_madhukar_sonawane@moe.edu.sg](mailto:sheetal_madhukar_sonawane@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Sim%20Shin%20Jie.jpg">
 
 Ms Sim Shin Jie <br>
-[email](mailto:email)
-sim_shin_jie@moe.edu.sg
+[sim_shin_jie@moe.edu.sg](mailto:sim_shin_jie@moe.edu.sg)
 
 <img style="width:35%" src="/images/ms%20siti%20nurwati%20dalduri.jpeg">
 
 Ms Siti Nurwati Dalduri <br>
-[email](mailto:email)
-siti_nurwati_dalduri@moe.edu.sg 
+[siti_nurwati_dalduri@moe.edu.sg](mailto:siti_nurwati_dalduri@moe.edu.sg) 
 
 <img style="width:35%" src="/images/Ms%20Soon%20Si%20Lin%20Jocelyn%20(Teacher).png">
 
 Ms Soon Si Lin Jocelyn <br>
-[email](mailto:email)
-soon_si_lin_jocelyn@moe.edu.sg 
+[soon_si_lin_jocelyn@moe.edu.sg](mailto:soon_si_lin_jocelyn@moe.edu.sg) 
 
 <img style="width:35%" src="/images/Ms%20Sophia%20Ng%20Jia%20Ming.jpg">
 
 Ms Sophia Ng <br>
-[email](mailto:email)
-sophia_ng_jia_ming@moe.edu.sg
+[sophia_ng_jia_ming@moe.edu.sg](mailto:sophia_ng_jia_ming@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Sumitha.jpeg">
 
