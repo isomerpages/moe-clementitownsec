@@ -199,30 +199,27 @@ lim_tze_min@moe.edu.sg
 <img style="width:35%" src="/images/Mrs%20Lim%20Quek%20Chwee%20Tiang%20Linda.jpeg">
 
 Mrs Lim-Quek Chwee Tiang, Linda <br>
-[email](mailto:email)
-quek_chwee_tiang_linda@moe.edu.sg
+[quek_chwee_tiang_linda@moe.edu.sg](mailto:quek_chwee_tiang_linda@moe.edu.sg)
+
 <img style="width:35%" src="/images/Ms%20Low%20Li%20Qing.jpg">
 
 Ms Low Liqing <br>
-[email](mailto:email)
-low_liqing@moe.edu.sg
+[low_liqing@moe.edu.sg](mailto:low_liqing@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Mohideeen%20Nizar.jpeg">
 
 Mr Mohideen Nizar s/o Anwar <br>
-[email](mailto:email)
-mohideen_nizar_anwar@moe.edu.sg
+[mohideen_nizar_anwar@moe.edu.sg](mailto:mohideen_nizar_anwar@moe.edu.sg)
  
  <img style="width:35%" src="/images/Mdm%20Mursalina.jpeg">
  
 Mdm Mursalina Bte Mohd Saim <br>
-[email](mailto:email)
-mursalina_mohd_saim@moe.edu.sg
+[mursalina_mohd_saim@moe.edu.sg](mailto:mursalina_mohd_saim@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mdm%20Natarajan%20Umarani%20(Teacher).jpg">
 
-Ms Natarajan Umarani 
-natarajan_umarani@moe.edu.sg
+Ms Natarajan Umarani <br>
+[natarajan_umarani@moe.edu.sg](mailto:natarajan_umarani@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Ng%20Loong%20Kin,%20Alvin.jpg">
 
