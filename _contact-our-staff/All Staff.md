@@ -370,68 +370,56 @@ tan_kay_shin@moe.edu.sg
 <img style="width:35%" src="/images/Mr%20Tan%20Kiang%20Chye.jpeg">
 
 Mr Tan Kiang Chye <br>
-[email](mailto:email)
-tan_kiang_chye@moe.edu.sg
+[tan_kiang_chye@moe.edu.sg](mailto:tan_kiang_chye@moe.edu.sg)
 
 Mr Tan Liang Hooi <br>
-[email](mailto:email)
+[tan_liang_hooi@moe.edu.sg](mailto:tan_liang_hooi@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Tan%20Liang%20Hooi.jpeg">
-
-tan_liang_hooi@moe.edu.sg
 
 <img style="width:35%" src="/images/kenneth.jpeg">
 
 Mr Tan Ming Hon, Kenneth <br>
-[email](mailto:email)
-tan_ming_hon@moe.edu.sg
+[tan_ming_hon@moe.edu.sg](mailto:tan_ming_hon@moe.edu.sg)
 
 <img style="width:35%" src="/images/mr%20tan%20teck%20soon.jpeg">
 
 Mr Tan Teck Soon <br>
-[email](mailto:email)
-tan_teck_soon@moe.edu.sg 
+[tan_teck_soon@moe.edu.sg](mailto:tan_teck_soon@moe.edu.sg) 
 
 <img style="width:35%" src="/images/Mr%20Tan%20Ser%20Yong.jpeg">
 
 Mr Tan Ser Yong, Philip <br>
-[email](mailto:email)
-tan_ser_yong_philip@moe.edu.sg
+[tan_ser_yong_philip@moe.edu.sg](mailto:tan_ser_yong_philip@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mrs%20Tan%20Wong%20Siew%20Har.jpeg">
 
 Mrs Tan-Wong Siew Har, Winnie <br>
-[email](mailto:email)
-wong_siew_har_winnie@moe.edu.sg
+[wong_siew_har_winnie@moe.edu.sg](mailto:wong_siew_har_winnie@moe.edu.sg)
 
 <img style="width:35%" src="/images/Timothy.jpeg">
 
 Mr Tang Xu Yang Timothy <br>
-[email](mailto:email)
-tang_xu_yang_timothy@moe.edu.sg
+[tang_xu_yang_timothy@moe.edu.sg](mailto:tang_xu_yang_timothy@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mrs%20Tan%20Wen%20Yi.jpeg">
 
 Mrs Tan Wen Yi <br>
-[email](mailto:email)
-tan_wen_yi@moe.edu.sg
+[tan_wen_yi@moe.edu.sg](mailto:tan_wen_yi@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg">
 
 Mrs Teng-Tay Soo Chin, Emmeline <br>
-[email](mailto:email)
-tay_soo_chin_emmeline@moe.edu.sg
+[tay_soo_chin_emmeline@moe.edu.sg](mailto:tay_soo_chin_emmeline@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Teo%20Li%20Yin.jpeg">
 
 Ms Teo Li Yin <br>
-[email](mailto:email)
-teo_li_yin@moe.edu.sg
+[teo_li_yin@moe.edu.sg](mailto:teo_li_yin@moe.edu.sg)
 
 
 Mr Teo Chai Yaw <br>
-[email](mailto:email)
-teo_chai_yaw@moe.edu.sg
+[teo_chai_yaw@moe.edu.sg](mailto:teo_chai_yaw@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Teo%20Wei%20Na.jpeg">
 
