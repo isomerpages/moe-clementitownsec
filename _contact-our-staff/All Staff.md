@@ -322,50 +322,42 @@ sophia_ng_jia_ming@moe.edu.sg
 <img style="width:35%" src="/images/Ms%20Sumitha.jpeg">
 
 Mdm Sumitha Kirsnan <br>
-[email](mailto:email)
-sumitha_kirsnan@moe.edu.sg
+[sumitha_kirsnan@moe.edu.sg](mailto:sumitha_kirsnan@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Syafiqah%20Binte%20Zaini.jpg">
 
 Ms Syafiqah Binte Zaini <br>
-[email](mailto:email)
-syafiqah_zaini@moe.edu.sg
+[syafiqah_zaini@moe.edu.sg](mailto:syafiqah_zaini@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Tan%20Chor%20Seng.jpg">
 
 Mr Tan Chor Seng <br>
-[email](mailto:email)
-tan_chor_seng_a@moe.edu.sg
+[tan_chor_seng_a@moe.edu.sg](mailto:tan_chor_seng_a@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Joycelyn.jpeg">
 
 Ms Tan E-Fung, Joycelyn <br>
-[email](mailto:email)
-tan_e_fung_joycelyn@moe.edu.sg
+[tan_e_fung_joycelyn@moe.edu.sg](mailto:tan_e_fung_joycelyn@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Peter.jpeg">
 
 Mr Tan Eng Hoe, Peter <br>
-[email](mailto:email)
-peter_tan_eng_hoe@moe.edu.sg
+[peter_tan_eng_hoe@moe.edu.sg](mailto:peter_tan_eng_hoe@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20John.jpeg">
 
 Mr Tan Hong Soong, John <br>
-[email](mailto:email)
-tan_hong_soong@moe.edu.sg
+[tan_hong_soong@moe.edu.sg](mailto:tan_hong_soong@moe.edu.sg)
 
 <img style="width:35%" src="/images/mr%20tan%20jit%20jin.jpeg">
 
 Mr Tan Jit Jin <br>
-[email](mailto:email)
-tan_jit_jin@moe.edu.sg
+[tan_jit_jin@moe.edu.sg](mailto:tan_jit_jin@moe.edu.sg)
 
 <img style="width:35%" src="/images/ms%20tan%20kay%20shin.jpeg">
 
 Mdm Tan Kay Shin <br>
-[email](mailto:email)
-tan_kay_shin@moe.edu.sg
+[tan_kay_shin@moe.edu.sg](mailto:tan_kay_shin@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Tan%20Kiang%20Chye.jpeg">
 
