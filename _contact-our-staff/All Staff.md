@@ -15,9 +15,8 @@ Mr Aidil Bin Md Idris
 
 <img style="width:35%" src="/images/Alvin%20Tan.jpeg">
 
-Mr Alvin Tan Jia Jie     
-tan\_jia\_jie@moe.edu.sg
-[email](mailto:email)
+Mr Alvin Tan Jia Jie <br>
+[tan\_jia\_jie@moe.edu.sg](mailto:tan\_jia\_jie@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mdm%20Ang%20Choon%20Keow.jpeg">
 
