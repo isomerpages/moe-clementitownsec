@@ -476,29 +476,24 @@ loh_wee_sin@moe.edu.sg
 <img style="width:35%" src="/images/Ms%20Woong%20Choy%20Wan.jpeg">
 
 Ms Woong Choy Wan <br>
-[email](mailto:email)
-woong_choy_wan@moe.edu.sg
+[woong_choy_wan@moe.edu.sg](mailto:woong_choy_wan@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Andy.jpeg">
 
 Mr Yap Jin Hua, Andy <br>
-[email](mailto:email)
-yap_jin_hua_andy@moe.edu.sg
+[yap_jin_hua_andy@moe.edu.sg](mailto:yap_jin_hua_andy@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Yong%20Teck%20Sin.jpg">
 
 Mr Yong Teck Sin <br>
-[email](mailto:email)
-yong_teck_sin@moe.edu.sg
+[yong_teck_sin@moe.edu.sg](mailto:yong_teck_sin@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mrs%20Yuen%20Lay%20Eng.jpeg">
 
 Mrs Yuen Lay Eng <br>
-[email](mailto:email)
-ang_lay_eng@moe.edu.sg 
+[ang_lay_eng@moe.edu.sg ](mailto:ang_lay_eng@moe.edu.sg )
  
 <img style="width:35%" src="/images/Mr%20Zulhilmi%20Bin%20Zulkiflee.jpeg">
 
 Mr Zulhilmi Bin Zulkiflee <br>
-[email](mailto:email)
-zulkiflee_zulhilmi@moe.edu.sg
+[zulkiflee_zulhilmi@moe.edu.sg](mailto:zulkiflee_zulhilmi@moe.edu.sg)
