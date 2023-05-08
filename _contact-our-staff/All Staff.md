@@ -168,32 +168,27 @@ Mrs Lehming-Teo Shi Hui, Rachel
 <img style="width:35%" src="/images/Ms%20Li%20Qianyi.jpeg">
 
 Ms Li Qianyi <br>
-[email](mailto:email)
-li_qianyi@moe.edu.sg
+[li_qianyi@moe.edu.sg](mailto:li_qianyi@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Lim%20Keng%20Woon%20Madeline.jpeg">
 
 Ms Lim Keng Woon, Madeline <br>
-[email](mailto:email)
-lim_keng_woon_madeline@moe.edu.sg
+[lim_keng_woon_madeline@moe.edu.sg](mailto:lim_keng_woon_madeline@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Jeremy.jpeg">
 
 Mr Lim Liangcai, Jeremy <br>
-[email](mailto:email)
-lim_liangcai_jeremy@moe.edu.sg
+[lim_liangcai_jeremy@moe.edu.sg](mailto:lim_liangcai_jeremy@moe.edu.sg)
  
 <img style="width:35%" src="/images/mrs%20ng%20lye%20sim.jpeg">
 
 Mrs Lim Lye Sim  <br>
-[email](mailto:email)
-ng_lye_sim@moe.edu.sg 
+[ng_lye_sim@moe.edu.sg](mailto:ng_lye_sim@moe.edu.sg)
  
 <img style="width:35%" src="/images/ms%20lim%20tze%20min%20joyce_1.jpeg">
 
 Ms Lim Tze Min Joyce <br>
-[email](mailto:email)
-lim_tze_min@moe.edu.sg
+[lim_tze_min@moe.edu.sg](mailto:lim_tze_min@moe.edu.sg)
 
 
 <img style="width:35%" src="/images/Mrs%20Lim%20Quek%20Chwee%20Tiang%20Linda.jpeg">
