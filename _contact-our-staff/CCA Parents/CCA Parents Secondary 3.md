@@ -1,6 +1,6 @@
 ---
 title: CCA Parents Secondary 3
-permalink: /contact-us/cca-parents/cca-parents-secondary-3
+permalink: /contact-us/cca-parents/cca-parents-secondary-3/
 description: ""
 third_nav_title: CCA Parents
 ---
@@ -14,9 +14,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Valane%20Photo.jpeg" alt="banner awards" style="width:50%;">  
+<img src="/images/Valane%20Photo.jpeg" alt="banner awards" style="width:35%;">  
   
-</body>
+
 
 
 <p style="text-align:center;">Ms Tnee Li Ling Valane<br><a href="mailto:tnee_li_ling_valane@moe.edu.sg">tnee_li_ling_valane@moe.edu.sg</a></p>
@@ -139,6 +139,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
