@@ -436,42 +436,35 @@ teo_chai_yaw@moe.edu.sg
 <img style="width:35%" src="/images/Ms%20Teo%20Wei%20Na.jpeg">
 
 Ms Teo Wei Na <br>
-[email](mailto:email)
-teo_wei_na@moe.edu.sg
+[teo_wei_na@moe.edu.sg](mailto:teo_wei_na@moe.edu.sg)
 
 <img style="width:35%" src="/images/mr%20thomas%20law%20choon%20ting.jpeg">
 
 Mr Thomas Law <br>
-[email](mailto:email)
-law_choon_ting_thomas@moe.edu.sg 
+[law_choon_ting_thomas@moe.edu.sg](mailto:law_choon_ting_thomas@moe.edu.sg) 
 
 <img style="width:35%" src="/images/Valane%20Passport%20Photo%202.jpeg">
 
 Ms Tnee Li Ling, Valane <br>
-[email](mailto:email)
-tnee_li_ling_valane@moe.edu.sg
+[tnee_li_ling_valane@moe.edu.sg](mailto:tnee_li_ling_valane@moe.edu.sg)
 
 Ms Tracy Tey <br>
-[email](mailto:email)
-tracy_tey_pin_pin@moe.edu.sg
+[tracy_tey_pin_pin@moe.edu.sg](mailto:tracy_tey_pin_pin@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Wee%20Ni%20Swen.jpg">
 
 Ms Wee Ni Swen <br>
-[email](mailto:email)
-wee_ni_swen@moe.edu.sg
+[wee_ni_swen@moe.edu.sg](mailto:wee_ni_swen@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Wee%20Yee%20Ing.jpg">
 
 Ms Wee Yee Ing <br>
-[email](mailto:email)
-wee_yee_ing@moe.edu.sg
+[wee_yee_ing@moe.edu.sg](mailto:wee_yee_ing@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mrs%20Wee%20Loh%20Wee%20Sin.jpeg">
 
 Mrs Wee-Loh Wee Sin <br>
-[email](mailto:email)
-loh_wee_sin@moe.edu.sg
+[loh_wee_sin@moe.edu.sg](mailto:loh_wee_sin@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Woong%20Choy%20Wan.jpeg">
 
