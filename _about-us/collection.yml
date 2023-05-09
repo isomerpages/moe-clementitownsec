@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Canteen Advertisement.md
       - Motto, Vision, Mission & Values.md
       - Principal's Message 2023.md
       - Welcome Message for the New Year.md
@@ -41,3 +40,4 @@ collections:
       - Outstanding Clementeens/Singapore Science and Engineering Fair 2022.md
       - Outstanding Clementeens/NSF of the year 2019.md
       - Useful Links For Staff.md
+      - Canteen Advertisement.md

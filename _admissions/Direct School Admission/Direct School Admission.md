@@ -4,7 +4,9 @@ permalink: /admissions/direct-school-admission/
 description: ""
 third_nav_title: Direct School Admission
 ---
-In the recent press release, the Ministry of Education (MOE) announced that selected secondary schools can invite students to participate in the 2023 DSA-Sec Exercise for Admission to Secondary One in 2024.&nbsp;
+<!-- /\* Font Definitions \*/ @font-face {font-family:SimSun; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:宋体; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-alt:Latha; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@SimSun"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:10.0pt; margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:SimSun; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-ansi-language:EN-SG; mso-bidi-language:AR-SA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:SimSun; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-ansi-language:EN-SG; mso-bidi-language:AR-SA;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:10.0pt; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+In the recent press release, the Ministry of Education (MOE) announced that selected secondary schools can invite students to participate in the 2022 DSA-Sec Exercise for Admission to Secondary One in 2024.&nbsp;
 
 Introduced in 2004, the Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the PSLE.
 
@@ -69,7 +71,11 @@ For Admission to Secondary One in 2024, Clementi Town Secondary School is please
   <tr>
     <td style="border: 1px solid black" class="tg-ktyi">Sports – Netball (Girls)<br><br></td>
     <td style="border: 1px solid black" class="tg-ktyi">- Very Good Conduct<br><br>- Possess interest and passion for Netball<br><br>- Represented school in National School Games (NSG) for Netball or similar ball games</td>
+		  </tr><tr>
+    <td style="border: 1px solid black" class="tg-ktyi">Sports – Badminton (Boys)<br><br></td>
+    <td style="border: 1px solid black" class="tg-ktyi">- Very Good Conduct<br><br>- Possess interest and passion for Badminton<br><br>- Represented school in National School Games (NSG) for Badminton or similar racquet sports</td>
   </tr>
+  
 </tbody>
 </table>
 
