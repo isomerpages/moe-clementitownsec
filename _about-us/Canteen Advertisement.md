@@ -25,7 +25,7 @@ description: ""
 * Address: 10 Clementi Town Secondary School S129904
 * Contact No:  67777362
 * Email:  ctss@moe.edu.sg
-* Contact Person: Ms Nur FAREEZA AHMAD RUMAIZI
+* Contact Person: Ms Nur Fareeza Ahmad Rumaizi
 
 **How to get there?**
 * Nearest MRT: Clementi MRT (EW23 line) – 5 minutes walking distance
