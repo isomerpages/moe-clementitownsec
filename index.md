@@ -37,4 +37,12 @@ sections:
       description: Highlights of Key Events
       button: Highlights of Key Events
       url: /highlights/
+  - infopic:
+      title: Announcements
+      subtitle: Latest Announcements
+      description: Infopic description
+      button: Click here for latest announcements
+      url: /announcements
+      image: /images/Infopic/infopic2.JPG
+      alt: Image alt text
 ---
