@@ -27,16 +27,6 @@ sections:
       url: /about-us/motto-vision-mission-n-values/
       image: /images/Infopic/infopic1.JPG
       alt: Vision Mission  Values
-  - infobar:
-      title: Announcements
-      subtitle: Latest Announcements
-      button: Click here for announcements
-      url: /announcements
-  - infobar:
-      title: Highlights
-      description: Highlights of Key Events
-      button: Highlights of Key Events
-      url: /highlights/
   - infopic:
       title: Announcements
       subtitle: Latest Announcements
