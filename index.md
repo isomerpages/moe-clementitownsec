@@ -25,16 +25,20 @@ sections:
       title: Vision, Mission and Values
       button: Vision, Mission and Values
       url: /about-us/motto-vision-mission-n-values/
-      image: /images/mission vision.jpg
+      image: /images/Infopic/infopic1.JPG
       alt: Vision Mission  Values
-  - infobar:
+  - infopic:
       title: Announcements
       subtitle: Latest Announcements
-      button: Click here for announcements
+      description: Infopic description
+      button: Click here for latest announcements
       url: /announcements
-  - infobar:
+      image: /images/Infopic/infopic2.JPG
+      alt: Image alt text
+  - infopic:
       title: Highlights
-      description: Highlights of Key Events
       button: Highlights of Key Events
       url: /highlights/
+      image: /images/Infopic/infopic3.jpg
+      alt: Image alt text
 ---
