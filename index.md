@@ -45,4 +45,10 @@ sections:
       url: /announcements
       image: /images/Infopic/infopic2.JPG
       alt: Image alt text
+  - infopic:
+      title: Highlights
+      button: Highlights of Key Events
+      url: /highlights/
+      image: /images/Infopic/infopic3.jpg
+      alt: Image alt text
 ---
