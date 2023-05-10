@@ -25,7 +25,7 @@ sections:
       title: Vision, Mission and Values
       button: Vision, Mission and Values
       url: /about-us/motto-vision-mission-n-values/
-      image: /images/mission vision.jpg
+      image: /images/Infopic/infopic1.JPG
       alt: Vision Mission  Values
   - infobar:
       title: Announcements
