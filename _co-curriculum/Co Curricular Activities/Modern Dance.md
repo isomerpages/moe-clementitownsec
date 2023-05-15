@@ -8,11 +8,15 @@ third_nav_title: Co Curricular Activities
 
 In Modern Dance, we hope to cultivate passion and appreciation towards the various performing art forms. Dancers are given the opportunity to explore body movements and discover the splendour of the embodiment of the ever-evolving accompanying music.
 
+![](/images/CCA/MD/5447fb5f-c8be-4a4e-89b0-037deee5a6d0.jpg)
+
+![](/images/CCA/MD/img_4266.JPG)
+
 Believing every dancer is a leader, we hope to work on improving and further developing the strength of each dancer. Building resilience and self-confidence, dancers learn and bond through teamwork and the meaningful friendships formed amongst them.
 
+![](/images/CCA/MD/img_8643.JPG)
 
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStBONXCfqogYWE_Gk9x6QNx6y3wf9Jiwo2NX63qRydZUxtqO_tUI5PnSjqa2BZkSmXiVjp1Yunw0Jn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+![](/images/CCA/MD/img_8690.JPG)
 
 #### **TEACHERS IN-CHARGE**
 
