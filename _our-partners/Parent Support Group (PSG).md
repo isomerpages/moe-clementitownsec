@@ -11,9 +11,10 @@ There is no PSG membership fee to pay and all parents of Clementeens are welcome
 
 With PSG, parents will have the opportunities to volunteer, socialise, learn and share about parenting, have lots of fun, engage in family bonding and make more friends.&nbsp;
 
-  
+  [](/files/psg2023_registration%20form%20(english)_26%20jan%202023.pdf)
 
-Keen to join us? Please click on the following link to download the&nbsp;[CTSS PSG Registration Form](/files/PSG2021_Registration%20form%20(English).pdf) and email your completed registration form to:&nbsp;[ctsspsg@gmail.com](mailto:ctsspsg@gmail.com).&nbsp;
+Keen to join us? Please click on the following link to download the&nbsp; [CTSS PSG Registration Form](/files/psg2023_registration%20form%20(english)_26%20jan%202023.pdf)
+ and email your completed registration form to:&nbsp;[ctsspsg@gmail.com](mailto:ctsspsg@gmail.com).&nbsp;
 
 Alternatively, please scan the following QR code to submit your application online.
 
@@ -40,12 +41,12 @@ For year 2023
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Chair-Woman</span></th>
+    <th colspan="5" class="tg-gfyz"><span style="color:#FFF;background-color:#1C3836">Chair-Woman</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8c83" colspan="5"><span style="color:#000;background-color:#EBEBEB">1.</span>	<span style="color:#000;background-color:#EBEBEB">Connie Lee</span></td>
+    <td colspan="5" class="tg-8c83"><span style="color:#000;background-color:#EBEBEB">1.</span>	<span style="color:#000;background-color:#EBEBEB">Connie Lee</span></td>
   </tr>
 </tbody>
 </table>
@@ -62,12 +63,12 @@ For year 2023
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Vice Chair-Person</span></th>
+    <th colspan="5" class="tg-gfyz"><span style="color:#FFF;background-color:#1C3836">Vice Chair-Person</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3icd" colspan="5">2.    Tracy Tay<br><span style="color:#000">3.    </span>Kevin Lea</td>
+    <td colspan="5" class="tg-3icd">2.    Tracy Tay<br><span style="color:#000">3.    </span>Kevin Lea</td>
   </tr>
 </tbody>
 </table>
@@ -83,12 +84,12 @@ For year 2023
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Secretary</span></th>
+    <th colspan="5" class="tg-gfyz"><span style="color:#FFF;background-color:#1C3836">Secretary</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3icd" colspan="5">4.    Jereldine Chua</td>
+    <td colspan="5" class="tg-3icd">4.    Jereldine Chua</td>
   </tr>
 </tbody>
 </table>
@@ -105,12 +106,12 @@ overflow:hidden;padding:10px 5px;word-break:normal;}
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Assistant Secretary</span></th>
+    <th colspan="5" class="tg-gfyz"><span style="color:#FFF;background-color:#1C3836">Assistant Secretary</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3icd" colspan="5">5.    Pauline Pang</td>
+    <td colspan="5" class="tg-3icd">5.    Pauline Pang</td>
   </tr>
 </tbody>
 </table>
@@ -127,12 +128,12 @@ overflow:hidden;padding:10px 5px;word-break:normal;}
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Media Team</span></th>
+    <th colspan="5" class="tg-gfyz"><span style="color:#FFF;background-color:#1C3836">Media Team</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8c83" colspan="5"><span style="color:#000;background-color:#EBEBEB">6.</span>    <span style="color:#000;background-color:#EBEBEB">Jeanette Lim</span><br>7.    <span style="color:#000;background-color:#EBEBEB">Tok Chew Yen</span><br></td>
+    <td colspan="5" class="tg-8c83"><span style="color:#000;background-color:#EBEBEB">6.</span>    <span style="color:#000;background-color:#EBEBEB">Jeanette Lim</span><br>7.    <span style="color:#000;background-color:#EBEBEB">Tok Chew Yen</span><br></td>
   </tr>
 </tbody>
 </table>
@@ -149,12 +150,12 @@ overflow:hidden;padding:10px 5px;word-break:normal;}
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Treasurer</span></th>
+    <th colspan="5" class="tg-gfyz"><span style="color:#FFF;background-color:#1C3836">Treasurer</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3icd" colspan="5">8.    Che Guat Yu</td>
+    <td colspan="5" class="tg-3icd">8.    Che Guat Yu</td>
   </tr>
 </tbody>
 </table>
@@ -171,15 +172,15 @@ overflow:hidden;padding:10px 5px;word-break:normal;}
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-gfyz" colspan="5"><span style="color:#FFF;background-color:#1C3836">Team Aspire</span></th>
+    <th colspan="5" class="tg-gfyz"><span style="color:#FFF;background-color:#1C3836">Team Aspire</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8c83" colspan="5"><span style="color:#000;background-color:#EBEBEB">1.</span>    <span style="color:#000;background-color:#EBEBEB">Kalpana Jai</span><br>2.    <span style="color:#000;background-color:#EBEBEB">Jereldine Chua</span><br>
+    <td colspan="5" class="tg-8c83"><span style="color:#000;background-color:#EBEBEB">1.</span>    <span style="color:#000;background-color:#EBEBEB">Kalpana Jai</span><br>2.    <span style="color:#000;background-color:#EBEBEB">Jereldine Chua</span><br>
 		3.    <span style="color:#000;background-color:#EBEBEB">Eugene Chang</span><br></td>
   </tr>
 </tbody>
 </table>
   
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+<img style="width:95%;" alt="banner awards" src="/images/banner_awards_.png">
