@@ -6,99 +6,129 @@ description: ""
 #### **MISSION**
 
   
-To develop Clementeens to be proficient in the language, confident of using it and appreciate the language arts.  
+To develop Clementeens to be proficient in the language, confident of using it and appreciate the language arts.
   
 
 **Our Teachers**:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3icd{background-color:#EBEBEB;text-align:left;vertical-align:top}
-.tg .tg-xt05{background-color:#D9D9D9;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table style="border: 1px solid black" class="tg">
-<thead>
-  <tr>
-    <th style="border: 1px solid black" class="tg-xt05">Head of Department</th>
-    <th style="border: 1px solid black" class="tg-ktyi">Mrs Teresa Chua</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="border: 1px solid black" class="tg-3icd">Subject Head (Internal)</td>
-    <td style="border: 1px solid black" class="tg-3icd">Mr Alvin Ng</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-ktyi">Literature Coordinator</td>
-    <td style="border: 1px solid black" class="tg-ktyi">Ms Chloe Chan</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-3icd"> </td>
-    <td style="border: 1px solid black" class="tg-3icd">Mr Chia Chun Kiat</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-ktyi"> </td>
-    <td style="border: 1px solid black" class="tg-ktyi">Ms Valane Tnee</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-3icd"> </td>
-    <td style="border: 1px solid black" class="tg-3icd">Ms Stella Leong</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-ktyi"> </td>
-    <td style="border: 1px solid black" class="tg-ktyi">Mr Peter Tan</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-3icd"> </td>
-    <td style="border: 1px solid black" class="tg-3icd">Mr Vivek Venugopal</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-ktyi"> </td>
-    <td style="border: 1px solid black" class="tg-ktyi">Mr Kishan Kannan</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-3icd"> </td>
-    <td style="border: 1px solid black" class="tg-3icd">Mrs Yuen Lay Eng</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-ktyi"> </td>
-    <td style="border: 1px solid black" class="tg-ktyi">Ms Joycelyn Tan</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-3icd"> </td>
-    <td style="border: 1px solid black" class="tg-3icd">Ms Karen Sia</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-ktyi"> </td>
-    <td style="border: 1px solid black" class="tg-ktyi">Ms Rachel Lee</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-3icd"> </td>
-    <td style="border: 1px solid black" class="tg-3icd">Ms Sophia Ng</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-ktyi"> </td>
-    <td style="border: 1px solid black" class="tg-ktyi">Mrs Winnie Tan</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-3icd"> </td>
-    <td style="border: 1px solid black" class="tg-3icd">Mrs Linda Lim</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-ktyi"> </td>
-    <td style="border: 1px solid black" class="tg-ktyi">Ms Janice Soh</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-3icd"> </td>
-    <td style="border: 1px solid black" class="tg-3icd">Ms Shena Tng</td>
-  </tr>
-</tbody>
-</table>
+        
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="453" style="width:339.95pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;mso-background-themecolor:
+  background1;mso-background-themeshade:217;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:black;mso-color-alt:windowtext">Head of Department</span><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin"></span></p></td><td width="274" valign="top" style="width:205.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Mrs Teresa Chua</span></p></td></tr><tr style="mso-yfti-irow:1"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Subject Head (Internal)</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Mr Alvin Ng</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Literature Coordinator</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Ms Chloe Chan</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Ms Valane Tnee</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Ms Stella Leong</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Mr Peter Tan</span></p></td></tr><tr style="mso-yfti-irow:6"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Mr Kishan Kannan</span></p></td></tr><tr style="mso-yfti-irow:7"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Mrs Yuen Lay Eng</span></p></td></tr><tr style="mso-yfti-irow:8"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Ms Joycelyn Tan</span></p></td></tr><tr style="mso-yfti-irow:9"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Ms Karen Sia</span></p></td></tr><tr style="mso-yfti-irow:10"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Ms Rachel Lee</span></p></td></tr><tr style="mso-yfti-irow:11"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Ms Sophia Ng</span></p></td></tr><tr style="mso-yfti-irow:12"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Mrs Winnie Tan</span></p></td></tr><tr style="mso-yfti-irow:13"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Mrs Linda Lim</span></p></td></tr><tr style="mso-yfti-irow:14"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Ms Jocelyn Soon</span></p></td></tr><tr style="mso-yfti-irow:15;mso-yfti-lastrow:yes"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td width="274" valign="top" style="width:205.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Mr Timothy Tang</span></p></td></tr></tbody></table>
+
+
 
 #### **READ@CTSS**
 
@@ -160,39 +190,39 @@ Our department has been developing Clementeens for various writing competitions 
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table style="border: 1px solid black" class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
   <tr>
-    <th style="border: 1px solid black" class="tg-9hzb">S/N</th>
-    <th style="border: 1px solid black" class="tg-9hzb">Competition</th>
-    <th style="border: 1px solid black" class="tg-9hzb">Results</th>
-    <th style="border: 1px solid black" class="tg-9hzb">Names</th>
+    <th class="tg-9hzb" style="border: 1px solid black">S/N</th>
+    <th class="tg-9hzb" style="border: 1px solid black">Competition</th>
+    <th class="tg-9hzb" style="border: 1px solid black">Results</th>
+    <th class="tg-9hzb" style="border: 1px solid black">Names</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid black" class="tg-7yig">1</td>
-    <td style="border: 1px solid black" class="tg-7yig">Speech Arts Competition</td>
-    <td style="border: 1px solid black" class="tg-7yig">3nd Runner-Up, Comic Monologue Upper Sec /JC category</td>
-    <td style="border: 1px solid black" class="tg-7yig">Giovanna Teresa Kristiani</td>
+    <td class="tg-7yig" style="border: 1px solid black">1</td>
+    <td class="tg-7yig" style="border: 1px solid black">Speech Arts Competition</td>
+    <td class="tg-7yig" style="border: 1px solid black">3nd Runner-Up, Comic Monologue Upper Sec /JC category</td>
+    <td class="tg-7yig" style="border: 1px solid black">Giovanna Teresa Kristiani</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-7yig">2</td>
-    <td style="border: 1px solid black" class="tg-7yig">Unity Writers Festival</td>
-    <td style="border: 1px solid black" class="tg-7yig">2nd Position</td>
-    <td style="border: 1px solid black" class="tg-7yig">Evan Wong Yi Feng</td>
+    <td class="tg-7yig" style="border: 1px solid black">2</td>
+    <td class="tg-7yig" style="border: 1px solid black">Unity Writers Festival</td>
+    <td class="tg-7yig" style="border: 1px solid black">2nd Position</td>
+    <td class="tg-7yig" style="border: 1px solid black">Evan Wong Yi Feng</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-7yig" rowspan="3">3</td>
-    <td style="border: 1px solid black" class="tg-7yig" rowspan="3">Interschool Poetry Appreciation 2021 </td>
-    <td style="border: 1px solid black" class="tg-7yig" rowspan="3"> <br>Silver Award<br> </td>
-    <td style="border: 1px solid black" class="tg-7yig">Angel Tan Xiang Qi</td>
+    <td rowspan="3" class="tg-7yig" style="border: 1px solid black">3</td>
+    <td rowspan="3" class="tg-7yig" style="border: 1px solid black">Interschool Poetry Appreciation 2021 </td>
+    <td rowspan="3" class="tg-7yig" style="border: 1px solid black"> <br>Silver Award<br> </td>
+    <td class="tg-7yig" style="border: 1px solid black">Angel Tan Xiang Qi</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-7yig">Sahana Ramamoorthy</td>
+    <td class="tg-7yig" style="border: 1px solid black">Sahana Ramamoorthy</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-7yig">Lim Jee Kei</td>
+    <td class="tg-7yig" style="border: 1px solid black">Lim Jee Kei</td>
   </tr>
 </tbody>
 </table>
@@ -208,4 +238,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+<img style="width:95%;" alt="banner awards" src="/images/banner_awards_.png">
