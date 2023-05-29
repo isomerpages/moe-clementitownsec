@@ -10,8 +10,7 @@ To develop Clementeens to be proficient in the language, confident of using it a
   
 
 **Our Teachers**:
-
-        
+       
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="453" style="width:339.95pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
@@ -145,9 +144,15 @@ To develop Clementeens with the 21st century competencies for a globalised world
 
 **Curate ­–** Digital content curation on current affairs and school events
 
+![](/images/perspectives01.jpg)
+
 **Connect –** Article writing on student issues/perspectives
 
+![](/images/perspectives02.jpg)
+
 **Create ­–** Recorded podcasts for publication and sharing (CT Spotify Account)
+
+![](/images/perspectives03.jpg)
 
 PerspeCTives aims to develop our Clementeens in creating content and imparting knowledge by increasing media literacy and sparking meaningful conversations about currents affairs amongst participants. Clementeens will also have the opportunity to serve as journalists, reporters, interviewers and podcasters, and have their works showcased.
 
