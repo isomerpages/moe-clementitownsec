@@ -5,7 +5,7 @@ description: ""
 ---
 #### **MISSION:**
 
-To nurture Independent Learners with an Analytical mind for Problem Solving who appreciate the Relevance and Fun in Mathematics  
+To nurture Independent Learners with an Analytical mind for Problem Solving who like to co-learn with others and appreciate the Relevance and Fun in Mathematics
   
 
 #### **KEY PROGRAMMES**
