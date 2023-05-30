@@ -17,15 +17,16 @@ Mr Ng Ping Hwee
 #### **VICE-Administration**
 
 ![](/images/Doris.jpeg)
-Ms Doris Ong Poh Choo
+Ms Doris Ong Poh Choo <br>
 [ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
 
 #### **HEAD OF DEPARTMENT,&nbsp; SCHOOL STAFF DEVELOPER AND YEAR HEADS**
 
 **HOD/ Aesthetics, Craft and Technology**
 
-Ms. Magdalene Yeo  
+
 ![](/images/Mrs%20Peh%20Yeo%20Hwee%20Ching%20Magdelene.jpeg)
+Ms. Magdalene Yeo  
 [](mailto:yeo_hwee_ching_magdalene@moe.edu.sg)[yeo\_hwee\_ching\_magdalene](mailto:yeo_hwee_ching_magdalene@moe.edu.sg)
 
 
