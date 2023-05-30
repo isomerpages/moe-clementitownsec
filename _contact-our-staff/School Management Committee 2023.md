@@ -13,6 +13,12 @@ Mdm Rasidah Binte Rahim
 Mr Ng Ping Hwee   
 [ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
 
+
+#### **VICE-Administration**
+
+![](/images/Doris.jpeg)
+
+
 #### **HEAD OF DEPARTMENT,&nbsp; SCHOOL STAFF DEVELOPER AND YEAR HEADS**
 
 **HOD/ Aesthetics, Craft and Technology**
