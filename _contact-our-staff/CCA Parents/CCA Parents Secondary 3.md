@@ -14,7 +14,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Valane%20Photo.jpeg" alt="banner awards" style="width:35%;">  
+<img style="width:35%;" alt="banner awards" src="/images/Valane%20Photo.jpeg">  
   
 
 
@@ -23,111 +23,386 @@ img {
 
 CCA PARENTS
 -----------
+          
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ahip{background-color:#EBEBEB;text-align:center;vertical-align:middle}
-.tg .tg-85w7{background-color:#1C3836;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-gbeq{background-color:#EBEBEB;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-85w7"><span style="color:#FFF;background-color:#1C3836">CCA</span></th>
-    <th class="tg-85w7"><span style="color:#FFF;background-color:#1C3836">CCA Parent</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-gbeq">Art Club</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Mrs Yuen Lay Eng</span><br><a href="mailto:ang_lay_eng@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">ang_lay_eng@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-2g1l"><span style="color:#000;background-color:#FFF"> </span>Badminton (Boys)</td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Ms Syafiqah Zaini</span><br><a href="mailto:syafiqah_zaini@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">syafiqah_zaini@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-gbeq">Basketball (Boys)</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Ms Sheetal Sonawane</span><br><a href="mailto:sheetal_madhukar_sonawane@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">sheetal_madhukar_sonawane@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">Chinese Dance (Girls)</td>
-    <td class="tg-7yig">Ms He Meiyu<br><a href="mailto:he_meiyu@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">he_meiyu@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-gbeq">Drama</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Ms Rachel Lee </span><br><a href="mailto:rachel_lee_jueyi@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">rachel_lee_jueyi@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">Football (Boys)</td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mr Thomas Law</span><br><a href="mailto:law_choon_ting_thomas@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">law_choon_ting_thomas@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-gbeq">Girl Guides (Girls)</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Ms Yang Linxi</span><br><a href="mailto:linxi_yang@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">linxi_yang@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">Guzheng</td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Ms Doreen Lau</span><br><a href="mailto:lau_ying_ying_doreen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#002B79">lau_ying_ying_doreen@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-gbeq">Indian Dance (Girls)</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Mdm Sumitha Kirsnan</span><br><a href="mailto:sumitha_kirsnan@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">sumitha_kirsnan@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">Malay Dance</td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Mdm Mursalina M S</span><br><a href="mailto:mursalina_mohd_saim@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">mursalina_mohd_saim@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-gbeq">MMS</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB"> Ms Asmah Beevi A K</span><br><a href="mailto:asmah_beevi_a_kamaludin@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">asmah_beevi_a_kamaludin@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">NCC (Boys)</td>
-    <td class="tg-7yig"><span style="color:#000;background-color:#FFF"> Mr Kennedy Loo</span><br><a href="mailto:kennedy_loo_tian_peng@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">kennedy_loo_tian_peng@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-gbeq"> NCDCC</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Ms Wee Yee Ing </span><br><a href="mailto:wee_yee_ing@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">wee_yee_ing@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">Netball (Girls)</td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Ms Chloe Chan</span><br><a href="mailto:chan_lay_leng@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">chan_lay_leng@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-gbeq">NPCC</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Mr Justin Ke</span><br><a href="mailto:ke_kaijie_justin@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">ke_kaijie_justin@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">ODAC</td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Ms Li Qianyi </span><br><a href="mailto:li_qianyi@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">li_qianyi@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-gbeq">Scouts (Boys)</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Mr Kamal Yacob</span><br><a href="mailto:kamal_yacob@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">kamal_yacob@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb"> Symphonic Band</td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mr Philip Tan</span><br><a href="mailto:tan_ser_yong_philip@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">tan_ser_yong_philip@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-gbeq"> Volleyball (Boys)</td>
-    <td class="tg-ahip"><span style="color:#000;background-color:#EBEBEB">Ms Teo Li Yin</span><br><a href="mailto:teo_li_yin@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">teo_li_yin@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb"> Wushu</td>
-    <td class="tg-7yig">Mdm Liew Lee Pin<br><a href="mailto:liew_lee_pin@moe.edu.sg"><span style="text-decoration:underline;color:#002B79">liew_lee_pin@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="773" style="width:580.1pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .75pt;background:#46BDC6;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Role</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></b></p></td><td width="258" valign="bottom" style="width:193.5pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-left-alt:solid #CCCCCC .75pt;background:#46BDC6;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Teacher</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></b></p></td><td width="312" valign="bottom" style="width:3.25in;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-left-alt:solid #CCCCCC .75pt;background:#46BDC6;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Teachers' Email Addresses</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:15.75pt"><td width="203" rowspan="2" valign="top" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Level Discipline Team</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mr Zulhilmi Bin Zulkiflee</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:zulkiflee_zulhilmi@moe.edu.sg">zulkiflee_zulhilmi@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:2;height:15.75pt"><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mr Tan Jit Jin</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:tan_jit_jin@moe.edu.sg">tan_jit_jin@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:3;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Art Club CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Mr Tan Kiang Chye</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="mailto:tan_kiang_chye@moe.edu.sg">tan_kiang_chye@moe.edu.sg</a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:4;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Badminton CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mr Chua Keng Yeow</span></p></td><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:chua_keng_yeow@moe.edu.sg">chua_keng_yeow@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:5;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Basketball CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mr Tan Ming Hon Kenneth</span></p></td><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:tan_ming_hon@moe.edu.sg">tan_ming_hon@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:6;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Chinese Dance CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Ms He Meiyu</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="mailto:he_meiyu@moe.edu.sg">he_meiyu@moe.edu.sg</a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:7;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Drama CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Mr Kishan s/o Kannan</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="mailto:kishan_kannan@moe.edu.sg">kishan_kannan@moe.edu.sg</a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:8;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Football CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Ms Leong Hwai Ee Stella</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="mailto:leong_hwai_ee_stella@moe.edu.sg">leong_hwai_ee_stella@moe.edu.sg</a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:9;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Girl Guides CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ms Rashidah Bte Kassim</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:rashidah_kassim@moe.edu.sg">rashidah_kassim@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:10;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Guzheng CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ms Woong Choy Wan</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="mailto:woong_choy_wan@moe.edu.sg">woong_choy_wan@moe.edu.sg</a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:11;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Indian Dance CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mrs Tan-Wong Siew Har Winnie</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:wong_siew_har_winnie@moe.edu.sg">wong_siew_har_winnie@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:12;height:15.75pt"><td width="203" valign="top" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Infocomm Tech CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Mr Tan Eng Hoe, Peter</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="mailto:peter_tan_eng_hoe@moe.edu.sg">peter_tan_eng_hoe@moe.edu.sg</a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:13;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Malay Dance CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ms Mursalina Bte Mohd Saim</span></p></td><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:mursalina_mohd_saim@moe.edu.sg">mursalina_mohd_saim@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:14;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">NCC CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mr Chia Chun Keong</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:chia_chun_keong@moe.edu.sg">chia_chun_keong@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:15;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">NCDCC CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mr Tan Chor Seng</span></p></td><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:tan_chor_seng_a@moe.edu.sg">tan_chor_seng_a@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:16;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Netball CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mdm Natarajan Umarani</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:natarajan_umarani@moe.edu.sg">natarajan_umarani@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:17;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">NPCC CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ms Wee Ni Swen</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:wee_ni_swen@moe.edu.sg">wee_ni_swen@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:18;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">ODAC CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ms Heng Hui Zhen</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:heng_hui_zhen@moe.edu.sg">heng_hui_zhen@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:19;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Scouts CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Mr Ng Loong Kin, Alvin</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="mailto:ng_loong_kin_alvin@moe.edu.sg">ng_loong_kin_alvin@moe.edu.sg</a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:20;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Symphonic Band CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ms Tan E-Fung, Joycelyn</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:tan_e_fung_joycelyn@moe.edu.sg">tan_e_fung_joycelyn@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:21;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Volleyball CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mr Xiao Jing Joshua</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"><a href="mailto:xiao_jing_joshua@moe.edu.sg">xiao_jing_joshua@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:22;mso-yfti-lastrow:yes;height:15.75pt"><td width="203" valign="bottom" style="width:152.6pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid #CCCCCC .75pt;mso-border-alt:solid black .75pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;
+  height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Wushu CCAP</span></p></td><td width="258" valign="bottom" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mrs Lehming-Teo Shi Hui Rachel</span></p></td><td width="312" valign="bottom" style="width:3.25in;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
+  mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
+  black;mso-border-right-alt:black;mso-border-style-alt:solid;mso-border-width-alt:
+  .75pt;background:white;padding:1.5pt 2.25pt 1.5pt 2.25pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="mailto:teo_shi_hui_rachel@moe.edu.sg">teo_shi_hui_rachel@moe.edu.sg</a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
 
 <br>
 <br>
@@ -139,4 +414,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+<img style="width:95%;" alt="banner awards" src="/images/banner_awards_.png">
