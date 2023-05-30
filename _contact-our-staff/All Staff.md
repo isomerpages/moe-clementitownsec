@@ -388,6 +388,7 @@ Mrs Teng-Tay Soo Chin, Emmeline <br>
 Ms Teo Li Yin <br>
 [teo_li_yin@moe.edu.sg](mailto:teo_li_yin@moe.edu.sg)
 
+<img style="width:35%" src="/images/teochaiyeow.jpeg">
 
 Mr Teo Chai Yaw <br>
 [teo_chai_yaw@moe.edu.sg](mailto:teo_chai_yaw@moe.edu.sg)
