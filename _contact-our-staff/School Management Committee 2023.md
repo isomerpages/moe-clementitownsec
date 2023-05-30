@@ -100,6 +100,14 @@ Ms&nbsp;Siti Nurwati Dalduri
 Mr Chia Chun Kiat&nbsp;&nbsp;  
 [chia\_chun\_kiat@moe.edu.sg](mailto:chia_chun_kiat@moe.edu.sg)
 
+
+<img style="width:100%" src="/images/teochaiyeow.jpeg">
+Mr Teo Chai Yaw 
+
+[teo_chai_yaw@moe.edu.sg](mailto:teo_chai_yaw@moe.edu.sg)
+
+
+
 **Year Head (Upper Secondary) &nbsp;and SEN OiC**
 
 ![](/images/Valane%20Passport%20Photo%202.jpeg)
@@ -158,6 +166,11 @@ teo\_shi\_hui\_rachel@moe.edu.sg](mailto:teo_shi_hui_rachel@moe.edu.sg)
 Mr Ng Loong Kin Alvin  
 [ng\_loong\_kin\_alvin@moe.edu.sg](mailto:ng_loong_kin_alvin@moe.edu.sg)
 
+**SH / Humanities (Internal)**
+<img style="width:100%" src="/images/Mr%20Mohamed%20Ressal.jpeg">
+
+Mr Mohamed Ressal Mohamed Raffi <br>
+[mohamed_ressal_mohamed_raffi@moe.edu.sg](mailto:mohamed_ressal_mohamed_raffi@moe.edu.sg)
 <br>
 <br>
 <br>
