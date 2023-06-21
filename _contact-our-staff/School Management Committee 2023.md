@@ -14,7 +14,7 @@ Mr Ng Ping Hwee
 [ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
 
 
-#### **VICE-Administration**
+#### **VICE-PRINCIPAL (Administration)**
 
 ![](/images/Doris.jpeg)
 Ms Doris Ong Poh Choo <br>
