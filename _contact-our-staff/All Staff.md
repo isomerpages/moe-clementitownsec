@@ -5,17 +5,20 @@ description: Teaching Staff
 ---
 <img style="width:35%" src="/images/Ms%20Liu%20Jiazhen%20Adeline.jpg">
 
-Ms Adeline Liu  
+<center>Ms Adeline Liu  
+	
 [liu\_jiazhen\_adeline@moe.edu.sg](mailto:liu_jiazhen_adeline@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Aidil%20Bin%20Md%20Idris.jpeg">
 
-Mr Aidil Bin Md Idris      
+<center>Mr Aidil Bin Md Idris      
+	
  [aidil\_md\_idris@moe.edu.sg](mailto:aidil_md_idris@moe.edu.sg)
 
 <img style="width:35%" src="/images/Alvin%20Tan.jpeg">
 
-Mr Alvin Tan Jia Jie <br>
+<center>Mr Alvin Tan Jia Jie 
+	
 [tan\_jia\_jie@moe.edu.sg](mailto:tan\_jia\_jie@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mdm%20Ang%20Choon%20Keow.jpeg">
@@ -24,7 +27,8 @@ Mdm Ang Choon Keow <br> [ang\_choon\_keow@moe.edu.sg](mailto:ang_choon_keow@moe.
 
 <img style="width:35%" src="/images/CAOLEILEI.jpeg">
 
-Ms Cao Lei Lei                                                                           [cao\_leilei@moe.edu.sg](mailto:cao_leilei@moe.edu.sg)
+Ms Cao Lei Lei <br>
+[cao\_leilei@moe.edu.sg](mailto:cao_leilei@moe.edu.sg)
 
 <img style="width:35%" src="/images/mr%20chan%20bin%20chuan.jpeg">
 
@@ -33,8 +37,8 @@ Mr&nbsp;Chan Bin Chuan
 
 <img style="width:35%" src="/images/Ms%20Chan%20Lay%20Leng.jpeg">
 
-Ms Chan Lay Leng, Chloe
-[chan\lay\leng@moe.edu.sg](mailto:chanlayleng@moe.edu.sg)
+Ms Chan Lay Leng, Chloe<br>
+[chan\_lay\_leng@moe.edu.sg](mailto:chan_lay_leng@moe.edu.sg)
 
 <img style="width:35%" src="/images/ms%20chan%20lai%20peng.jpeg">
 
@@ -68,12 +72,12 @@ Mr Chia Chun Kiat
 
 <img style="width:35%" src="/images/Mr%20Chidambaram%20Saravanan.jpeg">
 
-Mr Chidambaram Saravanan 
+Mr Chidambaram Saravanan <br>
 [chidambaram\_saravanan@moe.edu.sg](mailto:chidambaram_saravanan@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mrs%20Chin%20Leong%20Hwai%20Ee%20Stella.jpeg">
 
-Mrs Chin-Leong Hwai Ee, Stella 
+Mrs Chin-Leong Hwai Ee, Stella <br>
 [leong\_hwai\_ee\_stella@moe.edu.sg](mailto:leong_hwai_ee_stella@moe.edu.sg)
 
 <img style="width:35%" src="/images/mr%20chng%20chia%20yii.jpeg">
@@ -87,7 +91,7 @@ Mr Chua Keng Yeow
 
 <img style="width:35%" src="/images/Mrs%20Chua%20Teng%20May%20Hwee%20Teresa.jpeg">
 
-Mrs Chua-Teng May Hwee Teresa
+Mrs Chua-Teng May Hwee Teresa<br>
 [teng\_may\_hwee\_teresa@moe.edu.sg](mailto:teng_may_hwee_teresa@moe.edu.sg)
 
 <img style="width:35%" src="/images/ms%20sandy%20ee.jpeg">
@@ -107,7 +111,7 @@ Ms Hamizah Begum Bte Md Hanif
 
 <img style="width:35%" src="/images/Ms%20He%20Meiyu.jpeg">
 
-Ms He Meiyu <br>       
+Ms He Meiyu   
 [he\_meiyu@moe.edu.sg](mailto:he_meiyu@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Heng%20Hui%20Zhen.jpeg">
@@ -150,7 +154,7 @@ Mr&nbsp;Kishan Kannan
 
 <img style="width:35%" src="/images/Doreen.png">
 
-Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen
+Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen<br>
 [lau\_ying\_ying\_doreen@moe.edu.sg](mailto:lau_ying_ying_doreen@moe.edu.sg)
 
 <img style="width:35%" src="/images/miss%20rachel%20lee%20jueyi.jpeg">
@@ -160,7 +164,7 @@ Ms Lee Jueyi, Rachel
 
 <img style="width:35%" src="/images/Mrs%20Lehming%20Teo%20Shi%20Hui%20Rachel.jpeg">
 
-Mrs Lehming-Teo Shi Hui, Rachel
+Mrs Lehming-Teo Shi Hui, Rachel<br>
 [teo\_shi\_hui\_rachel@moe.edu.sg](mailto:teo_shi_hui_rachel@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Li%20Qianyi.jpeg">
@@ -338,10 +342,11 @@ Mdm Tan Kay Shin <br>
 Mr Tan Kiang Chye <br>
 [tan_kiang_chye@moe.edu.sg](mailto:tan_kiang_chye@moe.edu.sg)
 
-Mr Tan Liang Hooi <br>
-[tan_liang_hooi@moe.edu.sg](mailto:tan_liang_hooi@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Tan%20Liang%20Hooi.jpeg">
+
+Mr Tan Liang Hooi <br>
+[tan_liang_hooi@moe.edu.sg](mailto:tan_liang_hooi@moe.edu.sg)
 
 <img style="width:35%" src="/images/kenneth.jpeg">
 
@@ -383,6 +388,7 @@ Mrs Teng-Tay Soo Chin, Emmeline <br>
 Ms Teo Li Yin <br>
 [teo_li_yin@moe.edu.sg](mailto:teo_li_yin@moe.edu.sg)
 
+<img style="width:35%" src="/images/teochaiyeow.jpeg">
 
 Mr Teo Chai Yaw <br>
 [teo_chai_yaw@moe.edu.sg](mailto:teo_chai_yaw@moe.edu.sg)
@@ -443,4 +449,4 @@ Mrs Yuen Lay Eng <br>
 <img style="width:35%" src="/images/Mr%20Zulhilmi%20Bin%20Zulkiflee.jpeg">
 
 Mr Zulhilmi Bin Zulkiflee <br>
-[zulkiflee_zulhilmi@moe.edu.sg](mailto:zulkiflee_zulhilmi@moe.edu.sg)
+[zulkiflee_zulhilmi@moe.edu.sg](mailto:zulkiflee_zulhilmi@moe.edu.sg)</center></center></center>

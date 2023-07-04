@@ -13,12 +13,20 @@ Mdm Rasidah Binte Rahim
 Mr Ng Ping Hwee   
 [ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
 
+
+#### **VICE-PRINCIPAL (Administration)**
+
+![](/images/Doris.jpeg)
+Ms Doris Ong Poh Choo <br>
+[ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
+
 #### **HEAD OF DEPARTMENT,&nbsp; SCHOOL STAFF DEVELOPER AND YEAR HEADS**
 
 **HOD/ Aesthetics, Craft and Technology**
 
-Ms. Magdalene Yeo  
+
 ![](/images/Mrs%20Peh%20Yeo%20Hwee%20Ching%20Magdelene.jpeg)
+Ms. Magdalene Yeo  
 [](mailto:yeo_hwee_ching_magdalene@moe.edu.sg)[yeo\_hwee\_ching\_magdalene](mailto:yeo_hwee_ching_magdalene@moe.edu.sg)
 
 
@@ -92,6 +100,14 @@ Ms&nbsp;Siti Nurwati Dalduri
 Mr Chia Chun Kiat&nbsp;&nbsp;  
 [chia\_chun\_kiat@moe.edu.sg](mailto:chia_chun_kiat@moe.edu.sg)
 
+
+<img style="width:100%" src="/images/teochaiyeow.jpeg">
+Mr Teo Chai Yaw 
+
+[teo_chai_yaw@moe.edu.sg](mailto:teo_chai_yaw@moe.edu.sg)
+
+
+
 **Year Head (Upper Secondary) &nbsp;and SEN OiC**
 
 ![](/images/Valane%20Passport%20Photo%202.jpeg)
@@ -150,6 +166,11 @@ teo\_shi\_hui\_rachel@moe.edu.sg](mailto:teo_shi_hui_rachel@moe.edu.sg)
 Mr Ng Loong Kin Alvin  
 [ng\_loong\_kin\_alvin@moe.edu.sg](mailto:ng_loong_kin_alvin@moe.edu.sg)
 
+**SH / Humanities (Internal)**
+<img style="width:100%" src="/images/Mr%20Mohamed%20Ressal.jpeg">
+
+Mr Mohamed Ressal Mohamed Raffi <br>
+[mohamed_ressal_mohamed_raffi@moe.edu.sg](mailto:mohamed_ressal_mohamed_raffi@moe.edu.sg)
 <br>
 <br>
 <br>
