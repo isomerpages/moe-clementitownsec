@@ -65,6 +65,7 @@ _However, all class transfers will be subject to the availability of vacancies. 
 
 **<u>Contact Details</u>**  
 CSP coordinator: Mr Zhang Ming / Ms  Eng Chia Lee
+
 DID: 6572 1143 / 6572 1132
 
-Email: zhang_ming@moe.edu.sg; Eng_chia_lee@moe.edu.sg
+Email: [zhang_ming@moe.edu.sg](zhang_ming@moe.edu.sg); [Eng_chia_lee@moe.edu.sg](Eng_chia_lee@moe.edu.sg)
