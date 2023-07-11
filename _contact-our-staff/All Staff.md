@@ -25,10 +25,6 @@ description: Teaching Staff
 
 Mdm Ang Choon Keow <br> [ang\_choon\_keow@moe.edu.sg](mailto:ang_choon_keow@moe.edu.sg)
 
-<img style="width:35%" src="/images/CAOLEILEI.jpeg">
-
-Ms Cao Lei Lei <br>
-[cao\_leilei@moe.edu.sg](mailto:cao_leilei@moe.edu.sg)
 
 <img style="width:35%" src="/images/mr%20chan%20bin%20chuan.jpeg">
 
@@ -40,10 +36,7 @@ Mr&nbsp;Chan Bin Chuan
 Ms Chan Lay Leng, Chloe<br>
 [chan\_lay\_leng@moe.edu.sg](mailto:chan_lay_leng@moe.edu.sg)
 
-<img style="width:35%" src="/images/ms%20chan%20lai%20peng.jpeg">
 
-Ms Chan Lai Peng  
-[chan\_lai\_peng@moe.edu.sg](mailto:chan_lai_peng@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Chan%20Siew%20Kwai.jpeg">
 
@@ -65,10 +58,7 @@ Mrs Cheong Poh Suan
 Mr Chia Chun Keong  
 [chia\_chun\_keong@moe.edu.sg](mailto:chia_chun_keong@moe.edu.sg)
 
-<img style="width:35%" src="/images/Mr%20Chia%20Chun%20Kiat.jpeg">
 
-Mr Chia Chun Kiat   
-[chia\_chun\_kiat@moe.edu.sg](mailto:chia_chun_kiat@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Chidambaram%20Saravanan.jpeg">
 
@@ -124,10 +114,7 @@ Ms Heng Hui Zhen
 Ms Ho Xiu Hui Tessa   
 [ho\_xiu\_hui\_tessa@moe.edu.sg](mailto:ho_xiu_hui_tessa@moe.edu.sg)
 
-<img style="width:35%" src="/images/Mr%20Xiao%20Jing%20Joshua.jpg">
 
-Mr Joshua Xiao Jing       
-[xiao\_jing\_joshua@moe.edu.sg](mailto:xiao_jing_joshua@moe.edu.sg)
 
 <img style="width:35%" src="/images/ms%20joyner%20tay%20kai%20ling.jpeg">
 
@@ -269,8 +256,6 @@ Ms Sia Gee Han, Karen <br>
 [karen_sia_gee_han@moe.edu.sg](mailto:karen_sia_gee_han@moe.edu.sg)
 
 
-Ms Sharon Tham Kum Chee <br>
-[sharon_tham_kum_chee@moe.edu.sg](mailto:sharon_tham_kum_chee@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mdm%20Sheetal%20Sonawane.jpeg">
 
@@ -446,7 +431,4 @@ Mr Yong Teck Sin <br>
 Mrs Yuen Lay Eng <br>
 [ang_lay_eng@moe.edu.sg ](mailto:ang_lay_eng@moe.edu.sg )
  
-<img style="width:35%" src="/images/Mr%20Zulhilmi%20Bin%20Zulkiflee.jpeg">
-
-Mr Zulhilmi Bin Zulkiflee <br>
-[zulkiflee_zulhilmi@moe.edu.sg](mailto:zulkiflee_zulhilmi@moe.edu.sg)</center></center></center>
+</center></center></center>
