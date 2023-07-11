@@ -126,9 +126,13 @@ Ms&nbsp;Joyner Tay
 Mr Kamal Bin Yacob <br>
 [kamal\_yacob@moe.edu.sg](mailto:kamal_yacob@moe.edu.sg)
 
-Mrs Karine Nai  <br>
-[nai_sok_khoon_karine@moe.edu.sg](mailto:nai_sok_khoon_karine@moe.edu.sg)
-
+		
+	
+<img style="width:35%" src="/images/karine.jpeg">
+	Mrs Karine Nai <br>
+	
+[nai\_sok\_khoon\_karine@moe.edu.sg](mailto:nai_sok_khoon_karine@moe.edu.sg)
+	
 <img style="width:35%" src="/images/Mr%20Ke%20Kaijie%20Justin.jpeg">
 
 Mr Ke Kaijie, Justin   
@@ -393,7 +397,9 @@ Mr Thomas Law <br>
 Ms Tnee Li Ling, Valane <br>
 [tnee_li_ling_valane@moe.edu.sg](mailto:tnee_li_ling_valane@moe.edu.sg)
 
+<img style="width:35%" src="/images/tracy_tey.jpeg">
 Ms Tracy Tey <br>
+	
 [tracy_tey_pin_pin@moe.edu.sg](mailto:tracy_tey_pin_pin@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Wee%20Ni%20Swen.jpg">
