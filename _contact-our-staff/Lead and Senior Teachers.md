@@ -11,8 +11,10 @@ description: ""
 
 <img style="width:35%" src="/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg">
 
-Mrs Teng-Tay Soo Chin, Emmeline   
-[tay_soo_chin_emmeline@moe.edu.sg](mailto:tay_soo_chin_emmeline@moe.edu.sg)
+Mrs Teng-Tay Soo Chin, Emmeline 
+
+<a href="mailto:tay_soo_chin_emmeline@moe.edu.sg">tay_soo_chin_emmeline@moe.edu.sg</a>
+
 
 
 <h4>Lead Teacher / Chemistry</h4>
@@ -21,7 +23,9 @@ Mrs Teng-Tay Soo Chin, Emmeline
 <img style="width:35%" src="/images/Mrs%20Tan%20Wen%20Yi.jpeg">
 
 Mrs Tan Wen Yi    
-tan_wen_yi@moe.edu.sg
+	
+<a href="mailto:tan_wen_yi@moe.edu.sg">tan_wen_yi@moe.edu.sg</a>
+
 
 <h4>Senior Teacher / Mathematics</h4>
 
@@ -29,7 +33,8 @@ tan_wen_yi@moe.edu.sg
 <img style="width:35%" src="/images/Mrs%20Cheong%20Poh%20Suan.jpeg">
 
 Mrs Cheong Poh Suan   
-[soh_poh_suan@moe.edu.sg](mailto:soh_poh_suan@moe.edu.sg)
+
+<a href="mailto:soh_poh_suan@moe.edu.sg">soh_poh_suan@moe.edu.sg</a>
 
 <h4>Senior Teacher / Social Studies</h4>
 
@@ -38,7 +43,8 @@ Mrs Cheong Poh Suan
 
 Mdm Rashidah Kassim
 
-rashidah_kassim@moe.edu.sg
+<a href="mailto:rashidah_kassim@moe.edu.sg">rashidah_kassim@moe.edu.sg</a>
+	
 <br>
 <br>
 <br>
