@@ -12,7 +12,7 @@ description: ""
 <img style="width:35%" src="/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg">
 
 Mrs Teng-Tay Soo Chin, Emmeline 
-
+<br>
 <a href="mailto:tay_soo_chin_emmeline@moe.edu.sg">tay_soo_chin_emmeline@moe.edu.sg</a>
 
 
@@ -23,7 +23,7 @@ Mrs Teng-Tay Soo Chin, Emmeline
 <img style="width:35%" src="/images/Mrs%20Tan%20Wen%20Yi.jpeg">
 
 Mrs Tan Wen Yi    
-	
+<br>
 <a href="mailto:tan_wen_yi@moe.edu.sg">tan_wen_yi@moe.edu.sg</a>
 
 
@@ -40,7 +40,7 @@ Mrs Cheong Poh Suan
 
 
 <img style="width:35%" src="/images/Mdm%20Rashidah%20Kassim.jpeg">
-
+<br>
 Mdm Rashidah Kassim
 
 <a href="mailto:rashidah_kassim@moe.edu.sg">rashidah_kassim@moe.edu.sg</a>
