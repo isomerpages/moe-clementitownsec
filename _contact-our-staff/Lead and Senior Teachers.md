@@ -5,27 +5,35 @@ description: ""
 ---
 <center>
 	
-#### **Lead Teacher / Geography**
+	
+#### Lead Teacher / Geography
+
 
 <img style="width:35%" src="/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg">
 
 Mrs Teng-Tay Soo Chin, Emmeline   
-[tay\_soo\_chin_emmeline@moe.edu.sg](mailto:tay_soo_chin_emmeline@moe.edu.sg)
+[tay_soo_chin_emmeline@moe.edu.sg](mailto:tay_soo_chin_emmeline@moe.edu.sg)
 
 
-#### **Lead Teacher / Chemistry**
+#### Lead Teacher / Chemistry
+	
+
 <img style="width:35%" src="/images/Mrs%20Tan%20Wen%20Yi.jpeg">
 
 Mrs Tan Wen Yi    
 tan_wen_yi@moe.edu.sg
 
-#### **Senior Teacher / Mathematics**
+#### Senior Teacher / Mathematics
+	
+	
 <img style="width:35%" src="/images/Mrs%20Cheong%20Poh%20Suan.jpeg">
 
 Mrs Cheong Poh Suan   
-[soh\_poh\_suan@moe.edu.sg](mailto:soh_poh_suan@moe.edu.sg)
+[soh_poh_suan@moe.edu.sg](mailto:soh_poh_suan@moe.edu.sg)
 
-#### **Senior Teacher / Social Studies**
+#### Senior Teacher / Social Studies
+	
+	
 <img style="width:35%" src="/images/Mdm%20Rashidah%20Kassim.jpeg">
 
 Mdm Rashidah Kassim
