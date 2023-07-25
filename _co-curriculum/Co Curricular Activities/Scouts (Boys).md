@@ -13,13 +13,12 @@ In line with the mission of Scouting, the CTS Griffin Scout Unit aims to contrib
 
 #### **TEACHERS IN-CHARGE**
 
-*   Mr Mohideen (OIC)  
-*   Mr Chidambaran Saravanan (AIC)  
-*   Mr Alvin Ng
-*   Mr Kamal Bin Yacob  
+*   Mr Alvin Ng (OIC)  
+*   Ms Goh Chia Pei 
     
 
 #### **STUDENT EXECUTIVE COMMITTEE**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

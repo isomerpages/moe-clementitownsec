@@ -4,42 +4,56 @@ permalink: /contact-us/lead-and-senior-teachers/
 description: ""
 ---
 <center>
-	
-#### **Lead Teacher / Geography**
+
+
+<h4>Lead Teacher / Geography</h4>
+
 
 <img style="width:35%" src="/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg">
 
-Mrs Teng-Tay Soo Chin, Emmeline   
-[tay\_soo\_chin_emmeline@moe.edu.sg](mailto:tay_soo_chin_emmeline@moe.edu.sg)
+Mrs Teng-Tay Soo Chin, Emmeline 
+<br>
+<a href="mailto:tay_soo_chin_emmeline@moe.edu.sg">tay_soo_chin_emmeline@moe.edu.sg</a>
 
 
-#### **Lead Teacher / Chemistry**
+
+<h4>Lead Teacher / Chemistry</h4>
+
+
 <img style="width:35%" src="/images/Mrs%20Tan%20Wen%20Yi.jpeg">
 
 Mrs Tan Wen Yi    
-tan_wen_yi@moe.edu.sg
+<br>
+<a href="mailto:tan_wen_yi@moe.edu.sg">tan_wen_yi@moe.edu.sg</a>
 
-#### **Senior Teacher / Mathematics**
+
+<h4>Senior Teacher / Mathematics</h4>
+
+
 <img style="width:35%" src="/images/Mrs%20Cheong%20Poh%20Suan.jpeg">
 
 Mrs Cheong Poh Suan   
-[soh\_poh\_suan@moe.edu.sg](mailto:soh_poh_suan@moe.edu.sg)
 
-#### **Senior Teacher / Social Studies**
+<a href="mailto:soh_poh_suan@moe.edu.sg">soh_poh_suan@moe.edu.sg</a>
+
+<h4>Senior Teacher / Social Studies</h4>
+
+
 <img style="width:35%" src="/images/Mdm%20Rashidah%20Kassim.jpeg">
-
+<br>
 Mdm Rashidah Kassim
 
-rashidah_kassim@moe.edu.sg
+<a href="mailto:rashidah_kassim@moe.edu.sg">rashidah_kassim@moe.edu.sg</a>
+	
 <br>
 <br>
 <br>
 
 <style>  
 img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
+display: block;  
+margin-left: auto;  
+margin-right: auto;  
 }  
 </style>  
 <img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;"></center>
