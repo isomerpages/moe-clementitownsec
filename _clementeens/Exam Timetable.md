@@ -7,6 +7,9 @@ description: ""
 
 [2. N-Level Preliminary Examination Time-Table 2023 for Secondary 4 Normal (Technical)](/files/Exam%20Time%20Table/2023%204nt%20preliminary%20%20examination%20timetable.pdf)
 
+[3. O-Level Preliminary Examination Time-Table 2023](/files/Exam%20Time%20Table/2023%20sec%204e5n%20&amp;%204n(oos)%20prelim%20exam%20timetable.pdf)
+
+
 <br>
 <br>
 <br>
