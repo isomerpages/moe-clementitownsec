@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Nil    | NA    |     |
+| Asia Cuisine    | 15/10/2023    |   Non Halal Japanese/Korean etc  |
 |
 
 **Application Procedure**
@@ -16,7 +16,7 @@ description: ""
 * [Application Form](/files/Forms/canteen%20formbf7.pdf)
 
 2. Attached the following documents together with the application form:
-* Photocopy of the NRIC (front and back)
+* Photocopy of the NRIC (front and back).
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
