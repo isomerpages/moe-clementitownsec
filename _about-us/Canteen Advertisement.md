@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Asia Cuisine    | 15/10/2023    |   Non Halal Japanese/Korean etc  |
+| Asia Cuisine    | 6/11/2023    |   Non Halal Japanese/Korean etc  |
 |
 
 **Application Procedure**
