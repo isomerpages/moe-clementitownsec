@@ -8,7 +8,7 @@ description: ""
 *   Semester 1 2023 Class Time Table
 [](/files/2023%20sem%201_classes.pdf)
 * [Exam Time-Table](https://clementitownsec.moe.edu.sg/clementeens/examination-time-table/)
-*   [Textbook List for 2023](https://clementitownsec.moe.edu.sg/clementeens/textbook-list-for-2023/)
+*   [Textbook List for 2024](https://clementitownsec.moe.edu.sg/clementeens/textbook-list-for-2024/)
 *   [Purchase of School Uniform and PE Attire](/clementeens/purchase-of-school-uniform-and-pe-attire)
 *   [School Rules and Regulations](/files/CTSS%20CODE%20OF%20CONDUCT%2026Oct2021.pdf)
 *  [Student Protection Plan](https://www.clementitownsec.moe.edu.sg/clementeens/student-protection-plan)
