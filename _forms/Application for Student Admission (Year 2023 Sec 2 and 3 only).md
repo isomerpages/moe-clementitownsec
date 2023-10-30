@@ -3,7 +3,7 @@ title: Application for Student Admission (Year 2023 Sec 2 and 3 only)
 permalink: /forms-1/application-for-student-admission-year-2023-sec-2-3-only/
 description: ""
 ---
-Please click on the following link to access the [Application Form for Student Admission](/files/Forms/WAITING%20LIST%20Form_2023.pdf). Thank you.
+Please click on the following link to access the&nbsp;[Application Form for Student Admission](/files/Forms/2024/waiting%20list%20form_2024.pdf). Thank you.
 
 <br>
 <br>
@@ -16,6 +16,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
