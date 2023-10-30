@@ -9,7 +9,7 @@ description: ""
     
 *   [Principals’ Letter to Parents](/letters-to-parents)  
     
-*   [Parent Support Group (PSG)](/partners/parent-support-group-psg)  
+*   [Parent Support Group (PSG)](https://www.facebook.com/Clementi.Town.Sec.Sch.PSG)
       
 
 *   [Parents Gateway](/clementeens/parents-gateway)
