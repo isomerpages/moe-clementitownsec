@@ -22,6 +22,14 @@ sections:
           description: ""
           url: /students
   - infopic:
+      title: CTSS Open House 2023
+      subtitle: Aspire and Grow with us!
+      id: infopic
+      description: 11 November 2023, 9.00am to 3.00pm
+      button: Button Text
+      image: /images/banner  2023 clementi town secondary school a5 (updated).png
+      alt: Image alt text
+  - infopic:
       title: Vision, Mission and Values
       button: Vision, Mission and Values
       url: /about-us/motto-vision-mission-n-values/
