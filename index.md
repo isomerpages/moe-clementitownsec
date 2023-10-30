@@ -41,4 +41,11 @@ sections:
       url: /highlights/
       image: /images/Infopic/infopic3.jpg
       alt: Image alt text
+  - infopic:
+      title: CTSS Open House 2023
+      subtitle: Aspire and Grow with us!
+      id: infopic
+      description: 11 November 2023, 9.00am to 3.00pm
+      button: Button Text
+      alt: Image alt text
 ---
