@@ -47,5 +47,6 @@ sections:
       id: infopic
       description: 11 November 2023, 9.00am to 3.00pm
       button: Button Text
+      image: /images/banner  2023 clementi town secondary school a5 (updated).png
       alt: Image alt text
 ---
