@@ -22,6 +22,7 @@ Clementi Town Secondary School has a wide range of Co-Curricular Activities to c
 **Sports and Games** <br>
 [Badminton (Boys)](/co-curriculum/co-curricular-activities/badminton-boys) <br>
 [Basketball (Boys)](/co-curriculum/co-curricular-activities/basketball-boys) <br>
+[Netball (Girls)](/co-curriculum/co-curricular-activities/netball-girls/) <br>
 [Netball (Girls)](/co-curriculum/co-curricular-activities/netball-girls) <br>
 [Outdoor Adventure Club (ODAC)](/co-curriculum/co-curricular-activities/outdoor-adventure-club-odac) <br>
 [Football (Boys)](/co-curriculum/co-curricular-activities/football-boys)<br>
