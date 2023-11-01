@@ -1,5 +1,30 @@
 ---
-CTSS NETBALL(GIRLS) CCA
+"0": C
+"1": T
+"2": S
+"3": S
+"4": ""
+"5": N
+"6": E
+"7": T
+"8": B
+"9": A
+"10": L
+"11": L
+"12": (
+"13": G
+"14": I
+"15": R
+"16": L
+"17": S
+"18": )
+"19": ""
+"20": C
+"21": C
+"22": A
+title: Netball (Girls)
+permalink: /co-curriculum/co-curricular-activities/netball-girls/
+description: ""
 ---
 #### **ABOUT THE CCA**
 
@@ -48,7 +73,7 @@ https://www.youtube-nocookie.com/embed/LVpsLD9PS2c
 |------------- | ---------- |
 | 2023	| SCCC Netball West Zone B and C Division Championship |
 | 2023	| Schools Challenge League |
-| 2023	| Netops Netball Carnival (March & November) |
+| 2023	| Netops Netball Carnival (March &amp; November) |
 
 
 #### **KEY ACHIEVEMENTS**
