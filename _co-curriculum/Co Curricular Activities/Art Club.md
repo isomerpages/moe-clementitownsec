@@ -6,6 +6,7 @@ third_nav_title: Co Curricular Activities
 ---
 #### **ABOUT THE CCA**
 
+****Please note that Art Club has ceased enrolment and will close in 2025.**
 
 The CTSS Art Club aims to nurture in members love and appreciation of fine art. Through exposing our members to diverse art forms such as painting, sculpture and mixed media, we hope to hone their creativity and self expression.  
 To enrich their Art Education, visits to art institutions and galleries are also organized periodically to pique the members' interest in different art styles, artists and movements.
