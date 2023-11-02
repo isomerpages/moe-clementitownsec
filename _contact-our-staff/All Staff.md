@@ -86,7 +86,7 @@ Mrs Chua-Teng May Hwee Teresa<br>
 
 <img style="width:35%" src="/images/ms%20sandy%20ee.jpeg">
 
-Ms Ee Wen Lin, Sandy 
+Ms Ee Wen Lin, Sandy <br>
 [ee\_wen\_lin\_sandy@moe.edu.sg](mailto:ee_wen_lin_sandy@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Eng%20Chia%20Lee.jpeg">
@@ -125,12 +125,11 @@ Ms&nbsp;Joyner Tay
 
 Mr Kamal Bin Yacob <br>
 [kamal\_yacob@moe.edu.sg](mailto:kamal_yacob@moe.edu.sg)
-
-		
+	
 	
 <img style="width:35%" src="/images/karine.jpeg">
-	Mrs Karine Nai <br>
-	
+
+Mrs Karine Nai <br>
 [nai\_sok\_khoon\_karine@moe.edu.sg](mailto:nai_sok_khoon_karine@moe.edu.sg)
 	
 <img style="width:35%" src="/images/Mr%20Ke%20Kaijie%20Justin.jpeg">
@@ -148,10 +147,6 @@ Mr&nbsp;Kishan Kannan
 Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen<br>
 [lau\_ying\_ying\_doreen@moe.edu.sg](mailto:lau_ying_ying_doreen@moe.edu.sg)
 
-<img style="width:35%" src="/images/miss%20rachel%20lee%20jueyi.jpeg">
-
-Ms Lee Jueyi, Rachel    
-[rachel\_lee\_jueyi@moe.edu.sg](mailto:rachel_lee_jueyi@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mrs%20Lehming%20Teo%20Shi%20Hui%20Rachel.jpeg">
 
@@ -214,10 +209,6 @@ Ms Natarajan Umarani <br>
 Mr Ng Loong Kin, Alvin <br>
 [ng_loong_kin_alvin@moe.edu.sg](mailto:ng_loong_kin_alvin@moe.edu.sg)
 
-<img style="width:35%" src="/images/Ms%20Nurul%20Farhanah%20Bte%20Ramlan.jpg">
-
-Ms Nurul Farhanah Bte Ramlan <br>
-[nurul_farhanah_binte_ramlan@moe.edu.sg](mailto:nurul_farhanah_binte_ramlan@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mrs%20Peh%20Yeo%20Hwee%20Ching%20Magdelene.jpeg">
 
