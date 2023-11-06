@@ -25,6 +25,7 @@
 title: Netball (Girls)
 permalink: /co-curriculum/co-curricular-activities/netball-girls/
 description: ""
+variant: markdown
 ---
 #### **ABOUT THE CCA**
 
@@ -36,8 +37,7 @@ In Netball, we aim to nurture our girls' passion for the game as well as inculca
 We truly believe that no amount of talent can make up for the lack of practice. Our team of dedicated, committed and passionate netball club members hold firm to the conviction that given dedication, practice and the will to succeed, we will succeed one day. Over the year, the challenges we faced made us stronger as a team and fostered stronger ties among our members.
 
 
-
-https://www.youtube-nocookie.com/embed/LVpsLD9PS2c
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LVpsLD9PS2c?si=mf-BmrjS5jCXPXvE" height="315" width="560"></iframe>
 
 
 

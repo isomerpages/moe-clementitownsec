@@ -2,12 +2,13 @@
 title: Canteen Advertisement
 permalink: /about-us/canteen-advertisement/
 description: ""
+variant: markdown
 ---
 **Canteen Stalls**
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Asia Cuisine    | 6/11/2023    |   Non Halal Japanese/Korean etc  |
+| Asia Cuisine    | 13/11/2023    |   Non Halal Japanese/Korean etc  |
 |
 
 **Application Procedure**
