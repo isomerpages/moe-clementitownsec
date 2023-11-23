@@ -77,9 +77,6 @@ Mr&nbsp;Chng Chia Yi
 [chng\_chia\_yi@moe.edu.sg](mailto:chng_chia_yi@moe.edu.sg)
 
 
-Mr Chua Keng Yeow  
-[chua\_keng\_yeow@moe.edu.sg](mailto:chua_keng_yeow@moe.edu.sg)
-
 <img style="width:35%" src="/images/Mrs%20Chua%20Teng%20May%20Hwee%20Teresa.jpeg">
 
 Mrs Chua-Teng May Hwee Teresa<br>
