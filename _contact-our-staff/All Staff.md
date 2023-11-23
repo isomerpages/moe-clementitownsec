@@ -2,6 +2,7 @@
 title: All Staff
 permalink: /contact-us/all-staff/
 description: Teaching Staff
+variant: markdown
 ---
 <img style="width:35%" src="/images/Ms%20Liu%20Jiazhen%20Adeline.jpg">
 
@@ -184,10 +185,18 @@ Ms Lim Tze Min Joyce <br>
 Mrs Lim-Quek Chwee Tiang, Linda <br>
 [quek_chwee_tiang_linda@moe.edu.sg](mailto:quek_chwee_tiang_linda@moe.edu.sg)
 
+<img style="width:35%" src="/images/Ms%20Loh%20Wan%20Ting.jpg">
+
+
+Ms Loh Wan Ting <br>
+[loh_wan_ting@moe.edu.sg](mailto:low_liqing@moe.edu.sg)
+	
 <img style="width:35%" src="/images/Ms%20Low%20Li%20Qing.jpg">
+
 
 Ms Low Liqing <br>
 [low_liqing@moe.edu.sg](mailto:low_liqing@moe.edu.sg)
+
 
 <img style="width:35%" src="/images/Mr%20Mohideeen%20Nizar.jpeg">
 
