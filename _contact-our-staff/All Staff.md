@@ -185,7 +185,7 @@ Ms Lim Tze Min Joyce <br>
 Mrs Lim-Quek Chwee Tiang, Linda <br>
 [quek_chwee_tiang_linda@moe.edu.sg](mailto:quek_chwee_tiang_linda@moe.edu.sg)
 
-<img style="width:35%" src="/images/Ms%20Loh%20Wan%20Ting.jpg">
+<img style="width:35%" src="/images/lohwanting.jpg">
 
 
 Ms Loh Wan Ting <br>
