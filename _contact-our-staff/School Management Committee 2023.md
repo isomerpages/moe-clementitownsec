@@ -161,7 +161,7 @@ teo\_shi\_hui\_rachel@moe.edu.sg](mailto:teo_shi_hui_rachel@moe.edu.sg)
 Mr Ng Loong Kin Alvin  
 [ng\_loong\_kin\_alvin@moe.edu.sg](mailto:ng_loong_kin_alvin@moe.edu.sg)
 
-**SH / Humanities (Internal)**
+**SH / Humanities**
 <img style="width:100%" src="/images/Mr%20Mohamed%20Ressal.jpeg">
 
 Mr Mohamed Ressal Mohamed Raffi <br>
