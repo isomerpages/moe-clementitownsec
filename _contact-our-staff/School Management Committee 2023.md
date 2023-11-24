@@ -2,6 +2,7 @@
 title: School Management Committee 2023
 permalink: /contact-us/school-management-committee-2023/
 description: ""
+variant: markdown
 ---
 #### **PRINCIPAL**
 ![](/images/Mdm%20Rasidah%20Bte%20Rahimm.jpeg)
@@ -13,12 +14,11 @@ Mdm Rasidah Binte Rahim
 Mr Ng Ping Hwee   
 [ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
 
-
-#### **VICE-PRINCIPAL (Administration)**
-
-![](/images/Doris.jpeg)
-Ms Doris Ong Poh Choo <br>
+#### **VICE-PRINCIPAL 2**
+![](/images/mrs%20wong%20huang%20kexin.jpg)
+Mrs Wong Huang Kexin
 [ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
+
 
 #### **HEAD OF DEPARTMENT,&nbsp; SCHOOL STAFF DEVELOPER AND YEAR HEADS**
 
@@ -96,11 +96,6 @@ Ms&nbsp;Siti Nurwati Dalduri
 
 **Year Head (Lower Secondary)**
 
-![](/images/Chia%20Chun%20Kiat.jpeg)
-Mr Chia Chun Kiat&nbsp;&nbsp;  
-[chia\_chun\_kiat@moe.edu.sg](mailto:chia_chun_kiat@moe.edu.sg)
-
-
 <img style="width:100%" src="/images/teochaiyeow.jpeg">
 Mr Teo Chai Yaw 
 
@@ -153,8 +148,8 @@ Ms Low Liqing
 
 **SH / PE and CCA**
 ![](/images/Ms%20Teo%20Li%20Yin.jpeg)
-Ms Teo Li Yin  
-[teo\_li\_yin@moe.edu.sg](mailto:teo_li_yin@moe.edu.sg)
+Mr Ethan Tan  
+[ethan\_tan@moe.edu.sg](mailto:ethan_tan@moe.edu.sg)
 
 **SH / Science**
 ![](/images/Mrs%20Lehming%20Teo%20Shi%20Hui%20Rachel.jpeg)
