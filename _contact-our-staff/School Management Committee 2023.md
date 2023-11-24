@@ -94,7 +94,7 @@ Mr&nbsp;Chng Chia Yi
 Ms&nbsp;Siti Nurwati Dalduri  
 [siti\_nurwati\_dalduri@moe.edu.sg](mailto:siti_nurwati_dalduri@moe.edu.sg)
 
-**Year Head (Lower Secondary)**
+**Year Head (Upper Secondary)**
 
 <img style="width:100%" src="/images/teochaiyeow.jpeg">
 Mr Teo Chai Yaw 
@@ -103,7 +103,7 @@ Mr Teo Chai Yaw
 
 
 
-**Year Head (Upper Secondary) &nbsp;and SEN OiC**
+**Year Head (Lower Secondary) &nbsp;and SEN OiC**
 
 ![](/images/Valane%20Passport%20Photo%202.jpeg)
 Ms Tnee Li Ling, Valane  
@@ -113,14 +113,12 @@ Ms Tnee Li Ling, Valane
 ASSISTANT YEAR HEADS AND SUBJECT HEADS
 --------------------------------------
 
-**AYH / Secondary 1**
-
+**AYH / Secondary 2**
 ![](/images/Mdm%20Rosezalina.jpeg)
 Mdm Rosezalina Bte Asmoin
 [rosezalina\_asmoin@moe.edu.sg](mailto:rosezalina_asmoin@moe.edu.sg)
 
-**AYH / Secondary 3**
-
+**AYH / Secondary 4&amp;5**
 ![](/images/kenneth.jpeg)
 Mr Kenneth Tan Ming Hon
 [](mailto:tan_ming_hon@moe.edu.sg)[tan\_ming\_hon@moe.edu.sg](mailto:tan_ming_hon@moe.edu.sg)
@@ -147,7 +145,7 @@ Ms Low Liqing
 [low\_liqing@moe.edu.sg](mailto:low_liqing@moe.edu.sg)
 
 **SH / PE and CCA**
-![](/images/Ms%20Teo%20Li%20Yin.jpeg)
+![](/images/mr%20ethan%20tan.jpeg)
 Mr Ethan Tan  
 [ethan\_tan@moe.edu.sg](mailto:ethan_tan@moe.edu.sg)
 
@@ -156,7 +154,7 @@ Mr Ethan Tan
 Mrs Lehming-Teo Shi Hui, Rachel&nbsp;&nbsp;[  
 teo\_shi\_hui\_rachel@moe.edu.sg](mailto:teo_shi_hui_rachel@moe.edu.sg)
 
-**SH / English Language (Internal)**
+**SH / English Language**
 ![](/images/Mr%20Ng%20Loong%20Kin,%20Alvin.jpg)
 Mr Ng Loong Kin Alvin  
 [ng\_loong\_kin\_alvin@moe.edu.sg](mailto:ng_loong_kin_alvin@moe.edu.sg)
