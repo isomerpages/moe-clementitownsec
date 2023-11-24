@@ -2,6 +2,7 @@
 title: School Management Committee 2023
 permalink: /contact-us/school-management-committee-2023/
 description: ""
+variant: markdown
 ---
 #### **PRINCIPAL**
 ![](/images/Mdm%20Rasidah%20Bte%20Rahimm.jpeg)
@@ -13,12 +14,11 @@ Mdm Rasidah Binte Rahim
 Mr Ng Ping Hwee   
 [ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
 
-
-#### **VICE-PRINCIPAL (Administration)**
-
-![](/images/Doris.jpeg)
-Ms Doris Ong Poh Choo <br>
+#### **VICE-PRINCIPAL 2**
+![](/images/mrs%20wong%20huang%20kexin.jpg)
+Mrs Wong Huang Kexin
 [ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
+
 
 #### **HEAD OF DEPARTMENT,&nbsp; SCHOOL STAFF DEVELOPER AND YEAR HEADS**
 
@@ -77,7 +77,7 @@ loh\_wee\_sin@moe.edu.sg](mailto:loh_wee_sin@moe.edu.sg)
 Mr Tan Jit Jin  
 [tan\_jit\_jin@moe.edu.sg](mailto:tan_jit_jin@moe.edu.sg)
 
-**HOD / Science (Internal)**
+**HOD / Science**
 ![](/images/Ms%20Li%20Qianyi.jpeg)
 Ms&nbsp;Li Qianyi&nbsp;  
 [li\_qianyi@moe.edu.sg](mailto:li_qianyi@moe.edu.sg)
@@ -94,12 +94,7 @@ Mr&nbsp;Chng Chia Yi
 Ms&nbsp;Siti Nurwati Dalduri  
 [siti\_nurwati\_dalduri@moe.edu.sg](mailto:siti_nurwati_dalduri@moe.edu.sg)
 
-**Year Head (Lower Secondary)**
-
-![](/images/Chia%20Chun%20Kiat.jpeg)
-Mr Chia Chun Kiat&nbsp;&nbsp;  
-[chia\_chun\_kiat@moe.edu.sg](mailto:chia_chun_kiat@moe.edu.sg)
-
+**Year Head (Upper Secondary)**
 
 <img style="width:100%" src="/images/teochaiyeow.jpeg">
 Mr Teo Chai Yaw 
@@ -108,7 +103,7 @@ Mr Teo Chai Yaw
 
 
 
-**Year Head (Upper Secondary) &nbsp;and SEN OiC**
+**Year Head (Lower Secondary) &nbsp;and SEN OiC**
 
 ![](/images/Valane%20Passport%20Photo%202.jpeg)
 Ms Tnee Li Ling, Valane  
@@ -118,14 +113,12 @@ Ms Tnee Li Ling, Valane
 ASSISTANT YEAR HEADS AND SUBJECT HEADS
 --------------------------------------
 
-**AYH / Secondary 1**
-
+**AYH / Secondary 2**
 ![](/images/Mdm%20Rosezalina.jpeg)
 Mdm Rosezalina Bte Asmoin
 [rosezalina\_asmoin@moe.edu.sg](mailto:rosezalina_asmoin@moe.edu.sg)
 
-**AYH / Secondary 3**
-
+**AYH / Secondary 4&amp;5**
 ![](/images/kenneth.jpeg)
 Mr Kenneth Tan Ming Hon
 [](mailto:tan_ming_hon@moe.edu.sg)[tan\_ming\_hon@moe.edu.sg](mailto:tan_ming_hon@moe.edu.sg)
@@ -152,21 +145,21 @@ Ms Low Liqing
 [low\_liqing@moe.edu.sg](mailto:low_liqing@moe.edu.sg)
 
 **SH / PE and CCA**
-![](/images/Ms%20Teo%20Li%20Yin.jpeg)
-Ms Teo Li Yin  
-[teo\_li\_yin@moe.edu.sg](mailto:teo_li_yin@moe.edu.sg)
+![](/images/mr%20ethan%20tan.jpeg)
+Mr Ethan Tan  
+[ethan\_tan@moe.edu.sg](mailto:ethan_tan@moe.edu.sg)
 
 **SH / Science**
 ![](/images/Mrs%20Lehming%20Teo%20Shi%20Hui%20Rachel.jpeg)
 Mrs Lehming-Teo Shi Hui, Rachel&nbsp;&nbsp;[  
 teo\_shi\_hui\_rachel@moe.edu.sg](mailto:teo_shi_hui_rachel@moe.edu.sg)
 
-**SH / English Language (Internal)**
+**SH / English Language**
 ![](/images/Mr%20Ng%20Loong%20Kin,%20Alvin.jpg)
 Mr Ng Loong Kin Alvin  
 [ng\_loong\_kin\_alvin@moe.edu.sg](mailto:ng_loong_kin_alvin@moe.edu.sg)
 
-**SH / Humanities (Internal)**
+**SH / Humanities**
 <img style="width:100%" src="/images/Mr%20Mohamed%20Ressal.jpeg">
 
 Mr Mohamed Ressal Mohamed Raffi <br>
