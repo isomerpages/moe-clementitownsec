@@ -77,7 +77,7 @@ loh\_wee\_sin@moe.edu.sg](mailto:loh_wee_sin@moe.edu.sg)
 Mr Tan Jit Jin  
 [tan\_jit\_jin@moe.edu.sg](mailto:tan_jit_jin@moe.edu.sg)
 
-**HOD / Science (Internal)**
+**HOD / Science**
 ![](/images/Ms%20Li%20Qianyi.jpeg)
 Ms&nbsp;Li Qianyi&nbsp;  
 [li\_qianyi@moe.edu.sg](mailto:li_qianyi@moe.edu.sg)
