@@ -2,6 +2,7 @@
 title: Textbook List for 2024
 permalink: /clementeens/textbook-list-for-2024/
 description: ""
+variant: markdown
 ---
 Click on the [Purchase Guide](/files/Textbook/ctss%202023%20purchase%20guide%20s2-5.pdf) for Information on Purchase of School Textbooks &amp; Stationery. 
 
