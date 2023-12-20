@@ -60,10 +60,9 @@ Results will be reflected in the year-end progress report and can be taken into 
 *   Lessons are held once a week in the afternoon outside the school curriculum hours on Thursdays in Clementi Town Secondary School. Each weekly session lasts for 3 hours (3.15pm-6.15pm) and attendance is compulsory.
 *   Textbooks may be purchased from the bookshop at Clementi Town Secondary School on the first day of lesson or prior to commencement of the first lesson.
 
-*If there is a clash with the school timetable/other compulsory school programs/activities, and students wish to continue this course, they are advised to transfer to MOELC.
+*If there is a clash with the school timetable/other compulsory school programs/activities, and students wish to continue this course, they are advised to transfer to MOELC. Please approach your subject teacher to obtain the transfer form.
 (Details may find from MOE
-language center website: https:// www.moelc.moe.edu.sg/courses/)
-Please approach your subject teacher to obtain the transfer form.
+language center website: https:// www.moelc.moe.edu.sg/courses/).
 
 _However, all class transfers will be subject to the availability of vacancies. Where there are no vacancies in the requested day/time slot(s), students will be put on a waiting list. While waiting for a place to be freed up, students are to make arrangements to attend the class initially assigned to them._
 
