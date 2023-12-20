@@ -23,7 +23,7 @@ For students who would like to appeal for Chinese/Malay (Special Programme),
 please refer to the attached [FILE](https://drive.google.com/file/d/1OA_TE1haSNqYONQw3mZ-pRfNdHa6P969/view?usp=drive_link) for more information about late application/appeal procedure.
 
 
-##### **Online Registration for 2023 Sec 1 Chinese (Special Programme) (C(SP)) Successful Applicants**
+##### **Online Registration for 2024 Sec 1 Chinese (Special Programme) (C(SP)) Successful Applicants**
 Dear successful Chinese (Special Programme) applicants, Please refer to the attached [FILE](https://drive.google.com/file/d/1p9u5tX3ibSbpQ5WZvlo0f9BZGGC_UNwq/view?usp=drive_link) 
 for more informationabout online registration
 
