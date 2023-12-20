@@ -4,7 +4,7 @@ permalink: /clementeens/purchase-of-school-uniform-and-pe-attire/
 description: ""
 variant: markdown
 ---
-Click&nbsp; [here](files/Uniform/My_Uniform_Shop__ASIA__Pte_Ltd___Clementi_Town_Secondary_School_2023_Letter_to_Parents.pdf)
+Click&nbsp; [here](/files/Uniform/My_Uniform_Shop__ASIA__Pte_Ltd___Clementi_Town_Secondary_School_2023_Letter_to_Parents.pdf)
 &nbsp;for&nbsp;Information on&nbsp;Purchase of School&nbsp;Uniform and PE Attire.&nbsp;
 
 
