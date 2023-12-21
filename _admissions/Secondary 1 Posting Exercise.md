@@ -13,11 +13,6 @@ For more information regarding the Sec 1 Registration for the 2024 cohort, pleas
 
   
 
-Posting group 3 : 13 <br>
+Posting group 3 : 8 - 13 <br>
 Posting group 2 : 21 - 23 <br>
 Posting group 1 : 25 - 28
-  
-
-
-
-  
