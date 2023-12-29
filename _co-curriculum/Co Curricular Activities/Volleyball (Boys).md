@@ -3,6 +3,7 @@ title: Volleyball (Boys)
 permalink: /co-curriculum/co-curricular-activities/volleyball-boys/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 #### **ABOUT THE CCA**
 
@@ -27,9 +28,9 @@ Clementi Town Secondary Volleyball has also regularly punched above their weight
 #### **TEACHERS IN-CHARGE**
 
 * Ms Teo Li Yin (OIC)
-* Mr Joshua Xiao (AIC)
-* Ms Cao Lei Lei
 * Mr Chan Siew Kwai
+* Ms Fu Rong
+* Ms Chan Wen Xin
 
 #### STUDENT EXECUTIVE COMMITTEE
 
