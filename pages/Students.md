@@ -6,7 +6,7 @@ variant: markdown
 ---
 *   [School Safety](/clementeens/school-safety)  
 *   [Calendar](https://calendar.google.com/calendar/embed?src=moe.edu.sg_07rtue1mp6980u56a7tt9ui2qo%40group.calendar.google.com&amp;ctz=Asia%2FSingapore)    
-*   Semester 1 2023 Class Time Table:
+*   Semester 1 2024 Class Time Table:
 
      1. [Secondary 2](/files/2024_Sem_1_TT_Sec_2.pdf)
      2. [Secondary 3](/files/2024_Sem_1_TT_Sec_3.pdf)
