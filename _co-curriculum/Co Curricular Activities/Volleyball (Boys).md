@@ -3,6 +3,7 @@ title: Volleyball (Boys)
 permalink: /co-curriculum/co-curricular-activities/volleyball-boys/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 #### **ABOUT THE CCA**
 
@@ -16,6 +17,7 @@ Through Clementi Town Secondary Volleyball, we seek to nurture our players into 
 
 ![](/images/CCA/VB/img-20221118-wa0072.jpg)
 
+
 Clementi Town Secondary Volleyball has also regularly punched above their weight in terms of competition results as a regular in the top 4 of the West Zone competitions. This is achieved through the strong support of teachers and coaches alike, which has helped to build on past success by adding discipline and technical ability to an already holistic learning environment. Boasting a strong alumni relationship, we also often play host to alumnus who come back to interact with our current crop of students, allowing them to better relate to what has been achieved in the past, and what is expected of them in the future.
 
 ![](/images/CCA/VB/img-20221220-wa0040.jpg)
@@ -24,12 +26,22 @@ Clementi Town Secondary Volleyball has also regularly punched above their weight
 
 ![](/images/CCA/VB/img-20230221-wa0006.jpg)
 
+![](/images/VB_2023_05.jpg)
+
+![](/images/VB_2023_04.jpg)
+
+![](/images/VB_2023_03.jpg)
+
+![](/images/VB_2023_02.jpg)
+
+![](/images/VB_2023_01.jpg)
+
 #### **TEACHERS IN-CHARGE**
 
 * Ms Teo Li Yin (OIC)
-* Mr Joshua Xiao (AIC)
-* Ms Cao Lei Lei
 * Mr Chan Siew Kwai
+* Ms Fu Rong
+* Ms Chan Wen Xin
 
 #### STUDENT EXECUTIVE COMMITTEE
 
@@ -43,7 +55,7 @@ Clementi Town Secondary Volleyball has also regularly punched above their weight
 
 #### ACHIEVEMENTS
 
-![](/images/CCA/VB/vb%20achievement.jpg)
+![](/images/VB_Achievements_2023.jpg)
 
 
 #### TRAINING DETAILS
