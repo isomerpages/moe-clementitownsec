@@ -4,32 +4,4 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Welcome back to school, Clementeens! To our Secondary Ones joining us this year, let me extend a very warm welcome to you on behalf of our school. We look forward to having you join our CT family and walking with you in this exciting new stretch of your learning journey. I also look forward to partnering your parents in supporting you in your growth.  
-  
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;A new year brings with it renewed hopes and aspirations. It is a chance for us to start afresh by reflecting on the year that has gone by. It is important that we recount the good and the bad of the past year and learn from our past experiences as we set our goals for the new academic year. 2022 is the year that our nation returned to normalcy with the easing of the safe management measures that we had implemented in the last two years. It was encouraging to be able to have our Clementeens experience secondary school life as it was always meant to be: social, vibrant and joyful.  
-  
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;As we enter 2023, we plan to bring back even more of the school experiences that we were not able to conduct in the last few years due to the pandemic. While the programmes might be the same, the delivery of some of these programmes might change. We will want to continue the good things that we have learnt from Covid-19 pandemic and infuse it in our school processes moving forward. For example, we will be adopting the hybrid approach for some of our programmes. We also learned the importance of imbuing in our students greater agency, growth mindset and mental resilience so that they can better manage the challenges that might come their way. The world has changed and thus we also must evolve as a school.  
-  
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;In the last one year, we have come together to re-envision the future that we want for our school in the next five years. We conducted several rounds of conversation with all our stakeholders to seek their inputs and ideas. The year-long engagement culminated with the conceptualisation of our ‘Strategic Plan 2023 – 2027’. With the new strategic plan, we have articulated the clear direction that the school will go towards, to better realise our school vision. We want to continue to build on our school’s strong foundation and the good work of the staff as we develop our Clementeens to have the passion to learn, the confidence to lead and the humility to serve.  
-  
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;I look forward to the support from our dedicated staff, parents and partners as we journey together in 2023.  
-  
-Thank you.  
-  
-Educating with you,  
-  
-Rasidah Binte Rahim  
-Principal  
-Clementi Town Secondary School
-
-<br>
-<br>
-<br>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+<p>Welcome back to a new academic year at Clementi Town Secondary School (CTSS)! It is with immense pleasure that I extend a warm welcome to our new Secondary 1 students and their parents, and equally, welcome back our returning students. I trust that the Nov/Dec break has been a time of rejuvenation and excitement for the learning journey that awaits us.</p><p>Reflecting on the achievements of 2023 fills me with pride and gratitude. Our Clementeens have excelled in various aspects of their learning, both in academic and non-academic pursuits, showcasing their holistic growth. It is heartening to witness the dedication and enthusiasm with which they approached challenges, contributing to the vibrant and dynamic spirit of our school community.</p><p>As we embark on this new chapter, I encourage all students to embrace and exercise greater student agency. The benefits of fostering greater learner agency are numerous. When students take an active role in their education, they become more motivated to learn for life. This sense of ownership leads to increased engagement, deeper understanding, and a genuine passion for acquiring knowledge.</p><p>Coupled with a growth mindset, which has been a cornerstone of our educational philosophy, students can achieve incredible personal and academic growth in the coming year. A growth mindset encourages resilience, perseverance, and a willingness to take on challenges as opportunities for learning and improvement.</p><p>I also want to emphasize the importance of curiosity. Cultivating a curious mindset can spark creativity and innovation. Curiosity is the driving force behind exploration, critical thinking, and a lifelong love for learning. I encourage each student to ask questions, seek answers, and explore the wonders of knowledge with a curious spirit.</p><p>As we step into this new academic year, let us continue to foster a supportive and collaborative learning environment. Our school is a community of learners, and together, we can achieve remarkable things. I am excited about the potential for growth, discovery, and success that this year holds for each and every one of our Clementeens.</p><p>Thank you.</p><p>Educating with you,</p><p>Rasidah Binte Rahim<br>Principal<br>Clementi Town Secondary School</p><p><br><br><br></p><div class="isomer-image-wrapper"><img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png"></div><p></p>
