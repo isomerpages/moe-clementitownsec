@@ -3,22 +3,14 @@ title: CCA Parents Secondary 1
 permalink: /contact-us/cca-parents/cca-parents-secondary-1/
 description: ""
 third_nav_title: CCA Parents
+variant: markdown
 ---
 LEVEL YEAR HEAD
 ---------------
 
-![](/images/teochaiyeow.jpeg)
+![](/images/Valane.jpeg)
 
-
-<p style="text-align:center;">Mr Teo Chai Yaw<br><a href="mailto:teo_chai_yaw@moe.edu.sg">teo_chai_yaw@moe.edu.sg</a></p>
-
-ASSISTANT LEVEL YEAR HEAD
----------------
-
-![](/images/Rosezalina.jpeg)
-
-Mdm Rosezalina Asmoin
-[rosezalina_asmoin@moe.edu.sg ](rosezalina_asmoin@moe.edu.sg )
+<p style="text-align:center;">Ms Valane Tnee<br><a href="mailto:teo_chai_yaw@moe.edu.sg">teo_chai_yaw@moe.edu.sg</a></p>
 
 
 CCA PARENTS
