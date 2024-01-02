@@ -3,15 +3,21 @@ title: CCA Parents Secondary 4 and 5
 permalink: /contact-us/cca-parents/cca-parents-secondary-4-n-5/
 description: ""
 third_nav_title: CCA Parents
+variant: markdown
 ---
 LEVEL YEAR HEAD
 ---------------
 
-  
+![](/images/Valane.jpeg)
 
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 667px; height: 300px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 335px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><img style="width:80%;margin: 0px; outline: 0px; padding: 0px; border: none;" alt="Mr Chia Chun Kiat.jpg" src="/images/Chia%20Chun%20Kiat.jpeg"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Year Head</b><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Mr Chia Chun Kiat</div><span style="margin: 0px; outline: 0px; padding: 0px; text-align: left; color: rgb(56, 118, 29);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px; text-align: center;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(0, 43, 121); text-decoration: underline;" target="" href="mailto:chia_chun_kiat@moe.edu.sg">chia_chun_kiat@moe.edu.sg</a></div></span></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 331px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px; text-align: left;"><img style="width:81%;margin: auto; outline: 0px; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Mdm Rosezalina.jpg" src="/images/Rosezalina.jpeg"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Assistant Year Head&nbsp;</b><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px; text-align: center;">Mdm Rosezalina</div><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(56, 118, 29);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px; text-align: center;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(0, 43, 121); text-decoration: underline;" target="" href="mailto:rosezalina_asmoin@moe.edu.sg">rosezalina_asmoin@moe.edu.sg</a></div></span></div></td></tr></tbody></table>
+<p style="text-align:center;">Ms Valane Tnee<br><a href="mailto:teo_chai_yaw@moe.edu.sg">teo_chai_yaw@moe.edu.sg</a></p>
 
-  
+ASSISTANT YEAR HEAD
+---------------
+
+![](/images/mr%20tan%20ming%20hon%20kenneth.jpeg)
+
+<p style="text-align:center;">Mr Tan Ming Hon Kenneth<br><a href="mailto:tan_ming_hon@moe.edu.sg">tan_ming_hon@moe.edu.sg</a></p>
   
   
 
