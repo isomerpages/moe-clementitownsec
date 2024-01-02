@@ -10,7 +10,7 @@ LEVEL YEAR HEAD
 
 ![](/images/Valane.jpeg)
 
-<p style="text-align:center;">Ms Valane Tnee<br><a href="mailto:teo_chai_yaw@moe.edu.sg">teo_chai_yaw@moe.edu.sg</a></p>
+<p style="text-align:center;">Ms Valane Tnee<br><a href="mailto:tnee_li_ling_valane@moe.edu.sg">tnee_li_ling_valane@moe.edu.sg</a></p>
 
 ASSISTANT YEAR HEAD
 ---------------
