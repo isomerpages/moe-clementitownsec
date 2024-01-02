@@ -18,7 +18,7 @@ ASSISTANT YEAR HEAD
 
 ![](/images/mdm%20rosezalina%20bte%20asmoin2.jpeg)
 
-<p style="text-align:center;">Mdm Rosezalina Bte Asmoin<br><a href="rosezalina_asmoin@moe.edu.sg">teo_chai_yaw@moe.edu.sg</a></p>
+<p style="text-align:center;">Mdm Rosezalina Bte Asmoin<br><a href="rosezalina_asmoin@moe.edu.sg">rosezalina_asmoin@moe.edu.sg</a></p>
 
 CCA PARENTS
 -----------
