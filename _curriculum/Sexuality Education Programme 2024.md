@@ -1,7 +1,8 @@
 ---
-title: Sexuality Education Programme 2023
-permalink: /curriculum/sexuality-education-programme-2023/
+title: Sexuality Education Programme 2024
+permalink: /curriculum/sexuality-education-programme-2024/
 description: ""
+variant: tiptap
 ---
 **MOE SEXUALITY EDUCATION IN SCHOOLS**
 
