@@ -5,18 +5,4 @@ description: ""
 third_nav_title: Outstanding Clementeens
 variant: tiptap
 ---
-Lee Jia Ying
-
-Class 5B2
-
-<img style="width:40%;height:40%" src="/images/Outstanding%20Clementeens/A1.jpg">
-
-<br><br><br>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+<p><strong>Anselmo Klement Chua</strong> </p><p><strong>Secondary 4 Badminton 2022</strong></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/LKY_Award.bmp"></div><p></p><p>We are pleased and proud to announce that Anselmo Klement Chua (Sec 4 Badminton 2022) is awarded the Lee Kuan Yew Award for Mathematics and Science (LKY-M&amp;S) 2023.</p><p>The Lee Kuan Yew Award for Mathematics and Science was first presented in 1992. It is an annual award to recognise and promote passion and academic excellence in Mathematics and Science.</p><p>Klement is very deserving of this award. Throughout his time in CTSS, he was consistently excited and engaged, and made time and effort to ensure that he constantly added value to the teams he worked with. His strong desire to succeed and his dedication and commitment to everything he did, inspires his peers and juniors.</p><p>While we are very proud of his achievements in the fields of Mathematics and Science, Klement stands out because he is always humble and enthusiastic to help those around him to improve. He continues to inspire his juniors and encourage their hearts by actively volunteering to mentor his juniors in the Science-in-Action: Science Research Mentorship Programme. We are very grateful and appreciative of this.</p><p>We wish Klement all the very best in all his future endeavours and we are excited for what is to come for him!</p><p><br><br></p><div class="isomer-image-wrapper"><img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png"></div><p></p>
