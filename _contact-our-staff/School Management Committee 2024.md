@@ -58,11 +58,6 @@ Mdm&nbsp;Ee Wen Lin, Sandy
 Mr Tan Liang Hooi  
 [tan\_liang\_hooi@moe.edu.sg](mailto:tan_liang_hooi@moe.edu.sg)
 
-**HOD /**&nbsp;**Mathematics**
-
-![](/images/mr%20phua%20chwee%20ghua.jpeg)
-Mr Phua Chwee Ghua Richard  
-[phua\_chwee\_ghua@moe.edu.sg](mailto:phua_chwee_ghua@moe.edu.sg)
 
 **HOD /**&nbsp;**Mother Tongue Languages**
 
@@ -94,7 +89,14 @@ Mr&nbsp;Chng Chia Yi
 Ms&nbsp;Siti Nurwati Dalduri  
 [siti\_nurwati\_dalduri@moe.edu.sg](mailto:siti_nurwati_dalduri@moe.edu.sg)
 
-**Year Head (Upper Secondary)**
+
+**Year Head (Secondary 1, 4 &amp; 5) &nbsp;and SEN OiC**
+
+![](/images/Valane%20Passport%20Photo%202.jpeg)
+Ms Tnee Li Ling, Valane  
+[tnee\_li\_ling\_valane@moe.edu.sg](mailto:tnee_li_ling_valane@moe.edu.sg)
+
+**Year Head (Secondary 2 and 3)**
 
 <img style="width:100%" src="/images/teochaiyeow.jpeg">
 Mr Teo Chai Yaw 
@@ -102,12 +104,6 @@ Mr Teo Chai Yaw
 [teo_chai_yaw@moe.edu.sg](mailto:teo_chai_yaw@moe.edu.sg)
 
 
-
-**Year Head (Lower Secondary) &nbsp;and SEN OiC**
-
-![](/images/Valane%20Passport%20Photo%202.jpeg)
-Ms Tnee Li Ling, Valane  
-[tnee\_li\_ling\_valane@moe.edu.sg](mailto:tnee_li_ling_valane@moe.edu.sg)
 
 
 ASSISTANT YEAR HEADS AND SUBJECT HEADS
