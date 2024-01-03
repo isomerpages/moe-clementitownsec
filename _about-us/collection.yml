@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Motto, Vision, Mission & Values.md
+      - Motto, Vision, Mission & Values 2024.md
       - Principal's Message.md
       - School History.md
       - School Song.md
@@ -10,15 +10,14 @@ collections:
       - CTSS Calendar 2024.md
       - School Brochure.md
       - CTSS Biennial School Magazine 2021 2022.md
+      - School Wide Achievements/2023 National Public Speaking Competition.md
       - School Wide Achievements/.keep
-      - School Wide Achievements/School Wide Achievements.md
       - School Wide Achievements/Lee Kuan Yew Award for All Round Excellence
         2016.md
       - School Wide Achievements/Lee Hsein Loong Award for Innovations in Normal
         Course (2009 & 2015).md
       - School Wide Achievements/Mathematics W1COL.md
       - School Wide Achievements/Reading Excellence Award.md
-      - School Wide Achievements/2017 National Public Speaking Competition.md
       - School Wide Achievements/2nd Prize received by Darren and Si Min for the
         ASEAN Students Science Project Competition 2018.md
       - School Wide Achievements/Gold Award in 6th Singapore International Band
@@ -32,9 +31,9 @@ collections:
       - School Wide Achievements/Outstanding Achievements in the Singapore Youth
         Festival 2021.md
       - Outstanding Clementeens/.keep
+      - Outstanding Clementeens/Lee Kuan Yew Award for Mathematics and Science
+        2023.md
       - Outstanding Clementeens/Outstanding Clementeens.md
-      - Outstanding Clementeens/Lee Kuan Yew Award For All Round Excellence
-        2016.md
       - Outstanding Clementeens/Outstanding Alumni.md
       - Outstanding Clementeens/Singapore Science and Engineering Fair 2022.md
       - Outstanding Clementeens/NSF of the year 2019.md

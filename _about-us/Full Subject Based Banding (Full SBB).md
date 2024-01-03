@@ -2,6 +2,7 @@
 title: Full Subject Based Banding (Full SBB)
 permalink: /about-us/full-subject-based-banding-full-sbb/
 description: ""
+variant: markdown
 ---
 Clementi Town Secondary School is one of the 28 secondary schools selected by the Ministry of Education to start piloting aspects of Full Subject-Based Banding (Full SBB) from 2020 onwards.
 
@@ -26,12 +27,12 @@ Offering of Humanities subjects at a more demanding level from Secondary 2.
   
 The following video illustrates our school’s implementation of Full SBB.
 
-***video to be uploaded to YouTube and embedded here!***
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BgMhCzrV4hU?si=DE0wzGFf1gHsb_tK" height="315" width="560"></iframe>
 
 Our students belong to form classes based on their CCAs. Their CCA-Parents (i.e. CCA Teachers) oversee their attendance, total well-being and development, during both curriculum hours and CCA. This arrangement is intended to encourage students from the same CCA to mingle and build friendships during and after school, regardless of their academic stream, and to create more opportunities for seniors to lead their juniors.  
   
 
-In addition, students belong to one of four Houses depending on their CCAs. Each House comprises five CCAs, with at least one Performing Arts CCA, one Sports CCA, and one Uniformed Group CCA. Students attend lessons for common curriculum subjects in mixed-stream classes with peers from the same House. The common curriculum subjects are: Citizenship and Character Education, Physical Education, Design & Technology, Food & Consumer Education, Art, and Music. For the other subjects (such as English, Mathematics, Science, Mother Tongue Language, Humanities), students are allocated classes depending on whether they are offered the subject at Express, N(A) or N(T) level.
+In addition, students belong to one of four Houses depending on their CCAs. Each House comprises five CCAs, with at least one Performing Arts CCA, one Sports CCA, and one Uniformed Group CCA. Students attend lessons for common curriculum subjects in mixed-stream classes with peers from the same House. The common curriculum subjects are: Citizenship and Character Education, Physical Education, Design &amp; Technology, Food &amp; Consumer Education, Art, and Music. For the other subjects (such as English, Mathematics, Science, Mother Tongue Language, Humanities), students are allocated classes depending on whether they are offered the subject at Express, N(A) or N(T) level.
 
   
 
@@ -50,6 +51,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">

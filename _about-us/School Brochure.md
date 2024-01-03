@@ -2,8 +2,11 @@
 title: School Brochure
 permalink: /about-us/school-brochure/
 description: ""
+variant: markdown
 ---
-Please click on this&nbsp;[link](/files/2020%20school%20brochure_compressed.pdf)&nbsp;to view our School Brochure. Thank you.
+Please click on this&nbsp;[link](https://drive.google.com/file/d/1WVT29w_Q2RBvBstKMRJxLsKGHTUfHVDu/view?usp=drive_link)&nbsp;to view our School Brochure. Thank you.
+
+
 
 <br>
 <br>
