@@ -2,11 +2,12 @@
 title: Motto, Vision, Mission & Values
 permalink: /about-us/motto-vision-mission-n-values/
 description: ""
+variant: markdown
 ---
 ##### **SCHOOL MOTTO**
 
 
-Aspire & Grow  
+Aspire &amp; Grow  
   
 
 ##### **SCHOOL VISION**
@@ -40,11 +41,11 @@ To develop in every Clementeen the passion to learn, the confidence to lead and 
 ##### **STRATEGIC THRUSTS**
 
 
-1\. Future-Ready Clementeens  
+1\. Passionate Lifelong Learners
 
-2\. Strategic and Sustained Partnerships
+2\. Confident and Ethical Leaders for Tomorrow
 
-3\. A Passionate, Innovative, and Engaged Team
+3\. Dynamic and Nurturing Staff
 
 <br>
 <br>
@@ -57,6 +58,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
