@@ -13,13 +13,13 @@ Aspire &amp; Grow
 ##### **SCHOOL VISION**
 
 
-To be a vibrant community of learners, with the heart to value every individual and the spirit to serve and to excel.  
+Being a **vibrant community of learners, with the heart to value every individual** and the **spirit to serve and to excel**.  
   
 
 ##### **SCHOOL MISSION**
 
 
-To develop in every Clementeen the passion to learn, the confidence to lead and the humility to serve.  
+To develop in every Clementeen the **passion to learn**, the **confidence to lead** and the **humility to serve**.  
   
 
 ##### **SCHOOL VALUES**
