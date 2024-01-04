@@ -2,21 +2,27 @@
 title: Assessment
 permalink: /curriculum/assessment/
 description: ""
+variant: markdown
 ---
-From 2023, the school will remove Mid-Year Examinations (MYE) which is in line with Ministry of Education’s direction to reduce high-stakes testing and free up curriculum time to foster deeper and more engaged learning. Student learning is assessed through a variety of Weighted Assessments (WA) conducted in the course of the year, before they sit for the End-of-Year Examinations (EYE).
+Since 2023, the school had removed Mid-Year Examinations (MYE) for all levels, which is in line with Ministry of Education’s direction to pace out teaching and learning and free up curriculum time to foster greater joy of learning.
 
-  
+**Secondary 1 to 3 Weighted Assessment**
 
-The WA can take the form of class tests, projects, oral presentations, coursework, performance tasks, practical tests, etc. In order to manage the assessment load for students and to optimise their learning, the school also has a policy of&nbsp;<u>no more than</u>:
+Students will receive feedback on their learning through a variety of Weighted Assessments (WA) conducted in the course of the year, before they sit for the End-of-Year Examinations (EYE). The WA can take the form of class tests, projects, oral presentations, coursework, performance tasks, practical tests, etc. In order to manage the assessment load for students and to optimise their learning, the school has the following guidelines:
 
-*   1 WA per subject per term,  
-    
-*   3 WA in any given week, and  
-    
-*   2 WA in any given day.  
-    
+**Secondary 1 and 2**
 
-  
+* 1 WA per subject per term,
+* Up to 3 WAs in any given week 
+* Up to 2 WAs on any given day  
+
+**Secondary 3**
+* 1 WA per subject per term,
+* Up to 4 WAs in any given week 
+* Up to 3 WAs on any given day  
+
+A week-level schedule of WAs for the various terms will be provided in a separate notification through Parent Gateway.
+
 
 **Assessment Weighting Plan**
 
