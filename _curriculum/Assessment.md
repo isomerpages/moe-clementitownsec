@@ -103,7 +103,6 @@ Students will receive feedback on their learning through a variety of Weighted A
 </table>
 
 Note that:
-
 WA1 and WA2 are in Term 1, SA1 is in Term 2
 
 **Lower Sec Modular Subjects in Semester 2 (_i.e. Sec 1 Food and Consumer Education, and Sec 2 Design &amp; Technology)**
@@ -141,9 +140,16 @@ WA1 and WA2 are in Term 1, SA1 is in Term 2
 </table>
 
 Note that:
-
 WA3 and WA4 are in Term 3, SA2 is in Term 4.
 
-**<u>Sec 4 and 5</u>**
+**Secondary 4 and 5 Assessment Checkpoints**
 
-**For Sec 4 and 5 students**, the Preliminary Examinations will account for 100% of the Overall Results in school-based assessments.
+Students will receive feedback on their learning through a variety of Assessment Checkpoints (AC) conducted in the course of the year, before they sit for their Preliminary Examinations.
+
+ACs are bite-sized assessments which can take the form of written or practical tests, coursework components and performance tasks. To ensure the assessment load is manageable for the individual student, the school has a policy of: 
+
+* 1 AC per subject per term, 
+* Up to 4 ACs in any given week, and 
+* Up to 3 ACs on any given day. 
+
+AC1 and 2 will be in Term 1 and 2 respectively. The Preliminary Examinations will account for 100% of the Overall Results in school-based assessments.
