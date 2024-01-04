@@ -28,7 +28,7 @@ A week-level schedule of WAs for the various terms will be provided in a separat
 
 An Assessment Weighting Plan summarises the weightage contributed by each WA and EYE towards the Overall Results of students.&nbsp;<u>A student’s promotion to the next level is based on his/her Overall Results</u>.
 
-**<u>Sec 1, 2 and 3 Non-Modular Subjects</u>**
+**<u>Sec 1 to 3 Non-Modular Subjects</u>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -64,10 +64,15 @@ An Assessment Weighting Plan summarises the weightage contributed by each WA and
 
 Note that:
 
-1.  WA1, WA2, WA3 and WA4 represent the WA in Term 1, 2, 3 and 4 respectively.
+1.  WA1, WA2 and WA3 represent the WA in Term 1, 2 and 3 respectively. EYE is in Term 4.
 2.  For Sec 3 Design &amp; Technology, the EYE constitutes 100% of the Overall Results. Teachers will monitor students’ progress closely and provide feedback to parents.
 
-**<u>Lower Sec Modular Subjects in Semester 1 (_i.e. Sec 1 Design &amp; Technology and Sec 2 Food and Consumer Education_)</u>**
+**Secondary 1 and 2 Modular Subjects**
+
+Students will receive feedback on their learning through a variety of Weighted Assessments (WA) conducted in the course of the year, before they sit for the Semestral Assessments (SA). 
+
+
+**Lower Sec Modular Subjects in Semester 1 (_i.e. Sec 1 Design &amp; Technology and Sec 2 Food and Consumer Education_)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -97,7 +102,11 @@ Note that:
 </tbody>
 </table>
 
-**<u>Lower Sec Modular Subjects in Semester 2 (_i.e. Sec 1 Food and Consumer Education, and Sec 2 Design &amp; Technology_)</u>**
+Note that:
+
+WA1 and WA2 are in Term 1, SA1 is in Term 2
+
+**Lower Sec Modular Subjects in Semester 2 (_i.e. Sec 1 Food and Consumer Education, and Sec 2 Design &amp; Technology)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -130,6 +139,10 @@ Note that:
   </tr>
 </tbody>
 </table>
+
+Note that:
+
+WA3 and WA4 are in Term 3, SA2 is in Term 4.
 
 **<u>Sec 4 and 5</u>**
 
