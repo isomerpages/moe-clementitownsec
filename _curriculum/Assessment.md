@@ -2,27 +2,33 @@
 title: Assessment
 permalink: /curriculum/assessment/
 description: ""
+variant: markdown
 ---
-From 2023, the school will remove Mid-Year Examinations (MYE) which is in line with Ministry of Education’s direction to reduce high-stakes testing and free up curriculum time to foster deeper and more engaged learning. Student learning is assessed through a variety of Weighted Assessments (WA) conducted in the course of the year, before they sit for the End-of-Year Examinations (EYE).
+Since 2023, the school had removed Mid-Year Examinations (MYE) for all levels, which is in line with Ministry of Education’s direction to pace out teaching and learning and free up curriculum time to foster greater joy of learning.
 
-  
+**Secondary 1 to 3 Weighted Assessment**
 
-The WA can take the form of class tests, projects, oral presentations, coursework, performance tasks, practical tests, etc. In order to manage the assessment load for students and to optimise their learning, the school also has a policy of&nbsp;<u>no more than</u>:
+Students will receive feedback on their learning through a variety of Weighted Assessments (WA) conducted in the course of the year, before they sit for the End-of-Year Examinations (EYE). The WA can take the form of class tests, projects, oral presentations, coursework, performance tasks, practical tests, etc. In order to manage the assessment load for students and to optimise their learning, the school has the following guidelines:
 
-*   1 WA per subject per term,  
-    
-*   3 WA in any given week, and  
-    
-*   2 WA in any given day.  
-    
+**Secondary 1 and 2**
 
-  
+* 1 WA per subject per term,
+* Up to 3 WAs in any given week 
+* Up to 2 WAs on any given day  
+
+**Secondary 3**
+* 1 WA per subject per term,
+* Up to 4 WAs in any given week 
+* Up to 3 WAs on any given day  
+
+A week-level schedule of WAs for the various terms will be provided in a separate notification through Parent Gateway.
+
 
 **Assessment Weighting Plan**
 
 An Assessment Weighting Plan summarises the weightage contributed by each WA and EYE towards the Overall Results of students.&nbsp;<u>A student’s promotion to the next level is based on his/her Overall Results</u>.
 
-**<u>Sec 1, 2 and 3 Non-Modular Subjects</u>**
+**<u>Sec 1 to 3 Non-Modular Subjects</u>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -58,10 +64,15 @@ An Assessment Weighting Plan summarises the weightage contributed by each WA and
 
 Note that:
 
-1.  WA1, WA2, WA3 and WA4 represent the WA in Term 1, 2, 3 and 4 respectively.
+1.  WA1, WA2 and WA3 represent the WA in Term 1, 2 and 3 respectively. EYE is in Term 4.
 2.  For Sec 3 Design &amp; Technology, the EYE constitutes 100% of the Overall Results. Teachers will monitor students’ progress closely and provide feedback to parents.
 
-**<u>Lower Sec Modular Subjects in Semester 1 (_i.e. Sec 1 Design &amp; Technology and Sec 2 Food and Consumer Education_)</u>**
+**Secondary 1 and 2 Modular Subjects**
+
+Students will receive feedback on their learning through a variety of Weighted Assessments (WA) conducted in the course of the year, before they sit for the Semestral Assessments (SA). 
+
+
+**Lower Sec Modular Subjects in Semester 1 (_i.e. Sec 1 Design &amp; Technology and Sec 2 Food and Consumer Education_)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -91,7 +102,10 @@ Note that:
 </tbody>
 </table>
 
-**<u>Lower Sec Modular Subjects in Semester 2 (_i.e. Sec 1 Food and Consumer Education, and Sec 2 Design &amp; Technology_)</u>**
+Note that:
+WA1 and WA2 are in Term 1, SA1 is in Term 2
+
+**Lower Sec Modular Subjects in Semester 2 (_i.e. Sec 1 Food and Consumer Education, and Sec 2 Design &amp; Technology)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -125,6 +139,17 @@ Note that:
 </tbody>
 </table>
 
-**<u>Sec 4 and 5</u>**
+Note that:
+WA3 and WA4 are in Term 3, SA2 is in Term 4.
 
-**For Sec 4 and 5 students**, the Preliminary Examinations will account for 100% of the Overall Results in school-based assessments.
+**Secondary 4 and 5 Assessment Checkpoints**
+
+Students will receive feedback on their learning through a variety of Assessment Checkpoints (AC) conducted in the course of the year, before they sit for their Preliminary Examinations.
+
+ACs are bite-sized assessments which can take the form of written or practical tests, coursework components and performance tasks. To ensure the assessment load is manageable for the individual student, the school has a policy of: 
+
+* 1 AC per subject per term, 
+* Up to 4 ACs in any given week, and 
+* Up to 3 ACs on any given day. 
+
+AC1 and 2 will be in Term 1 and 2 respectively. The Preliminary Examinations will account for 100% of the Overall Results in school-based assessments.
