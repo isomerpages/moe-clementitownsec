@@ -21,8 +21,15 @@ sections:
         - title: Students
           description: ""
           url: /students
+  - infobar:
+      title: Release of 2023 GCE O-Level Examination Results
+      subtitle: 11 January 2024, 2.00pm
+      id: infobar
+      description: The 2023 GCE O-Level Examination Results would be released on 11
+        January 2024 at 2 pm at the school hall. Please be attired in your full
+        CTSS school uniform.
   - infopic:
-      title: "CTSS Secondary 1 Registration "
+      title: CTSS Secondary 1 Registration
       subtitle: Aspire and Grow with us!
       id: infopic
       description: 22 December 2023
