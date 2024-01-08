@@ -36,71 +36,72 @@ Mr Chan Siew Kwai  <br>
 
 <img style="width:35%" src="/images/Mdm%20Chen%20Liping.jpeg">
 
-Mdm Chen Liping  
-[chen\_liping@moe.edu.sg](mailto:chen_liping@moe.edu.sg)
+Mdm Chen Liping <br>
+	<a href="chen_liping@moe.edu.sg">chen_liping@moe.edu.sg</a> 
+
 
 <img style="width:35%" src="/images/Mrs%20Cheong%20Poh%20Suan.jpeg">
+Mrs Cheong Poh Suan <br>
+<a href="soh_poh_suan@moe.edu.sg">soh_poh_suan@moe.edu.sg</a> 
 
-Mrs Cheong Poh Suan   
-[soh\_poh\_suan@moe.edu.sg](mailto:soh_poh_suan@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mr%20Chia%20Chun%20Keong.jpeg">
 
-Mr Chia Chun Keong  
-[chia\_chun\_keong@moe.edu.sg](mailto:chia_chun_keong@moe.edu.sg)
-
+Mr Chia Chun Keong  <br>
+	<a href="chia_chun_keongn@moe.edu.sg">chia_chun_keongn@moe.edu.sg</a> 
 
 
 <img style="width:35%" src="/images/Mr%20Chidambaram%20Saravanan.jpeg">
-
 Mr Chidambaram Saravanan <br>
-[chidambaram\_saravanan@moe.edu.sg](mailto:chidambaram_saravanan@moe.edu.sg)
+		<a href="chidambaram_saravanan@moe.edu.sg">chidambaram_saravanann@moe.edu.sg</a> 
+
 
 <img style="width:35%" src="/images/Mrs%20Chin%20Leong%20Hwai%20Ee%20Stella.jpeg">
 
 Mrs Chin-Leong Hwai Ee, Stella <br>
-[leong\_hwai\_ee\_stella@moe.edu.sg](mailto:leong_hwai_ee_stella@moe.edu.sg)
+	<a href="leong_hwai_ee_stella@moe.edu.sg">leong_hwai_ee_stella@moe.edu.sg</a> 
+
 
 <img style="width:35%" src="/images/mr%20chng%20chia%20yii.jpeg">
+Mr&nbsp;Chng Chia Yi    <br>
+	<a href="chng_chia_yi@moe.edu.sg">chng_chia_yi@moe.edu.sg</a> 
 
-Mr&nbsp;Chng Chia Yi    
-[chng\_chia\_yi@moe.edu.sg](mailto:chng_chia_yi@moe.edu.sg)
 	
 	
 <img style="width:35%" src="/images/ChuaKengYeow1.jpg">
 
 Mr Chua Keng Yeow   <br>
-[chua_keng_yeow@moe.edu.sg](mailto:chua_keng_yeow@moe.edu.sg)
+<a href="chua_keng_yeow@moe.edu.sg">chua_keng_yeow@moe.edu.sg</a> 
+
 
 <img style="width:35%" src="/images/Mrs%20Chua%20Teng%20May%20Hwee%20Teresa.jpeg">
-
 Mrs Chua-Teng May Hwee Teresa<br>
-[teng\_may\_hwee\_teresa@moe.edu.sg](mailto:teng_may_hwee_teresa@moe.edu.sg)
+<a href="teng_may_hwee_teresa@moe.edu.sg">teng_may_hwee_teresa@moe.edu.sg</a> 	
 
 <img style="width:35%" src="/images/ms%20sandy%20ee.jpeg">
-
 Ms Ee Wen Lin, Sandy <br>
-[ee\_wen\_lin\_sandy@moe.edu.sg](mailto:ee_wen_lin_sandy@moe.edu.sg)
+<a href="ee_wen_lin_sandy@moe.edu.sg">ee_wen_lin_sandy@moe.edu.sg</a> 	
 
 <img style="width:35%" src="/images/Ms%20Eng%20Chia%20Lee.jpeg">
+Ms Eng Chia Lee   <br>
+<a href="eng_chia_lee@moe.edu.sg">eng_chia_lee@moe.edu.sg</a> 	
 
-Ms Eng Chia Lee    
-[eng\_chia\_lee@moe.edu.sg](mailto:eng_chia_lee@moe.edu.sg)
 
 <img style="width:35%" src="/images/mr%20ethan%20tan.jpeg">
-	
-Mr Ethan Tan  <br>
-[ethan_tan@moe.edu.sg](mailto:ethan_tan@moe.edu.sg)
+	Mr Ethan Tan  <br>
+<a href="[ethan_tan@moe.edu.sg">[ethan_tan@moe.edu.sg</a> 	
+
 	
 <img style="width:35%" src="/images/FuRong2.jpg">
-
 Ms Fu Rong   <br>
-[fu_rong@moe.edu.sg](mailto:fu_rong@moe.edu.sg)
+<a href="fu_rong@moe.edu.sg">fu_rong@moe.edu.sg</a> 	
+
 	
 <img style="width:35%" src="/images/Ms%20Hamizah%20Begum%20Bte%20Md%20Hanif.jpeg">
 
-Ms Hamizah Begum Bte Md Hanif 
-[hamizah\_begum\_mohd\_hanif@moe.edu.sg](mailto:hamizah_begum_mohd_hanif@moe.edu.sg)
+Ms Hamizah Begum Bte Md Hanif <br>
+<a href="hamizah_begum_mohd_hanif@moe.edu.sg">hamizah_begum_mohd_hanif@moe.edu.sg</a> 		
+
 
 <img style="width:35%" src="/images/Ms%20He%20Meiyu.jpeg">
 
