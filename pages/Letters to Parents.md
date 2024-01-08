@@ -10,7 +10,7 @@ variant: markdown
 *  [5 Jan 2024 - Principal's Termly Letter to Parents (Term 1) for Secondary 1](/files/Ps_letter__Term_1__2024_Sec_1.pdf)
 ### Secondary 2
 
-* 
+* [5 Jan 2024 - Principal's Termly Letter to Parents (Term 1) for Secondary 2](/files/Ps_letter__Term_1__2024__Sec_2.pdf)
 
 ### Secondary 3
 
