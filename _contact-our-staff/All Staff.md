@@ -105,8 +105,9 @@ Ms Hamizah Begum Bte Md Hanif <br>
 
 <img style="width:35%" src="/images/Ms%20He%20Meiyu.jpeg">
 
-Ms He Meiyu   
-[he\_meiyu@moe.edu.sg](mailto:he_meiyu@moe.edu.sg)
+Ms He Meiyu  <br>
+<a href="[he_meiyu@moe.edu.sg">he_meiyu@moe.edu.sg</a> 		
+
 
 <img style="width:35%" src="/images/Ms%20Heng%20Hui%20Zhen.jpeg">
 
