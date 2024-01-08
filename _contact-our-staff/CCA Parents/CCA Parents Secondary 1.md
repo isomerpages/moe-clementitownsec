@@ -15,7 +15,7 @@ LEVEL YEAR HEAD
 
 CCA PARENTS
 -----------
-![](/images/Sec_1_CCAPs_2024.jpg)
+![](/images/Sec_1_CCAPs_2024_b.jpg)
 
 
 <br>

@@ -22,11 +22,6 @@ variant: markdown
 	
 [tan\_jia\_jie@moe.edu.sg](mailto:tan\_jia\_jie@moe.edu.sg)
 
-<img style="width:35%" src="/images/Mdm%20Ang%20Choon%20Keow.jpeg">
-
-Mdm Ang Choon Keow <br> [ang\_choon\_keow@moe.edu.sg](mailto:ang_choon_keow@moe.edu.sg)
-
-
 <img style="width:35%" src="/images/mr%20chan%20bin%20chuan.jpeg">
 
 Mr&nbsp;Chan Bin Chuan                          
@@ -75,7 +70,13 @@ Mrs Chin-Leong Hwai Ee, Stella <br>
 
 Mr&nbsp;Chng Chia Yi    
 [chng\_chia\_yi@moe.edu.sg](mailto:chng_chia_yi@moe.edu.sg)
+	
+	
+<img style="width:35%" src="/images/ChuaKengYeow1.jpg">
 
+
+Mr Chua Keng Yeow   <br>
+[chua_keng_yeow@moe.edu.sg](mailto:chua_keng_yeow@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mrs%20Chua%20Teng%20May%20Hwee%20Teresa.jpeg">
 
@@ -92,6 +93,16 @@ Ms Ee Wen Lin, Sandy <br>
 Ms Eng Chia Lee    
 [eng\_chia\_lee@moe.edu.sg](mailto:eng_chia_lee@moe.edu.sg)
 
+<img style="width:35%" src="/images/mr%20ethan%20tan.jpeg">
+	
+Mr Ethan Tan  <br>
+[ethan_tan@moe.edu.sg](mailto:ethan_tan@moe.edu.sg)
+	
+<img style="width:35%" src="/images/FuRong2.jpg">
+
+Ms Fu Rong   <br>
+[fu_rong@moe.edu.sg](mailto:fu_rong@moe.edu.sg)
+	
 <img style="width:35%" src="/images/Ms%20Hamizah%20Begum%20Bte%20Md%20Hanif.jpeg">
 
 Ms Hamizah Begum Bte Md Hanif 
@@ -171,10 +182,6 @@ Mr Lim Liangcai, Jeremy <br>
 Mrs Lim Lye Sim  <br>
 [ng_lye_sim@moe.edu.sg](mailto:ng_lye_sim@moe.edu.sg)
  
-<img style="width:35%" src="/images/ms%20lim%20tze%20min%20joyce_1.jpeg">
-
-Ms Lim Tze Min Joyce <br>
-[lim_tze_min@moe.edu.sg](mailto:lim_tze_min@moe.edu.sg)
 
 
 <img style="width:35%" src="/images/Mrs%20Lim%20Quek%20Chwee%20Tiang%20Linda.jpeg">
@@ -186,7 +193,7 @@ Mrs Lim-Quek Chwee Tiang, Linda <br>
 
 
 Ms Loh Wan Ting <br>
-[loh_wan_ting@moe.edu.sg](mailto:low_liqing@moe.edu.sg)
+[loh_wan_ting@moe.edu.sg](mailto:low_wan_ting@moe.edu.sg)
 	
 <img style="width:35%" src="/images/Ms%20Low%20Li%20Qing.jpg">
 
@@ -221,10 +228,6 @@ Mr Ng Loong Kin, Alvin <br>
 Mrs Peh-Yeo Hwee Ching Magdalene <br>
 [yeo_hwee_ching_magdalene@moe.edu.sg](mailto:yeo_hwee_ching_magdalene@moe.edu.sg)
 
-<img style="width:35%" src="/images/mr%20phua%20chwee%20ghua.jpeg">
-
-Mr Phua Chwee Ghua <br>
-[phua_chwee_ghua@moe.edu.sg](mailto:phua_chwee_ghua@moe.edu.sg) 
 
 <img style="width:35%" src="/images/Mdm%20Rajamanickam.jpeg">
 
@@ -323,10 +326,6 @@ Mr Tan Jit Jin <br>
 Mdm Tan Kay Shin <br>
 [tan_kay_shin@moe.edu.sg](mailto:tan_kay_shin@moe.edu.sg)
 
-<img style="width:35%" src="/images/Mr%20Tan%20Kiang%20Chye.jpeg">
-
-Mr Tan Kiang Chye <br>
-[tan_kiang_chye@moe.edu.sg](mailto:tan_kiang_chye@moe.edu.sg)
 
 
 <img style="width:35%" src="/images/Mr%20Tan%20Liang%20Hooi.jpeg">
@@ -354,10 +353,6 @@ Mr Tan Ser Yong, Philip <br>
 Mrs Tan-Wong Siew Har, Winnie <br>
 [wong_siew_har_winnie@moe.edu.sg](mailto:wong_siew_har_winnie@moe.edu.sg)
 
-<img style="width:35%" src="/images/Timothy.jpeg">
-
-Mr Tang Xu Yang Timothy <br>
-[tang_xu_yang_timothy@moe.edu.sg](mailto:tang_xu_yang_timothy@moe.edu.sg)
 
 <img style="width:35%" src="/images/Mrs%20Tan%20Wen%20Yi.jpeg">
 
