@@ -331,53 +331,51 @@ Mr Tan Teck Soon <br>
 
 <img style="width:35%" src="/images/Mr%20Tan%20Ser%20Yong.jpeg">
 Mr Tan Ser Yong, Philip <br>
-[tan_ser_yong_philip@moe.edu.sg](mailto:tan_ser_yong_philip@moe.edu.sg)
+	<a href="tan_ser_yong_philipn@moe.edu.sg">tan_ser_yong_philip@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Mrs%20Tan%20Wong%20Siew%20Har.jpeg">
 
 Mrs Tan-Wong Siew Har, Winnie <br>
-[wong_siew_har_winnie@moe.edu.sg](mailto:wong_siew_har_winnie@moe.edu.sg)
+	<a href="wong_siew_har_winnie@moe.edu.sg">wong_siew_har_winnie@moe.edu.sg</a>
 
 
 <img style="width:35%" src="/images/Mrs%20Tan%20Wen%20Yi.jpeg">
-
 Mrs Tan Wen Yi <br>
-[tan_wen_yi@moe.edu.sg](mailto:tan_wen_yi@moe.edu.sg)
+	<a href="tan_wen_yi@moe.edu.sg">tan_wen_yi@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg">
-
 Mrs Teng-Tay Soo Chin, Emmeline <br>
-[tay_soo_chin_emmeline@moe.edu.sg](mailto:tay_soo_chin_emmeline@moe.edu.sg)
+	<a href="tay_soo_chin_emmeline@moe.edu.sg">tay_soo_chin_emmeline@moe.edu.sg</a>
 
-<img style="width:35%" src="/images/Ms%20Teo%20Li%20Yin.jpeg">
-
-Ms Teo Li Yin <br>
-[teo_li_yin@moe.edu.sg](mailto:teo_li_yin@moe.edu.sg)
 
 <img style="width:35%" src="/images/teochaiyeow.jpeg">
-
 Mr Teo Chai Yaw <br>
-[teo_chai_yaw@moe.edu.sg](mailto:teo_chai_yaw@moe.edu.sg)
+	<a href="teo_chai_yaw@moe.edu.sg">teo_chai_yaw@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Ms%20Teo%20Wei%20Na.jpeg">
-
 Ms Teo Wei Na <br>
-[teo_wei_na@moe.edu.sg](mailto:teo_wei_na@moe.edu.sg)
+	<a href="teo_wei_na@moe.edu.sg">teo_wei_na@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/mr%20thomas%20law%20choon%20ting.jpeg">
 
 Mr Thomas Law <br>
-[law_choon_ting_thomas@moe.edu.sg](mailto:law_choon_ting_thomas@moe.edu.sg) 
+	<a href="law_choon_ting_thomas@moe.edu.sg">law_choon_ting_thomas@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Valane%20Passport%20Photo%202.jpeg">
 
 Ms Tnee Li Ling, Valane <br>
-[tnee_li_ling_valane@moe.edu.sg](mailto:tnee_li_ling_valane@moe.edu.sg)
+	<a href="tnee_li_ling_valane@moe.edu.sg">tnee_li_ling_valane@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/tracy_tey.jpeg">
 Ms Tracy Tey <br>
-	
-[tracy_tey_pin_pin@moe.edu.sg](mailto:tracy_tey_pin_pin@moe.edu.sg)
+		<a href="tracy_tey_pin_pin@moe.edu.sg">tracy_tey_pin_pin@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Ms%20Wee%20Ni%20Swen.jpg">
 
