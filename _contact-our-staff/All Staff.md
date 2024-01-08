@@ -286,54 +286,50 @@ Ms Syafiqah Binte Zaini <br>
 
 
 <img style="width:35%" src="/images/Mr%20Tan%20Chor%20Seng.jpg">
-
 Mr Tan Chor Seng <br>
-[tan_chor_seng_a@moe.edu.sg](mailto:tan_chor_seng_a@moe.edu.sg)
+		<a href="tan_chor_seng_a@moe.edu.sg">tan_chor_seng_a@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Ms%20Joycelyn.jpeg">
-
 Ms Tan E-Fung, Joycelyn <br>
-[tan_e_fung_joycelyn@moe.edu.sg](mailto:tan_e_fung_joycelyn@moe.edu.sg)
+		<a href="tan_e_fung_joycelyn@moe.edu.sg">tan_e_fung_joycelyn@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Mr%20Peter.jpeg">
-
 Mr Tan Eng Hoe, Peter <br>
-[peter_tan_eng_hoe@moe.edu.sg](mailto:peter_tan_eng_hoe@moe.edu.sg)
+		<a href="peter_tan_eng_hoe@moe.edu.sg">peter_tan_eng_hoe@moe.edu.sg</a>
 
 <img style="width:35%" src="/images/Mr%20John.jpeg">
-
 Mr Tan Hong Soong, John <br>
-[tan_hong_soong@moe.edu.sg](mailto:tan_hong_soong@moe.edu.sg)
+			<a href="tan_hong_soong@moe.edu.sg">tan_hong_soong@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/mr%20tan%20jit%20jin.jpeg">
-
 Mr Tan Jit Jin <br>
-[tan_jit_jin@moe.edu.sg](mailto:tan_jit_jin@moe.edu.sg)
+	<a href="tan_jit_jin@moe.edu.sg">tan_jit_jin@moe.edu.sg</a>
 
 <img style="width:35%" src="/images/ms%20tan%20kay%20shin.jpeg">
-
 Mdm Tan Kay Shin <br>
-[tan_kay_shin@moe.edu.sg](mailto:tan_kay_shin@moe.edu.sg)
+		<a href="tan_kay_shin@moe.edu.sg">tan_kay_shin@moe.edu.sg</a>
+
 
 
 
 <img style="width:35%" src="/images/Mr%20Tan%20Liang%20Hooi.jpeg">
-
 Mr Tan Liang Hooi <br>
-[tan_liang_hooi@moe.edu.sg](mailto:tan_liang_hooi@moe.edu.sg)
+		<a href="ttan_liang_hooi@moe.edu.sg">tan_liang_hooi@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/kenneth.jpeg">
-
 Mr Tan Ming Hon, Kenneth <br>
-[tan_ming_hon@moe.edu.sg](mailto:tan_ming_hon@moe.edu.sg)
+		<a href="tan_ming_ho@moe.edu.sg">tan_ming_ho@moe.edu.sg</a>
 
 <img style="width:35%" src="/images/mr%20tan%20teck%20soon.jpeg">
-
 Mr Tan Teck Soon <br>
-[tan_teck_soon@moe.edu.sg](mailto:tan_teck_soon@moe.edu.sg) 
+		<a href="tan_teck_soon@moe.edu.sg">tan_teck_soon@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Mr%20Tan%20Ser%20Yong.jpeg">
-
 Mr Tan Ser Yong, Philip <br>
 [tan_ser_yong_philip@moe.edu.sg](mailto:tan_ser_yong_philip@moe.edu.sg)
 
