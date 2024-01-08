@@ -18,7 +18,7 @@ variant: markdown
 *   [Purchase of School Uniform and PE Attire](/clementeens/purchase-of-school-uniform-and-pe-attire)
 *   [School Rules and Regulations](/files/CTSS%20CODE%20OF%20CONDUCT%2026Oct2021.pdf)
 *  [Student Protection Plan](https://www.clementitownsec.moe.edu.sg/clementeens/student-protection-plan)
-*  National Digital Literacy Programme (NDLP)
+*  [National Digital Literacy Programme (NDLP)](https://clementitownsec.moe.edu.sg/ndlp/)
 
 *   [Reset MIMS Password](https://student.iams.ssoe.moe.edu.sg/)
 *   [CTSS Library Search Portal (OPAC](https://schoolibrary.moe.edu.sg/clementitownsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
