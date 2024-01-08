@@ -402,14 +402,15 @@ Mr Yap Jin Hua, Andy <br>
 
 
 <img style="width:35%" src="/images/Mr%20Yong%20Teck%20Sin.jpg">
-
 Mr Yong Teck Sin <br>
 	<a href="tyong_teck_sin@moe.edu.sg">yong_teck_sinn@moe.edu.sg</a>
 
 <img style="width:35%" src="/images/Mrs%20Yuen%20Lay%20Eng.jpeg">
-
 Mrs Yuen Lay Eng <br>
 	<a href="ang_lay_eng@moe.edu.sg">ang_lay_eng@moe.edu.sg</a>
 
+<img style="width:35%" src="/images/Mrs%20Yuen%20Lay%20Eng.jpeg">
+Mr Zhang Ming <br>
+	<a href="zhang_ming@moe.edu.sg">zhang_ming@moe.edu.sg</a>
  
 </center></center></center>
