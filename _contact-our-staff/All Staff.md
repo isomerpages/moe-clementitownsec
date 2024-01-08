@@ -410,7 +410,7 @@ Mrs Yuen Lay Eng <br>
 	<a href="ang_lay_eng@moe.edu.sg">ang_lay_eng@moe.edu.sg</a>
 	
 
-<img style="width:35%" src="/images/ZhangMing.jpeg">
+<img style="width:35%" src="/images/ZM.jpeg">
 Mr Zhang Ming <br>
 	<a href="zhang_ming@moe.edu.sg">zhang_ming@moe.edu.sg</a>
  
