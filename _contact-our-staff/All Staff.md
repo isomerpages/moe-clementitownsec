@@ -108,11 +108,10 @@ Ms Hamizah Begum Bte Md Hanif <br>
 Ms He Meiyu  <br>
 <a href="[he_meiyu@moe.edu.sg">he_meiyu@moe.edu.sg</a> 		
 
-
 <img style="width:35%" src="/images/Ms%20Heng%20Hui%20Zhen.jpeg">
+Ms Heng Hui Zhen    <br>
+<a href="[heng_hui_zhen@moe.edu.sg">heng_hui_zhen@moe.edu.sg</a> 			
 
-Ms Heng Hui Zhen    
-[heng\_hui\_zhen@moe.edu.sg](mailto:heng_hui_zhen@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Ho%20Xiu%20Hui,%20Tessa.jpg">
 
