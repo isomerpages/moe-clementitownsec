@@ -22,8 +22,6 @@ variant: markdown
 	
 [tan\_jia\_jie@moe.edu.sg](mailto:tan\_jia\_jie@moe.edu.sg)
 
-
-
 <img style="width:35%" src="/images/mr%20chan%20bin%20chuan.jpeg">
 
 Mr&nbsp;Chan Bin Chuan                          
