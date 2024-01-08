@@ -133,28 +133,29 @@ Mrs Karine Nai <br>
 	
 <img style="width:35%" src="/images/Mr%20Ke%20Kaijie%20Justin.jpeg">
 
-Mr Ke Kaijie, Justin   
-[ke\_kaijie\_justin@moe.edu.sg](mailto:ke_kaijie_justin@moe.edu.sg)
+Mr Ke Kaijie, Justin  <br>
+	<a href="ke_kaijie_justin@moe.edu.sg">ke_kaijie_justin@moe.edu.sg</a> 
 
 <img style="width:35%" src="/images/Kishan%20School%20Website.jpeg">
+Mr&nbsp;Kishan Kannan  <br>
+	<a href="kishan_kannan@moe.edu.sg">kishan_kannann@moe.edu.sg</a> 	
 
-Mr&nbsp;Kishan Kannan  
-[kishan\_kannan@moe.edu.sg](mailto:kishan_kannan@moe.edu.sg)
 
 <img style="width:35%" src="/images/Doreen.png">
-
 Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen<br>
-[lau\_ying\_ying\_doreen@moe.edu.sg](mailto:lau_ying_ying_doreen@moe.edu.sg)
+	<a href="lau_ying_ying_doreen@moe.edu.sg">lau_ying_ying_doreen@moe.edu.sg</a> 
 
 
 <img style="width:35%" src="/images/Mrs%20Lehming%20Teo%20Shi%20Hui%20Rachel.jpeg">
 
 Mrs Lehming-Teo Shi Hui, Rachel<br>
-[teo\_shi\_hui\_rachel@moe.edu.sg](mailto:teo_shi_hui_rachel@moe.edu.sg)
+<a href="teo_shi_hui_racheln@moe.edu.sg">teo_shi_hui_rachel@moe.edu.sg</a> 
 
+	
 <img style="width:35%" src="/images/Ms%20Li%20Qianyi.jpeg">
 
 Ms Li Qianyi <br>
+	<a href="teo_shi_hui_racheln@moe.edu.sg">teo_shi_hui_rachel@moe.edu.sg</a> 
 [li_qianyi@moe.edu.sg](mailto:li_qianyi@moe.edu.sg)
 
 <img style="width:35%" src="/images/Ms%20Lim%20Keng%20Woon%20Madeline.jpeg">
