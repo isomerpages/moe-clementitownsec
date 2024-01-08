@@ -118,23 +118,19 @@ Ms Ho Xiu Hui Tessa   <br>
 <a href="[ho_xiu_hui_tess@moe.edu.sg">ho_xiu_hui_tess@moe.edu.sg</a> 			
 
 
-
-
 <img style="width:35%" src="/images/ms%20joyner%20tay%20kai%20ling.jpeg">
-
-Ms&nbsp;Joyner Tay        
-[tay\_kai\_ling\_joyner@moe.edu.sg](mailto:tay_kai_ling_joyner@moe.edu.sg)
+Ms&nbsp;Joyner Tay     <br>
+<a href="[tay_kai_ling_joyner@moe.edu.sg">tay_kai_ling_joyners@moe.edu.sg</a> 			
 
 <img style="width:35%" src="/images/Mr%20Kamal%20Bin%20Yacob.jpeg">
-
 Mr Kamal Bin Yacob <br>
-[kamal\_yacob@moe.edu.sg](mailto:kamal_yacob@moe.edu.sg)
-	
-	
-<img style="width:35%" src="/images/karine.jpeg">
+<a href="[kamal_yacob@moe.edu.sg">kamal_yacob@moe.edu.sg</a> 			
 
+		
+<img style="width:35%" src="/images/karine.jpeg">
 Mrs Karine Nai <br>
-[nai\_sok\_khoon\_karine@moe.edu.sg](mailto:nai_sok_khoon_karine@moe.edu.sg)
+	<a href="nai_sok_khoon_karine@moe.edu.sg">nai_sok_khoon_karine@moe.edu.sg</a> 	
+
 	
 <img style="width:35%" src="/images/Mr%20Ke%20Kaijie%20Justin.jpeg">
 
