@@ -3,6 +3,7 @@ title: Infocomm Technology
 permalink: /co-curriculum/co-curricular-activities/infocomm-technology/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 InfoComm Technology Club (IT) is a service-oriented club, where we aim to develop technical skills among students in the areas of Artificial Intelligence, App Development, Public Announcement (PA), Photography and Robotics so that they can apply their skills in supporting the school through the various school events.  
   
@@ -17,8 +18,8 @@ In the course of the CCA, students are also encouraged to participate in select 
 *   Mr Kamal Bin Yacob (OIC)
 *   Mr Peter Tan (AIC)
 *   Mr Zhang Ming
-*   Ms Nurul Farhanah
-*   Mr Tan Jit Jin
+*   Mdm Bek Su Ling
+*  
 
 #### **STUDENT EXECUTIVE COMMITTEE**
 
