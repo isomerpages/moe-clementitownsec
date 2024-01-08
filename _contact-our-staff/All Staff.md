@@ -267,22 +267,23 @@ Ms Siti Nurwati Dalduri <br>
 <img style="width:35%" src="/images/Ms%20Soon%20Si%20Lin%20Jocelyn%20(Teacher).png">
 
 Ms Soon Si Lin Jocelyn <br>
-[soon_si_lin_jocelyn@moe.edu.sg](mailto:soon_si_lin_jocelyn@moe.edu.sg) 
+		<a href="soon_si_lin_jocely@moe.edu.sg">soon_si_lin_jocely@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Ms%20Sophia%20Ng%20Jia%20Ming.jpg">
-
 Ms Sophia Ng <br>
-[sophia_ng_jia_ming@moe.edu.sg](mailto:sophia_ng_jia_ming@moe.edu.sg)
+	<a href="sophia_ng_jia_ming@moe.edu.sg">sophia_ng_jia_ming@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Ms%20Sumitha.jpeg">
-
 Mdm Sumitha Kirsnan <br>
-[sumitha_kirsnan@moe.edu.sg](mailto:sumitha_kirsnan@moe.edu.sg)
+		<a href="sumitha_kirsnan@moe.edu.sg">sumitha_kirsnan@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Ms%20Syafiqah%20Binte%20Zaini.jpg">
-
 Ms Syafiqah Binte Zaini <br>
-[syafiqah_zaini@moe.edu.sg](mailto:syafiqah_zaini@moe.edu.sg)
+		<a href="syafiqah_zainin@moe.edu.sg">syafiqah_zaini@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Mr%20Tan%20Chor%20Seng.jpg">
 
