@@ -159,7 +159,6 @@ Ms Li Qianyi <br>
 
 
 <img style="width:35%" src="/images/Ms%20Lim%20Keng%20Woon%20Madeline.jpeg">
-
 Ms Lim Keng Woon, Madeline <br>
 	<a href="lim_keng_woon_madelinei@moe.edu.sg">lim_keng_woon_madelinei@moe.edu.sg</a> 
 
@@ -219,32 +218,30 @@ Mrs Peh-Yeo Hwee Ching Magdalene <br>
 
 
 <img style="width:35%" src="/images/Mdm%20Rajamanickam.jpeg">
-
 Mdm Rajamanickam Renuka <br>
-[rajamanickam_renuka@moe.edu.sg](mailto:rajamanickam_renuka@moe.edu.sg)
+	<a href="[rajamanickam_renuka@moe.edu.sg">rajamanickam_renuka@moe.edu.sg</a> 			
+
 
 <img style="width:35%" src="/images/Mdm%20Rashidah%20Kassim.jpeg">
-
 Mdm Rashidah Kassim <br>
-[rashidah_kassim@moe.edu.sg](mailto:rashidah_kassim@moe.edu.sg)
+	<a href="rashidah_kassim@moe.edu.sg">rashidah_kassim@moe.edu.sg</a> 			
+
 
 <img style="width:35%" src="/images/Mr%20Mohamed%20Ressal.jpeg">
-
 Mr Mohamed Ressal Mohamed Raffi <br>
-[mohamed_ressal_mohamed_raffi@moe.edu.sg](mailto:mohamed_ressal_mohamed_raffi@moe.edu.sg)
+		<a href="mohamed_ressal_mohamed_raffi@moe.edu.sg">mohamed_ressal_mohamed_raffi@moe.edu.sg</a> 			
+
 
 <img style="width:35%" src="/images/Mdm%20Rosezalina.jpeg">
-
 Mdm Rosezalina Bte Asmoin <br>
-[rosezalina_asmoin@moe.edu.sg](mailto:rosezalina_asmoin@moe.edu.sg)
+<a href="rosezalina_asmoin@moe.edu.sg">rosezalina_asmoin@moe.edu.sg</a> 				
 
 <img style="width:35%" src="/images/Mr%20See%20Gim%20Hwee%20(1).jpg">
-
 Mr See Gim Hwee <br>
-[see_gim_hwee@moe.edu.sg](mailto:see_gim_hwee@moe.edu.sg) 
+<a href="see_gim_hween@moe.edu.sg">see_gim_hwee@moe.edu.sg</a> 		
+
 
 <img style="width:35%" src="/images/Ms%20Sia%20Gee%20Han.jpeg">
-
 Ms Sia Gee Han, Karen <br>
 [karen_sia_gee_han@moe.edu.sg](mailto:karen_sia_gee_han@moe.edu.sg)
 
