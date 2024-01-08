@@ -378,38 +378,38 @@ Ms Tracy Tey <br>
 
 
 <img style="width:35%" src="/images/Ms%20Wee%20Ni%20Swen.jpg">
-
 Ms Wee Ni Swen <br>
-[wee_ni_swen@moe.edu.sg](mailto:wee_ni_swen@moe.edu.sg)
+	<a href="wee_ni_swen@moe.edu.sg">wee_ni_swen@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Ms%20Wee%20Yee%20Ing.jpg">
-
 Ms Wee Yee Ing <br>
-[wee_yee_ing@moe.edu.sg](mailto:wee_yee_ing@moe.edu.sg)
+	<a href="wee_yee_ing@moe.edu.sg">wee_yee_ing@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Mrs%20Wee%20Loh%20Wee%20Sin.jpeg">
-
 Mrs Wee-Loh Wee Sin <br>
-[loh_wee_sin@moe.edu.sg](mailto:loh_wee_sin@moe.edu.sg)
-
+		<a href="loh_wee_sin@moe.edu.sg">loh_wee_sin@moe.edu.sg</a>
+	
 <img style="width:35%" src="/images/Ms%20Woong%20Choy%20Wan.jpeg">
-
 Ms Woong Choy Wan <br>
-[woong_choy_wan@moe.edu.sg](mailto:woong_choy_wan@moe.edu.sg)
+	<a href="woong_choy_wan@moe.edu.sg">woong_choy_wan@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Mr%20Andy.jpeg">
-
 Mr Yap Jin Hua, Andy <br>
-[yap_jin_hua_andy@moe.edu.sg](mailto:yap_jin_hua_andy@moe.edu.sg)
+	<a href="yap_jin_hua_andy@moe.edu.sg">yap_jin_hua_andy@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Mr%20Yong%20Teck%20Sin.jpg">
 
 Mr Yong Teck Sin <br>
-[yong_teck_sin@moe.edu.sg](mailto:yong_teck_sin@moe.edu.sg)
+	<a href="tyong_teck_sin@moe.edu.sg">yong_teck_sinn@moe.edu.sg</a>
 
 <img style="width:35%" src="/images/Mrs%20Yuen%20Lay%20Eng.jpeg">
 
 Mrs Yuen Lay Eng <br>
-[ang_lay_eng@moe.edu.sg ](mailto:ang_lay_eng@moe.edu.sg )
+	<a href="ang_lay_eng@moe.edu.sg">ang_lay_eng@moe.edu.sg</a>
+
  
 </center></center></center>
