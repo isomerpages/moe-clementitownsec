@@ -5,39 +5,34 @@ description: Teaching Staff
 variant: markdown
 ---
 <img style="width:35%" src="/images/Ms%20Liu%20Jiazhen%20Adeline.jpg">
-
-<center>Ms Adeline Liu  
+<center>Ms Adeline Liu  <br>
+	<a href="liu_jiazhen@moe.edu.sg">liu_jiazhen@moe.edu.sg</a> 
 	
-[liu\_jiazhen\_adeline@moe.edu.sg](mailto:liu_jiazhen_adeline@moe.edu.sg)
-
 <img style="width:35%" src="/images/Mr%20Aidil%20Bin%20Md%20Idris.jpeg">
-
-<center>Mr Aidil Bin Md Idris      
+<center>Mr Aidil Bin Md Idris <br>
+	<a href="aidil_md_idris@moe.edu.sg">aidil_md_idris@moe.edu.sg</a> 
+ 
 	
- [aidil\_md\_idris@moe.edu.sg](mailto:aidil_md_idris@moe.edu.sg)
-
 <img style="width:35%" src="/images/Alvin%20Tan.jpeg">
-
-<center>Mr Alvin Tan Jia Jie 
-	
-[tan\_jia\_jie@moe.edu.sg](mailto:tan\_jia\_jie@moe.edu.sg)
+<center>Mr Alvin Tan Jia Jie <br>
+	<a href="tan_jia_jie@moe.edu.sg">tan_jia_jie@moe.edu.sg</a> 
 
 <img style="width:35%" src="/images/mr%20chan%20bin%20chuan.jpeg">
 
-Mr&nbsp;Chan Bin Chuan                          
-[chan\_bin\_chuan@moe.edu.sg](mailto:chan_bin_chuan@moe.edu.sg)
+Mr&nbsp;Chan Bin Chuan <br>
+<a href="chan_bin_chuan@moe.edu.sg">chan_bin_chuan@moe.edu.sg</a> 	
+
 
 <img style="width:35%" src="/images/Ms%20Chan%20Lay%20Leng.jpeg">
 
 Ms Chan Lay Leng, Chloe<br>
-[chan\_lay\_leng@moe.edu.sg](mailto:chan_lay_leng@moe.edu.sg)
-
-
-
+		<a href="chan_lay_leng@moe.edu.sg">chan_lay_leng@moe.edu.sg</a> 
+	
 <img style="width:35%" src="/images/Mr%20Chan%20Siew%20Kwai.jpeg">
 
-Mr Chan Siew Kwai            
-[chan\_siew\_kwai@moe.edu.sg](mailto:chan_siew_kwai@moe.edu.sg)
+Mr Chan Siew Kwai  <br>
+	<a href="chan_siew_kwai@moe.edu.sg">chan_siew_kwai@moe.edu.sg</a> 
+
 
 <img style="width:35%" src="/images/Mdm%20Chen%20Liping.jpeg">
 
