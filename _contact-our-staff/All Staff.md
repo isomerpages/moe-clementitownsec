@@ -114,9 +114,9 @@ Ms Heng Hui Zhen    <br>
 
 
 <img style="width:35%" src="/images/Ms%20Ho%20Xiu%20Hui,%20Tessa.jpg">
+Ms Ho Xiu Hui Tessa   <br>
+<a href="[ho_xiu_hui_tess@moe.edu.sg">ho_xiu_hui_tess@moe.edu.sg</a> 			
 
-Ms Ho Xiu Hui Tessa   
-[ho\_xiu\_hui\_tessa@moe.edu.sg](mailto:ho_xiu_hui_tessa@moe.edu.sg)
 
 
 
