@@ -74,7 +74,6 @@ Mr&nbsp;Chng Chia Yi
 	
 <img style="width:35%" src="/images/ChuaKengYeow1.jpg">
 
-
 Mr Chua Keng Yeow   <br>
 [chua_keng_yeow@moe.edu.sg](mailto:chua_keng_yeow@moe.edu.sg)
 
