@@ -95,9 +95,8 @@ Ms Ee Wen Lin, Sandy <br>
 Ms Eng Chia Lee    
 [eng\_chia\_lee@moe.edu.sg](mailto:eng_chia_lee@moe.edu.sg)
 
-<img style="width:35%" src="/images/Ethan tan.jpg">
-
-
+<img style="width:35%" src="/images/mr%20ethan%20tan.jpeg">
+	
 Mr Ethan Tan  <br>
 [ethan_tan@moe.edu.sg](mailto:ethan_tan@moe.edu.sg)
 	
