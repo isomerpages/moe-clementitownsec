@@ -14,15 +14,15 @@ variant: markdown
 
 ### Secondary 3
 
-*   
+*   [5 Jan 2024 - Principal's Termly Letter to Parents (Term 1) for Secondary 3](/files/Ps_letter__Term_1__2024_Sec_3.pdf)
 
 ### Secondary 4
 
-*   
+*   [5 Jan 2024 - Principal's Termly Letter to Parents (Term 1) for Secondary 4 and 5](/files/Ps_letter__Term_1__2024_Sec_4_and_5.pdf)
 
 ### Secondary 5
 
-*   
+*   [5 Jan 2024 - Principal's Termly Letter to Parents (Term 1) for Secondary 4 and 5](/files/Ps_letter__Term_1__2024_Sec_4_and_5.pdf)
 <br>
 <br>
 <br>
