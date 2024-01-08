@@ -243,24 +243,26 @@ Mr See Gim Hwee <br>
 
 <img style="width:35%" src="/images/Ms%20Sia%20Gee%20Han.jpeg">
 Ms Sia Gee Han, Karen <br>
-[karen_sia_gee_han@moe.edu.sg](mailto:karen_sia_gee_han@moe.edu.sg)
+	<a href="karen_sia_gee_han@moe.edu.sg">karen_sia_gee_han@moe.edu.sg</a> 		
+
 
 
 
 <img style="width:35%" src="/images/Mdm%20Sheetal%20Sonawane.jpeg">
 
 Ms Sheetal Sonawane <br>
-[sheetal_madhukar_sonawane@moe.edu.sg](mailto:sheetal_madhukar_sonawane@moe.edu.sg)
+	<a href="sheetal_madhukar_sonawane@moe.edu.sg">sheetal_madhukar_sonawane@moe.edu.sg</a> 		
+
 
 <img style="width:35%" src="/images/Ms%20Sim%20Shin%20Jie.jpg">
-
 Ms Sim Shin Jie <br>
-[sim_shin_jie@moe.edu.sg](mailto:sim_shin_jie@moe.edu.sg)
+	<a href="sim_shin_jiee@moe.edu.sg">sim_shin_jie@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/ms%20siti%20nurwati%20dalduri.jpeg">
-
 Ms Siti Nurwati Dalduri <br>
-[siti_nurwati_dalduri@moe.edu.sg](mailto:siti_nurwati_dalduri@moe.edu.sg) 
+<a href="siti_nurwati_dalduri@moe.edu.sg">siti_nurwati_dalduri@moe.edu.sg</a>
+
 
 <img style="width:35%" src="/images/Ms%20Soon%20Si%20Lin%20Jocelyn%20(Teacher).png">
 
