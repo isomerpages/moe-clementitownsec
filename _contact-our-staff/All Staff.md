@@ -130,7 +130,6 @@ Mr Kamal Bin Yacob <br>
 <img style="width:35%" src="/images/karine.jpeg">
 Mrs Karine Nai <br>
 	<a href="nai_sok_khoon_karine@moe.edu.sg">nai_sok_khoon_karine@moe.edu.sg</a> 	
-
 	
 <img style="width:35%" src="/images/Mr%20Ke%20Kaijie%20Justin.jpeg">
 
