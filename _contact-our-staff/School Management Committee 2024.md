@@ -5,19 +5,21 @@ description: ""
 variant: markdown
 ---
 #### **PRINCIPAL**
-![](/images/Mdm%20Rasidah%20Bte%20Rahimm.jpeg)
-Mdm Rasidah Binte Rahim  
-[ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
+<img style="width:35%" src="/images/Mdm%20Rasidah%20Bte%20Rahimm.jpeg">
+<center>Mdm Rasidah Binte Rahim   <br>
+	<a href="ctss@moe.edu.sg">ctss@moe.edu.sg</a> 
+
 
 #### **VICE-PRINCIPAL 1**
-![](/images/mr%20ng%20ping%20hwee.jpg)
-Mr Ng Ping Hwee   
-[ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
+<img style="width:35%" src="/images/mr%20ng%20ping%20hwee.jpg">
+<center>Mr Ng Ping Hwee    <br>
+	<a href="ctss@moe.edu.sg">ctss@moe.edu.sg</a> 
+
 
 #### **VICE-PRINCIPAL 2**
-![](/images/mrs%20wong%20huang%20kexin.jpg)
-Mrs Wong Huang Kexin
-[ctss@moe.edu.sg](mailto:ctss@moe.edu.sg)
+	<img style="width:35%" src="/images/mrs%20wong%20huang%20kexin.jpg">
+<center>Mrs Wong Huang Kexin   <br>
+	<a href="ctss@moe.edu.sg">ctss@moe.edu.sg</a> 
 
 
 #### **HEAD OF DEPARTMENT,&nbsp; SCHOOL STAFF DEVELOPER AND YEAR HEADS**
@@ -171,4 +173,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;"></center></center></center>
