@@ -2,6 +2,7 @@
 title: Lead and Senior Teachers
 permalink: /contact-us/lead-and-senior-teachers/
 description: ""
+variant: markdown
 ---
 <center>
 
@@ -41,8 +42,7 @@ Mrs Cheong Poh Suan
 
 <img style="width:35%" src="/images/Mdm%20Rashidah%20Kassim.jpeg">
 <br>
-Mdm Rashidah Kassim
-
+Mdm Rashidah Kassim<br>
 <a href="mailto:rashidah_kassim@moe.edu.sg">rashidah_kassim@moe.edu.sg</a>
 	
 <br>
