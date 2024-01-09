@@ -1,8 +1,0 @@
----
-title: NCDCC Unit Overall Proficiency Award 2023
-permalink: /about-us/outstanding-clementeens/permalink/
-variant: tiptap
-description: ""
-third_nav_title: Outstanding Clementeens
----
-<p>We are thrilled to announce that our CTSS NCDCC unit has been awarded the Unit Overall Proficiency Award<strong> (</strong>UOPA) distinction! We are extremely proud of our cadets, WO Tabitha Seow and WO Ninette Tham, who have received the prestigious SCDF-NCDCC award - the highest accolade given by HQ NCDCC to cadets in schools.<br><br>SSG Nathan and Charissa have also done us proud by representing our unit in the NCDCC Day Parade contingent. We are grateful for their commitment and dedication towards the NCDCC program.<br><br>Once again, congratulations to all our cadets for their outstanding achievements! Keep up the good work!</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC02.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC05.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC03.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC04.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC01.jpeg"></div><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
