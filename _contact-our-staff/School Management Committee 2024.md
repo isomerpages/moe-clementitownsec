@@ -59,7 +59,7 @@ Ms Ee Wen Lin, Sandy <br>
 <img style="width:35%" src="/images/Mr%20Tan%20Liang%20Hooi.jpeg">
 
 Mr Tan Liang Hooi <br>
-[tan_liang_hooi@moe.edu.sg](mailto:tan_liang_hooi@moe.edu.sg)
+<a href="ttan_liang_hooi@moe.edu.sg">tan_liang_hooi@moe.edu.sg</a>
 
 
 
@@ -67,21 +67,21 @@ Mr Tan Liang Hooi <br>
 <img style="width:35%" src="/images/Mrs%20Wee%20Loh%20Wee%20Sin.jpeg">
 
 Mrs Wee-Loh Wee Sin <br>
-[loh_wee_sin@moe.edu.sg](mailto:loh_wee_sin@moe.edu.sg)
+<a href="loh_wee_sin@moe.edu.sg">loh_wee_sin@moe.edu.sg</a>
 
 **HOD / Physical Education  
 (PE)&nbsp;&amp; CCA**
 <img style="width:35%" src="/images/mr%20tan%20jit%20jin.jpeg">
 
 Mr Tan Jit Jin <br>
-[tan_jit_jin@moe.edu.sg](mailto:tan_jit_jin@moe.edu.sg)
+<a href="tan_jit_jin@moe.edu.sg">tan_jit_jin@moe.edu.sg</a>
 
 
 **HOD / Science**
 <img style="width:35%" src="/images/Ms%20Li%20Qianyi.jpeg">
 
 Ms Li Qianyi <br>
-[li_qianyi@moe.edu.sg](mailto:li_qianyi@moe.edu.sg)
+<a href="li_qianyi@moe.edu.sg">li_qianyi@moe.edu.sg</a> 
 
 
 **HOD / School Staff Developer**
