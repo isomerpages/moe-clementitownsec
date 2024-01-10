@@ -19,7 +19,7 @@ In the course of the CCA, students are also encouraged to participate in select 
 *   Mr Peter Tan (AIC)
 *   Mr Zhang Ming
 *   Mdm Bek Su Ling
-*  
+
 
 #### **STUDENT EXECUTIVE COMMITTEE**
 
