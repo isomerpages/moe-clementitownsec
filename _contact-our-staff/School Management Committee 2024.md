@@ -28,16 +28,15 @@ variant: markdown
 <img style="width:35%" src="/images/Mrs%20Peh%20Yeo%20Hwee%20Ching%20Magdelene.jpeg">
 
 Mrs Peh-Yeo Hwee Ching Magdalene <br>
-[yeo_hwee_ching_magdalene@moe.edu.sg](mailto:yeo_hwee_ching_magdalene@moe.edu.sg)
+<a href="yeo_hwee_ching_magdalene@moe.edu.sg">yeo_hwee_ching_magdalene@moe.edu.sg</a>	
+
 !
 
 **HOD/ Citizenship and Character Education**
 <img style="width:35%" src="/images/Ms%20Liu%20Jiazhen%20Adeline.jpg">
 
-<center>Ms Adeline Liu  
-	
-[liu\_jiazhen\_adeline@moe.edu.sg](mailto:liu_jiazhen_adeline@moe.edu.sg)
-
+<center>Ms Adeline Liu  <br>
+	<a href="liu_jiazhen@moe.edu.sg">liu_jiazhen@moe.edu.sg</a> 
 
 
 
@@ -45,7 +44,7 @@ Mrs Peh-Yeo Hwee Ching Magdalene <br>
 	<img style="width:35%" src="/images/Mrs%20Chua%20Teng%20May%20Hwee%20Teresa.jpeg">
 
 Mrs Chua-Teng May Hwee Teresa<br>
-[teng\_may\_hwee\_teresa@moe.edu.sg](mailto:teng_may_hwee_teresa@moe.edu.sg)
+<a href="teng_may_hwee_teresa@moe.edu.sg">teng_may_hwee_teresa@moe.edu.sg</a> 	
 
 
 
@@ -53,7 +52,7 @@ Mrs Chua-Teng May Hwee Teresa<br>
 <img style="width:35%" src="/images/ms%20sandy%20ee.jpeg">
 
 Ms Ee Wen Lin, Sandy <br>
-[ee\_wen\_lin\_sandy@moe.edu.sg](mailto:ee_wen_lin_sandy@moe.edu.sg)
+<a href="ee_wen_lin_sandy@moe.edu.sg">ee_wen_lin_sandy@moe.edu.sg</a> 
 
 
 **HOD / ICT and Knowledge Management**
