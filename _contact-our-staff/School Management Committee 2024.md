@@ -4,6 +4,8 @@ permalink: /contact-us/school-management-committee-2024/
 description: ""
 variant: markdown
 ---
+<center>
+	
 #### **PRINCIPAL**
 <img style="width:35%" src="/images/Mdm%20Rasidah%20Bte%20Rahimm.jpeg">
 <center>Mdm Rasidah Binte Rahim   <br>
@@ -94,21 +96,23 @@ Mr&nbsp;Chng Chia Yi
 <img style="width:35%" src="/images/ms%20siti%20nurwati%20dalduri.jpeg">
 
 Ms Siti Nurwati Dalduri <br>
-[siti_nurwati_dalduri@moe.edu.sg](mailto:siti_nurwati_dalduri@moe.edu.sg) 
+<a href="siti_nurwati_dalduri@moe.edu.sg">siti_nurwati_dalduri@moe.edu.sg</a>
 	
 
 **Year Head (Secondary 1, 4 &amp; 5) &nbsp;and SEN OiC**
+	
 <img style="width:35%" src="/images/Valane%20Passport%20Photo%202.jpeg">
 
 Ms Tnee Li Ling, Valane <br>
-[tnee_li_ling_valane@moe.edu.sg](mailto:tnee_li_ling_valane@moe.edu.sg)
+<a href="tnee_li_ling_valane@moe.edu.sg">tnee_li_ling_valane@moe.edu.sg</a>
 
 
 **Year Head (Secondary 2 and 3)**
-<img style="width:35%" src="/images/teochaiyeow.jpeg">
+	
+<img style="width:45%" src="/images/teochaiyeow.jpeg">
 
 Mr Teo Chai Yaw <br>
-[teo_chai_yaw@moe.edu.sg](mailto:teo_chai_yaw@moe.edu.sg)
+<a href="teo_chai_yaw@moe.edu.sg">teo_chai_yaw@moe.edu.sg</a>
 
 
 #### **ASSISTANT YEAR HEADS AND SUBJECT HEADS**
@@ -118,19 +122,20 @@ Mr Teo Chai Yaw <br>
 	<img style="width:35%" src="/images/Mdm%20Rosezalina.jpeg">
 
 Mdm Rosezalina Bte Asmoin <br>
-[rosezalina_asmoin@moe.edu.sg](mailto:rosezalina_asmoin@moe.edu.sg)
+<a href="rosezalina_asmoin@moe.edu.sg">rosezalina_asmoin@moe.edu.sg</a> 
 	
 
 **AYH / Secondary 4&amp;5**
 	<img style="width:35%" src="/images/kenneth.jpeg">
-
+Mr Tan Ming Hon, Kenneth <br>
+		<a href="tan_ming_ho@moe.edu.sg">tan_ming_ho@moe.edu.sg</a>
 
 
 **SH / Chinese Language**
 	<img style="width:35%" src="/images/Ms%20Woong%20Choy%20Wan.jpeg">
 
 Ms Woong Choy Wan <br>
-[woong_choy_wan@moe.edu.sg](mailto:woong_choy_wan@moe.edu.sg)
+	<a href="woong_choy_wan@moe.edu.sg">woong_choy_wan@moe.edu.sg</a>
 
 
 
@@ -138,47 +143,47 @@ Ms Woong Choy Wan <br>
 	<img style="width:35%" src="/images/Mrs%20Chin%20Leong%20Hwai%20Ee%20Stella.jpeg">
 
 Mrs Chin-Leong Hwai Ee, Stella <br>
-[leong\_hwai\_ee\_stella@moe.edu.sg](mailto:leong_hwai_ee_stella@moe.edu.sg)
+<a href="leong_hwai_ee_stella@moe.edu.sg">leong_hwai_ee_stella@moe.edu.sg</a> 
 	
 
 **SH / ICT**
 	<img style="width:35%" src="/images/Mr%20Kamal%20Bin%20Yacob.jpeg">
 
 Mr Kamal Bin Yacob <br>
-[kamal\_yacob@moe.edu.sg](mailto:kamal_yacob@moe.edu.sg)
+<a href="[kamal_yacob@moe.edu.sg">kamal_yacob@moe.edu.sg</a> 
 
 **SH / Mathematics**  
 <img style="width:35%" src="/images/Ms%20Low%20Li%20Qing.jpg">
 
 Ms Low Liqing <br>
-[low_liqing@moe.edu.sg](mailto:low_liqing@moe.edu.sg)
+<a href="low_liqing@moe.edu.sg">low_liqing@moe.edu.sg</a>
 
 
 **SH / PE and CCA**
 <img style="width:35%" src="/images/mr%20ethan%20tan.jpeg">
 	
 Mr Ethan Tan  <br>
-[ethan_tan@moe.edu.sg](mailto:ethan_tan@moe.edu.sg)
+<a href="[ethan_tan@moe.edu.sg">[ethan_tan@moe.edu.sg</a> 
 
 
 **SH / Science**
 	<img style="width:35%" src="/images/Mrs%20Lehming%20Teo%20Shi%20Hui%20Rachel.jpeg">
 
 Mrs Lehming-Teo Shi Hui, Rachel<br>
-[teo\_shi\_hui\_rachel@moe.edu.sg](mailto:teo_shi_hui_rachel@moe.edu.sg)
+<a href="teo_shi_hui_racheln@moe.edu.sg">teo_shi_hui_rachel@moe.edu.sg</a> 
 
 
 **SH / English Language**
 	<img style="width:35%" src="/images/Mr%20Ng%20Loong%20Kin,%20Alvin.jpg">
 
 Mr Ng Loong Kin, Alvin <br>
-[ng_loong_kin_alvin@moe.edu.sg](mailto:ng_loong_kin_alvin@moe.edu.sg)
+<a href="ng_loong_kin_alvin@moe.edu.sg">ng_loong_kin_alvin@moe.edu.sg</a>
 
 **SH / Humanities**
 	<img style="width:35%" src="/images/Mr%20Mohamed%20Ressal.jpeg">
 
 Mr Mohamed Ressal Mohamed Raffi <br>
-[mohamed_ressal_mohamed_raffi@moe.edu.sg](mailto:mohamed_ressal_mohamed_raffi@moe.edu.sg)
+<a href="mohamed_ressal_mohamed_raffi@moe.edu.sg">mohamed_ressal_mohamed_raffi@moe.edu.sg</a> 	
 
 
 <br>
@@ -192,4 +197,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;"></center></center></center></center>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;"></center></center></center></center></center>
