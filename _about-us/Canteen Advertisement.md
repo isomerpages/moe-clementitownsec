@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Asia Cuisine    | 13/11/2023    |   Non Halal Japanese/Korean etc  |
+| NIL    | -    |   - |
 |
 
 **Application Procedure**

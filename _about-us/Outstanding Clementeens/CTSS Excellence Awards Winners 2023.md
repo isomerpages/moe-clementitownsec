@@ -1,6 +1,6 @@
 ---
 title: CTSS Excellence Awards Winners 2023
-permalink: /about-us/outstanding-clementeens/permalink/
+permalink: /about-us/outstanding-clementeens/excellence-awards-2023/
 variant: tiptap
 description: ""
 third_nav_title: Outstanding Clementeens

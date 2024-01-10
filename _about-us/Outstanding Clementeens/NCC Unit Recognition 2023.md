@@ -1,6 +1,6 @@
 ---
 title: NCC Unit Recognition 2023
-permalink: /about-us/outstanding-clementeens/permalink/
+permalink: /about-us/outstanding-clementeens/ncc-unit-recognition-2023/
 variant: tiptap
 description: ""
 third_nav_title: Outstanding Clementeens

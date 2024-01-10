@@ -1,6 +1,6 @@
 ---
 title: West Zone Volleyball Competition 2023 Champions
-permalink: /about-us/outstanding-clementeens/permalink/
+permalink: /about-us/outstanding-clementeens/west-zone-volleyball-2023/
 variant: tiptap
 description: ""
 third_nav_title: Outstanding Clementeens

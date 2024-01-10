@@ -1,6 +1,6 @@
 ---
 title: Inter Schools Tchoukball Competition 2023
-permalink: /about-us/outstanding-clementeens/permalink/
+permalink: /about-us/outstanding-clementeens/inter-school-tchoukball-2023/
 variant: tiptap
 description: ""
 third_nav_title: Outstanding Clementeens

@@ -1,6 +1,6 @@
 ---
 title: NCDCC Unit Overall Proficiency Award 2023
-permalink: /about-us/outstanding-clementeens/permalink/
+permalink: /about-us/outstanding-clementeens/ncdcc-unit-overall-proficiency-2023/
 variant: tiptap
 description: ""
 third_nav_title: Outstanding Clementeens

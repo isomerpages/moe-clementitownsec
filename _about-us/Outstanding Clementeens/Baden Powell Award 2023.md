@@ -1,6 +1,6 @@
 ---
 title: Baden Powell Award 2023
-permalink: /about-us/outstanding-clementeens/permalink/
+permalink: /about-us/outstanding-clementeens/baden-powell-award-2023/
 variant: tiptap
 description: ""
 third_nav_title: Outstanding Clementeens
