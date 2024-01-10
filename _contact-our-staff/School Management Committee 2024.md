@@ -4,7 +4,7 @@ permalink: /contact-us/school-management-committee-2024/
 description: ""
 variant: markdown
 ---
-<center>
+
 	
 #### **PRINCIPAL**
 <img style="width:35%" src="/images/Mdm%20Rasidah%20Bte%20Rahimm.jpeg">
@@ -197,4 +197,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;"></center></center></center></center></center>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;"></center></center></center></center>
