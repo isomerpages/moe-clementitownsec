@@ -88,7 +88,7 @@ Ms Li Qianyi <br>
 <img style="width:35%" src="/images/mr%20chng%20chia%20yii.jpeg">
 
 Mr&nbsp;Chng Chia Yi    
-[chng\_chia\_yi@moe.edu.sg](mailto:chng_chia_yi@moe.edu.sg)
+<a href="chng_chia_yi@moe.edu.sg">chng_chia_yi@moe.edu.sg</a> 
 
 **HOD / Student Management**
 <img style="width:35%" src="/images/ms%20siti%20nurwati%20dalduri.jpeg">
