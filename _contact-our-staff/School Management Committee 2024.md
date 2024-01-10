@@ -4,8 +4,6 @@ permalink: /contact-us/school-management-committee-2024/
 description: ""
 variant: markdown
 ---
-
-	
 #### **PRINCIPAL**
 <img style="width:35%" src="/images/Mdm%20Rasidah%20Bte%20Rahimm.jpeg">
 <center>Mdm Rasidah Binte Rahim   <br>
@@ -23,6 +21,7 @@ variant: markdown
 <center>Mrs Wong Huang Kexin   <br>
 	<a href="ctss@moe.edu.sg">ctss@moe.edu.sg</a> 
 
+	<br>
 
 #### **HEAD OF DEPARTMENT,&nbsp; SCHOOL STAFF DEVELOPER AND YEAR HEADS**
 
