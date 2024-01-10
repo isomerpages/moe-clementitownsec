@@ -138,7 +138,7 @@ Mr Ke Kaijie, Justin  <br>
 
 <img style="width:35%" src="/images/Kishan%20School%20Website.jpeg">
 Mr&nbsp;Kishan Kannan  <br>
-	<a href="kishan_kannan@moe.edu.sg">kishan_kannann@moe.edu.sg</a> 	
+	<a href="kishan_kannan@moe.edu.sg">kishan_kannan@moe.edu.sg</a> 	
 
 
 <img style="width:35%" src="/images/Doreen.png">
@@ -160,7 +160,7 @@ Ms Li Qianyi <br>
 
 <img style="width:35%" src="/images/Ms%20Lim%20Keng%20Woon%20Madeline.jpeg">
 Ms Lim Keng Woon, Madeline <br>
-	<a href="lim_keng_woon_madelinei@moe.edu.sg">lim_keng_woon_madelinei@moe.edu.sg</a> 
+	<a href="lim_keng_woon_madeline@moe.edu.sg">lim_keng_woon_madeline@moe.edu.sg</a> 
 
 
 <img style="width:35%" src="/images/Mr%20Jeremy.jpeg">
@@ -181,7 +181,7 @@ Mrs Lim-Quek Chwee Tiang, Linda <br>
 
 <img style="width:35%" src="/images/lohwanting.jpg">
 Ms Loh Wan Ting <br>
-<a href="low_wan_ting@moe.edu.sg">low_wan_ting@moe.edu.sg</a>	
+<a href="loh_wan_ting@moe.edu.sg">loh_wan_ting@moe.edu.sg</a>	
 
 	
 <img style="width:35%" src="/images/Ms%20Low%20Li%20Qing.jpg">
