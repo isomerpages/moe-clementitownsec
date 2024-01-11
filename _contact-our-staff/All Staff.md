@@ -147,7 +147,6 @@ Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen<br>
 
 
 <img style="width:35%" src="/images/Mrs%20Lehming%20Teo%20Shi%20Hui%20Rachel.jpeg">
-
 Mrs Lehming-Teo Shi Hui, Rachel<br>
 <a href="teo_shi_hui_racheln@moe.edu.sg">teo_shi_hui_rachel@moe.edu.sg</a> 
 
