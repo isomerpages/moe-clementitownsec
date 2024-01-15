@@ -4,22 +4,20 @@ permalink: /co-curriculum/character-and-citizenship-education/
 description: ""
 variant: markdown
 ---
-# CCE@CTSS
+# **CCE@CTSS**
 
 ![](/images/20__2023_Comm_Photo.jpeg)
 
-# **MISSION
-# -------**
+# **MISSION**
+
 
 Every Clementeen, An Active Citizen of Character  
   
-**# CURRICULUM CONTENT**
+# **CURRICULUM CONTENT**
 
 In CTSS, we aspire to mould the character of every Clementeen so that they become active Clementeens with the passion to learn, the confidence to lead and the humility to serve. The design of the school’s CCE Curriculum takes reference from MOE’s CCE 2021 Curriculum Frame and is anchored on the school’s values, vision and mission.
 
-![](/images/CCE_Framework.jpg)
 
-        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-fareast-font-family:Calibri; mso-hansi-font-family:Calibri; mso-bidi-font-family:Calibri; mso-font-kerning:0pt; mso-ligatures:none;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
 # **CCE Lessons**
 
@@ -27,6 +25,17 @@ Character and Citizenship Education (CCE),which includes National Education (NE)
 
 Contemporary issues are also discussed during CCE lessons to develop active citizenry, critical thinking skills and global awareness among students. Through guided facilitation and class discussions, Clementeens will learn the important skill of perspective taking in a wide range of themes and issues that are relevant to their development and life experiences.
 
+# School Based Lessons****
+
+CTSS approaches the teaching of social-emotional competencies and application of personal leadership principles through a customised school-based CCE curriculum based on the ‘7 habits for Highly Effective Youths’ by Stephen Covey. 
+
+The7 Habits Curriculum is  integrated into the CTSS’s Lifelong Learning Programme, CCE lessons, CCA sessions, Cohort Camps and Learning Experiences.  In our endeavour to make 7 Habits a pervasive culture, all teachers are trained to facilitate the inculcation of these habits in the different student development experiences through reflection. Our hope is that that Clementeens will live out these habits, have a mindset and skill set to cope with adversity and thrive effectively beyond the gates of CTSS. 
+
+In CTSS, we also hope to develop students who show agency and take ownership (autonomy) of their learning goals by guiding them in designing their own roadmap to reach these goals. As such, upper secondary students will work on their Personal Digital Portfolio that captures the records of their learning experiences in their pursuits in areas of interests for self.   The digital portfolio leverages on the affordance of the Personal Learning Device (PLD) to take stock of their school experiences using the Plan, Monitor and Evaluate reflective cycle, as students record their various school experiences and important learning experiences.
+
+# **National Education (NE)**
+
+National Education is an integral part of the CTSS’s Citizenship Education programme. The NE lessons aims to provide Clementeens with the knowledge, skills and values to understand Singapore's history, realities and challenges unique to our nation, appreciate our journey to nationhood.  Through meaningful learning experiences, such as the learning journey to National Musuem, activities during Racial Harmony Day and National Day, the school endeavours to inculcate a sense of rootedness and belonging to the school and Singapore. For example, in 2023, our student leaders had the opportunity to have conversations during Racial Harmony Week with youth speaker, Mr Shukul Raaj Kumar, who volunteers actively in the community. This provides opportunities for our Clementeens to engage in conversations that allows them to understand diverse perspectives and the importance of embracing diversity.
 
 
 
