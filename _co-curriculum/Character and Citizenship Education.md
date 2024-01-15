@@ -8,12 +8,12 @@ variant: markdown
 
 ![](/images/20__2023_Comm_Photo.jpeg)
 
-MISSION
--------
+# **MISSION
+# -------**
 
 Every Clementeen, An Active Citizen of Character  
   
-# CURRICULUM CONTENT
+**# CURRICULUM CONTENT**
 
 In CTSS, we aspire to mould the character of every Clementeen so that they become active Clementeens with the passion to learn, the confidence to lead and the humility to serve. The design of the school’s CCE Curriculum takes reference from MOE’s CCE 2021 Curriculum Frame and is anchored on the school’s values, vision and mission.
 
