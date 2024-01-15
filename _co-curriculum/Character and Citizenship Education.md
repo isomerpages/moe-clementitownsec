@@ -1,15 +1,46 @@
 ---
 title: Character and Citizenship Education
-permalink: /co-curriculum/character-and-citizenship-education
+permalink: /co-curriculum/character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
-![CHARACTER AND CITIZENSHIP EDUCATION](/images/character%20and%20citizenship%20education%20committee%202.jpeg)
+# CCE@CTSS
+
+![](/images/20__2023_Comm_Photo.jpeg)
 
 MISSION
 -------
 
 Every Clementeen, An Active Citizen of Character  
   
+# CURRICULUM CONTENT
+
+In CTSS, we aspire to mould the character of every Clementeen so that they become active Clementeens with the passion to learn, the confidence to lead and the humility to serve. The design of the school’s CCE Curriculum takes reference from MOE’s CCE 2021 Curriculum Frame and is anchored on the school’s values, vision and mission.
+
+![](/images/CCE_Framework.jpg)
+
+        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-fareast-font-family:Calibri; mso-hansi-font-family:Calibri; mso-bidi-font-family:Calibri; mso-font-kerning:0pt; mso-ligatures:none;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+# **CCE Lessons**
+
+Character and Citizenship Education (CCE),which includes National Education (NE) and Social and Emotional Learning (SEL), are integral to the holistic development of our students so that they lead purposeful lives. It involves the teaching and learning of core values and social-emotional competencies, with a focus on developing a sense of purpose in our students. These fundamentals are taught and applied in the six curriculum content areas of CCE, namely Education and Career Guidance, Cyber Wellness, National Education, Sexuality Education, Mental Health and Family Education.&nbsp;
+
+Contemporary issues are also discussed during CCE lessons to develop active citizenry, critical thinking skills and global awareness among students. Through guided facilitation and class discussions, Clementeens will learn the important skill of perspective taking in a wide range of themes and issues that are relevant to their development and life experiences.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 KEY PROGRAMMES
 --------------
@@ -18,13 +49,12 @@ KEY PROGRAMMES
 
 The CCE 2021 curriculum is based on the three big ideas of Identity, Relationships and Choices. It involves the teaching and learning of core values and social-emotional competencies with a focus on developing a sense of purpose in our students. These fundamentals are taught and applied in the six curriculum content areas of CCE. In CTSS, we aspire to mould the character of every Clementeen so that they become active Clementeens with the passion to learn, bright Clementeens with the confidence to lead and caring Clementeens with the humility to serve.
 
-<img src="/images/CCE%20Framework.jpeg"  
-style="width:75%">
+<img src="/images/CCE%20Framework.jpeg" style="width:75%">
 
 **Highly Effective Youths (HEY)** <br>
 The school approaches the teaching of social-emotional competencies through a customised school-based CCE curriculum based on the ‘7 habits for Highly Effective Youths’ by Stephen Covey. It is hoped that these habits, which are a result of a set of attitudes, underpinned by values, will be exemplified in positive behaviours and become a way of life for students.  
   
-The 7 Habits programme aims to develop every Clementeen towards being an effective individual and a team player. The 7 habits programme is also integrated into the school’s Life Learning Programme, with students exercising personal leadership in how they lead their lives and interact with their peers. These habits are taught in the CCE lessons and actively applied in students’ school experiences such as in school camps, CCAs and academic lessons.  
+The 7 Habits programme aims to develop every Clementeen towards being an effective individual and a team player.&nbsp;The 7 habits programme is also integrated into the school’s Life Learning Programme, with students exercising personal leadership in how they lead their lives and interact with their peers. These habits are taught in the CCE lessons and actively applied in students’ school experiences such as in school camps, CCAs and academic lessons.  
 
 **National Education (NE)**  
 National Education is an integral part of the school’s Citizenship Education programme. With its vision of ‘Every Clementeen, An Active and Global Citizen’, the NE programme aims to nurture active and concerned citizens with the passion to learn, confidence to lead and humility to serve.  
@@ -46,7 +76,7 @@ To help foster a confident 21st century person ready for the work force, Educati
 
   
 
-ECG Counsellor, Mr Damon Choo, is in school every Tuesday to provide ECG counselling services. Students who wish to explore more about post-secondary options or find out more about their career interests and strengths may drop him an email at [choo_soon_heng@schools.gov.sg](mailto:choo_soon_heng@schools.gov.sg) to book a session. 
+ECG Counsellor, Mr Damon Choo, is in school every Tuesday to provide ECG counselling services. Students who wish to explore more about post-secondary options or find out more about their career interests and strengths may drop him an email at&nbsp;[choo_soon_heng@schools.gov.sg](mailto:choo_soon_heng@schools.gov.sg) to book a session.&nbsp;
 
   
 
@@ -168,8 +198,7 @@ ECG Counsellor, Mr Damon Choo, is in school every Tuesday to provide ECG counsel
 <p style="text-align:center;"><strong>Overview of Admission Exercises</strong></p>
 
 
-<img src="/images/Admissions%20Exercise.jpeg"  
-style="width:75%">
+<img src="/images/Admissions%20Exercise.jpeg" style="width:75%">
 
 **Legend:**
 
@@ -185,7 +214,7 @@ style="width:75%">
 
   
 
-• DPPAE: Direct-Entry-Scheme to Polytechnic Programme Admission Exercise (Conducted after N(A)-Level results are released, students submit up to 12 course choices)  
+• DPPAE: Direct-Entry-Scheme to Polytechnic Programme Admission Exercise (Conducted after N(A)-Level results are released, students submit up to 12 course choices)&nbsp;&nbsp;
 
   
 
@@ -216,7 +245,7 @@ Lessons in Family Education raise awareness about what makes families resilient 
 
 **Values-in-Action**  
   
-Other than the six content areas, the Values-in-Action programme @ CTSS also provide opportunities for students to reach out to the community and serve.  Such acts of service inculcate in Clementeens the humility to serve. Students also get grow in knowledge about the needs of the school and the community and to work in teams for the greater good of the community. All students are required to take part in or plan and execute at least one VIA project annually.
+Other than the six content areas, the Values-in-Action programme @ CTSS also provide opportunities for students to reach out to the community and serve.&nbsp; Such acts of service inculcate in Clementeens the humility to serve. Students also get grow in knowledge about the needs of the school and the community and to work in teams for the greater good of the community. All students are required to take part in or plan and execute at least one VIA project annually.
 
 <br>
 <br>
@@ -229,6 +258,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
