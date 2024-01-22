@@ -20,7 +20,6 @@ variant: markdown
 *  [Student Protection Plan](https://www.clementitownsec.moe.edu.sg/clementeens/student-protection-plan)
 *  [National Digital Literacy Programme (NDLP)](https://clementitownsec.moe.edu.sg/ndlp/)
 
-*   [Reset MIMS Password](https://student.iams.ssoe.moe.edu.sg/)
 *   [CTSS Library Search Portal (OPAC](https://schoolibrary.moe.edu.sg/clementitownsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
 <br>
