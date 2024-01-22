@@ -24,7 +24,7 @@ variant: markdown
 18. [PDLP One-Stop Portal by ETD](http://go.gov.sg/PDLP)
 19. [Read@CTSS English Language Microsite](https://sites.google.com/moe.edu.sg/2024read-ctss/home)
 20. [Read@CTSS Mother Tongue Languages Microsite](https://linktr.ee/ctssmtd)
-21. [Request for Relief](https://docs.google.com/forms/d/e/1FAIpQLSdQrxWO1YOydM5brxOlc0OBOo8FGcCIP1CnGXzdzuLpaRIbkQ/viewform)
+21. [Reporting Absence and Relief Notification System ](https://relief.edmension.com/home)
 22. [SC Mobile](https://scmobile.moe.edu.sg/login)
 23. [School Cockpit](https://schoolcockpit.moe.gov.sg)
 24. [School Cockpit Curriculum, Subject and Results (CSR) Module](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30018912&amp;rand=8221)
