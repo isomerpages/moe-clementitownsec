@@ -2,6 +2,7 @@
 title: Useful Links For Staff
 permalink: /about-us/for-staff/
 description: ""
+variant: markdown
 ---
 1. [All EARS Form Builder](https://forms.moe.edu.sg/)
 2. [Apple Learning Centre](https://education.apple.com/#/home/resources)
@@ -21,13 +22,15 @@ description: ""
 16. [OPAL 2.0](https://opal2.moe.edu.sg/)
 17. [Parents Gateway (PG)](https://pg.moe.edu.sg/)
 18. [PDLP One-Stop Portal by ETD](http://go.gov.sg/PDLP)
-19. [Request for Relief](https://docs.google.com/forms/d/e/1FAIpQLSdQrxWO1YOydM5brxOlc0OBOo8FGcCIP1CnGXzdzuLpaRIbkQ/viewform)
-20. [SC Mobile](https://scmobile.moe.edu.sg/login)
-21. [School Cockpit](https://schoolcockpit.moe.gov.sg)
-22. [School Cockpit Curriculum, Subject and Results (CSR) Module](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30018912&amp;rand=8221)
-23. [SG Learning Designers Circle](https://www.facebook.com/groups/sglearningdesigners/)
-24. [STEM Lesson Ideas](https://www.meristem.site/esepp-20212022-lesson-packages-summary)
-25. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
+19. [Read@CTSS English Language Microsite](https://sites.google.com/moe.edu.sg/2024read-ctss/home)
+20. [Read@CTSS Mother Tongue Languages Microsite](https://linktr.ee/ctssmtd)
+21. [Request for Relief](https://docs.google.com/forms/d/e/1FAIpQLSdQrxWO1YOydM5brxOlc0OBOo8FGcCIP1CnGXzdzuLpaRIbkQ/viewform)
+22. [SC Mobile](https://scmobile.moe.edu.sg/login)
+23. [School Cockpit](https://schoolcockpit.moe.gov.sg)
+24. [School Cockpit Curriculum, Subject and Results (CSR) Module](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30018912&amp;rand=8221)
+25. [SG Learning Designers Circle](https://www.facebook.com/groups/sglearningdesigners/)
+26. [STEM Lesson Ideas](https://www.meristem.site/esepp-20212022-lesson-packages-summary)
+27. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg)
 
 
 <br>
