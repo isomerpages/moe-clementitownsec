@@ -1,0 +1,35 @@
+logo: /images/ctss updated logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Co-Curriculum
+    collection: co-curriculum
+  - title: Curriculum
+    collection: curriculum
+  - title: Key Programmes
+    collection: key-programmes-in-ctss
+  - title: Admissions and Forms
+    url: /admissions/direct-school-admission
+    sublinks:
+      - title: Direct School Admission
+        url: /admissions/direct-school-admission
+      - title: Secondary 1 Posting Exercise
+        url: /admissions/secondary-1-posting-exercise
+      - title: Local Transfers
+        url: /admissions/local-transfers
+      - title: Returning Singaporeans
+        url: /admissions/returning-singaporeans
+      - title: International Students
+        url: /admissions/international-students
+      - title: Student Admission Application
+        url: /forms-1/application-for-student-admission-year-2024-sec-2-3-only/
+      - title: Application for MOE FAS
+        url: /forms-1/application-for-moe-fas
+      - title: School FAS SC Application Form
+        url: /forms-1/school-based-fas-for-sc-application-form
+      - title: Application for GIRO
+        url: /forms-1/application-for-giro
+  - title: Contact Our Staff
+    collection: contact-our-staff
+  - title: Our Partners
+    collection: our-partners

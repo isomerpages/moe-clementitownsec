@@ -1,0 +1,8 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - Principal's Letters to Parents.md
+      - Parent Support Group (PSG).md
+      - Join the CTSS Alumni.md
+      - Newsworthy Alumni.md

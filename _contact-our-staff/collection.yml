@@ -1,0 +1,14 @@
+collections:
+  contact-our-staff:
+    output: true
+    order:
+      - School Management Committee 2024.md
+      - School Contact Details.md
+      - Lead and Senior Teachers.md
+      - All Staff.md
+      - CCA Parents/.keep
+      - CCA Parents/CCA Parents Secondary 1.md
+      - CCA Parents/CCA Parents Secondary 2.md
+      - CCA Parents/CCA Parents Secondary 3.md
+      - CCA Parents/CCA Parents Secondary 4 and 5.md
+      - Subject Teachers Contact Details.md
