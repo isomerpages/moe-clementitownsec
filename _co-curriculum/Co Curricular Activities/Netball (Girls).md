@@ -1,31 +1,9 @@
 ---
-"0": C
-"1": T
-"2": S
-"3": S
-"4": ""
-"5": N
-"6": E
-"7": T
-"8": B
-"9": A
-"10": L
-"11": L
-"12": (
-"13": G
-"14": I
-"15": R
-"16": L
-"17": S
-"18": )
-"19": ""
-"20": C
-"21": C
-"22": A
 title: Netball (Girls)
 permalink: /co-curriculum/co-curricular-activities/netball-girls/
-description: ""
 variant: markdown
+description: ""
+third_nav_title: Co Curricular Activities
 ---
 #### **ABOUT THE CCA**
 
@@ -48,7 +26,7 @@ We truly believe that no amount of talent can make up for the lack of practice. 
 
 •	Ms Teo Wei Na (AIC)
 
-•	Ms Sim Shin Jie
+•	Ms Sim Shin JieA
 
 •	Mdm Natarajan Umarani
     
