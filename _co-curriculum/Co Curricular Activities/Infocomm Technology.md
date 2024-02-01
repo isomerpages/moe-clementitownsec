@@ -88,11 +88,12 @@ In the course of the CCA, students are also encouraged to participate in select 
 </table>
   
 
-#### **KEY EVENTS (2023)**
+#### **KEY EVENTS (2024)**
 
 
 * Artificial Intelligence Workshops  
-* Swift App Development Workshops  
+* Game Development Workshops  
+* Apple New Media Workshops  
 * Robotics Workshops
 * PA Training
 * Photography Training
