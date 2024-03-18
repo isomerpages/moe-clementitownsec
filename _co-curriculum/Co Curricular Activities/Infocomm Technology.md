@@ -236,7 +236,7 @@ work collaboratively with one another.</p>
 <p>Photography Training</p>
 </li>
 </ul>
-<h4>**KEY ACHIEVEMENTS **</h4>
+<h4><strong>KEY ACHIEVEMENTS</strong></h4>
 <table>
 <tbody>
 <tr>
