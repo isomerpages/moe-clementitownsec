@@ -2,35 +2,43 @@
 title: Letters to Parents
 permalink: /letters-to-parents/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Secondary 1
-
-*  [Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 1](/files/Ps_letter_T2_2024_sec1.pdf)
-### Secondary 2
-
-*[ Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 2](/files/Ps_letter_T2_2024_sec2.pdf)
-
-### Secondary 3
-
-*   [Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 3](/files/Ps_letter_T2_2024_sec3.pdf)
-
-### Secondary 4
-
-*   [Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 4 and 5](/files/Ps_letter_T2_2024_sec4.pdf)
-
-### Secondary 5
-
-*   [Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 4 and 5](/files/Ps_letter_T2_2024_sec4.pdf)
+<h3>Secondary 1</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Ps_letter_T2_2024_sec1.pdf" rel="noopener noreferrer nofollow" target="_blank">18 Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 1</a>
+</p>
+</li>
+</ul>
+<h3>Secondary 2</h3>
+<p>*<a href="/files/Ps_letter_T2_2024_sec2.pdf" rel="noopener noreferrer nofollow" target="_blank"> 18 Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 2</a>
+</p>
+<h3>Secondary 3</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Ps_letter_T2_2024_sec3.pdf" rel="noopener noreferrer nofollow" target="_blank">18 Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 3</a>
+</p>
+</li>
+</ul>
+<h3>Secondary 4</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Ps_letter_T2_2024_sec4.pdf" rel="noopener noreferrer nofollow" target="_blank">18 Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 4 and 5</a>
+</p>
+</li>
+</ul>
+<h3>Secondary 5</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Ps_letter_T2_2024_sec4.pdf" rel="noopener noreferrer nofollow" target="_blank">18 Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 4 and 5</a> 
 <br>
 <br>
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
+</div>
+<p></p>
