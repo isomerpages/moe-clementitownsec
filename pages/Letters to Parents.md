@@ -21,7 +21,7 @@ variant: markdown
 
 ### Secondary 5
 
-*   [Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 4 and 55](/files/Ps_letter_T2_2024_sec45.pdf)
+*   [Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 4 and 5](/files/Ps_letter_T2_2024_sec45.pdf)
 <br>
 <br>
 <br>
