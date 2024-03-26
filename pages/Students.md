@@ -16,7 +16,7 @@ variant: markdown
 
 *   [Textbook List for 2024](https://clementitownsec.moe.edu.sg/clementeens/textbook-list-for-2024/)
 *   [Purchase of School Uniform and PE Attire](/clementeens/purchase-of-school-uniform-and-pe-attire)
-*   [School Rules and Regulations](/files/CTSS%20CODE%20OF%20CONDUCT%2026Oct2021.pdf)
+*   [School Rules and Regulations](/files/CTSS_CODE_OF_CONDUCT_for_2024_uptd_14_Nov_2023.pdf)
 *  [Student Protection Plan](https://www.clementitownsec.moe.edu.sg/clementeens/student-protection-plan)
 *  [National Digital Literacy Programme (NDLP)](https://clementitownsec.moe.edu.sg/ndlp/)
 
