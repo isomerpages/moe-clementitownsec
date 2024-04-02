@@ -1,0 +1,4 @@
+collections:
+  archive-of-past-achievements:
+    output: true
+    order: []
