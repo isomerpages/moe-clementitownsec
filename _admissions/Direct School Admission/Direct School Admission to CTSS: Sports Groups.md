@@ -294,8 +294,7 @@ students’ sporting talent and passion for the sport through rigorous training
 sessions, friendly matches and various inter-school competitions. In addition,
 we also want to instill in them the values of discipline, hard work and
 teamwork that are crucial in the area of character building.</p>
-<p>Students can expect to participate in the following activities (subject
-to prevailing safe management measures):</p>
+<p>Students can expect to participate in the following activities:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>West Zone Badminton Competition</p>
@@ -311,14 +310,13 @@ to prevailing safe management measures):</p>
 Primary 6 students who exhibit the following*:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Very Good Conduct</p>
+<p>Have Very Good Conduct</p>
 </li>
 <li>
 <p>Possess interest and passion for Badminton</p>
 </li>
 <li>
-<p>Represented school in National School Games (NSG) for Badminton or similar
-racquet sports.</p>
+<p>Have represented school in National School Games (NSG) for Badminton.</p>
 </li>
 </ul>
 <p>We also welcome applicants who possess good psychomotor skills in other
