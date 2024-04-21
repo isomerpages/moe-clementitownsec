@@ -238,8 +238,7 @@ sporting talent and passion for the sport through rigorous training sessions,
 friendly matches and various inter-school competitions. In addition, we
 also want to instill in them the values of discipline, hard work and teamwork
 that are crucial in the area of character building.</p>
-<p>Students can expect to participate in the following activities (subject
-to prevailing safe management measures):</p>
+<p>Students can expect to participate in the following activities:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>West Zone Netball Competition</p>
@@ -258,32 +257,34 @@ to prevailing safe management measures):</p>
 Primary 6 students who exhibit the following*:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Very Good Conduct</p>
+<p>Have Very Good Conduct</p>
 </li>
 <li>
 <p>Possess interest and passion for Netball</p>
 </li>
 <li>
-<p>Represented school in National School Games (NSG) for Netball or similar
-ball games.</p>
+<p>Have represented school in National School Games (NSG) for Netball.</p>
 </li>
 </ul>
 <p>We also welcome applicants who possess good psychomotor skills in other
 sports to apply.</p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for a selection exercise consisting of performance tasks and interview
-in July 2023.</p>
-<p>Selected applicants may be invited for a 2nd round interview with the
-School Leaders and/or CCA Key Personnel in August 2023.</p>
+in July 2024.</p>
+<p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
+with the School Leaders and/or CCA Key Personnel in August 2024.</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>Successful applicants will join CTSS in January 2023.</p>
+<p>Successful applicants will join CTSS in January 2025.</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
+<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/NETBALL.jpeg">
 </div>
