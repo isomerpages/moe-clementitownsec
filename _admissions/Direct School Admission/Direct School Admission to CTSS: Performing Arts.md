@@ -74,30 +74,34 @@ invitations include:</p>
 Primary 6 students who exhibit the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Very Good Conduct ;</p>
+<p>Have Very Good Conduct;</p>
 </li>
 <li>
 <p>Positive attitude, commitment and determination to develop their leadership
-and instrumental skills ;</p>
+and instrumental skills;</p>
 </li>
 <li>
-<p>Experience in playing a Wind Band instrument (Winds, Brass, Double Bass
-or Percussion).</p>
+<p>Have experience in playing a Wind Band instrument (Winds, Brass, Double
+Bass or Percussion).</p>
 </li>
 </ul>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
-for an audition and interview in July 2023.</p>
-<p>Selected applicants may be invited for a 2nd round interview with the
-School Leaders and/or CCA Key Personnel in August 2023.</p>
+for an audition and interview in July 2024.</p>
+<p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
+with the School Leaders and/or CCA Key Personnel in August 2024.</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>Successful applicants will join CTSS in January 2024.</p>
+<p>Successful applicants will join CTSS in January 2025.</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
+<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year</em>
+</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/BAND.jpeg">
 </div>
