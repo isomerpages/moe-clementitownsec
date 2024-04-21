@@ -108,8 +108,6 @@ Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
 <p>The goal for CTSS in the LLP is to give more opportunities to students
 to learn and demonstrate the School Values of Adaptability, Self-discipline,
 Perseverance, Integrity and Respect, as well as to be developed as student
@@ -122,14 +120,14 @@ for all Clementeens to ‘Aspire and Grow’ - our school motto.</p>
 Primary 6 students who exhibit the following*:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Very Good Conduct</p>
+<p>Have Very Good conduct</p>
 </li>
 <li>
-<p>Strong leadership qualities (track records such as leadership role(s)
-at cohort or school level)</p>
+<p>Demonstrate Strong leadership qualities (tracks records such as leadership
+role(s) <u>at cohort or school level</u>)</p>
 </li>
 <li>
-<p>Led in VIA projects in school or community</p>
+<p>Have led in VIA projects in school and community</p>
 </li>
 </ul>
 <p>Applicants keen to apply for DSA through the category of Leadership and
@@ -148,15 +146,7 @@ Uniformed Groups may select the following Talent Areas:</p>
 <p>National Police Cadet Corps (NPCC)</p>
 </li>
 </ul>
-<p>Shortlisted applicants will be invited to Clementi Town Secondary School
-for a selection exercise consisting of performance tasks and interview
-between July to August 2023.</p>
-<p>Students will be assessed on both their demonstrated and potential ability
-and qualities, so as to ensure that they benefit from the rigorous curriculum
-offered at CTSS.</p>
-<p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school, and participate in the activities
-related to the talent they are selected for from year 1–4.</p>
-<p>Successful applicants will join CTSS in January 2024.</p>
-<p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
+<p></p>
+<p></p>
+<p><em>will be shortlisted/given an offer.</em>
 </p>
