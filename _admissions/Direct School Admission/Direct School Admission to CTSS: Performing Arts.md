@@ -324,7 +324,7 @@ related to the talent they are selected for from Year 1–4.&nbsp;</p>
 <p>Successful applicants will join CTSS in January 2025.</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
-<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
+<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em> 
 <br>
 <br>
 <br>
