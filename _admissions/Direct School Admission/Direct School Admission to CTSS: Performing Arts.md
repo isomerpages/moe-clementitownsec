@@ -162,15 +162,15 @@ multiple aspects.</p>
 </tbody>
 </table>
 <p></p>
-<p>For the students who choose Drama as CCA, they are put through training
+<p>For the students who choose Drama as their CCA, they are put through training
 in three areas – Cast, Crew and Creatives.</p>
 <p>For Cast work, students undergo rigorous training in acting to hone their
 skills of voice projection, stage presence and characterization. Crew work
 focuses on training students to run events, and in the stage-management
 of a big production. They are also trained in stage make-up, and the managing
-of sound and lighting of a show. For Creative work, students are encouraged
-to write scripts and have opportunities to choreograph dances for the shows
-that we put up, outside of school.</p>
+of sounds and lighting of a show. For Creative work, students are encouraged
+to write scripts, choreograph dances, design publicity materials and design
+experiential elements for the shows that we put up.</p>
 <p>CT Drama also helms the production of the biennial school musical since
 it began in 2009. To date, we have progressed from staging it in the school
 hall to performing in:</p>
