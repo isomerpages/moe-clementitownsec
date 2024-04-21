@@ -246,17 +246,20 @@ stage presence and characterization skills.</p>
 <p>Students will have an interview with the teachers</p>
 </li>
 </ul>
-<p>Selected applicants may be invited for a 2nd round interview with the
-School Leaders and/or CCA Key Personnel in August 2022.</p>
+<p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
+with the School Leaders and/or CCA Key Personnel in August 2024.</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>Successful applicants will join CTSS in January 2024.</p>
+<p>Successful applicants will join CTSS in January 2025.</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
+<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/drama.jpeg">
 </div>
