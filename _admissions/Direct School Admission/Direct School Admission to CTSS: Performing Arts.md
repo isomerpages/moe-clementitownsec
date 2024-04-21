@@ -271,9 +271,28 @@ level competitions (eg. Singapore Youth Festival) as well as external performanc
 organised by various organizations or initiated by our dancers. There are
 also opportunities to showcase their dance and talent in school during
 school events.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa%20dance.jpg">
-</div>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival – Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>In this Direct School Admission Exercise, we are looking for promising
 Primary 6 pupils who exhibit the following:&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -284,28 +303,28 @@ Primary 6 pupils who exhibit the following:&nbsp;&nbsp;</p>
 <p>Possess interest and passion for Dance</p>
 </li>
 <li>
-<p>Represented school in Singapore Youth Festival (SYF) and/or external dance
-performances or competitions</p>
+<p>Have positive attitude, commitment and determination to develop their
+dance and leadership skills</p>
 </li>
 <li>
-<p>Show positive attitude, commitment and determination to develop their
-dance and leadership skills</p>
+<p>Have represented school in Singapore Youth Festival (SYF) and/or external
+dance performances or competitions</p>
 </li>
 </ul>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
-for an audition and interview in July 2023.</p>
-<p>Selected applicants may be invited for a 2nd round interview with the
-School Leaders and/or CCA Key Personnel in August 2023.</p>
+for an audition and interview in July 2024.</p>
+<p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
+with the School Leaders and/or CCA Key Personnel in August 2024.</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from Year 1–4.&nbsp;</p>
-<p>Successful applicants will join CTSS in January 2024.</p>
+<p>Successful applicants will join CTSS in January 2025.</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
-<p>
+<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
 <br>
 <br>
 <br>
