@@ -185,18 +185,23 @@ hall to performing in:</p>
 <p>and Victoria Theatre (2016)</p>
 </li>
 </ul>
-<p>The CT Musical journey began in 2009, and we staged our 6th musical in
-2018 at University Cultural Centre. The ground-up production sees the devotion
-of both alumni and current students. CT Drama believes in providing our
-students with quality and authentic performing experience. With a 25-person
-teacher team behind each production and a six-month long preparation for
-the eventual show in June, CT Musical aims to always teach students strong
-lessons of life and values.</p>
+<p>The CT Musical journey began in 2009, and we staged our 7th musical in
+2022 at the NAFA Lee Foundation Theatre. The ground-up production sees
+the devotion of both alumni and current students. CT Drama believes in
+providing our students with quality and authentic performing experience.
+With a 25-person teacher team behind each production and a six-month long
+preparation for the eventual show in June, CT Musicals aim to always teach
+students strong lessons of life and values.</p>
 <p>Other than our school musical, students will also get opportunities to
 put up performances to hone their craft. Some examples of our performances
 include:</p>
-<p>*CT Drama’s Online Interactive Play- REPLAY [A Virtual Time Machine] 2021</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>F.O.U.R 2023 @ Gateway Theatre</p>
+</li>
+<li>
+<p>CT Drama’s Online Interactive Play- REPLAY [A Virtual Time Machine] 2021</p>
+</li>
 <li>
 <p>CT Drama’s 1st online production- The Show Must Go On 2020</p>
 </li>
@@ -209,21 +214,21 @@ include:</p>
 </ul>
 <p>In this Direct School Admission Exercise, we are looking for promising
 Primary 6 pupils who exhibit the following:</p>
-<p>*Very Good Conduct</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Possess interest and passion for Theater and the Arts</p>
+<p>Have Very Good Conduct</p>
 </li>
 <li>
-<p>Positive attitude, commitment and determination to develop their drama/acting
-skills</p>
+<p>Possess interest and passion for Theatre and the Arts</p>
 </li>
 <li>
+<p>Have positive attitude, commitment and determination to develop their
+drama/acting skills</p>
 <p></p>
 </li>
 </ul>
 <p>Shortlisted applicants are required to undergo an audition and an interview
-in July 2022.</p>
+in July 2024.</p>
 <p>&nbsp;<strong>I.</strong>&nbsp;&nbsp; <strong>Audition</strong>
 </p>
 <ul data-tight="true" class="tight">
