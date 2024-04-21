@@ -3,12 +3,14 @@ title: "Direct School Admission to CTSS: Leadership and Uniformed Groups"
 permalink: /admissions/direct-school-admission/direct-school-admission-to-ctss-leadership-and-uniformed-groups/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
-Clementi Town Secondary School offers its DSA under the Leadership and Uniformed Groups strand and is focused on **_Student Leadership Development through the Uniformed Groups (UG)_**. All successful applicants under the DSA scheme will be allocated a UG as their core CCA.
+Clementi Town Secondary School offers its DSA under the Leadership and Uniformed Groups strand and is focused on ***Student Leadership Development through the Uniformed Groups (UG)***. All successful applicants under this DSA Talent Area will be allocated a UG as their core CCA.
+ 
+Clementi Town Secondary School (CTSS) envisions a vibrant community of students who have the passion to learn, confidence to lead and humility to serve. To achieve this, we believe in providing a holistic education for our students and encouraging them to pursue their passions and interests. The focus on Leadership Development through the UG further supports our strategic thrust of helping our students to be ‘Future-Ready’. They do so by providing an excellent infrastructure for students to achieve our school goals, vision and mission. In addition, the variety of activities within UGs further lends itself to the development and growth of its members. Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements. 
 
-Clementi Town Secondary School (CTSS) envisions a vibrant community of students who have the passion to learn, confidence to lead and humility to serve. To achieve this, we believe in providing a holistic education for our students and encouraging them to pursue their passions and interests. The focus on Leadership Development through the UG further supports our strategic thrust of helping our students to be ‘Future-Ready’. They do so by providing an excellent infrastructure for students to achieve our school goals, vision and mission. In addition, the variety of activities within UGs further lends itself to the development and growth of its members. Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements.
 
-![](/images/ctss%20dsa%20leadership%20and%20uniformded%20groups.png)
+
 
    
 The goal for CTSS in the LLP is to give more opportunities to students to learn and demonstrate the School Values of Adaptability, Self-discipline, Perseverance, Integrity and Respect, as well as to be developed as student leaders through the UGs.
