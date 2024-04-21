@@ -146,7 +146,20 @@ Uniformed Groups may select the following Talent Areas:</p>
 <p>National Police Cadet Corps (NPCC)</p>
 </li>
 </ul>
-<p></p>
+<p>Shortlisted applicants will be invited to Clementi Town Secondary School
+for a selection exercise consisting of performance tasks and interview
+between July to August 2024.</p>
+<p>Students will be assessed on both their demonstrated and potential ability
+and qualities, so as to ensure that they benefit from the rigorous curriculum
+offered at CTSS.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the activities
+related to the talent they are selected for from year 1–4.&nbsp;</p>
+<p>Successful applicants will join CTSS in January 2025.</p>
+<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
+</p>
+<p><em>*meeting all the criteria does not guarantee the student </em>
+</p>
 <p></p>
 <p><em>will be shortlisted/given an offer.</em>
 </p>
