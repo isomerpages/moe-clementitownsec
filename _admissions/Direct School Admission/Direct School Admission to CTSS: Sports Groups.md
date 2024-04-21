@@ -118,16 +118,75 @@ activities related to the talent they are selected for from year 1–4.&nbsp;</p
 <p>Clementi Town Secondary School’s Volleyball team has a proud tradition
 of excellence at inter-school competitions. Through the programme, students
 undergo rigorous training sessions, friendly matches and local competitions
-so as to enhance their skills, as well as, knowledge of the sport. The
-programme also hopes to instill and develop the values of discipline, perseverance
+so as to enhance their skills, as well as knowledge of the sport. The programme
+also hopes to instill and develop the values of discipline, perseverance
 and teamwork in the players during their time at Clementi Town Secondary
 School.</p>
-<p>Through the strong support of the teachers, coaches, alumni, as well as
-the commitment displayed by our players, we are proud to share the following
-achievements attained by the team in the National School Games since 2017.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa%20volleyball.jpg">
-</div>
+<p>&nbsp;Through the strong support of the teachers, coaches, alumni, as
+well as the commitment displayed by our players, we are proud to share
+the following achievements attained by the team in the National School
+Games.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Division</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Division Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone- 3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone – 2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone - 4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;No NSG due to Covid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone - 1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG to be held in July</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Students can expect to participate in the activities listed below when
 they join CTSS via Volleyball DSA:</p>
 <ol data-tight="true" class="tight">
@@ -142,32 +201,34 @@ they join CTSS via Volleyball DSA:</p>
 Primary 6 students (boys) who should preferably exhibit the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Very Good Conduct Grade</p>
+<p>Have Very Good Conduct Grade</p>
 </li>
 <li>
 <p>Possess interest and passion for Volleyball</p>
 </li>
 <li>
-<p>Represented school in National School Games (NSG) for Volleyball or similar
-ball games</p>
+<p>Have represented school in National School Games (NSG) for Volleyball</p>
 </li>
 </ul>
 <p>We also welcome applicants who possess good psychomotor skills in other
 sports to apply.</p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for a selection exercise consisting of performance tasks and interview
-in July 2023.</p>
-<p>Selected applicants may be invited for a 2nd round interview with the
-School Leaders and/or CCA Key Personnel in August 2023.</p>
+in July 2024.</p>
+<p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
+with the School Leaders and/or CCA Key Personnel in August 2024.</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>Successful applicants will join CTSS in January 2024.</p>
+<p>Successful applicants will join CTSS in January 2025.</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
+<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/VB%20DSA.jpeg">
 </div>
