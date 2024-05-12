@@ -74,5 +74,10 @@ events and group events.</p>
 <p>Pang Jia Xi Kavan</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_Gold.jpg">
+</div>
+<p></p>
 <p>Congratulations to all winners!</p>
 <p>Ramesh Varish</p>
