@@ -54,6 +54,11 @@ events and group events.</p>
 </ol>
 <p><strong><u>B Division Boys Group Weapon Event - Gold Medal</u></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_Gold.jpg">
+</div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Woo Yi Wei Lucas</p>
@@ -73,11 +78,9 @@ events and group events.</p>
 <li>
 <p>Pang Jia Xi Kavan</p>
 </li>
+<li>
+<p>Ramesh Varish</p>
+</li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_Gold.jpg">
-</div>
-<p></p>
 <p>Congratulations to all winners!</p>
 <p>Ramesh Varish</p>
