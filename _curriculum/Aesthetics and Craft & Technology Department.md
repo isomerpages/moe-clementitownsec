@@ -104,12 +104,45 @@ at Singapore Science Centre and vendor-run Financial Literacy workshops.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT05.jpg">
 </div>
 <p></p>
+<h4><strong>MUSIC</strong></h4>
+<p><strong>Mission:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>Create
+and provide opportunities for all to learn and be engaged through active
+music making in a scholastic environment.</p>
 <p></p>
-<p></p>
-<p>
-<br>
-<br>
+<p><strong><u>Key Programmes:</u></strong>
 </p>
+<p>Students are given opportunities to listen to various music genres, create
+simple compositions using authentic instruments and electronic mediums.
+In addition, students get to perform individually and as an ensemble. For
+the lower secondary music program, students experience making music in
+terms of performing Samba Percussion, engaging in individual and group
+music performance through the keyboard module and the IPAD Band Module.
+Performance skills such as Keyboard and Cajon performance are also emphasized
+as crucial practical skills. Exposure to diverse forms of Music is also
+encouraged through exposure to Ethnic Music, Samba Music, local music and
+various forms of pop music. In the Upper Secondary level, music is offered
+as an N(T) level elective subject where emphasis is placed on music composition
+for film and pop music. Students taking this elective are also required
+to be proficient in performance skills and be familiar to Pop, Rock, R&amp;B
+and Electronic Dance Music.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT06.jpg">
+</div>
+<p></p>
+<p><strong>Maker Programme (Tinkering Thursdays)</strong>
+</p>
+<p>Tinkering Thursdays is a maker programme that provides opportunities for
+students to<strong> LEARN</strong> something <strong>NEW </strong>and <strong>CREATE </strong>something
+of their <strong>OWN.</strong> Each term, a diverse array of workshops is
+offered, providing students with the chance to explore new skills and develop
+their own projects.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT07.jpg">
+</div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
