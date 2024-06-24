@@ -2,68 +2,55 @@
 title: Lead and Senior Teachers
 permalink: /contact-us/lead-and-senior-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<center>
-
-
 <h4>Lead Teacher / Geography</h4>
-
-
-<img style="width:35%" src="/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg">
-
-Mrs Teng-Tay Soo Chin, Emmeline 
-<br>
-<a href="mailto:tay_soo_chin_emmeline@moe.edu.sg">tay_soo_chin_emmeline@moe.edu.sg</a>
-
-
-
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/Mrs%20Teng%20Tay%20Soo%20Chin.jpeg">
+</div>
+<p>Mrs Teng-Tay Soo Chin, Emmeline
+<br><a href="mailto:tay_soo_chin_emmeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_soo_chin_emmeline@moe.edu.sg</a>
+</p>
 <h4>Lead Teacher / Chemistry</h4>
-
-
-<img style="width:35%" src="/images/Mrs%20Tan%20Wen%20Yi.jpeg">
-
-Mrs Tan Wen Yi    
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/Mrs%20Tan%20Wen%20Yi.jpeg">
+</div>
+<p>Mrs Tan Wen Yi
 <br>
-<a href="mailto:tan_wen_yi@moe.edu.sg">tan_wen_yi@moe.edu.sg</a>
-
-
+<br><a href="mailto:tan_wen_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wen_yi@moe.edu.sg</a>
+</p>
 <h4>Senior Teacher / Mathematics</h4>
-
-
-<img style="width:35%" src="/images/Mrs%20Cheong%20Poh%20Suan.jpeg">
-
-Mrs Cheong Poh Suan   
-
-<a href="mailto:soh_poh_suan@moe.edu.sg">soh_poh_suan@moe.edu.sg</a>
-	
-<img style="width:35%" src="/images/Doreen.png">
-Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen<br>
-	<a href="lau_ying_ying_doreen@moe.edu.sg">lau_ying_ying_doreen@moe.edu.sg</a> 
-
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/Mrs%20Cheong%20Poh%20Suan.jpeg">
+</div>
+<p>Mrs Cheong Poh Suan</p>
+<p><a href="mailto:soh_poh_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_poh_suan@moe.edu.sg</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/Doreen.png">
+</div>
+<p>Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen
+<br><a href="lau_ying_ying_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_ying_ying_doreen@moe.edu.sg</a>
+</p>
 <h4>Senior Teacher / Social Studies</h4>
-
-	
-
-<img style="width:35%" src="/images/Mdm%20Rashidah%20Kassim.jpeg">
-<br>
-Mdm Rashidah Kassim<br>
-<a href="mailto:rashidah_kassim@moe.edu.sg">rashidah_kassim@moe.edu.sg</a>
-	
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/Mdm%20Rashidah%20Kassim.jpeg">
+</div>
+<p>
+<br>Mdm Rashidah Kassim
+<br><a href="mailto:rashidah_kassim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_kassim@moe.edu.sg</a>
+</p>
 <h4>Senior Teacher / English</h4>
-<img style="width:35%" src="/images/Mrs%20Yuen%20Lay%20Eng.jpeg">
-Mrs Yuen Lay Eng <br>
-	<a href="ang_lay_eng@moe.edu.sg">ang_lay_eng@moe.edu.sg</a>
-	
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/Mrs%20Yuen%20Lay%20Eng.jpeg">
+</div>
+<p>Mrs Yuen Lay Eng
+<br><a href="ang_lay_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lay_eng@moe.edu.sg</a>
 <br>
 <br>
 <br>
-
-<style>  
-img {  
-display: block;  
-margin-left: auto;  
-margin-right: auto;  
-}  
-</style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;"></center>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
+</div>
+<p></p>
