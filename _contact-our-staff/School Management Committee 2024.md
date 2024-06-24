@@ -99,7 +99,7 @@ variant: tiptap
 <br><a href="li_qianyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_qianyi@moe.edu.sg</a>
 </p>
 <p></p>
-<h3><strong>HOD / Math</strong></h3>
+<h3><strong>HOD / Mathematics</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Ms Low liqing" src="/images/Ms%20Low%20Li%20Qing.jpg">
 </div>
@@ -183,12 +183,7 @@ variant: tiptap
 <br><a href="[kamal_yacob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamal_yacob@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>SH / Mathematics</strong><br></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Doreen.png">
-</div>
-<p>Ms Low Liqing
-<br><a href="low_liqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_liqing@moe.edu.sg</a> 
+<p>
 <br>
 </p>
 <h3><strong>SH / PE and CCA</strong></h3>
