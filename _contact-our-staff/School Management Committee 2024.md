@@ -125,7 +125,7 @@ variant: tiptap
 <br><a href="siti_nurwati_dalduri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurwati_dalduri@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>Year Head (Secondary 1, 4 &amp; 5) </strong></h3>
+<h3><strong>Year Head (Secondary 1, 4 &amp; 5)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Tan MH" src="/images/kenneth.jpeg">
 </div>
