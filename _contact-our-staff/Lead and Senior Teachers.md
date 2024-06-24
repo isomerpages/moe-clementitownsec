@@ -36,14 +36,24 @@ Mrs Tan Wen Yi
 Mrs Cheong Poh Suan   
 
 <a href="mailto:soh_poh_suan@moe.edu.sg">soh_poh_suan@moe.edu.sg</a>
+	
+<img style="width:35%" src="/images/Doreen.png">
+Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen<br>
+	<a href="lau_ying_ying_doreen@moe.edu.sg">lau_ying_ying_doreen@moe.edu.sg</a> 
 
 <h4>Senior Teacher / Social Studies</h4>
 
+	
 
 <img style="width:35%" src="/images/Mdm%20Rashidah%20Kassim.jpeg">
 <br>
 Mdm Rashidah Kassim<br>
 <a href="mailto:rashidah_kassim@moe.edu.sg">rashidah_kassim@moe.edu.sg</a>
+	
+<h4>Senior Teacher / English</h4>
+<img style="width:35%" src="/images/Mrs%20Yuen%20Lay%20Eng.jpeg">
+Mrs Yuen Lay Eng <br>
+	<a href="ang_lay_eng@moe.edu.sg">ang_lay_eng@moe.edu.sg</a>
 	
 <br>
 <br>
