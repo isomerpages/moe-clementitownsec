@@ -125,7 +125,7 @@ variant: tiptap
 <br><a href="siti_nurwati_dalduri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurwati_dalduri@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>Year Head (Secondary 1, 4 &amp; 5)</strong></h3>
+<h3><strong>Year Head (Secondary 1, 4 &amp; 5 -Internal)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Tan MH" src="/images/kenneth.jpeg">
 </div>
@@ -145,6 +145,14 @@ variant: tiptap
 </p>
 <h4><strong>ASSISTANT YEAR HEADS AND SUBJECT HEADS</strong></h4>
 <hr>
+<h3><strong>AYH / Secondary 1</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Mr Jeremy.jpeg">
+</div>
+<p>Mr Lim Liangcai Jeremy</p>
+<p><a href="mailto:lim_liangcai_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_liangcai_jeremy@moe.edu.sg</a>
+</p>
 <h3><strong>AYH / Secondary 2</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mdm Roseza" src="/images/Mdm%20Rosezalina.jpeg">
