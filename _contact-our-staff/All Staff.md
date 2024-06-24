@@ -45,10 +45,7 @@ Mrs Cheong Poh Suan <br>
 <a href="soh_poh_suan@moe.edu.sg">soh_poh_suan@moe.edu.sg</a> 
 
 
-<img style="width:35%" src="/images/Mr%20Chia%20Chun%20Keong.jpeg">
 
-Mr Chia Chun Keong  <br>
-	<a href="chia_chun_keongn@moe.edu.sg">chia_chun_keongn@moe.edu.sg</a> 
 
 
 <img style="width:35%" src="/images/Mr%20Chidambaram%20Saravanan.jpeg">
@@ -60,11 +57,6 @@ Mr Chidambaram Saravanan <br>
 
 Mrs Chin-Leong Hwai Ee, Stella <br>
 	<a href="leong_hwai_ee_stella@moe.edu.sg">leong_hwai_ee_stella@moe.edu.sg</a> 
-
-
-<img style="width:35%" src="/images/mr%20chng%20chia%20yii.jpeg">
-Mr&nbsp;Chng Chia Yi    <br>
-	<a href="chng_chia_yi@moe.edu.sg">chng_chia_yi@moe.edu.sg</a> 
 
 	
 	
@@ -235,9 +227,6 @@ Mr Mohamed Ressal Mohamed Raffi <br>
 Mdm Rosezalina Bte Asmoin <br>
 <a href="rosezalina_asmoin@moe.edu.sg">rosezalina_asmoin@moe.edu.sg</a> 				
 
-<img style="width:35%" src="/images/Mr%20See%20Gim%20Hwee%20(1).jpg">
-Mr See Gim Hwee <br>
-<a href="see_gim_hween@moe.edu.sg">see_gim_hwee@moe.edu.sg</a> 		
 
 
 <img style="width:35%" src="/images/Ms%20Sia%20Gee%20Han.jpeg">
@@ -263,10 +252,7 @@ Ms Siti Nurwati Dalduri <br>
 <a href="siti_nurwati_dalduri@moe.edu.sg">siti_nurwati_dalduri@moe.edu.sg</a>
 
 
-<img style="width:35%" src="/images/Ms%20Soon%20Si%20Lin%20Jocelyn%20(Teacher).png">
 
-Ms Soon Si Lin Jocelyn <br>
-		<a href="soon_si_lin_jocely@moe.edu.sg">soon_si_lin_jocely@moe.edu.sg</a>
 
 
 <img style="width:35%" src="/images/Ms%20Sophia%20Ng%20Jia%20Ming.jpg">
@@ -323,9 +309,7 @@ Mr Tan Liang Hooi <br>
 Mr Tan Ming Hon, Kenneth <br>
 		<a href="tan_ming_ho@moe.edu.sg">tan_ming_ho@moe.edu.sg</a>
 
-<img style="width:35%" src="/images/mr%20tan%20teck%20soon.jpeg">
-Mr Tan Teck Soon <br>
-		<a href="tan_teck_soon@moe.edu.sg">tan_teck_soon@moe.edu.sg</a>
+
 
 
 <img style="width:35%" src="/images/Mr%20Tan%20Ser%20Yong.jpeg">
@@ -359,10 +343,7 @@ Ms Teo Wei Na <br>
 	<a href="teo_wei_na@moe.edu.sg">teo_wei_na@moe.edu.sg</a>
 
 
-<img style="width:35%" src="/images/mr%20thomas%20law%20choon%20ting.jpeg">
 
-Mr Thomas Law <br>
-	<a href="law_choon_ting_thomas@moe.edu.sg">law_choon_ting_thomas@moe.edu.sg</a>
 
 
 <img style="width:35%" src="/images/Valane%20Passport%20Photo%202.jpeg">
@@ -409,8 +390,5 @@ Mrs Yuen Lay Eng <br>
 	<a href="ang_lay_eng@moe.edu.sg">ang_lay_eng@moe.edu.sg</a>
 	
 
-<img style="width:35%" src="/images/zm2.jpg">
-Mr Zhang Ming <br>
-	<a href="zhang_ming@moe.edu.sg">zhang_ming@moe.edu.sg</a>
  
 </center></center></center>
