@@ -19,15 +19,7 @@ needs and interests of our students.&nbsp;</p>
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Liang Hooi (Mr)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chng Chia Yi (Mr)</p>
+<p>Li Qianyi (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -40,18 +32,18 @@ needs and interests of our students.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Biology</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Li Qianyi (Ms)</p>
+<p>Teo Chai Yaw (Mr)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Applied Maths &amp; Sciences</p>
+<p>Head of Department / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asmah Beevi d/o A. Kamaludin (Ms)</p>
+<p>Tan Liang Hooi (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -99,23 +91,15 @@ needs and interests of our students.&nbsp;</p>
 <p>Teacher / Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yang Linxi (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dian Farziana (Mdm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Biology</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Loh Wan Ting (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Hong Nin</p>
 </td>
 </tr>
 <tr>
@@ -124,24 +108,6 @@ needs and interests of our students.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Kay Shin (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Physics
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Li Min (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi Adjunct Teacher / Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chiew Meng Lin (Mdm)</p>
 </td>
 </tr>
 </tbody>
