@@ -2,6 +2,7 @@
 title: Science Department
 permalink: /curriculum/science-department/
 description: ""
+variant: markdown
 ---
 #### **SCIENCE DEPARTMENT**
 
@@ -24,7 +25,6 @@ Think. Do. Love. Science
 
 #### **KEY PROGRAMMES**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRqj2EDutSwET8rELJNtVVNBYEAkIjrQBGvYEIBa3zSbu2aDvUo0FVV9pnXDKdDwMZVCqUP8dvu7XZM/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 The department is dedicated in arousing and sustaining the interest in science learning for all students by complementing the normal curriculum with school-wide science enrichment, i.e. Clementeen Science Investigation (CSI).
 
