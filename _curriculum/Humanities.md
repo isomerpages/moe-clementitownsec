@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /curriculum/humanities/
 description: ""
+variant: markdown
 ---
 #### **MISSION**
 
@@ -76,7 +77,6 @@ We seek to cultivate in students a lifelong passion for the Humanities subjects 
 
 #### **KEY PROGRAMMES**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMSab0IeLSt0-az8h0ltBJGsffiOLZk8C6hcbhBOGimpnqKr8b7XgVXSRLB380MjmzYiBl6XQ4jsK4/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 **Humanities: Teaching and Learning**&nbsp;
 
