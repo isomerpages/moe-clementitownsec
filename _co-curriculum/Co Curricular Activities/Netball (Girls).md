@@ -15,16 +15,18 @@ members hold firm to the conviction that given dedication, practice and
 the will to succeed, we will succeed one day. Over the year, the challenges
 we faced made us stronger as a team and fostered stronger ties among our
 members.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LVpsLD9PS2c?si=mf-BmrjS5jCXPXvE"></iframe>
-</div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <p>• Ms Chan Lay Leng (OIC)</p>
 <p>• Ms Teo Wei Na (AIC)</p>
 <p>• Ms Sim Shin Jie</p>
 <p>• Mdm Natarajan Umarani</p>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -73,7 +75,11 @@ members.</p>
 </tbody>
 </table>
 <h4><strong>KEY EVENTS</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -110,7 +116,11 @@ members.</p>
 </tbody>
 </table>
 <h4><strong>KEY ACHIEVEMENTS</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -139,7 +149,12 @@ members.</p>
 </tbody>
 </table>
 <h4><strong>TRAINING DETAILS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
