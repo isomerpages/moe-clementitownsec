@@ -3,46 +3,270 @@ title: Basketball (Boys)
 permalink: /co-curriculum/co-curricular-activities/basketball-boys/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: tiptap
 ---
-#### **ABOUT THE CCA**
-
-In CT Basketball, we aim to nurture our boys' passion for the game as well as inculcate in them the ASPIRE values in facing the challenges associated with the game. We truly believe that no amount of talent can make up for the lack of practice. Our team of dedicated, committed and passionate Basketball club members hold firm to the conviction that given dedication, practice and the will to succeed, we will succeed one day – on Court and in life.&nbsp;
-
-  
-
-The CT Basketball Team – or the CT Brotherhood as we call it has faced a lot of challenges which have made us stronger as a team and fostered stronger ties among our members – indeed forging lifetime friendships. The Alumni also come back regularly to mentor and join trainings so that the juniors have a sense of their history and know that the culture of giving back is strong within our Brotherhood with the hope that they will also come back one day to carry forward this spirit of giving back to their juniors.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTL3YZrdntE6OKlgUihMsrGTSCpgQ_HdoGEdkEYZv8hCNg1t_DSF0gIuUMwoD3bEsPwqgbM-kn7rFsX/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-
-#### **TEACHERS IN-CHARGE**
-
-*   Ms Sheetal Sonawane (OIC)  
-*   Mr See Gim Hwee (AIC)
-*   Mr Kenneth Tan Ming Hon
-*   Mr Wong Choo Kok
-
-#### **STUDENT EXECUTIVE COMMITTEE**
-
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 719px; height: 327px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 239px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Name</span></p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 119px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Class</span></p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 360px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Position / Appointment</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Muhammad Albaqir S/O Mohamad Nasir</span></p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">4A2</span></p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Captain (B Division)</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Winks Lim Yong Quan</span></p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">3B2</span></p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Vice-Captain (B Division)</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Lukas Vaughan Kai-En O’Hara</span></p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">3B1</span></p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Vice-Captain (B Division)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Chua Ye Xuan</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">4A1&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">VIA Head (B Division)&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Yuvan Sivanandan<span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp; &nbsp;</span></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">2S6&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; line-height: 15.6933px; font-family: Calibri, sans-serif;"></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Captain (C Division)</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Bryan Chui Wei Zian&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2S5</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Vice-Captain (C Division)</td></tr></tbody></table>
-
-#### **KEY EVENTS**
-
-<table class="ive_eobj_center iveo_table ives_tab_zen" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 722.5px; height: 92px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 370px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 352px;"><span id="docs-internal-guid-419e2cc4-7fff-7ac1-62d8-159b6ee4a0f3" style="margin: 0px; outline: 0px; padding: 0px;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></p></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">CT BB (B Division) VIA Project 2021&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;April 2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">CTSS All Star Basketball Championships 2021&nbsp;&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">NSG Cancelled for B Division&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">West Zone B Division Basketball Tournament&nbsp;&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">2019&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">West Zone B Division Tournament</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 60px;">2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 60px;"><span id="docs-internal-guid-31debd4f-7fff-9f5a-2cd3-e10f829d1c9f" style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">West Zone C Division Basketball Tournament&nbsp;&nbsp;</span></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><span id="docs-internal-guid-4c3a584d-7fff-dc24-68c2-fbb60431eec1" style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">T-Net B Division Basketball Tournament&nbsp;</span></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2019&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><span id="docs-internal-guid-b5c12f1d-7fff-ff07-b789-f1a2eaed9347" style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">T-Net C Division Basketball Tournament&nbsp;&nbsp;</span></span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><span id="docs-internal-guid-295bb322-7fff-396c-1e04-591211c47d3b" style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">D-League C Division Basketball Tournament&nbsp;</span></span>&nbsp;</td></tr></tbody></table>
-
-
-#### **TRAINING DETAILS**
-
-<table class="ive_eobj_center iveo_table ives_tab_dark" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 744px; height: 135px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 205px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Day</b></p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 214px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Time</b></p></td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 324px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Venue</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Monday</p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3 pm – 6 pm</p></td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Outdoor Basketball Courts / ISH</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Friday</p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2.30 pm – 5.30 pm</p></td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Outdoor Basketball Courts / ISH</p></td></tr></tbody></table>
-
+<h4><strong>ABOUT THE CCA</strong></h4>
+<p>In CT Basketball, we aim to nurture our boys' passion for the game as
+well as inculcate in them the ASPIRE values in facing the challenges associated
+with the game. We truly believe that no amount of talent can make up for
+the lack of practice. Our team of dedicated, committed and passionate Basketball
+club members hold firm to the conviction that given dedication, practice
+and the will to succeed, we will succeed one day – on Court and in life.&nbsp;</p>
+<p>The CT Basketball Team – or the CT Brotherhood as we call it has faced
+a lot of challenges which have made us stronger as a team and fostered
+stronger ties among our members – indeed forging lifetime friendships.
+The Alumni also come back regularly to mentor and join trainings so that
+the juniors have a sense of their history and know that the culture of
+giving back is strong within our Brotherhood with the hope that they will
+also come back one day to carry forward this spirit of giving back to their
+juniors.</p>
+<h4><strong>TEACHERS IN-CHARGE</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Sheetal Sonawane (OIC)</p>
+</li>
+<li>
+<p>Mr See Gim Hwee (AIC)</p>
+</li>
+<li>
+<p>Mr Kenneth Tan Ming Hon</p>
+</li>
+<li>
+<p>Mr Wong Choo Kok</p>
+</li>
+</ul>
+<h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position / Appointment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Albaqir S/O Mohamad Nasir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Captain (B Division)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Winks Lim Yong Quan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (B Division)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lukas Vaughan Kai-En O’Hara</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (B Division)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Chua Ye Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A1&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VIA Head (B Division)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Yuvan Sivanandan&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2S6&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Captain (C Division)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bryan Chui Wei Zian&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2S5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (C Division)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY EVENTS</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CT BB (B Division) VIA Project 2021&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;April 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CTSS All Star Basketball Championships 2021&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Cancelled for B Division&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone B Division Basketball Tournament&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone B Division Tournament</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone C Division Basketball Tournament&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T-Net B Division Basketball Tournament&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T-Net C Division Basketball Tournament&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D-League C Division Basketball Tournament&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>TRAINING DETAILS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 pm – 6 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor Basketball Courts / ISH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30 pm – 5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor Basketball Courts / ISH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 <br>
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
+</div>
+<p></p>
