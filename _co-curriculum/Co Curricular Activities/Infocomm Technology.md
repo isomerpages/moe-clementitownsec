@@ -24,9 +24,6 @@ App Development and Artificial Intelligence Interest Groups.</p>
 <p>In the course of the CCA, students are also encouraged to participate
 in select photography and robotics competitions to hone their skills and
 work collaboratively with one another.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZe8iy0updhZLHlEvlwNZxCLik-4uBIYgOaiW5GBbjdAoY9QTlNsqe31IA9hSzLEHwsPJCyXLTZt5n/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <h4><strong>TEACHER ICS</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -36,14 +33,19 @@ work collaboratively with one another.</p>
 <p>Mr Peter Tan (AIC)</p>
 </li>
 <li>
-<p>Mr Zhang Ming</p>
+<p>Mr Daniel Foo</p>
 </li>
 <li>
 <p>Mdm Bek Su Ling</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -237,7 +239,11 @@ work collaboratively with one another.</p>
 </li>
 </ul>
 <h4><strong>KEY ACHIEVEMENTS</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -299,7 +305,12 @@ work collaboratively with one another.</p>
 </tbody>
 </table>
 <h4><strong>TRAINING DETAILS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
