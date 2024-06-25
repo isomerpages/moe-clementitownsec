@@ -98,15 +98,23 @@ variant: tiptap
 <p>Ms Li Qianyi
 <br><a href="li_qianyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_qianyi@moe.edu.sg</a>
 </p>
-<p>
+<p></p>
+<h3><strong>HOD / Mathematics</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Ms Low liqing" src="/images/Ms%20Low%20Li%20Qing.jpg">
+</div>
+<p>Ms Low Liqing
+<br><a href="low_liqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_liqing@moe.edu.sg</a> 
 <br>
 </p>
 <h3><strong>HOD / School Staff Developer</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Chng" src="/images/mr%20chng%20chia%20yii.jpeg">
+<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Ms Tnee" src="/images/Valane%20Passport%20Photo%202.jpeg">
 </div>
-<p>Mr&nbsp;Chng Chia Yi
-<br><a href="chng_chia_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_chia_yi@moe.edu.sg</a> 
+<p>Miss Tnee Li Ling Valane</p>
+<p><a href="mailto:tnee_li_ling_valane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tnee_li_ling_valane@moe.edu.sg</a>
+<br>
 <br>
 </p>
 <h3><strong>HOD / Student Management</strong></h3>
@@ -117,12 +125,12 @@ variant: tiptap
 <br><a href="siti_nurwati_dalduri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurwati_dalduri@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>Year Head (Secondary 1, 4 &amp; 5) &nbsp;and SEN OiC</strong></h3>
+<h3><strong>Year Head (Secondary 1, 4 &amp; 5 -Internal)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Ms Tnee" src="/images/Valane%20Passport%20Photo%202.jpeg">
+<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Tan MH" src="/images/kenneth.jpeg">
 </div>
-<p>Ms Tnee Li Ling, Valane
-<br><a href="tnee_li_ling_valane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tnee_li_ling_valane@moe.edu.sg</a>
+<p>Mr Tan Ming Hon, Kenneth
+<br><a href="tan_ming_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_ho@moe.edu.sg</a>
 </p>
 <p>
 <br>
@@ -137,6 +145,14 @@ variant: tiptap
 </p>
 <h4><strong>ASSISTANT YEAR HEADS AND SUBJECT HEADS</strong></h4>
 <hr>
+<h3><strong>AYH / Secondary 1</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Mr Jeremy.jpeg">
+</div>
+<p>Mr Lim Liangcai Jeremy</p>
+<p><a href="mailto:lim_liangcai_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_liangcai_jeremy@moe.edu.sg</a>
+</p>
 <h3><strong>AYH / Secondary 2</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mdm Roseza" src="/images/Mdm%20Rosezalina.jpeg">
@@ -145,13 +161,7 @@ variant: tiptap
 <br><a href="rosezalina_asmoin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosezalina_asmoin@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>AYH / Secondary 4 &amp; 5</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Tan MH" src="/images/kenneth.jpeg">
-</div>
-<p>Mr Tan Ming Hon, Kenneth
-<br><a href="tan_ming_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_ho@moe.edu.sg</a>
-</p>
+<p></p>
 <p>
 <br>
 </p>
@@ -181,12 +191,7 @@ variant: tiptap
 <br><a href="[kamal_yacob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamal_yacob@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>SH / Mathematics</strong><br></h3>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Ms Low liqing" src="/images/Ms%20Low%20Li%20Qing.jpg">
-</div>
-<p>Ms Low Liqing
-<br><a href="low_liqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_liqing@moe.edu.sg</a> 
+<p>
 <br>
 </p>
 <h3><strong>SH / PE and CCA</strong></h3>
