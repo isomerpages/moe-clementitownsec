@@ -3,64 +3,336 @@ title: Art Club
 permalink: /co-curriculum/co-curricular-activities/art-club/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: tiptap
 ---
-#### **ABOUT THE CCA**
-
-****Please note that Art Club has ceased enrolment and will close in 2025.**
-
-The CTSS Art Club aims to nurture in members love and appreciation of fine art. Through exposing our members to diverse art forms such as painting, sculpture and mixed media, we hope to hone their creativity and self expression.  
-To enrich their Art Education, visits to art institutions and galleries are also organized periodically to pique the members' interest in different art styles, artists and movements.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeWr20n1slGt-xE7IV5oX6Vb_sFQMLW24w_QODmbYsaopdHam2zL-emPyxe-a7XZm3ZSkjCPYI3J67/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-#### **TEACHERS IN-CHARGE**
-
-
-  
-
-*   Mr Tan Kiang Chye Casey (OIC)&nbsp;
-*   Mrs Yuen - Ang Lay Eng (AIC)  
-    
-*   Mdm Dian Farziana Mohd Farid
-
-  
-
-#### **STUDENT EXECUTIVE COMMITTEE**
-
-
-<table class="iveo_table ives_tab_dark" width="608" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 732px; height: 111px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 244px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Name</p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 120px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Class</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 367px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Position / Appointment</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Goh Yun Ying</p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">204</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">President</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Pang Ing Jia</p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2O3</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Vice-President</p></td></tr></tbody></table>
-
-#### **KEY EVENTS**
-
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 701px; height: 360px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="123" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 205px;">2021</td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 495px;">Self-portraits<span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; line-height: 17.12px; font-family: Arial, sans-serif; color: rgb(34, 34, 34);"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Typography Art</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Organ Donation Tote Bag Competition</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">2021<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Draw My Stamp Story Competition</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Values-in-Action’ Bin-it’ Project</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Teachers’ Day Card Design</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;National Day Mask Design Competition</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">Competition: Organ Donor Tote Bag Design<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Competition: NKF Kidney stickers Design</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; line-height: 17.12px; font-family: Arial, sans-serif; color: rgb(34, 34, 34);"></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Singapore Youth Festival</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Learning journey</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Values-in-education, service learning</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Student-initiated activities</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Student Art Exhibition</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Design with Typography&nbsp;</td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="123" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">2019</span></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Design Valentine Day cards</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="123" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">2019</span></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Design with Recycled Materials</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="123" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">2019</span></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Painting with Acrylic</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="123" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">2019</span></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Learning journey to Art exhibitions / Art gallery</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="123" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">2019</span></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Paper Cut</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="123" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">2019</span></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Farewell /Graduation Party</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="123" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">2019</span></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Team Bonding Activities</span></p></td></tr></tbody></table>
-
-  
-
-#### **KEY ACHIEVEMENTS (2018 - 2021)**
-
-
-  
-
-<table class="iveo_table ives_tab_dark" width="0" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 722px; height: 72px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="92" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 116px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Year</span><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="524" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 605px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Position, Name of Competition</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="92" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;2021</span></p></td><td width="524" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; line-height: 15.6933px; font-family: Calibri, sans-serif;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Gold Award - Draw My Stamp Story Competition</span></p></td></tr></tbody></table>
-
-  
-
-#### **TRAINING DETAILS**
-
-
-  
-
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 717px; height: 138px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="172" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 205px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Day</span></p></td><td width="126" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 152px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Time</span></p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 359px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Venue</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="172" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Monday</span></p></td><td width="126" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">3.30pm to 5.30pm</span></p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Art Room</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="172" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Wednesday</span></p></td><td width="126" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">3.30pm to 5.30pm</span></p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Art Room</span></p></td></tr></tbody></table>
-
+<h4><strong>ABOUT THE CCA</strong></h4>
+<p>**<strong>Please note that Art Club has ceased enrolment and will close in 2025.</strong>
+</p>
+<p>The CTSS Art Club aims to nurture in members love and appreciation of
+fine art. Through exposing our members to diverse art forms such as painting,
+sculpture and mixed media, we hope to hone their creativity and self expression.
+<br>To enrich their Art Education, visits to art institutions and galleries
+are also organized periodically to pique the members' interest in different
+art styles, artists and movements.</p>
+<h4><strong>TEACHERS IN-CHARGE</strong></h4>
+<ul>
+<li>
+<p>Mr Tan Kiang Chye Casey (OIC)&nbsp;</p>
+</li>
+<li>
+<p>Mrs Yuen - Ang Lay Eng (AIC)</p>
+</li>
+<li>
+<p>Mdm Dian Farziana Mohd Farid</p>
+</li>
+</ul>
+<h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position / Appointment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Yun Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>204</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pang Ing Jia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2O3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY EVENTS</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Self-portraits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Typography Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Organ Donation Tote Bag Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Draw My Stamp Story Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Values-in-Action’ Bin-it’ Project</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Teachers’ Day Card Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;National Day Mask Design Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Competition: Organ Donor Tote Bag Design
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Competition: NKF Kidney stickers Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Learning journey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Values-in-education, service learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Student-initiated activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Student Art Exhibition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design with Typography&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design Valentine Day cards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design with Recycled Materials</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Painting with Acrylic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning journey to Art exhibitions / Art gallery</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paper Cut</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Farewell /Graduation Party</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Bonding Activities</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY ACHIEVEMENTS (2018 - 2021)</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position, Name of Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Gold Award - Draw My Stamp Story Competition</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>TRAINING DETAILS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30pm to 5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30pm to 5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 <br>
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
+</div>
+<p></p>

@@ -3,72 +3,321 @@ title: Chinese Dance (Girls)
 permalink: /co-curriculum/co-curricular-activities/chinese-dance-girls/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: tiptap
 ---
-#### **ABOUT THE CCA**
-
-
-CTSS Chinese Dance Club, which comprises 35 members, aims to foster interest, engagement and appreciation for Dance. Under the guidance of our instructor, the dancers are given firm grounding in basic Chinese dance movements and development of challenging moves and repertoires.&nbsp;
-
-As part of the learning process, the dancers are also encouraged to explore other contemporary styles and choreography as part of their dance development.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRrVPZCwI9mSuiyOrKkeiCz-MevasOIvhjmMqBznNwXHtpN4d3Dd7wQ826meGMP48gbMRxgSTBEsESa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-**2020 CNY Performance**
-
-<img src="/images/CD01.jpeg" style="width:60%">
-
-<img src="/images/CD03.jpeg" style="width:75%">
-
-**2019 SYF**
-
-<img src="/images/CD04.jpeg" style="width:75%">
-
-**2019 Dance Camp**
-
-<img src="/images/CD02.jpeg" style="width:75%">
-
-#### **TEACHERS IN-CHARGE**
-
-
-  
-
-*   Ms He Meiyu (OIC)
-*   Ms Ma Ning (AIC)
-*   Ms Madeline Lim
-*   Ms Woong Choy Wan  
-    
-
-#### **STUDENT EXECUTIVE COMMITTEE**
-
-<table class="iveo_table ives_tab_1" width="608" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 725px; height: 132px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 241px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Name</p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 240px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Class</p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 242px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Position/Appointment</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Wynne Tan Wei Yi</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3C1</p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">President</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Lee Wei Ying</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3B1</p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Vice-President</p></td></tr></tbody></table>
-
-  
-
-#### **KEY EVENTS**
-
-<table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 743px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="92" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 98px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Year</b></p></td><td width="524" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 544px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Name of Event</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; line-height: 15.6933px; font-family: Calibri, sans-serif;"></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Singapore Youth Festival Arts Presentation</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Chinese New Year Performance</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Aesthetics VIA Project</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2020<span style="margin: 0px; outline: 0px; padding: 0px;"></span></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Aesthetics VIA project</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; line-height: 15.6933px; font-family: Calibri, sans-serif;"></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Chinese New Year Performance&nbsp;</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; line-height: 15.6933px; font-family: Calibri, sans-serif;"></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Chinese New Year Performance&nbsp;</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">Singapore Youth Festival<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Dance Exchange Programme at Woodlands Secondary School</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">Performance at Tuition Programme Awards Presentation Ceremony organized by Chinese Development Assistance Council<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; line-height: 15.6933px; font-family: Calibri, sans-serif;"></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Chinese New Year Performance&nbsp;</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2018</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Values in Action Activity at Bethany Methodist Nursing Home&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2018</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Public performance at Gardens by the Bay during Chinese New Year<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;&nbsp;2018</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">Chinese New Year Performance&nbsp;</td></tr></tbody></table>
-
-  
-
-#### **KEY ACHIEVEMENTS IN 2016 - 2019**
-
-<table class="iveo_table ives_tab_1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 744px; height: 109px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="92" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 216px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Year</b></p></td><td width="246" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 527px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Position, Name of Competition</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Singapore Youth Festival Arts Presentation - Certificate of Distinction</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="92" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2019</td><td width="246" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Certificate of Distinction at the Singapore Youth Festival Arts Presentation for Chinese Dance (Secondary)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">2017&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Certificate of Distinction at the Singapore Youth Festival Arts Presentation for Chinese Dance (Secondary)</td></tr></tbody></table>
-
-
-#### **TRAINING DETAILS**
-
-
-<table class="iveo_table ives_tab_1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 744px; height: 172px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 205px;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Day</span></b></p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 215px;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Time</span></b></p></td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 323px;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Venue</span></b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Monday</span></p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">3.15 pm – 6.15 pm</span></p></td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">B4-7</p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="161" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Wednesday</span></p></td><td width="170" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">3.15 pm – 6.15 pm</td><td width="265" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Music Room</span></p></td></tr></tbody></table>
-
+<h4><strong>ABOUT THE CCA</strong></h4>
+<p>CTSS Chinese Dance Club, which comprises 35 members, aims to foster interest,
+engagement and appreciation for Dance. Under the guidance of our instructor,
+the dancers are given firm grounding in basic Chinese dance movements and
+development of challenging moves and repertoires.&nbsp;</p>
+<p>As part of the learning process, the dancers are also encouraged to explore
+other contemporary styles and choreography as part of their dance development.</p>
+<p><strong>2020 CNY Performance</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/CD01.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/CD03.jpeg">
+</div>
+<p><strong>2019 SYF</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/CD04.jpeg">
+</div>
+<p><strong>2019 Dance Camp</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/CD02.jpeg">
+</div>
+<h4><strong>TEACHERS IN-CHARGE</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms He Meiyu (OIC)</p>
+</li>
+<li>
+<p>Ms Ma Ning (AIC)</p>
+</li>
+<li>
+<p>Ms Madeline Lim</p>
+</li>
+<li>
+<p>Ms Woong Choy Wan</p>
+</li>
+</ul>
+<h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position/Appointment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wynne Tan Wei Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Wei Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY EVENTS</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Event</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Chinese New Year Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Aesthetics VIA Project</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Aesthetics VIA project</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Performance&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Performance&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Dance Exchange Programme at Woodlands Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance at Tuition Programme Awards Presentation Ceremony organized
+by Chinese Development Assistance Council
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Performance&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Values in Action Activity at Bethany Methodist Nursing Home&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public performance at Gardens by the Bay during Chinese New Year
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp;2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Performance&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY ACHIEVEMENTS IN 2016 - 2019</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position, Name of Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction at the Singapore Youth Festival Arts Presentation
+for Chinese Dance (Secondary)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Certificate of Distinction at the Singapore Youth Festival Arts
+Presentation for Chinese Dance (Secondary)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>TRAINING DETAILS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 pm – 6.15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B4-7</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 pm – 6.15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 <br>
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
+</div>
+<p></p>

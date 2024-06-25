@@ -3,59 +3,325 @@ title: Indian Dance (Girls)
 permalink: /co-curriculum/co-curricular-activities/indian-dance-girls/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: tiptap
 ---
-#### **ABOUT THE CCA**
-
-
-Indian Dance has 40 years of rich history in Clementi Town Secondary School. In our school, we mainly focus on Classical Indian Dance called Bharathanatyam. This dance form has a rich ancient and cultural history to it. Dance allows our dancers to integrate their thinking, movement and feelings and also connect back to their cultural roots.
-
-Indian Dancers are given opportunities to express themselves through this dance form on several stages such as Singapore Youth Festival, Inter-School Competitions, and performances for school and community events. With these opportunities provided, the Indian Dancers develop a higher level of self-awareness and confidence at the end of their school years here.
-
-Our dancers are involved in Value in Action (VIA) community events as well, where they engage in meaningful activities. Students are given opportunities to also try out and watch performances of other dance forms where they learn to show appreciation towards other cultures.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDhOgJLIu5J8Dk11Elmb9Mwc1mxIDBup54VsTGiS8YJC7CfQOq3n-cG6dR4zJrGYTWD554q0cUI1hM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-#### **TEACHERS IN-CHARGE**
-
-
-  
-
-*   Ms Sumitha Krisnan (OIC)
-*   Mdm Renuka (AIC)
-*   Mrs Winnie Tan
-
-  
-
-#### **STUDENT EXECUTIVE COMMITTEE**
-
-
-
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 730px; height: 409px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 301px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Name</p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 97px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Class</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 331px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Position / Appointment</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">MOORTHY RAKSHITA</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"></p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3C1</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">President</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">SENDURPANDIAN NISHAL</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"></p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3D1</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Vice-President</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">GANESAN LAKSHMI MADHUSHRI</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"></p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3D1</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Logistics Head</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">SASIKUMAR ROSHINI</span></p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3B1</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Management and Discipline Head</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">SASIKUMAR VARSHASHREE</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"></p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2M1</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Lower Sec IC</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">RAMASUBRAMANIYAN VISHVARETHA</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"></p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2M2</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Lower Sec Management and Discipline Head</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">DEVARAJ NETHRA</span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"></p></td><td width="95" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2M2</p></td><td width="310" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Lower Sec Logistics Head</p></td></tr></tbody></table>
-
-  
-
-#### **KEY EVENTS**
-
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 727px; height: 288px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="92" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 137px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Year</b></p></td><td width="435" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 589px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Name of Event</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Singapore Youth Festival 2021</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Navarasam Interschool Competition by Kallang CC</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Singapore Youth Festival 2019</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="92" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2019</p></td><td width="435" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Navarasam Interschool Competition by Kallang CC</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2018</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">Navarasam Interschool Competition by Kallang CC</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="92" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2018</p></td><td width="435" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Victoria-Cedar Sigaram All Arts Competition<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-#### **KEY ACHIEVEMENTS IN 2016 - 2019**
-
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 743px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="92" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 107px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Year</b></p></td><td width="473" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 535px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Position, Name of Competition</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Certificate of Distinction for Singapore Youth Festival 2021</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Certificate of Distinction for Singapore Youth Festival 2019</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">1st Place, Tamil Fest Celebration by Jurong Spring CC - Solo Classical Dance (Secondary)&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">1st Place, Navarasam Interschool Competition by Kallang CC</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="92" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2018</p></td><td width="473" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">3rd Place, Victoria-Cedar Sigaram All Arts Competition<span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; line-height: 17.12px; font-family: Calibri, sans-serif;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2018&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">3rd Place, Navarasam Interschool Competition by Kallang CC&nbsp;</td></tr></tbody></table>
-  
-
-#### **TRAINING DETAILS**
-
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 710px; height: 134px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 237px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Day</p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 236px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Time</p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 236px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Venue</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Monday</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">3.30-5.30 pm</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Music Room</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Wednesday</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">3.30-5.30 pm</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Language Room</span></p></td></tr></tbody></table>
-
+<h4><strong>ABOUT THE CCA</strong></h4>
+<p>Indian Dance has 40 years of rich history in Clementi Town Secondary School.
+In our school, we mainly focus on Classical Indian Dance called Bharathanatyam.
+This dance form has a rich ancient and cultural history to it. Dance allows
+our dancers to integrate their thinking, movement and feelings and also
+connect back to their cultural roots.</p>
+<p>Indian Dancers are given opportunities to express themselves through this
+dance form on several stages such as Singapore Youth Festival, Inter-School
+Competitions, and performances for school and community events. With these
+opportunities provided, the Indian Dancers develop a higher level of self-awareness
+and confidence at the end of their school years here.</p>
+<p>Our dancers are involved in Value in Action (VIA) community events as
+well, where they engage in meaningful activities. Students are given opportunities
+to also try out and watch performances of other dance forms where they
+learn to show appreciation towards other cultures.</p>
+<h4><strong>TEACHERS IN-CHARGE</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Sumitha Krisnan (OIC)</p>
+</li>
+<li>
+<p>Mdm Renuka (AIC)</p>
+</li>
+<li>
+<p>Mrs Winnie Tan</p>
+</li>
+</ul>
+<h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position / Appointment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOORTHY RAKSHITA</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SENDURPANDIAN NISHAL</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GANESAN LAKSHMI MADHUSHRI</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SASIKUMAR ROSHINI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Management and Discipline Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SASIKUMAR VARSHASHREE</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2M1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAMASUBRAMANIYAN VISHVARETHA</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2M2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Management and Discipline Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DEVARAJ NETHRA</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2M2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Logistics Head</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY EVENTS</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Event</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Singapore Youth Festival 2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Navarasam Interschool Competition by Kallang CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Singapore Youth Festival 2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Navarasam Interschool Competition by Kallang CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Navarasam Interschool Competition by Kallang CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Victoria-Cedar Sigaram All Arts Competition
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY ACHIEVEMENTS IN 2016 - 2019</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position, Name of Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Certificate of Distinction for Singapore Youth Festival 2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Certificate of Distinction for Singapore Youth Festival 2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place, Tamil Fest Celebration by Jurong Spring CC - Solo Classical
+Dance (Secondary)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place, Navarasam Interschool Competition by Kallang CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place, Victoria-Cedar Sigaram All Arts Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place, Navarasam Interschool Competition by Kallang CC&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>TRAINING DETAILS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30-5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30-5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Language Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 <br>
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
+</div>
+<p></p>
