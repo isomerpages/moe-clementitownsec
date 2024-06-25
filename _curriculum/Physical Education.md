@@ -33,7 +33,7 @@ physical fitness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Li Yin</p>
+<p>Mr Ethan Tan</p>
 </td>
 </tr>
 <tr>
@@ -65,15 +65,7 @@ physical fitness.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Thomas Law Choon Ting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Xiao Jing, Joshua</p>
+<p>Ms Teo Li Yin</p>
 </td>
 </tr>
 <tr>
