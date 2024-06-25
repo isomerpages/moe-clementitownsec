@@ -3,55 +3,346 @@ title: National Civil Defence Cadet Corps
 permalink: /co-curriculum/co-curricular-activities/national-civil-defence-cadet-corps/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: tiptap
 ---
-#### **ABOUT THE CCA**
-  
-
-In 2021, we marked the start of a new chapter as the school witness the formation of a new uniform group known as National Civil Defence Cadet Corps (NCDCC). Building upon our past experiences with St. John Brigade, we aim to value add our students’ CCA journey by providing opportunities for students to learn life-saving skills beyond first aid.
-
-NCDCC believes in developing and empowering our youths to be active &amp; concerned citizens with life-saving skills. Our curriculum focuses in developing greater awareness of civil defence in our cadets and prepare them with the skills to respond effectively to emergencies at home and abroad.
-
-NCDCC’s motto of “We Learn, We Lead, We Serve”, in alignment to the 3 big ideas in Character and Citizenship Education: “Identity, Relationships and Choices”, well encapsulates the journey of NCDCC cadets into three phases:
-
-1.  **We Learn:**&nbsp;Cadets learn Triangle of Life skills, which include basic firefighting, first aid and CPR+AED. These are core skills in NCDCC, which enable cadets to help themselves and others in times of need. Equipping cadets with these skills will help to form their identity as NCDCC cadets, a community responder at heart.
-2.  **We Lead:**&nbsp;Cadets will be trained in soft skills such as leadership, communication (including methods of instruction), relationship management and social awareness to get them ready for their leadership phase. They will also further hone their civil defence skills by going through one of the three cadet specialist tracks and be given leadership opportunities to lead their peers.
-3.  **We Serve:**&nbsp;Cadets will make choices to serve their school and the wider community through public education platforms such as the NCDCC Service Month and Emergency Preparedness Day as advocates of Emergency Preparedness. With the civil defence knowledge and skills imparted to them, they will also be able to lend a helping hand as Community First Responders with a compassionate heart.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWXYAMNieQkLy2sjqI0XL7UAFp0jNOoJzMFvfooNI_zIRJOALf92_oAb9uhWddjLlvSYZZFhGMzs0C/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-
-#### **TEACHERS IN-CHARGE**
-  
-
-*   Mr Tan Chor Seng (OIC)
-*   Mr Mohamed Ressal Bin Mohamed Raffi (2IC)
-*   Mr Zulhilmi Bin Zulkiflee  
-*   Ms Wee Yee Ing
-
-#### **STUDENT EXECUTIVE COMMITTEE**
-
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 726px; height: 207px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="157" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 241px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Name</span></p></td><td width="74" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 121px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Class</span></p></td><td width="241" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 363px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Position / Appointment</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="157" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Chng Cho Eng Bjorn</p></td><td width="74" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3C1</p></td><td width="241" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Unit Sergeant Major</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="157" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Tan Yin Yan</p></td><td width="74" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3B2</p></td><td width="241" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Assistant Sergeant Major</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="157" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Lim Yu Suen</p></td><td width="74" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">3D1</p></td><td width="241" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Regimental Sergeant Major</p></td></tr></tbody></table>
-
-#### **KEY EVENTS**
-
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 721.948px; height: 168px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="304" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 285px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Year</b></p></td><td width="304" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 436px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Name of Event</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; text-indent: -18pt;">Impartation of Emergency Preparedness (EP) Skills in schools</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; text-indent: -18pt;">Impartation of Emergency Preparedness (EP) Skills in schools</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Service Month Project 2021: Imparting Emergency Preparedness Skills</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; text-indent: -18pt;">NCDCC Observance Ceremony</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; line-height: 15.6933px; font-family: Calibri, sans-serif;"></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">16th Affirmation Day</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Online Fire Safety Specialisation Course</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Values in Action – Outreach for COVID-19 vaccination</td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="304" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2020</p></td><td width="304" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">St John’s Day Celebration in Schools</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="304" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2020</p></td><td width="304" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">NCOC Bridging Course</p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="304" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">2020</p></td><td width="304" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">NCDCC Conversion Course</p></td></tr></tbody></table>
-
-#### **KEY ACHIEVEMENTS**
-
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 743px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="92" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 98px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Year</b></p></td><td width="524" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 544px;"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Position, Name of Competition</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;SCDF-NCDCC Pinnacle Badge awardee – Mya Phone Myinnt Moh (4B1)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Photo Project and Infographic Design Competition (Participation)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;11th Precision Drill Challenge (In progress)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Corps Achievement Award, Gold&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2019<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">Corps Achievement Award, Silver</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;&nbsp;2018</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Corps Achievement Award, Gold<span lang="EN-GB" style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial, sans-serif; color: rgb(34, 34, 34);"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;&nbsp;2018</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">Zone First Aid Competition (Ambulance), 2nd<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-#### **TRAINING DETAILS**
-
-<table class="iveo_table ives_tab_dark" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 744px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="205" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 248px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Day</b></p></td><td width="205" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 247px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Time</b></p></td><td width="205" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 248px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Venue</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="205" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Monday</p></td><td width="205" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">3.30 pm – 5.30 pm</td><td width="205" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Quadrangle, Foyer, Classroom</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="205" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Wednesday</p></td><td width="205" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">3.30 pm – 5.30 pm</td><td width="205" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;">Quadrangle, Foyer, Classroom</p></td></tr></tbody></table>
-
+<h4><strong>ABOUT THE CCA</strong></h4>
+<p>In 2021, we marked the start of a new chapter as the school witness the
+formation of a new uniform group known as National Civil Defence Cadet
+Corps (NCDCC). Building upon our past experiences with St. John Brigade,
+we aim to value add our students’ CCA journey by providing opportunities
+for students to learn life-saving skills beyond first aid.</p>
+<p>NCDCC believes in developing and empowering our youths to be active &amp;
+concerned citizens with life-saving skills. Our curriculum focuses in developing
+greater awareness of civil defence in our cadets and prepare them with
+the skills to respond effectively to emergencies at home and abroad.</p>
+<p>NCDCC’s motto of “We Learn, We Lead, We Serve”, in alignment to the 3
+big ideas in Character and Citizenship Education: “Identity, Relationships
+and Choices”, well encapsulates the journey of NCDCC cadets into three
+phases:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>We Learn:</strong>&nbsp;Cadets learn Triangle of Life skills,
+which include basic firefighting, first aid and CPR+AED. These are core
+skills in NCDCC, which enable cadets to help themselves and others in times
+of need. Equipping cadets with these skills will help to form their identity
+as NCDCC cadets, a community responder at heart.</p>
+</li>
+<li>
+<p><strong>We Lead:</strong>&nbsp;Cadets will be trained in soft skills such
+as leadership, communication (including methods of instruction), relationship
+management and social awareness to get them ready for their leadership
+phase. They will also further hone their civil defence skills by going
+through one of the three cadet specialist tracks and be given leadership
+opportunities to lead their peers.</p>
+</li>
+<li>
+<p><strong>We Serve:</strong>&nbsp;Cadets will make choices to serve their
+school and the wider community through public education platforms such
+as the NCDCC Service Month and Emergency Preparedness Day as advocates
+of Emergency Preparedness. With the civil defence knowledge and skills
+imparted to them, they will also be able to lend a helping hand as Community
+First Responders with a compassionate heart.</p>
+</li>
+</ol>
+<h4><strong>TEACHERS IN-CHARGE</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Tan Chor Seng (OIC)</p>
+</li>
+<li>
+<p>Mr Mohamed Ressal Bin Mohamed Raffi (2IC)</p>
+</li>
+<li>
+<p>Mr Zulhilmi Bin Zulkiflee</p>
+</li>
+<li>
+<p>Ms Wee Yee Ing</p>
+</li>
+</ul>
+<h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position / Appointment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chng Cho Eng Bjorn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Sergeant Major</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yin Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Sergeant Major</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Yu Suen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Regimental Sergeant Major</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY EVENTS</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Event</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Impartation of Emergency Preparedness (EP) Skills in schools&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Impartation of Emergency Preparedness (EP) Skills in schools&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Service Month Project 2021: Imparting Emergency Preparedness Skills</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Observance Ceremony&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16th Affirmation Day&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Online Fire Safety Specialisation Course</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Values in Action – Outreach for COVID-19 vaccination</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St John’s Day Celebration in Schools</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCOC Bridging Course</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Conversion Course</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY ACHIEVEMENTS</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position, Name of Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;SCDF-NCDCC Pinnacle Badge awardee – Mya Phone Myinnt Moh (4B1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Photo Project and Infographic Design Competition (Participation)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;11th Precision Drill Challenge (In progress)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corps Achievement Award, Gold&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corps Achievement Award, Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp;2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corps Achievement Award, Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp;2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone First Aid Competition (Ambulance), 2nd
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>TRAINING DETAILS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30 pm – 5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quadrangle, Foyer, Classroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30 pm – 5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quadrangle, Foyer, Classroom</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 <br>
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
+</div>
+<p></p>
