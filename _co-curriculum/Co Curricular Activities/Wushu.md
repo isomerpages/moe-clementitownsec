@@ -3,55 +3,364 @@ title: Wushu
 permalink: /co-curriculum/co-curricular-activities/wushu/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: tiptap
 ---
-#### **ABOUT THE CCA**
-  
-
-Wushu is a form of Chinese Martial Arts that blends the elements of performance and martial application. It is a sport that not only requires the physical movement and strength of the body; it also emphasises a great deal of concentration of the mind to complete a routine. Thus, students who practice Wushu become stronger physically, mentally and emotionally.
-
-  
-
-Routines that students can learn in the CCA include bare hands routines, long and short weapon routines. Students will get to learn at least one routine of their choice in each category.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-axQPAySNV1JYv3BlNApaXsl0qRrH10a8Cg74RrLembWzdlwPdx2Bw7XjlDodTawsjqF9LPQywMj2/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-
-#### **TEACHERS IN-CHARGE**
-
-*   Ms Karen Sia&nbsp; (OIC)
-*   Mdm Liew Lee Pin (AIC)  
-*   Mdm Sandy Ee
-*   Mrs Rachel Lehming
-
-#### **STUDENT EXECUTIVE COMMITTEE**
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 655px; height: 122px;" class="iveo_table ives_tab_dark"><tbody style="margin: 0px; outline: 0px; padding: 0px;" class=""><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 255px;" class="" width="185"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><b style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Name</span></b></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 74px;" class="" width="47"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><b style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Class</span></b></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 325px;" class="" width="239"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><b style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Position / Appointment</span></b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);" class="" width="185"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Clarice Low Le Xuan</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);" class="" width="47"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">3A1</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);" class="" width="239"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Captain</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);" class="" width="185"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Chen Huai</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);" class="" width="47"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">3B1</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);" class="" width="239"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Vice-Captain</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);" class="" width="185"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Lim En Cheng Regan</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);" class="" width="47"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">3A1</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);" class="" width="239"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" align="center" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Secretary</span></p></td></tr></tbody></table>
-
-#### **KEY ACHIEVEMENTS**
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 726px; height: 172px;" class="ive_eobj_center iveo_table ives_tab_dark"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 123px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Year</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 602px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Position, Name of Competition</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; line-height: 15.6933px; font-family: Calibri, sans-serif;" lang="EN-SG"></span><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Gold Medal,&nbsp; National School Games Wushu Championships 2021, B Division Girls Individual 2<sup style="margin: 0px; outline: 0px; padding: 0px;" class="">nd</sup><span>&nbsp;</span>International Spear (Clarice Low Le Xuan, 3A1)</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Bronze Medal, National School Games Wushu Championships 2021, B Division Girls Individual 42-Style Taiji Sword (Yeo Xin Hui, 4B2)&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships 2021, B Division Girls Individual 42-Style Taiji Sword (Clarice Low Le Xuan, 3A1)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">National Sports Council Colours Award:<br style="margin: 0px; outline: 0px; padding: 0px;">Yeo Xin Hui, 4B2,<br style="margin: 0px; outline: 0px; padding: 0px;">Clarice Low Le Xuan, 3A1<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;&nbsp;Gold Medal,&nbsp; National School Games Wushu Championships 2019, C Division Girls Formulated 24-Style Taijiquan (Clarice Low Le Xuan, 1B1)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships 2019, C Division Girls 1st International Style Taijiquan (Clarice Low Le Xuan, 1B1)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);"><span style="margin: 0px; outline: 0px; padding: 0px; white-space: pre;"></span>Bronze Medal, National School Games Wushu Championships 2019, C Division Girls Formulated 32-Style Taijijian (Phoenix Sun Minwen, 1A1)&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">National School Games Championship Sportsmanship Award 2019<br style="margin: 0px; outline: 0px; padding: 0px;">'A' Division Boys - Chen Han (4C1)<br style="margin: 0px; outline: 0px; padding: 0px;">'B' Division Boys - Julius Mathew Lim Shi Chee (3B1)<br style="margin: 0px; outline: 0px; padding: 0px;">'B' Division Girls - Li Xixuan (4A1)<br style="margin: 0px; outline: 0px; padding: 0px;">'C' Division Boys - Dylan Chee Keng Woon (2A1)<br style="margin: 0px; outline: 0px; padding: 0px;">'C' Division Girls - Rosario Angela Enid De Luna (2A2)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">National Sports Council Colours Award<br style="margin: 0px; outline: 0px; padding: 0px;">Phoenix Sun Minwen (1A1)<br style="margin: 0px; outline: 0px; padding: 0px;">Clarice Low Le Xuan (1B1)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2018</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships 2018, Individual 1st International Taiji Sword (Chang Yen, 4A1)&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">2018</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships 2018, Individual&nbsp;2nd International Cudgel (Chen Huiyu, 4A1)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2018</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;National Sports Council Colours Award<br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Chang Yen (4A1)<br style="margin: 0px; outline: 0px; padding: 0px;">Chen Huiyu (4A1)</td></tr></tbody></table>
-
-
-#### **KEY EVENTS**  
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 726px; height: 164px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">National School Games Wushu Championships 'B' Division</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2021</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">Chinese New Year Celebration Performance (Bukit Batok Zone 6 RC)&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2021&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Chinese New Year Concert Performance (Clementi Town Secondary School)&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2020</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;Chinese New Year Concert Performance (Clementi Primary School)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">2020&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Chinese New Year Concert Performance (Clementi Town Secondary School)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;CTSS Chinese New Year Celebration Performance&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">National School Games Wushu Championships&nbsp;&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">&nbsp;2019</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);">National Wushu &amp; Sanda Championships&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;2018</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><span style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">CTSS Chinese New Year Celebration Performance</span>&nbsp;&nbsp;</td></tr></tbody></table>
-
-#### TRAINING DETAILS
-
-  
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 728px; height: 157px;" class="iveo_table ives_tab_1 ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 199px;" width="161"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" class=""><font style="margin: 0px; outline: 0px; padding: 0px;" color="#494949">Day</font></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 209px;" width="170"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" class=""><font style="margin: 0px; outline: 0px; padding: 0px;" color="#494949">Time</font></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0); width: 319px;" width="265"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" class=""><font style="margin: 0px; outline: 0px; padding: 0px;" color="#494949">Venue</font></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);" width="161"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" class=""><font style="margin: 0px; outline: 0px; padding: 0px;" color="#494949">Monday</font></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);" width="170"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" class=""><font style="margin: 0px; outline: 0px; padding: 0px;" color="#494949">3.15 pm – 5.15 pm&nbsp;</font></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(235, 235, 235); color: rgb(0, 0, 0);" width="265"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" class=""><font style="margin: 0px; outline: 0px; padding: 0px;" color="#494949">School Hall</font></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">&nbsp;Wednesday</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Avenir, sans-serif; font-size: 16px;" class=""><font style="margin: 0px; outline: 0px; padding: 0px;" color="#494949">3.15 pm – 5.15 pm&nbsp;</font></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">School Hall&nbsp;</td></tr></tbody></table>
-
-  
-\*There may be additional training closer to the performances/competitions
-
+<h4><strong>ABOUT THE CCA</strong></h4>
+<p>Wushu is a form of Chinese Martial Arts that blends the elements of performance
+and martial application. It is a sport that not only requires the physical
+movement and strength of the body; it also emphasises a great deal of concentration
+of the mind to complete a routine. Thus, students who practice Wushu become
+stronger physically, mentally and emotionally.</p>
+<p>Routines that students can learn in the CCA include bare hands routines,
+long and short weapon routines. Students will get to learn at least one
+routine of their choice in each category.</p>
+<h4><strong>TEACHERS IN-CHARGE</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Karen Sia&nbsp; (OIC)</p>
+</li>
+<li>
+<p>Mdm Liew Lee Pin (AIC)</p>
+</li>
+<li>
+<p>Mdm Sandy Ee</p>
+</li>
+<li>
+<p>Mrs Rachel Lehming</p>
+</li>
+</ul>
+<h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position / Appointment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clarice Low Le Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chen Huai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim En Cheng Regan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY ACHIEVEMENTS</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position, Name of Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Medal,&nbsp; National School Games Wushu Championships 2021, B Division
+Girls Individual 2<sup>nd</sup>&nbsp;International Spear (Clarice Low Le
+Xuan, 3A1)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Bronze Medal, National School Games Wushu Championships 2021, B
+Division Girls Individual 42-Style Taiji Sword (Yeo Xin Hui, 4B2)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships 2021,
+B Division Girls Individual 42-Style Taiji Sword (Clarice Low Le Xuan,
+3A1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Sports Council Colours Award:
+<br>Yeo Xin Hui, 4B2,
+<br>Clarice Low Le Xuan, 3A1
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp;Gold Medal,&nbsp; National School Games Wushu Championships
+2019, C Division Girls Formulated 24-Style Taijiquan (Clarice Low Le Xuan,
+1B1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships
+2019, C Division Girls 1st International Style Taijiquan (Clarice Low Le
+Xuan, 1B1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National School Games Wushu Championships 2019, C Division
+Girls Formulated 32-Style Taijijian (Phoenix Sun Minwen, 1A1)&nbsp;
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Championship Sportsmanship Award 2019
+<br>'A' Division Boys - Chen Han (4C1)
+<br>'B' Division Boys - Julius Mathew Lim Shi Chee (3B1)
+<br>'B' Division Girls - Li Xixuan (4A1)
+<br>'C' Division Boys - Dylan Chee Keng Woon (2A1)
+<br>'C' Division Girls - Rosario Angela Enid De Luna (2A2)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Sports Council Colours Award
+<br>Phoenix Sun Minwen (1A1)
+<br>Clarice Low Le Xuan (1B1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships 2018,
+Individual 1st International Taiji Sword (Chang Yen, 4A1)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships
+2018, Individual&nbsp;2nd International Cudgel (Chen Huiyu, 4A1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;National Sports Council Colours Award
+<br>&nbsp;Chang Yen (4A1)
+<br>Chen Huiyu (4A1)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY EVENTS</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships 'B' Division</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Celebration Performance (Bukit Batok Zone 6 RC)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Concert Performance (Clementi Town Secondary School)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Chinese New Year Concert Performance (Clementi Primary School)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Chinese New Year Concert Performance (Clementi Town Secondary School)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;CTSS Chinese New Year Celebration Performance&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Wushu &amp; Sanda Championships&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CTSS Chinese New Year Celebration Performance&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>TRAINING DETAILS</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 pm – 5.15 pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 pm – 5.15 pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*There may be additional training closer to the performances/competitions</p>
+<p>
 <br>
 <br>
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
+</div>
+<p></p>
