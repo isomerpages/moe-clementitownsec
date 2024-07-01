@@ -30,6 +30,9 @@ variant: tiptap
 <p><a href="mailto:audrey_tee_zhu_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_tee_zhu_yi@moe.edu.sg</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="EO Bek Su Ling" src="/images/ms_bek_su_ling.jpg">
+</div>
 <p>Ms Bek Su Ling</p>
 <p><a href="mailto:bek_su_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bek_su_ling@moe.edu.sg</a>
 </p>
@@ -131,15 +134,12 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="EO Daniel" src="/images/Daniel_Foo.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="EO Daniel" src="/images/Daniel_Foo.jpg">
 </div>
 <p>Mr Chuan Yee Daniel</p>
 <p><a href="mailto:foo_chuan_yee_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_chuan_yee_daniel@moe.edu.sg</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="EO Goh Chia Pei" src="/images/Ms_Goh_Chia_Pei.jpg">
-</div>
 <p>Ms Goh Chia Pei</p>
 <p><a href="mailto:goh_chia_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chia_pei@moe.edu.sg</a>
 </p>
@@ -165,7 +165,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="EO Matthew Ho" src="/images/Matthew_Hong_Nin_Ho.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="EO Matthew Ho" src="/images/Matthew_Hong_Nin_Ho.jpg">
 </div>
 <p>Mr Ho Hong Nin</p>
 <p><a href="mailto:ho_hong_nin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hong_nin@moe.edu.sg</a>
