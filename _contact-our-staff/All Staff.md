@@ -439,6 +439,14 @@ variant: tiptap
 <p>Mr Teo Chai Yaw
 <br><a href="teo_chai_yaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chai_yaw@moe.edu.sg</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="EO Teo Li Yin" src="/images/Ms Teo Li Yin.jpeg">
+</div>
+<p>Ms Teo Li Yin</p>
+<p><a href="mailto:teo_li_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_li_yin@moe.edu.sg</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Ms%20Teo%20Wei%20Na.jpeg">
 </div>
