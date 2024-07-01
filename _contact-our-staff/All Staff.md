@@ -140,6 +140,9 @@ variant: tiptap
 <p><a href="mailto:foo_chuan_yee_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_chuan_yee_daniel@moe.edu.sg</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="EO Goh Chia Pei" src="/images/Ms_Goh_Chia_Pei.jpg">
+</div>
 <p>Ms Goh Chia Pei</p>
 <p><a href="mailto:goh_chia_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chia_pei@moe.edu.sg</a>
 </p>
