@@ -30,6 +30,10 @@ variant: tiptap
 <p><a href="mailto:audrey_tee_zhu_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_tee_zhu_yi@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Ms Bek Su Ling</p>
+<p><a href="mailto:bek_su_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bek_su_ling@moe.edu.sg</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/mr%20chan%20bin%20chuan.jpeg">
 </div>
