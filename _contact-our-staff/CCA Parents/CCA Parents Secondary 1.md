@@ -13,7 +13,7 @@ variant: tiptap
 <p>Mr Tan Ming Hon, Kenneth
 <br><a href="mailto:tan_ming_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_ho@moe.edu.sg</a>
 </p>
-<h2>LEVEL AYH (Internal)</h2>
+<h2>ASSISTANT YEAR HEAD (Internal)</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="AYH Jeremy" src="/images/Mr Jeremy.jpeg">
