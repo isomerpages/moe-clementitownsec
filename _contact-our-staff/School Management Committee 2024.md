@@ -145,7 +145,7 @@ variant: tiptap
 </p>
 <h4><strong>ASSISTANT YEAR HEADS AND SUBJECT HEADS</strong></h4>
 <hr>
-<h3><strong>AYH / Secondary 1</strong></h3>
+<h3><strong>AYH / Secondary 1- Internal</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Mr Jeremy.jpeg">
