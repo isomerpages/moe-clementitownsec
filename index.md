@@ -22,12 +22,12 @@ sections:
           description: ""
           url: /students
   - infobar:
-      title: Release of 2023 GCE O-Level Examination Results
-      subtitle: 11 January 2024, 2.00pm
+      title: SDL Days from Tuesday 23 July to Thursday 25 July
+      subtitle: National Oral Examinations
       id: infobar
-      description: The 2023 GCE O-Level Examination Results would be released on 11
-        January 2024 at 2 pm at the school hall. Please be attired in your full
-        CTSS school uniform.
+      description: To facilitate a conducive environment for the conduct of the 3
+        full-day National Oral Examinations, the school will be having SDL days
+        from 23 Jul to 25 Jul.
   - infopic:
       title: CTSS Secondary 1 Registration
       subtitle: Aspire and Grow with us!
