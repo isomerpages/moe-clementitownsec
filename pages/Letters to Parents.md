@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Secondary 1</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_1_and_2.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 -  Principal's Termly Letter to Parents (Term 3) for Secondary 1</a>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_1_and_2.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 - Principal's Termly Letter to Parents (Term 3) for Secondary 1</a>
 </p>
 </li>
 <li>
@@ -18,7 +18,7 @@ variant: tiptap
 <h3>Secondary 2</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_1_and_2.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 -  Principal's Termly Letter to Parents (Term 3) for Secondary 2</a>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_1_and_2.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 - Principal's Termly Letter to Parents (Term 3) for Secondary 2</a>
 </p>
 </li>
 <li>
@@ -29,7 +29,7 @@ variant: tiptap
 <h3>Secondary 3</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 -  Principal's Termly Letter to Parents (Term 3) for Secondary 3</a>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 - Principal's Termly Letter to Parents (Term 3) for Secondary 3</a>
 </p>
 </li>
 <li>
@@ -40,7 +40,7 @@ variant: tiptap
 <h3>Secondary 4</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 -  Principal's Termly Letter to Parents (Term 3) for Secondary 4</a>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 - Principal's Termly Letter to Parents (Term 3) for Secondary 4</a>
 </p>
 </li>
 <li>
@@ -51,7 +51,7 @@ variant: tiptap
 <h3>Secondary 5</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 -  Principal's Termly Letter to Parents (Term 3) for Secondary 5</a>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 - Principal's Termly Letter to Parents (Term 3) for Secondary 5</a>
 </p>
 </li>
 <li>
