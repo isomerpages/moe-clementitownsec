@@ -14,8 +14,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Semester 1 2024 Class Time Table:</p>
+<p>Semester 2 2024 Class Time Table:</p>
 <ol data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
 <li>
 <p><a href="/files/2024_Sem_1_TT_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
