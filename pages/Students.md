@@ -17,18 +17,19 @@ variant: tiptap
 <p>Semester 2 2024 Class Time Table:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
-</li>
-<li>
-<p><a href="/files/2024_Sem_1_TT_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/Class Time Table/2024_sem_2_timetable_Sec_1_class___updated_24_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024_Sem_1_TT_Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Class Time Table/2024_Sem_2_Timetable__Sec_2_classes.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024_sem_1_TT_Sec4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5</a>
+<p><a href="/files/Class Time Table/2024_Sem_2_Timetable__Sec_3_classes.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Class Time Table/2024_Sem_2_Timetable__Sec_4_classes.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5</a>
 </p>
 </li>
 </ol>
