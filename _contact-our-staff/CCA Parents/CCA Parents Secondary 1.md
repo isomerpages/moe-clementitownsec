@@ -11,7 +11,7 @@ variant: tiptap
 <img style="width: 35%;" height="auto" width="100%" alt="AYH Kenneth" src="/images/mr tan ming hon kenneth.jpeg">
 </div>
 <p>Mr Tan Ming Hon, Kenneth
-<br><a href="mailto:tan_ming_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_ho@moe.edu.sg</a>
+<br><a href="mailto:tan_ming_hon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_hon@moe.edu.sg</a>
 </p>
 <h2>ASSISTANT YEAR HEAD (Internal)</h2>
 <p></p>
