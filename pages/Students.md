@@ -38,13 +38,16 @@ variant: tiptap
 <p>O-Level Preliminary Examinations Time-Table</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Secondary 4 Express</p>
+<p><a href="/files/Exam Time Table/2024_Sec_4E_exam_timetable_updated_on_16_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Express</a>
+</p>
 </li>
 <li>
-<p>Secondary 5 Normal Academic</p>
+<p><a href="/files/Exam Time Table/2024_Sec_5NA_exam_timetable_updated_on_16_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal Academic</a>
+</p>
 </li>
 <li>
-<p>Secondary 4N Students Taking Express Papers</p>
+<p><a href="/files/Exam Time Table/2024_Sec_4NA__OOS__exam_timetable_updated_on_16_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4N Students Taking Express Papers</a>
+</p>
 </li>
 </ol>
 </li>
