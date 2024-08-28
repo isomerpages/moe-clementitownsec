@@ -35,6 +35,20 @@ variant: tiptap
 </ol>
 </li>
 <li>
+<p>O-Level Preliminary Examinations Time-Table</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Secondary 4 Express</p>
+</li>
+<li>
+<p>Secondary 5 Normal Academic</p>
+</li>
+<li>
+<p>Secondary 4N Students Taking Express Papers</p>
+</li>
+</ol>
+</li>
+<li>
 <p>N-Level Preliminary Examinations Time-Table</p>
 <ol data-tight="true" class="tight">
 <li>
