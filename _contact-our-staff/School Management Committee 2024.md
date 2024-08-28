@@ -130,7 +130,7 @@ variant: tiptap
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Tan MH" src="/images/kenneth.jpeg">
 </div>
 <p>Mr Tan Ming Hon, Kenneth
-<br><a href="tan_ming_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_ho@moe.edu.sg</a>
+<br><a href="tan_ming_hon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_hon@moe.edu.sg</a>
 </p>
 <p>
 <br>
