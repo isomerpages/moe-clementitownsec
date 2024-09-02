@@ -63,7 +63,7 @@ work collaboratively with one another.</p>
 <p>Joash Tay Jun Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
