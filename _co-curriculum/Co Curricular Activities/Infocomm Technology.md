@@ -6,6 +6,9 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/InfoComm/InfoComm.gif">
+</div>
 <p></p>
 <p>InfoComm Technology Club (IT) is a service-oriented club, where we aim
 to develop technical skills among students in the areas of Artificial Intelligence,
