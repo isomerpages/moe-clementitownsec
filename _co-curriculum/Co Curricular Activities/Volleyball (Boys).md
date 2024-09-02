@@ -71,11 +71,78 @@ what is expected of them in the future.</p>
 </li>
 </ul>
 <h4>STUDENT EXECUTIVE COMMITTEE</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VB/vb%20exco.jpg">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Posotion/Appointment</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THAM KAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Captain(B Division)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEAH JUN-CHENG CARTER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Captain (B Division)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CLEMENTS TIEU YANG ZHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Captain(B Division)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JONATHAN CHUA OO JON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Captain(B Division)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>KEY EVENTS</h4>
 <ul data-tight="true" class="tight">
+<li>
+<p>2024 West Zone and B Division Volleyball Competition.</p>
+</li>
+<li>
+<p>2024 National Schools C Division Volleyball Competition.</p>
+</li>
 <li>
 <p>2023 West Zone and National Schools B Division Volleyball Competition.</p>
 </li>

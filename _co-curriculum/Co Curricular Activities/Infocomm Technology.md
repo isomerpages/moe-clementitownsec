@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/InfoComm/InfoComm.gif">
+</div>
+<p></p>
 <p>InfoComm Technology Club (IT) is a service-oriented club, where we aim
 to develop technical skills among students in the areas of Artificial Intelligence,
 App Development, Public Announcement (PA), Photography and Robotics so
@@ -60,10 +65,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joash Tay Jun Yang</p>
+<p>Ryan Ong Wen Aun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -71,10 +76,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Khor Ize</p>
+<p>Goh Ron-Wayn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-President</p>
@@ -82,25 +87,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tung Keng Leng, Alicea
-<br>
-</p>
+<p>Muhammad Irfan Bin Abdul Rashid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Marcus Tan Kai Zhi
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PA Head</p>
@@ -108,12 +98,12 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yam Zhikai
+<p>Wang Shaochen
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PA Head
@@ -123,10 +113,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vernice Chin Xingnie</p>
+<p>Yung Ker Fung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Photo Head
@@ -136,10 +126,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Xu Ruixuan</p>
+<p>Liu Tingxuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Photo Head</p>
@@ -147,34 +137,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mohd Arif Fiqry Bin Mohd Suffian
-<br>
-</p>
+<p>Isaac Emmanuel Isaiah Lea</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wang Zukang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4IT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cheung Yi Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>App Development Head</p>
@@ -182,37 +148,13 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Jun Heng, Caden
-<br>
-</p>
+<p>Hamzah Sadiq Bin Aidil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Robotics Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Li Yuechen Alvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Robotics Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Shi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4IT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tech Ambassador</p>
 </td>
 </tr>
 </tbody>
@@ -255,15 +197,15 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Youth Tech Championship 2023</p>
+<p>National Youth Tech Championship 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd Runners-up</p>
+<p>Semi-finalists</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Intel Global Impact Festival</p>
+<p>Intel Global Impact Festival 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 3 Project</p>
@@ -331,7 +273,7 @@ work collaboratively with one another.</p>
 <p>3.30 – 5.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MMS Room</p>
+<p>MMS Room, HIP Room</p>
 </td>
 </tr>
 <tr>
@@ -344,7 +286,7 @@ work collaboratively with one another.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MMS Room</p>
+<p>MMS Room, HIP Room</p>
 </td>
 </tr>
 </tbody>
