@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
+<p></p>
+<p></p>
 <p>InfoComm Technology Club (IT) is a service-oriented club, where we aim
 to develop technical skills among students in the areas of Artificial Intelligence,
 App Development, Public Announcement (PA), Photography and Robotics so
