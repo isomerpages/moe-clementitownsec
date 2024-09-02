@@ -35,6 +35,31 @@ variant: tiptap
 </ol>
 </li>
 <li>
+<p>End-of-Year (Sec 1 to 3) Examinations Time-Table</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Exam Time Table/Sec_1_Timetable__update_29_Aug_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Exam Time Table/Sec_2_Timetable__update_29_Aug_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Exam Time Table/2024_Sec_3E_exam_timetable__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Express</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Exam Time Table/2024_Sec_3NA_exam_timetable__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Normal Academic</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Exam Time Table/2024_Sec_3NT_exam_timetable__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Normal Technical</a>
+</p>
+</li>
+</ol>
+</li>
+<li>
 <p>O-Level Preliminary Examinations Time-Table</p>
 <ol data-tight="true" class="tight">
 <li>
