@@ -246,7 +246,7 @@ work collaboratively with one another.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>TRAINING DETAILS</strong></h4>
+<h4><strong>TRAINING DETAILS 2024</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -273,7 +273,7 @@ work collaboratively with one another.</p>
 <p>3.30 – 5.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MMS Room, HIP Room</p>
+<p>MMS Room and HIP Room</p>
 </td>
 </tr>
 <tr>
@@ -286,7 +286,7 @@ work collaboratively with one another.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MMS Room, HIP Room</p>
+<p>MMS Room and HIP Room</p>
 </td>
 </tr>
 </tbody>
