@@ -246,7 +246,7 @@ work collaboratively with one another.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>TRAINING DETAILS</strong></h4>
+<h4><strong>TRAINING DETAILS 2024</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
