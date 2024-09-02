@@ -60,7 +60,7 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joash Tay Jun Yang</p>
+<p>Ryan Ong Wen Aun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3IT</p>
@@ -71,10 +71,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Khor Ize</p>
+<p>Goh Ron-Wayn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-President</p>
@@ -82,25 +82,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tung Keng Leng, Alicea
-<br>
-</p>
+<p>Muhammad Irfan Bin Abdul Rashid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Marcus Tan Kai Zhi
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PA Head</p>
@@ -108,12 +93,12 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yam Zhikai
+<p>Wang Shaochen
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PA Head
@@ -123,10 +108,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vernice Chin Xingnie</p>
+<p>Yung Ker Fung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Photo Head
@@ -136,10 +121,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Xu Ruixuan</p>
+<p>Liu Tingxuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Photo Head</p>
@@ -147,34 +132,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mohd Arif Fiqry Bin Mohd Suffian
-<br>
-</p>
+<p>Isaac Emmanuel Isaiah Lea</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wang Zukang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4IT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cheung Yi Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>App Development Head</p>
@@ -182,37 +143,13 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Jun Heng, Caden
-<br>
-</p>
+<p>Hamzah Sadiq Bin Aidil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Robotics Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Li Yuechen Alvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>3IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Robotics Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Shi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4IT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tech Ambassador</p>
 </td>
 </tr>
 </tbody>
