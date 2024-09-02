@@ -192,15 +192,15 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Youth Tech Championship 2023</p>
+<p>National Youth Tech Championship 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd Runners-up</p>
+<p>Semi-finalists</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Intel Global Impact Festival</p>
+<p>Intel Global Impact Festival 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 3 Project</p>
@@ -268,7 +268,7 @@ work collaboratively with one another.</p>
 <p>3.30 – 5.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MMS Room</p>
+<p>MMS Room, HIP Room</p>
 </td>
 </tr>
 <tr>
@@ -281,7 +281,7 @@ work collaboratively with one another.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MMS Room</p>
+<p>MMS Room, HIP Room</p>
 </td>
 </tr>
 </tbody>
