@@ -84,7 +84,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Mrs%20Chin%20Leong%20Hwai%20Ee%20Stella.jpeg">
 </div>
-<p>Mrs Chin-Leong Hwai Ee, Stella
+<p>Ms Leong Hwai Ee, Stella
 <br><a href="leong_hwai_ee_stella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_hwai_ee_stella@moe.edu.sg</a>
 </p>
 <p></p>
@@ -407,7 +407,7 @@ variant: tiptap
 <img style="width:35%" height="auto" width="100%" src="/images/kenneth.jpeg">
 </div>
 <p>Mr Tan Ming Hon, Kenneth
-<br><a href="tan_ming_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_ho@moe.edu.sg</a>
+<br><a href="tan_ming_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_hon@moe.edu.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Mr%20Tan%20Ser%20Yong.jpeg">
