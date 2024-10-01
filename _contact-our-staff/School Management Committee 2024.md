@@ -177,7 +177,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mrs Chin" src="/images/Mrs%20Chin%20Leong%20Hwai%20Ee%20Stella.jpeg">
 </div>
-<p>Mrs Chin-Leong Hwai Ee, Stella
+<p>Ms Leong Hwai Ee, Stella
 <br><a href="leong_hwai_ee_stella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_hwai_ee_stella@moe.edu.sg</a>
 </p>
 <p>
