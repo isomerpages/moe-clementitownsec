@@ -10,17 +10,10 @@ variant: tiptap
 into individuals who are committed to excellence and service to the school
 by developing their strengths and interests so as to be well prepared for
 what lies ahead of them through their years in Secondary School.&nbsp;</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VB/20230316_163321.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VB/img-20220426-wa0035.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VB/img-20220719-wa0032.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VB/img-20221118-wa0072.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/volleyball_5.jpg">
 </div>
 <p>Clementi Town Secondary Volleyball has also regularly punched above their
 weight in terms of competition results as a regular in the top 4 of the
@@ -31,46 +24,29 @@ environment. Boasting a strong alumni relationship, we also often play
 host to alumnus who come back to interact with our current crop of students,
 allowing them to better relate to what has been achieved in the past, and
 what is expected of them in the future.</p>
+<h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VB/img-20221220-wa0040.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/volleyball_2.jpg">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VB/img-20230221-wa0004.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/volleyball_3.jpg">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VB/img-20230221-wa0006.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VB_2023_05.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VB_2023_04.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VB_2023_03.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VB_2023_02.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VB_2023_01.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/volleyball_1.jpg">
 </div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Teo Li Yin (OIC)</p>
-</li>
-<li>
-<p>Mr Chan Siew Kwai</p>
-</li>
-<li>
-<p>Ms Fu Rong</p>
-</li>
-<li>
-<p>Ms Chan Wen Xin</p>
-</li>
-</ul>
-<h4>STUDENT EXECUTIVE COMMITTEE</h4>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Teo Li Yin (OIC, CCAP for S3)</strong>
+</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Fu Rong (AIC, CCAP for S4/5)</strong>
+</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chan Siew Kwai (CCAP for S2)</strong>
+</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Chan Wen Xin (CCAP for S1)</strong>
+</p>
+<h4><strong>STUDENT EXECUTIVE COMMITTEE 2024</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -78,6 +54,17 @@ what is expected of them in the future.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
@@ -94,32 +81,10 @@ what is expected of them in the future.</p>
 <p>THAM KAYDEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3K</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Captain(B Division)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEAH JUN-CHENG CARTER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Captain (B Division)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CLEMENTS TIEU YANG ZHI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Captain(B Division)</p>
+<p>CCA Captain</p>
 </td>
 </tr>
 <tr>
@@ -127,42 +92,130 @@ what is expected of them in the future.</p>
 <p>JONATHAN CHUA OO JON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Captain(B Division)</p>
+<p>Vice-Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CLEMENTS TIEU YANG ZHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3R</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CARTER SEAH JUN CHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOEL EEA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CC3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec CCA Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHONE MYAT MAUNG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CC3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec CCA Captain</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>KEY EVENTS</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>2024 West Zone and B Division Volleyball Competition.</p>
-</li>
-<li>
-<p>2024 National Schools C Division Volleyball Competition.</p>
-</li>
-<li>
-<p>2023 West Zone and National Schools B Division Volleyball Competition.</p>
-</li>
-<li>
-<p>2023 West Zone and National Schools C Division Volleyball Competition</p>
-</li>
-<li>
-<p>2023 Annual B and C Division Volleyball Camp</p>
-</li>
-</ul>
-<h4>ACHIEVEMENTS</h4>
+<h4><strong>ACHIEVEMENTS</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VB_Achievements_2023.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/VB_Achievements_2023.jpg">
 </div>
-<h4>TRAINING DETAILS</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VB/vb%20trg.jpg">
-</div>
+<h4><strong>TRAINING DETAILS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Days</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Monday</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH (B Division)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wednesday</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH (B Division)</p>
+<p>Pri ISH (C Division)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Thursday</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH (C Division)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/volleyball_6.jpg">
+</div>
+<p>
 <br>
 <br>
 </p>
