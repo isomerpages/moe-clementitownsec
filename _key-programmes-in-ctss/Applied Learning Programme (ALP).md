@@ -135,6 +135,13 @@ under respected mentors</p>
 </li>
 </ol>
 <p></p>
+<p><strong>What do we do?</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SiA_What_we_do.gif">
+</div>
+<p></p>
 <p><strong>Our Projects</strong>
 </p>
 <p></p>
