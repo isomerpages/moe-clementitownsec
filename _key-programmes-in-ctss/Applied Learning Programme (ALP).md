@@ -240,7 +240,16 @@ robotic swivel arms to place the materials in the correct collection bins.</p>
 Dai Duong pursued their personal interest in Tchoukball and AI and built
 an automated Tchoukball scoring system.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball.gif">
+</div>
 <p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>AI Facilitated Queue Time Estimator</strong>
+</p>
+</li>
+</ol>
 <p>Two of our students, Aidan Ong and Hu Bowen, have worked proactively and
 tirelessly to identify a specific area of need by the school, whereby students
 spend a significant amount of their recess and lunch periods queuing up
@@ -251,35 +260,8 @@ to identify the number of students in a queue. Information from the microcontrol
 would then be transmitted wirelessly to a server through socket programming
 and a client-server architecture, which allows an estimated queue time
 to be shown on a screen.</p>
-<p>Please click on the attached video below, to find out more about their
-project.</p>
-<p><u>Participation in the Swift Accelerator&nbsp;Programme</u>
-</p>
-<p>The Swift Accelerator Programme is an intensive 180-hour programme in
-which students who are talented in coding are trained to develop iOS apps
-using the Swift coding language, leveraging on the principles of challenge
-based learning, storytelling and design thinking. Only 50 students, aged
-13 to 15, are selected for this programme.</p>
-<p>In 2021, two Clementeens have successfully completed the Swift Accelerator
-Programme. They presented their work at the Swift Innovators Summit Singapore
-2022 on 16 March 2022, at Apple One North.</p>
-<p>The students involved in the Swift Accelerator Programme 2021 are:</p>
-<p>1.&nbsp;<strong>Nguyen Viet Truong (Bill), S4-MM (4B1)</strong>,&nbsp;along
-with his teammates, have published an App called “StudyZone” which helps
-students manage their incoming schoolwork. You may download the app via
-this link:&nbsp;<a href="http://tk.sg/sis22-studyzone" rel="noopener noreferrer nofollow" target="_blank">http://tk.sg/sis22-studyzone</a>
-</p>
 <p></p>
-<p><u>Participation in the First Lego League Competition</u>
-</p>
-<p>Students from the Multimedia Services Club, who showed an interest and
-dedication to robotics, had participated in the&nbsp;First Lego League
-(FLL) Competition 2024.This year, two teams from MMS took part in the FLL
-competition for the first time. One of the teams won praise from the judges
-for their creativity, understanding of robot mechanism, and applying sound
-concepts of Physics in designing their robot. They were also nominated
-for the “Rising Star Award” which is given out to schools participating
-in the tournament for the first time.&nbsp;</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
