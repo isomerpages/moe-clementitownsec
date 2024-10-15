@@ -81,41 +81,54 @@ Mentorship Programme, AI for Youth Programme, AI for Everyone Programme
 and Computing Talent Development Programme.</p>
 <p><strong>Science-in-Action Research Mentorship Programme</strong>
 </p>
-<p>The Swift Explorers Singapore provides students with an excellent opportunity
-to think like an App Developer and identify problems that they care about.
-Thereafter, participants would plan, prototype, and share app ideas that
-everyone could access and understand.</p>
-<p>This programme comprises of 3 phases:
-<br>Phase 1: Inclusive App Design Activity (5 hours of SDL activities)
-<br>Phase 2: Everyone Can Code Bootcamp (5 hours of virtual workshops)
-<br>Phase 3: Build Apps with Swift Playgrounds (for selected teams)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A3.jpeg">
-</div>
-<p>Students during their Swift Explorers Singapore 2022 Graduation Ceremony</p>
-<p><u>Apple Swift Programming</u>
+<p>Who are we?</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A <strong>research mentorship programme</strong> that cultivates Sec 2/3
+students the <strong>spirit of inquiry</strong>
 </p>
-<p>The Apple Swift Programme brings an accessible introduction to mobile
-app development in Swift for iOS devices, by providing Clementeens with
-a chance to learn about introductory programming concepts in Swift. Upon
-completion of this programme, students would have learnt:</p>
+</li>
+<li>
+<p>Students will work on a <strong>year-long research project</strong> under
+the mentorship of a teacher or an expert from tertiary institutions.</p>
+</li>
+<li>
+<p>Throughout the project, students will engage in <strong>hands-on laboratory experiments </strong>and
+delve deeper into <strong>theoretical aspects of biology</strong> that go
+beyond the typical school curriculum</p>
+</li>
+<li>
+<p>Students will also <strong>share about their project</strong> in various
+competitions, such as the Singapore Science and Engineering Fair (SSEF)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Our Objectives</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Basic programming concept in the Swift language</p>
+<p>To foster effective science communicators through active engagement in
+scientific events, to bridge the gap between the scientifically trained
+and non-trained</p>
 </li>
 <li>
-<p>How to use the Xcode or Swift Playgrounds development environments to
-create and run apps</p>
+<p>To cultivate scientifically literate students with practical scientific
+reasoning skills</p>
 </li>
 <li>
-<p>How to use core iOS frameworks such as SwiftUI to design and build a series
-of guided apps</p>
+<p>To develop critical and creative thinking by engaging students in solving
+authentic problems using various methods</p>
 </li>
 <li>
-<p>Design and storytelling skills to propose, build, and present a meaningful
-app prototype on a social entrepreneurship theme</p>
+<p>To guide students to work collaboratively and learn scientific techniques
+under respected mentors</p>
 </li>
 </ol>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><u>AR/VR Workshop at HCI</u>
 </p>
 <p>Eighteen Secondary 3 Clementeens participated in the Augmented Reality/Virtual
