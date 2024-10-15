@@ -4,7 +4,7 @@ permalink: /about-us/school-brochure/
 description: ""
 variant: markdown
 ---
-Please click on this&nbsp;[link](https://drive.google.com/file/d/1WVT29w_Q2RBvBstKMRJxLsKGHTUfHVDu/view?usp=drive_link)&nbsp;to view our School Brochure. Thank you.
+Please click on this [link](/files/2024_Brochure_Clementi_Town_Secondary_School_A5.pdf) to view our School Brochure. Thank you.
 
 
 
