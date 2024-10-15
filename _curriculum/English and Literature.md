@@ -4,9 +4,6 @@ permalink: /curriculum/english-and-literature/
 description: ""
 variant: markdown
 ---
-
-
-
 ![](/images/english_language_and_literature_department_2.jpg)#### **MISSION**
 
   
