@@ -76,10 +76,10 @@ skills.</p>
 </p>
 <p>Students who have displayed an interest to explore STEM-related activities
 at a deeper level would be given the opportunity to participate in Workshops,
-Enrichment Courses and Competitions, such as Swift Explorers Singapore,
-the Swift Coding Club, AI for Youth Programme, AI for Everyone Programme
-and the AR/VR Workshop.</p>
-<p><strong>Swift Explorers Singapore</strong>
+Enrichment Courses and Competitions, such as Science-in-Action Research
+Mentorship Programme, AI for Youth Programme, AI for Everyone Programme
+and Computing Talent Development Programme.</p>
+<p><strong>Science-in-Action Research Mentorship Programme</strong>
 </p>
 <p>The Swift Explorers Singapore provides students with an excellent opportunity
 to think like an App Developer and identify problems that they care about.
