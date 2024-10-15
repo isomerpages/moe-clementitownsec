@@ -4,6 +4,11 @@ permalink: /curriculum/humanities/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/humanities_department_2.jpg">
+</div>
+<p></p>
 <h4><strong>MISSION</strong></h4>
 <p>We seek to cultivate in students a lifelong passion for the Humanities
 subjects through Inquiry Based Learning that leverages on the use of ICT.
