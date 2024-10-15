@@ -149,6 +149,9 @@ under respected mentors</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SiA_projects.gif">
 </div>
 <p></p>
+<p><strong>Where have we been?</strong>
+</p>
+<p></p>
 <p></p>
 <p><u>CTSS-HCI Exchange Programme</u>
 </p>
