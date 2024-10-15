@@ -138,9 +138,12 @@ under respected mentors</p>
 <p><strong>Our Projects</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SiA_projects.gif">
+</div>
 <p></p>
 <p></p>
-<p><u>AR/VR Workshop at HCI</u>
+<p><u>CTSS-HCI Exchange Programme</u>
 </p>
 <p>Eighteen Secondary 3 Clementeens participated in the Augmented Reality/Virtual
 Reality (AR/VR) Workshop organised by Hwa Chong Institution (HCI) on 17
