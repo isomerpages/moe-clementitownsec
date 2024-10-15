@@ -223,7 +223,7 @@ to their school experience and work on a solution to the problem.</p>
 </li>
 </ol>
 <p>Three of our students, Khor Ize, Vernice Chin Xingnie and Xu Ruixian developed
-a machine that leverages on AI to identify recyclable meterials and activate
+a machine that leverages on AI to identify recyclable materials and activate
 robotic swivel arms to place the materials in the correct collection bins.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -236,7 +236,11 @@ robotic swivel arms to place the materials in the correct collection bins.</p>
 </p>
 </li>
 </ol>
-<p>pursue their personal interest in Tchoukball</p>
+<p>Three Clementeens, Abhimongkol Teeraphapphun, Nguyen Chi Kien and Nguyen
+Dai Duong pursued their personal interest in Tchoukball and AI and built
+an automated Tchoukball scoring system.</p>
+<p></p>
+<p></p>
 <p>Two of our students, Aidan Ong and Hu Bowen, have worked proactively and
 tirelessly to identify a specific area of need by the school, whereby students
 spend a significant amount of their recess and lunch periods queuing up
