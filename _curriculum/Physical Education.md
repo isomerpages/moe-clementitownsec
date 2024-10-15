@@ -4,6 +4,11 @@ permalink: /curriculum/physical-education/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/physical_education_department_2.jpg">
+</div>
+<p></p>
 <h4><strong>MISSION</strong></h4>
 <p>To nurture in every Clementeen, a love for healthy living.</p>
 <p>The PE Programme aims to equip every Clementeen with the skills and knowledge
