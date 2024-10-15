@@ -230,6 +230,13 @@ robotic swivel arms to place the materials in the correct collection bins.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycling.gif">
 </div>
 <p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>AI Facilitated Automated Tchoukball Scoring System</strong>
+</p>
+</li>
+</ol>
+<p>pursue their personal interest in Tchoukball</p>
 <p>Two of our students, Aidan Ong and Hu Bowen, have worked proactively and
 tirelessly to identify a specific area of need by the school, whereby students
 spend a significant amount of their recess and lunch periods queuing up
