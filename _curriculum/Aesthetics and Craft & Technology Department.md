@@ -4,6 +4,11 @@ permalink: /curriculum/aesthetics-and-craft-n-technology-department/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aesthetics_and_craft_and_technology_department_2.jpg">
+</div>
+<p></p>
 <h4><strong>VISION</strong></h4>
 <p>Every student is a Creator.</p>
 <h4><strong>MISSION</strong></h4>

@@ -2,8 +2,9 @@
 title: English and Literature
 permalink: /curriculum/english-and-literature/
 description: ""
+variant: markdown
 ---
-#### **MISSION**
+![](/images/english_language_and_literature_department_2.jpg)#### **MISSION**
 
   
 To develop Clementeens to be proficient in the language, confident of using it and appreciate the language arts.

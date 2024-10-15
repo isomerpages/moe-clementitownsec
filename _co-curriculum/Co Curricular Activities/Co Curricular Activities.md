@@ -3,6 +3,7 @@ title: Co Curricular Activities
 permalink: /co-curriculum/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 Clementi Town Secondary School has a wide range of Co-Curricular Activities to cater to the varied interests of our Clementeens.  
   
@@ -21,7 +22,7 @@ Clementi Town Secondary School has a wide range of Co-Curricular Activities to c
 [Badminton (Boys)](/co-curriculum/co-curricular-activities/badminton-boys) <br>
 [Basketball (Boys)](/co-curriculum/co-curricular-activities/basketball-boys) <br>
 [Netball (Girls)](/co-curriculum/co-curricular-activities/netball-girls/) <br>
-[Outdoor Adventure Club (ODAC)](/co-curriculum/co-curricular-activities/outdoor-adventure-club-odac) <br>
+[Outdoor Adventure Club (ODAC)](/co-curricular-activities/outdoor-adventure-club-odac/) <br>
 [Football (Boys)](/co-curriculum/co-curricular-activities/football-boys)<br>
 [Volleyball (Boys)](/co-curriculum/co-curricular-activities/volleyball-boys)<br>
 [Wushu](/co-curriculum/co-curricular-activities/wushu)

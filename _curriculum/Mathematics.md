@@ -4,6 +4,11 @@ permalink: /curriculum/mathematics/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mathematics_and_principles_of_accounts_department_2.jpg">
+</div>
+<p></p>
 <h4><strong>MISSION:</strong></h4>
 <p>To nurture Independent Learners with an Analytical mind for Problem Solving
 who like to co-learn with others and appreciate the Relevance and Fun in
