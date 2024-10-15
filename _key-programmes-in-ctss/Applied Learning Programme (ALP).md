@@ -159,35 +159,16 @@ under respected mentors</p>
 <p><strong>Computing Talent Development Programme</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTSS_HCI.gif">
+</div>
 <p></p>
 <p>Seventeen Secondary 3 Clementeens participated in the Clementi Town Secondary
 - Hwa Chong Institution Computing Exchange programme from 13 to 15 May
 2024. During this workshop, our students learnt Ehical Hacking while establishing
 collaborations with their peers from Hwa Chong Institution.</p>
 <p></p>
-<p><u>AI Bootcamp</u>
-</p>
-<p>A 5-day Artificial Intelligence (AI) Bootcamp was organised during the
-June Holidays to:
-<br>provide Clementeens, who have demonstrated an interest and passion for
-programming, the opportunity to develop deep technology skills for the
-emergent fields of Data Science and Artificial Intelligence.
-<br>further inspire and ignite our Clementeens' passion for Technology through
-application of these skills in the field of Artificial Intelligence and
-Machine Learning.</p>
-<p>At the end of the bootcamp, participants created their own projects. Please
-click on the image below to find out more about one of the AI projects
-that was created upon completion of the bootcamp.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A5.jpg">
-</div>
-<p><strong>Tier 3 – Participation in Olympiad Training, App Development Programmes, Mentorship Programmes</strong>
-</p>
-<p>Tier 3 of the ALP is designed to provide opportunities for a few students
-excelling in the field of computing to develop their talents. One such
-Talent Development Programme is the intensive training in preparation for
-the National Olympiad in Informatics (NOI).</p>
-<p><u>National Olympiad in Informatics (NOI) 2022</u>
+<p><strong>National Olympiad in Informatics (NOI) 2024</strong>
 </p>
 <p>NOI is a computing competition organized by National University of Singapore.
 It is an annual nation-wide programming competition that aims to provide
@@ -196,20 +177,12 @@ is open to all current junior college and secondary school students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A6.jpg">
 </div>
-<p>Students participating in the National Olympiad in Informatics 2022</p>
-<p>In NOI 2022, seven Computing students represented the school in the competition.
-Aidan Ong, from class S4-NC (4B1), was awarded the&nbsp;<strong>Bronze Medal</strong>&nbsp;for
+<p>Students participating in the National Olympiad in Informatics 2024</p>
+<p>In NOI 2024, seventeen Computing students represented the school in the
+competition, with six students making it to the Final Round. Nguyen Chi
+Kien, from class S4-DC, was awarded the&nbsp;<strong>Silver Medal</strong>&nbsp;for
 his prowess in coding.</p>
-<p>In addition, two other Clementeens were awarded the Certificate of Participation
-for solving some of the coding questions:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Hu Bowen, S4-NC (4B1)</p>
-</li>
-<li>
-<p>Nguyen Viet Truong (Bill), S4-MM (4B1)</p>
-</li>
-</ol>
+<p></p>
 <p><u>Computing Project</u>
 </p>
 <p>Computing students who were keen to work on a real-world computing project
