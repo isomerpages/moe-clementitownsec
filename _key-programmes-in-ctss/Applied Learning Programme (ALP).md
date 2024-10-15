@@ -156,16 +156,15 @@ under respected mentors</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SiA_Where_have_we_been.gif">
 </div>
 <p></p>
-<p><u>CTSS-HCI Exchange Programme</u>
+<p><strong>Computing Talent Development Programme</strong>
 </p>
-<p>Eighteen Secondary 3 Clementeens participated in the Augmented Reality/Virtual
-Reality (AR/VR) Workshop organised by Hwa Chong Institution (HCI) on 17
-and 18 May 2022. During this workshop, our students learnt how to create
-Augmented Reality and Virtual Reality projects, while establishing collaborations
-with their peers from Hwa Chong Institution.</p>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7tNK4l8FzmC3hCp05oc-UfOb3QYFDrALPAOcVOlmdiT2ZJJpohZU4sUDaalCLUIP6ZZNHtBkvaBcK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+<p></p>
+<p></p>
+<p>Seventeen Secondary 3 Clementeens participated in the Clementi Town Secondary
+- Hwa Chong Institution Computing Exchange programme from 13 to 15 May
+2024. During this workshop, our students learnt Ehical Hacking while establishing
+collaborations with their peers from Hwa Chong Institution.</p>
+<p></p>
 <p><u>AI Bootcamp</u>
 </p>
 <p>A 5-day Artificial Intelligence (AI) Bootcamp was organised during the
