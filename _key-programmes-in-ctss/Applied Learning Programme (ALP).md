@@ -158,6 +158,11 @@ under respected mentors</p>
 <p></p>
 <p><strong>Computing Talent Development Programme</strong>
 </p>
+<p>Students who have displayed an interest to explore AI and Computing-related
+activities at a deeper level would be given the opportunity to participate
+in Workshops, Enrichment Courses and Competitions, such as exchange programmes,
+the National Olympiad in Informatics, AI for Youth Programme, AI for Everyone
+Programme and Computing Mentorship Programme.</p>
 <p></p>
 <p><strong>Our Objectives</strong>
 </p>
@@ -177,6 +182,9 @@ solutions to the problem</p>
 </li>
 </ul>
 <p></p>
+<p><strong>CTSS-HCI Computing Exchange Programme</strong>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTSS_HCI.gif">
 </div>
@@ -202,7 +210,7 @@ competition, with six students making it to the Final Round. Nguyen Chi
 Kien, from class S4-DC, was awarded the&nbsp;<strong>Silver Medal</strong>&nbsp;for
 his prowess in coding.</p>
 <p></p>
-<p><u>Computing Project</u>
+<p><strong>Computing Mentorship Project</strong>
 </p>
 <p>Computing students who were keen to work on a real-world computing project
 were given the opportunity to first identify an authentic problem related
@@ -235,25 +243,18 @@ with his teammates, have published an App called “StudyZone” which helps
 students manage their incoming schoolwork. You may download the app via
 this link:&nbsp;<a href="http://tk.sg/sis22-studyzone" rel="noopener noreferrer nofollow" target="_blank">http://tk.sg/sis22-studyzone</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A7.jpeg">
-</div>
 <p></p>
 <p><u>Participation in the First Lego League Competition</u>
 </p>
 <p>Students from the Multimedia Services Club, who showed an interest and
 dedication to robotics, had participated in the&nbsp;First Lego League
-(FLL) Competition 2021.This year, two teams from MMS took part in the FLL
+(FLL) Competition 2024.This year, two teams from MMS took part in the FLL
 competition for the first time. One of the teams won praise from the judges
 for their creativity, understanding of robot mechanism, and applying sound
 concepts of Physics in designing their robot. They were also nominated
 for the “Rising Star Award” which is given out to schools participating
 in the tournament for the first time.&nbsp;</p>
-<p><strong>Industrial Visits and Learning Journeys</strong>
-</p>
-<p>To expose students to STEM careers at an early age, Industrial Visits
-and Learning Journeys were conducted to organisations and STEM-related
-events.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
