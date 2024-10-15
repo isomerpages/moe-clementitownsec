@@ -81,7 +81,17 @@ Mentorship Programme, AI for Youth Programme, AI for Everyone Programme
 and Computing Talent Development Programme.</p>
 <p><strong>Science-in-Action Research Mentorship Programme</strong>
 </p>
-<p>Who are we?</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIA01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIA02.jpg">
+</div>
+<p></p>
+<p><strong>Who are we?</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A <strong>research mentorship programme</strong> that cultivates Sec 2/3
@@ -125,7 +135,8 @@ under respected mentors</p>
 </li>
 </ol>
 <p></p>
-<p></p>
+<p><strong>Our Projects</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
