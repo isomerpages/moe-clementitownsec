@@ -226,6 +226,9 @@ to their school experience and work on a solution to the problem.</p>
 a machine that leverages on AI to identify recyclable meterials and activate
 robotic swivel arms to place the materials in the correct collection bins.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycling.gif">
+</div>
 <p></p>
 <p>Two of our students, Aidan Ong and Hu Bowen, have worked proactively and
 tirelessly to identify a specific area of need by the school, whereby students
