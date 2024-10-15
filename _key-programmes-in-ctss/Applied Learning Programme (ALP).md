@@ -215,6 +215,18 @@ his prowess in coding.</p>
 <p>Computing students who were keen to work on a real-world computing project
 were given the opportunity to first identify an authentic problem related
 to their school experience and work on a solution to the problem.</p>
+<p>Among the projects created by students are:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>AI Facilitated</strong>  <strong>Recyclable Sorting Machine</strong>
+</p>
+</li>
+</ol>
+<p>Three of our students, Khor Ize, Vernice Chin Xingnie and Xu Ruixian developed
+a machine that leverages on AI to identify recyclable meterials and activate
+robotic swivel arms to place the materials in the correct collection bins.</p>
+<p></p>
+<p></p>
 <p>Two of our students, Aidan Ong and Hu Bowen, have worked proactively and
 tirelessly to identify a specific area of need by the school, whereby students
 spend a significant amount of their recess and lunch periods queuing up
