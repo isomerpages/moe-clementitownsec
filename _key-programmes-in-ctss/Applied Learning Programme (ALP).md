@@ -159,6 +159,24 @@ under respected mentors</p>
 <p><strong>Computing Talent Development Programme</strong>
 </p>
 <p></p>
+<p><strong>Our Objectives</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To develop deep mastery and ethical and productive use of Technology.</p>
+</li>
+<li>
+<p>To expose students to Computing at a deeper level, focusing on solving
+real world problems and gain a deeper appreciation and application of emerging
+technologies.</p>
+</li>
+<li>
+<p>To provide students with the opportunity to identify authentic problems
+and apply Computational Thinking and coding to iteratively find suitable
+solutions to the problem</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTSS_HCI.gif">
 </div>
@@ -174,10 +192,11 @@ collaborations with their peers from Hwa Chong Institution.</p>
 It is an annual nation-wide programming competition that aims to provide
 our best students the ultimate challenge in computing and programming and
 is open to all current junior college and secondary school students.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5245.jpg">
 </div>
-<p>Students participating in the National Olympiad in Informatics 2024</p>
+<p></p>
 <p>In NOI 2024, seventeen Computing students represented the school in the
 competition, with six students making it to the Final Round. Nguyen Chi
 Kien, from class S4-DC, was awarded the&nbsp;<strong>Silver Medal</strong>&nbsp;for
