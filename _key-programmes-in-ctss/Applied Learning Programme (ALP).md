@@ -24,25 +24,26 @@ to Thinking, Collaborative and Communications skills.</p>
 <p>The objectives of MARS are to provide opportunities for Clementeens to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>nurture</strong>&nbsp;curiosity,&nbsp;<strong>develop</strong>&nbsp;creativity,
-and&nbsp;<strong>encourage</strong>&nbsp;innovation in&nbsp;<strong>STEM</strong>
+<p>foster <strong>curiosity</strong> and <strong>creativity</strong>, and promote <strong>innovation</strong> in <strong>STEM</strong>
 </p>
 </li>
 <li>
-<p>be&nbsp;<strong>actively engaged</strong>&nbsp;in problem-solving processes</p>
+<p>actively engage in <strong>problem-solving processes</strong> and apply <strong>investigative techniques</strong>
+</p>
 </li>
 <li>
-<p>actively explore activities that would ignite an interest in the&nbsp;<strong>Digital</strong>&nbsp;and&nbsp;<strong>Green</strong>&nbsp;Economy</p>
+<p>explore pursuits that spark interest in the <strong>Digital and Green Economy</strong>
+</p>
 </li>
 <li>
-<p>make&nbsp;<strong>meaningful connections</strong>&nbsp;across&nbsp;<strong><em>different</em></strong>&nbsp;subject
-disciplines and&nbsp;<strong>develop</strong>&nbsp;a&nbsp;<strong>deeper</strong>&nbsp;understanding
-of the&nbsp;<strong>real-world relevance</strong>&nbsp;of STEM and Emerging
-Technologies</p>
+<p>establish <strong>meaningful connections between different subjects</strong> and
+grasp the <strong>practical significance of STEM </strong>and <strong>Emerging Technologies</strong>
+</p>
 </li>
 <li>
-<p><strong>develop</strong>&nbsp;21CC through authentic applications and
-hands-on learning&nbsp;</p>
+<p>cultivate <strong>21st-century competencies</strong> through authentic experiences
+and <strong>hands-on learning</strong>
+</p>
 </li>
 </ul>
 <p>As part of applied learning, programmes have been designed to enable students
@@ -109,9 +110,6 @@ of guided apps</p>
 app prototype on a social entrepreneurship theme</p>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A4.jpg">
-</div>
 <p><u>AR/VR Workshop at HCI</u>
 </p>
 <p>Eighteen Secondary 3 Clementeens participated in the Augmented Reality/Virtual
@@ -203,14 +201,7 @@ this link:&nbsp;<a href="http://tk.sg/sis22-studyzone" rel="noopener noreferrer 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A7.jpeg">
 </div>
-<p>2. Cheung Yi Kai, S2-MMS&nbsp;and his team mates from have published an
-App called “GPA Buddy” which helps students to set targets, calculate their
-GPA, and chart their learning progress. You may download the app via this
-link:&nbsp;<a href="http://tk.sg/sis22-gpabuddy" rel="noopener noreferrer nofollow" target="_blank">http://tk.sg/sis22-gpabuddy</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A8.jpg">
-</div>
+<p></p>
 <p><u>Participation in the First Lego League Competition</u>
 </p>
 <p>Students from the Multimedia Services Club, who showed an interest and
@@ -221,46 +212,15 @@ for their creativity, understanding of robot mechanism, and applying sound
 concepts of Physics in designing their robot. They were also nominated
 for the “Rising Star Award” which is given out to schools participating
 in the tournament for the first time.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A9.jpeg">
-</div>
 <p><strong>Industrial Visits and Learning Journeys</strong>
 </p>
 <p>To expose students to STEM careers at an early age, Industrial Visits
 and Learning Journeys were conducted to organisations and STEM-related
 events.</p>
-<p>1. Microsoft DigiGirlz 2019</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A10.jpg">
-</div>
-<p>2.&nbsp;Ministry of Education’s Experimental Systems and Technology Laboratory
-(MOE ESTL)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A11.jpg">
-</div>
-<p>3. Visit to Google Office (STEM'IN with Google)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A12.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A14.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A15.jpg">
-</div>
-<p>4. Visit to Anglo American (Chat with Data Scientist)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A16.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A17.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/A18.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>
 <br>
 <br>
