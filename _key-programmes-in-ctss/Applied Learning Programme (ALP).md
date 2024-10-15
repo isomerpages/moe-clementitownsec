@@ -66,6 +66,12 @@ Tier 1) that exposes students to&nbsp;applied pedagogy, real world applications
 and develops in our students’ Computational Thinking, Problem-solving,
 Collaborative, Communications,&nbsp;Numerical Literacy &amp; Data Analysis
 skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tier_1.gif">
+</div>
+<p></p>
+<p></p>
 <p><strong>Tier 2 – Workshops, Enrichment Courses and Competitions</strong>
 </p>
 <p>Students who have displayed an interest to explore STEM-related activities
