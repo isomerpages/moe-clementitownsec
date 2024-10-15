@@ -152,6 +152,9 @@ under respected mentors</p>
 <p><strong>Where have we been?</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SiA_Where_have_we_been.gif">
+</div>
 <p></p>
 <p><u>CTSS-HCI Exchange Programme</u>
 </p>
