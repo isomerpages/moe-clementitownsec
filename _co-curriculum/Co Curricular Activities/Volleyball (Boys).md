@@ -139,15 +139,69 @@ what is expected of them in the future.</p>
 <p>2CC3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lower Sec CCA Captain</p>
+<p>Lower Sec CCA Vice Captain</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>ACHIEVEMENTS</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/VB_Achievements_2023.jpg">
-</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Division Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone-2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone – 4<sup>th</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone – 4<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions (League 2)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
