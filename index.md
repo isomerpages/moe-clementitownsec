@@ -21,13 +21,6 @@ sections:
         - title: Students
           description: ""
           url: /students
-  - infobar:
-      title: SDL Days from Tuesday 23 July to Thursday 25 July
-      subtitle: National Oral Examinations
-      id: infobar
-      description: To facilitate a conducive environment for the conduct of the 3
-        full-day National Oral Examinations, the school will be having SDL days
-        from 23 Jul to 25 Jul.
   - infopic:
       title: CTSS Secondary 1 Registration
       subtitle: Aspire and Grow with us!
