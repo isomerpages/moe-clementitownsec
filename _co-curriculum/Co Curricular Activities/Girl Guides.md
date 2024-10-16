@@ -29,17 +29,229 @@ us to be well-prepared to handle any emergency situation at any time.</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl%20Guides/gg%20exco.jpg">
-</div>
-<h4>**KEY ACHIEVEMENTS **</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl%20Guides/gg%20achievements.jpg">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position / Appointment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAMU RAMIYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4W8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Company Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SELVA VINOSHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4W7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Company Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AJ CALLIE JEFFREY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4W7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Company Leader</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY ACHIEVEMENTS </strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Event</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day Pin It Up Competition – 3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day Somewhere in the Room Competition – 3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022, 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Baden Powell Award (BPA) 2022 – Hon Xiao Xiang (4A1 2022)</p>
+<p>Baden Powell Award (BPA) 2022 – Sangamithra Baskar (4A1 2022)</p>
+<p>Baden Powell Award (BPA) 2023 – Reese Teo Zi Xuan (4W7 2023)</p>
+<p>Baden Powell Award (BPA) 2023 – Kong Si Kit Cheraline (4W7 2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022, 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold, Puan Noor Aishah Award (PNAA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day 'The World is in your Hands' Competition - 3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day 'Speak and Stand' Competition - 2nd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day 1- Minute Delight Competition - 1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day Recyclable Diorama Competition - 4th Place</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>KEY EVENTS</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl%20Guides/gg%20events.jpg">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Event</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022, 2023, 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Thinking Day Celebrations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022, 2023, 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Virtual Campfire</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Camp (Virtual)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor Cooking Collaboration with Nanyang High Guides</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor Trail at Jurong Lake Gardens with Nan Hua Guides and Nan Hua Primary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023, 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor Skills Training @ Camp Christine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023, 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor Camp with Nan Hua High Guides</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>.</p>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl%20Guides/gg%20trg.jpg">
