@@ -172,6 +172,10 @@ us to be well-prepared to handle any emergency situation at any time.</p>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/West_Division_Day_2024__1_.jpg">
+</div>
 <h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -256,13 +260,23 @@ us to be well-prepared to handle any emergency situation at any time.</p>
 </tbody>
 </table>
 <p>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/CTSS_CCA_Showcase_2024.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/West_Division_Day_2024__2_.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/World_Thinking_Day_2024__1_.jpg">
+</div>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl%20Guides/gg%20trg.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/World_Thinking_Day_2024__3_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/World_Thinking_Day_2024__3_.jpg">
 </div>
 <p>
 <br>
