@@ -71,6 +71,46 @@ skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tier_1.gif">
 </div>
 <p></p>
+<p><strong>ALP Day</strong>
+</p>
+<p>Our ALP Day was held on 21 May 2024. With the theme of "Making Learning
+Come Alive for You", the event kicked off with a Space Exploration Workshop
+by former NASA Astronaut, COL (Ret) Dr Jeff Williams, who shared his fascinating
+experiences and challenges of living in space.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Astronaut.gif">
+</div>
+<p>Together with Dr Neo Kok Beng from Neo Aeronautics, he answered many questions
+from our inquisitive Clementeens about space exploration in a Q&amp;A session.</p>
+<p></p>
+<p><u>Break-out Sessions</u>
+</p>
+<p>Following the Space Exploration Workshop, our Secondary 2 students were
+engaged in four different STEM Experiences:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Showcase of outstanding and innovative MARS projects</p>
+</li>
+<li>
+<p>STEM Escape Room Experience</p>
+</li>
+<li>
+<p>Drone Workshop</p>
+</li>
+<li>
+<p>Cybersecurity Workshop</p>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drone.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cybersecurity.jpg">
+</div>
 <p></p>
 <p><strong>Tier 2 – Workshops, Enrichment Courses and Competitions</strong>
 </p>
