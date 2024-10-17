@@ -9,13 +9,38 @@ third_nav_title: Co Curricular Activities
 <p>In Netball, we aim to nurture our girls' passion for the game as well
 as inculcate in them the ASPIRE values in facing the challenges associated
 with the game.</p>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC00434__1_.jpg">
+</div>
 <p>We truly believe that no amount of talent can make up for the lack of
 practice. Our team of dedicated, committed and passionate netball club
 members hold firm to the conviction that given dedication, practice and
 the will to succeed, we will succeed one day. Over the year, the challenges
 we faced made us stronger as a team and fostered stronger ties among our
 members.</p>
-<h4><strong>TEACHERS IN-CHARGE</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC02768.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC04458.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC02528.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC05311.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC01150.jpg">
+</div>
+<p><strong>TEACHERS IN-CHARGE</strong>
+</p>
 <p>• Ms Chan Lay Leng (OIC)</p>
 <p>• Ms Teo Wei Na (AIC)</p>
 <p>• Ms Sim Shin Jie</p>
@@ -29,22 +54,22 @@ members.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position/Appointment</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCE Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position / Appointment</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sally Quek En En</p>
+<p>Maggie Koo Mei Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4M2</p>
+<p>3M2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain (B Division)</p>
@@ -52,10 +77,10 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chong Jia En</p>
+<p>Lee Rei Ern Cynthia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4M1</p>
+<p>3M1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain (B Division)</p>
@@ -63,10 +88,10 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Aniqah Vivianna Binte Mohamed Azari</p>
+<p>Nur Aqifa Naila Binte Ahmadulhaq</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4M2</p>
+<p>3M2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain (B Division)</p>
@@ -82,19 +107,43 @@ members.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Event</p>
-</th>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCCC National School Games (NSG) Netball West Zone B Division Girls 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCCC NSG Netball National C Division Girls 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daisy Tan Carnival (March)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SCCC Netball West Zone B and C Division Championship</p>
+<p>SCCC NSG Netball West Zone B and C Division Girls 2023</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +151,7 @@ members.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Schools Challenge League</p>
+<p>Schools Challenge</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +164,7 @@ members.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>KEY ACHIEVEMENTS</strong></h4>
+<h4><strong>KEY ACHIEVEMENT</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -123,19 +172,43 @@ members.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCCC NSG Netball West Zone B Division Girls 2024 Quarter Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCCC NSG Netball National C Division Girls 2024 League Four Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daisy Tan Carnival U17 3<sup>rd</sup> place</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSSC Netball West B Division Girls Quarter Finals</p>
+<p>SCCC NSG Netball West Zone B Division Girls 2023 Quarter Finals</p>
 </td>
 </tr>
 <tr>
@@ -146,8 +219,21 @@ members.</p>
 <p>B Division Schools Challenge League 2023 Champions</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Netops Sports Netball Carnival November 2023 U14 2<sup>nd</sup> Runner
+Up</p>
+</td>
+</tr>
 </tbody>
 </table>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC05824.jpg">
+</div>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
