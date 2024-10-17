@@ -103,6 +103,14 @@ engaged in four different STEM Experiences:</p>
 </li>
 </ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drone.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cybersecurity.jpg">
+</div>
 <p></p>
 <p><strong>Tier 2 – Workshops, Enrichment Courses and Competitions</strong>
 </p>
