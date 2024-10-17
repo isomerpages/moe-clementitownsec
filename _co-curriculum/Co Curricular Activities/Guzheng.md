@@ -15,6 +15,10 @@ school and public performances.</p>
 recognized music certificates in the playing of the Guzheng. This motivates
 many of the students to continue their love and appreciation of the culture
 and tradition of our rich musical heritage.</p>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/syf2.jpg">
+</div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -125,6 +129,10 @@ and tradition of our rich musical heritage.</p>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/speech_day.jpg">
+</div>
 <h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -230,6 +238,18 @@ and tradition of our rich musical heritage.</p>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/PPPEA_27th_Lantern_Festival_event_2024.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/PPPEA_27th_Lantern_Festival_event_2024_2.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/sec_1_orientation.jpg">
+</div>
 <h4><strong>KEY ACHIEVEMENTS （2022-2024）</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -255,6 +275,10 @@ and tradition of our rich musical heritage.</p>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/syf1.jpg">
+</div>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
