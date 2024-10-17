@@ -17,16 +17,13 @@ art styles, artists and movements.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul>
 <li>
-<p>Mr Tan Kiang Chye Casey (OIC)&nbsp;</p>
-</li>
-<li>
-<p>Mrs Yuen - Ang Lay Eng (AIC)</p>
-</li>
-<li>
-<p>Mdm Dian Farziana Mohd Farid</p>
+<p>Mrs Yuen - Ang Lay Eng</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
+<p><em>&nbsp;</em>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -47,28 +44,62 @@ art styles, artists and movements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Yun Ying</p>
+<p>Melody Cho Thansin Kyaw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>204</p>
+<p>3AC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>President</p>
+<p>Chairperson</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pang Ing Jia</p>
+<p>Summer Khoo Yi Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2O3</p>
+<p>3AC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-President</p>
+<p>Vice-Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Hui Fang Angel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3AC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -78,182 +109,58 @@ art styles, artists and movements.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021</p>
+<p>Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Self-portraits</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Typography Art</p>
+<p>Event</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Organ Donation Tote Bag Competition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Draw My Stamp Story Competition</p>
+<p>Live On! Tote Bag design competition</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Values-in-Action’ Bin-it’ Project</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Teachers’ Day Card Design</p>
+<p>“Nurturing Seeds for a Flourishing Tomorrow” Art Exhibition</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;National Day Mask Design Competition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Competition: Organ Donor Tote Bag Design
-<br>
-</p>
+<p>Learning Journey to the annual Lasalle Show</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2020</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Competition: NKF Kidney stickers Design</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival&nbsp;</p>
+<p>Visit to the “Impressions of Monet” Exhibition at Flower Dome</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2020</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Learning journey</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Values-in-education, service learning</p>
+<p>Print making workshop</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2020</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Student-initiated activities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Student Art Exhibition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Design with Typography&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Design Valentine Day cards</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Design with Recycled Materials</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Painting with Acrylic</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learning journey to Art exhibitions / Art gallery</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Paper Cut</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Farewell /Graduation Party</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Team Bonding Activities</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -305,10 +212,10 @@ art styles, artists and movements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30pm to 5.30pm</p>
+<p>3.30pm-6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room</p>
@@ -316,13 +223,13 @@ art styles, artists and movements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30pm to 5.30pm</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Room</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
