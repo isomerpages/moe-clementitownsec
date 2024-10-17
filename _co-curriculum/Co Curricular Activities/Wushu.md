@@ -16,7 +16,7 @@ long and short weapon routines. Students will get to learn at least one
 routine of their choice in each category.</p>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/wushu2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu2.jpg">
 </div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
@@ -330,7 +330,7 @@ Sword (Eyan Seow Jin Yi, 1S6)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/wushu5.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/wushu4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu4.jpg">
 </div>
 <h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
@@ -463,11 +463,11 @@ Sword (Eyan Seow Jin Yi, 1S6)</p>
 </table>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/wushu6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu6.jpg">
 </div>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/wushu3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu3.jpg">
 </div>
 <h4>TRAINING DETAILS</h4>
 <table style="minWidth: 75px">
