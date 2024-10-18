@@ -15,19 +15,23 @@ school and public performances.</p>
 recognized music certificates in the playing of the Guzheng. This motivates
 many of the students to continue their love and appreciation of the culture
 and tradition of our rich musical heritage.</p>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/syf2.jpg">
+</div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Miss Eng Chia Lee (OIC)</p>
+<p>Ms Eng Chia Lee (IC)</p>
 </li>
 <li>
-<p>Mdm Luan Jianlin (AIC)</p>
+<p>Ms Doreen Lau&nbsp; (AIC)</p>
 </li>
 <li>
-<p>Ms Doreen Lau</p>
+<p>Ms Tessa Ho</p>
 </li>
 <li>
-<p>Madam Ang Choon Keow</p>
+<p>Ms Woong Choy Wan</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
@@ -51,72 +55,84 @@ and tradition of our rich musical heritage.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHRISTELLE NG LI XUAN</p>
+<p>CAO YUXI</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3A1</p>
+<p>3R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PRESIDENT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>RENEE LEE SHI NING</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3A1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VICE PRESIDENT 1</p>
+<p>President</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KOI XIN YI TRICIA</p>
+<p>CHLOE YIN JING RU (RUAN JINGRU)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3W</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANN KE SIXI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2W7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JUNIOR HEAD</p>
+<p>Junior Head</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GOH KE AN</p>
+<p>SUMI LIN ZI QING</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C1</p>
+<p>3T</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SECTION LEADER</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TAN SHIMIN, KELLY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3C1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SECTION LEADER</p>
+<p>Section Leader</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TAN KHENG LING</p>
+<p>WAHEEDAH MARIAM GHAZALI</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2W7</p>
+<p>3R</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SECTION LEADER</p>
+<p>Section Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU TIANRU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3R</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section Leader</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/speech_day.jpg">
+</div>
 <h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -126,98 +142,115 @@ and tradition of our rich musical heritage.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p>Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name of Event</strong>
-</p>
+<p>Event</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Guzheng Inter-level Competition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;VIA project- Chinese New Year E- concert</p>
+<p>The&nbsp;Clementi&nbsp;Welcome&nbsp;2022&nbsp;event</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2020</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Concert Performance&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Central Judging Performance&nbsp;</p>
+<p>Racial Harmony and Passion Art Carnival @ Clementi Performance</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;2019</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guzheng Camp&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Exchange with Yuan Ching Secondary School</p>
+<p>PPPEA 25th Lantern Festival event 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp; 2019</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Performance at Singapore Chinese Chamber of Commerce &amp; Industry&nbsp;annual
-Members’ Nite</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Guzheng VIA at Bethany Methodist Nursing Home</p>
+<p>Racial Harmony and Passion Art Carnival @ Clementi Performance</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2019</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Concert Performance&nbsp;</p>
+<p>Exchange with Yuan Ching Secondary school</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guzheng Camp cum Exchange with Yuan Ching Secondary School&nbsp;</p>
+<p>Chinese New Year Performance at Clementi Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speech Day Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CTSS Chinese New Year Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PPPEA 27th Lantern Festival event 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speech Day Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>KEY ACHIEVEMENTS IN 2015 - 2021</strong></h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/PPPEA_27th_Lantern_Festival_event_2024.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/PPPEA_27th_Lantern_Festival_event_2024_2.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/sec_1_orientation.jpg">
+</div>
+<h4><strong>KEY ACHIEVEMENTS （2022-2024）</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -226,48 +259,26 @@ Members’ Nite</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p>Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Position, Name of Competition</strong>
-</p>
+<p>Achievement</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SYF Arts Presentation - Certificate of Distinction&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;SYF Arts Presentation - Certificate of Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation - Certificate of Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation - Certificate of Distinction</p>
+<p>SYF Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/syf1.jpg">
+</div>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>

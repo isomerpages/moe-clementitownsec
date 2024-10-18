@@ -14,19 +14,23 @@ stronger physically, mentally and emotionally.</p>
 <p>Routines that students can learn in the CCA include bare hands routines,
 long and short weapon routines. Students will get to learn at least one
 routine of their choice in each category.</p>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu2.jpg">
+</div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Karen Sia&nbsp; (OIC)</p>
 </li>
 <li>
-<p>Mdm Liew Lee Pin (AIC)</p>
-</li>
-<li>
-<p>Mdm Sandy Ee</p>
+<p>Ms He Meiyu (AIC)</p>
 </li>
 <li>
 <p>Mrs Rachel Lehming</p>
+</li>
+<li>
+<p>Ms Rosnie Nasuha Rosman</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
@@ -39,24 +43,21 @@ routine of their choice in each category.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<p>Name</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<p>Class</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Position / Appointment</strong>
-</p>
+<p>Position / Appointment</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clarice Low Le Xuan</p>
+<p>Wee Jing Zhe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3A1</p>
+<p>3S5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain</p>
@@ -64,10 +65,10 @@ routine of their choice in each category.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chen Huai</p>
+<p>Rayner Wat Mun Jit (Qu Wen Zhe)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B1</p>
+<p>3S6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain</p>
@@ -75,13 +76,13 @@ routine of their choice in each category.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim En Cheng Regan</p>
+<p>Woo Yi Wei, Lucas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3A1</p>
+<p>3S6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secretary</p>
+<p>Vice-Captain</p>
 </td>
 </tr>
 </tbody>
@@ -95,141 +96,242 @@ routine of their choice in each category.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p>Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Position, Name of Competition</strong>
-</p>
+<p>Achievement</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold Medal,&nbsp; National School Games Wushu Championships 2021, B Division
-Girls Individual 2<sup>nd</sup>&nbsp;International Spear (Clarice Low Le
-Xuan, 3A1)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Bronze Medal, National School Games Wushu Championships 2021, B
-Division Girls Individual 42-Style Taiji Sword (Yeo Xin Hui, 4B2)&nbsp;</p>
+<p>Bronze Medal, National Wushu Championships 2022, C Division Girls Formulated
+32-Style Taiji Sword (Tay Sze En Ashley, 1S5)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;2021</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships 2021,
-B Division Girls Individual 42-Style Taiji Sword (Clarice Low Le Xuan,
-3A1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Sports Council Colours Award:
-<br>Yeo Xin Hui, 4B2,
-<br>Clarice Low Le Xuan, 3A1
-<br>
-</p>
+<p>Bronze Medal, National Wushu Championships 2022, C Division Boys 1st International
+Sword (Pang Jia Xi, Kavan, 2S5)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2019</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;Gold Medal,&nbsp; National School Games Wushu Championships
-2019, C Division Girls Formulated 24-Style Taijiquan (Clarice Low Le Xuan,
-1B1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships
-2019, C Division Girls 1st International Style Taijiquan (Clarice Low Le
-Xuan, 1B1)</p>
+<p>Bronze Medal, National Wushu Championships 2022, C Division Boys 5-duan
+Nanquan (Rayner Wat Mun Jit, 1S6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze Medal, National School Games Wushu Championships 2019, C Division
-Girls Formulated 32-Style Taijijian (Phoenix Sun Minwen, 1A1)&nbsp;
-<br>
-</p>
+<p>Bronze Medal, National Wushu Championships 2022, B Division Girls 42-Style
+Taiji Sword (Clarice Low Le Xuan, 4A1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games Championship Sportsmanship Award 2019
-<br>'A' Division Boys - Chen Han (4C1)
-<br>'B' Division Boys - Julius Mathew Lim Shi Chee (3B1)
-<br>'B' Division Girls - Li Xixuan (4A1)
-<br>'C' Division Boys - Dylan Chee Keng Woon (2A1)
-<br>'C' Division Girls - Rosario Angela Enid De Luna (2A2)
-<br>
-</p>
+<p>Silver Medal, National Wushu Championships 2022, C Division Girls Formulated
+24-Style Taijiquan (Tay Sze En Ashley, 1S5)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Sports Council Colours Award
-<br>Phoenix Sun Minwen (1A1)
-<br>Clarice Low Le Xuan (1B1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships 2018,
-Individual 1st International Taiji Sword (Chang Yen, 4A1)&nbsp;</p>
+<p>Silver Medal, National Wushu Championships 2022, C Division Boys Formulated
+24-Style Taijiquan (Tan Bao Xin, 2S6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;Bronze Medal,&nbsp; National School Games Wushu Championships
-2018, Individual&nbsp;2nd International Cudgel (Chen Huiyu, 4A1)</p>
+<p>Silver Medal, National Wushu Championships 2022, B Division Boys 1<sup>st</sup> International
+Nanquan (Pang Jun Xi, Ethan, 3S6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;National Sports Council Colours Award
-<br>&nbsp;Chang Yen (4A1)
-<br>Chen Huiyu (4A1)</p>
+<p>Silver Medal, National Wushu Championships 2022, B Division Girls 2<sup>nd</sup> International
+Spear (Clarice Low Le Xuan, 4A1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2023, C Division Boys Formulated
+24-Style Taijiquan (Wong Hong Kiat, 1S6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2023, C Division Boys 5-duan
+Nanquan (Rayner Wat Mun Jit, 2S6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2023, C Division Boys 1<sup>st</sup> International
+Nangun (Woo Yi Wei, Lucas, 2S6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2023, C Division Girls Formulated
+24-Style Taijiquan (Tay Sze En Ashley, 2S5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2022, B Division Boys 42-Style
+Taijiquan Sword (Tan Bao Xin, 3S6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Medal, National Wushu Championships 2023, C Division Girls Formulated
+32-Style Taiji Sword (Tay Sze En Ashley, 2S5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Medal, National Wushu Championships 2023, B Division Boys Formulated
+2<sup>nd</sup> International Sword (Pang Jia Xi, Kavan, 3S5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2024, C Division Boys 5-Duan
+Spear (Eyan Seow Jin Yi, 1S6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2024, C Division Boys Formulated
+24-Style Taijiquan (Lam Lai Xuan, Kaden, 2S6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2024, C Division Boys Formulated
+24-Style Taijiquan (Wong Hong Kiat, 2S6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2024, B Division Girls 42-Style
+Taijiquan (Tay Sze En Ashley, 3S5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2024, B Division Girls 42-Style
+Taiji Sword (Tay Sze En Ashley, 3S5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Medal, National Wushu Championships 2024, C Division Boys 5-Duan
+Changquan (Eyan Seow Jin Yi, 1S6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Medal, National Wushu Championships 2024, C Division Boys 5-Duan
+Sword (Eyan Seow Jin Yi, 1S6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Medal, National Wushu Championships 2024, C Division Boys Formulated
+32-Style Taiji Sword (Wong Hong Kiat, 2S6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Medal, National Wushu Championships 2024, B Division Boys Group Weapon:</p>
+<p>Rayner Wat Mun Jit (Qu Wenzhe), 3S6</p>
+<p>Woo Yi Wei Lucas, 3S6</p>
+<p>Wee Jing Zhe, 3S5</p>
+<p>Pang Jia Xi Kavan, 4S5</p>
+<p>Ramesh Varish, 4S6</p>
+<p>Wong Bao Xian, 4S5</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/wushu5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu4.jpg">
+</div>
 <h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -239,78 +341,134 @@ Individual 1st International Taiji Sword (Chang Yen, 4A1)&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships 'B' Division</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year Celebration Performance (Bukit Batok Zone 6 RC)&nbsp;</p>
+<p>Event</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021&nbsp;</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Concert Performance (Clementi Town Secondary School)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Chinese New Year Concert Performance (Clementi Primary School)</p>
+<p>CTSS Chinese New Year Concert</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2020&nbsp;</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Chinese New Year Concert Performance (Clementi Town Secondary School)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;CTSS Chinese New Year Celebration Performance&nbsp;</p>
+<p>Chinese New Year Concert at Clementi Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2019</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Wushu &amp; Sanda Championships&nbsp;</p>
+<p>National School Games Wushu Championship</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2018</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CTSS Chinese New Year Celebration Performance&nbsp;&nbsp;</p>
+<p>National Wushu &amp; Sanda Championships</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CTSS Chinese New Year Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Concert at Clementi Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Get Active! Singapore Heartlands Festival</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Wushu &amp; Sanda Championships</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CTSS Chinese New Year Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Concert at Clementi Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Celebrations at Clementi Firefly Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Wushu &amp; Sanda Championships</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu6.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu3.jpg">
+</div>
 <h4>TRAINING DETAILS</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -335,7 +493,7 @@ Individual 1st International Taiji Sword (Chang Yen, 4A1)&nbsp;</p>
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 pm – 5.15 pm&nbsp;</p>
+<p>3.30pm – 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
@@ -343,13 +501,13 @@ Individual 1st International Taiji Sword (Chang Yen, 4A1)&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Wednesday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 pm – 5.15 pm&nbsp;</p>
+<p>3.30pm – 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Hall&nbsp;</p>
+<p>School Hall</p>
 </td>
 </tr>
 </tbody>
