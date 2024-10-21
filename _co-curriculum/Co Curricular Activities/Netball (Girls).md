@@ -39,8 +39,7 @@ members.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC01150.jpg">
 </div>
-<p><strong>TEACHERS IN-CHARGE</strong>
-</p>
+<h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <p>• Ms Chan Lay Leng (OIC)</p>
 <p>• Ms Teo Wei Na (AIC)</p>
 <p>• Ms Sim Shin Jie</p>
