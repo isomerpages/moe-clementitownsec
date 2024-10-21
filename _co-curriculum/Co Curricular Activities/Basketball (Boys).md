@@ -322,18 +322,18 @@ juniors.</p>
 <p>3 pm – 6 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor Basketball Courts / ISH</p>
+<p>Outdoor Basketball Courts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 pm – 5.30 pm</p>
+<p>3 pm – 6 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor Basketball Courts / ISH</p>
+<p>Outdoor Basketball Courts</p>
 </td>
 </tr>
 </tbody>
