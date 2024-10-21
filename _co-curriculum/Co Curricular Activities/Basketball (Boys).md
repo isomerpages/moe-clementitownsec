@@ -26,13 +26,13 @@ juniors.</p>
 <p>Ms Sheetal Sonawane (OIC)</p>
 </li>
 <li>
-<p>Mr See Gim Hwee (AIC)</p>
+<p>Mdm Tracy Tey (AIC)</p>
 </li>
 <li>
-<p>Mr Kenneth Tan Ming Hon</p>
+<p>Mr Kenneth Tan</p>
 </li>
 <li>
-<p>Mr Wong Choo Kok</p>
+<p>Miss Rowena Tan</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
@@ -56,10 +56,10 @@ juniors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Albaqir S/O Mohamad Nasir</p>
+<p>Leroy Ang Ho Gun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4A2</p>
+<p>3S6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain (B Division)</p>
@@ -67,21 +67,10 @@ juniors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Winks Lim Yong Quan</p>
+<p>Lee Guo Bin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain (B Division)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lukas Vaughan Kai-En O’Hara</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3B1</p>
+<p>3S6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain (B Division)</p>
@@ -89,35 +78,46 @@ juniors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Chua Ye Xuan</p>
+<p>Eng Tze Yern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4A1&nbsp;</p>
+<p>3S6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VIA Head (B Division)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Yuvan Sivanandan&nbsp; &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2S6&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Captain (C Division)&nbsp;</p>
+<p>Logistics IC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bryan Chui Wei Zian&nbsp;</p>
+<p>Nazir Agamadou Rayyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3S5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Duty Roster / Noticeboard IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admes Chia Peng Hwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3S5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tia Bang Yao Xavis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2S5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Captain (C Division)</p>
+<p>Captain (C Division)</p>
 </td>
 </tr>
 </tbody>
@@ -131,86 +131,163 @@ juniors.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p>Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p>Event</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CT BB (B Division) VIA Project 2021&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;April 2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CTSS All Star Basketball Championships 2021&nbsp;&nbsp;</p>
+<p>NSG Basketball B Division Boys Competition</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG Cancelled for B Division&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>West Zone B Division Basketball Tournament&nbsp;&nbsp;</p>
+<p>NSG Basketball C Division Boys Competition (Moved up to Group 4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019&nbsp;</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Zone B Division Tournament</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>West Zone C Division Basketball Tournament&nbsp;&nbsp;</p>
+<p>Secondary 1 CCA Showcase</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T-Net B Division Basketball Tournament&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>T-Net C Division Basketball Tournament&nbsp;&nbsp;&nbsp;</p>
+<p>Clementi Cup</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D-League C Division Basketball Tournament&nbsp;&nbsp;</p>
+<p>December Basketball Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball B Division Boys Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball C Division Boys Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 CCA Showcase</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clementi Cup – 6<sup>th</sup> Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>December Basketball Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball B Division Boys Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball C Division Boys Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 CCA Showcase</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>December Basketball Camp</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY ACHIEVEMENTS</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball C Division Boys Competition (Moved up to Group 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leroy Ang Ho Gun Appointed as House Captain for SAGA House</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clementi Cup – 6<sup>th</sup> placing</p>
 </td>
 </tr>
 </tbody>
@@ -245,18 +322,18 @@ juniors.</p>
 <p>3 pm – 6 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor Basketball Courts / ISH</p>
+<p>Outdoor Basketball Courts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 pm – 5.30 pm</p>
+<p>3 pm – 6 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor Basketball Courts / ISH</p>
+<p>Outdoor Basketball Courts</p>
 </td>
 </tr>
 </tbody>

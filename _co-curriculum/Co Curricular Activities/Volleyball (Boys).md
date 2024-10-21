@@ -73,7 +73,7 @@ what is expected of them in the future.</p>
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Posotion/Appointment</p>
+<p>Position/Appointment</p>
 </th>
 </tr>
 <tr>

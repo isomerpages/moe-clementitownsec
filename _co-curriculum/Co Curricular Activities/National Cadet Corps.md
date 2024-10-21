@@ -13,41 +13,166 @@ aid in their holistic leadership development to become independent students.&nbs
 <p>We believe in team work. Most activities are conducted in groups to harness
 every individual's strength.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
-<p>Mr Chia Chun Keong (OIC) Mr Chan Bin Chuan (AIC) Mr Alvin Tan Jia Jie</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Chan Bin Chuan (IC)</p>
+</li>
+<li>
+<p>Mr Ethan Tan (AIC)</p>
+</li>
+<li>
+<p>Mr Mathew Ho</p>
+</li>
+</ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc%20exco.jpg">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position / Appointment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Shao En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3M2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Sergeant Major</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamad Hady Fiqri Bin Mohamad Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3M1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Sergeant Major</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>KEY EVENTS</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Unit Camp 2022</p>
-</li>
-<li>
-<p>PESTA-SUKAN (Dragonboat) 2022</p>
-</li>
-<li>
-<p>Precision Drill Competition 2023</p>
-</li>
-<li>
-<p>iFly Sky Diving Experience</p>
-</li>
-</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023-2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Camp Forge (Sec 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023-2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Affirmation Ceremony&nbsp; (Sec 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023-2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Camp Steel (Sec 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023-2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Air Rifle Shooting (Sec 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023-2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Leadership Specialist Course (Sec 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023-2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAR 21 Individual Marksmanship (Sec 3)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>KEY ACHIEVEMENTS</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Unit Recognition 2020 (Distinction)</p>
-</li>
-<li>
-<p>Unit Recognition 2021 (Distinction)</p>
-</li>
-<li>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Unit Recognition 2022 (Distinction)</p>
-</li>
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Unit Recognition 2023 (Distinction)</p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition 2024 (Distinction)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc%20trg.jpg">
