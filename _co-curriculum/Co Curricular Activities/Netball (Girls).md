@@ -9,7 +9,9 @@ third_nav_title: Co Curricular Activities
 <p>In Netball, we aim to nurture our girls' passion for the game as well
 as inculcate in them the ASPIRE values in facing the challenges associated
 with the game.</p>
-<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_10_21_at_7_52_29_PM.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC00434__1_.jpg">
 </div>
@@ -232,6 +234,10 @@ Up</p>
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC05824.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_10_21_at_7_52_29_PM__1_.jpg">
 </div>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <table style="minWidth: 75px">
