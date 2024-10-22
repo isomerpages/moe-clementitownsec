@@ -104,6 +104,15 @@ engaged in four different STEM Experiences:</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_Project_Showcase.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Escape_Room.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drone.jpg">
 </div>
 <p></p>
