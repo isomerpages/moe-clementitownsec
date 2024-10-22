@@ -39,7 +39,7 @@ future ready and self-directed learners.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Social Studies</p>
+<p>ST/Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rashidah Kassim</p>
