@@ -58,7 +58,7 @@ hardcopy from the School’s General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Forms/canteen_formbf7_25Oct.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+<p><a href="/files/Forms/canteen formbf7.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 </ul>
