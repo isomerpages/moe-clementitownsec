@@ -22,10 +22,10 @@ able to think critically and flexibly when faced with issues and challenges</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>SH/Humanities</p>
+<p>HOD/Humanities</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Sandy Ee Wen Lin</p>
+<p>Ms Ee Wen Lin Sandy</p>
 </th>
 </tr>
 <tr>
