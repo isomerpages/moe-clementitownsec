@@ -54,14 +54,10 @@ variant: tiptap
 <li>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/files/Forms/canteen formbf7.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 </li>
-</ul>
+</ol>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the application form:</p>
