@@ -93,7 +93,8 @@ email OR to the School's General Office.</p>
 <p>Contact No: 67777362</p>
 </li>
 <li>
-<p>Email: ctss@moe.edu.sg</p>
+<p>Email: <a href="mailto:ctss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ctss@moe.edu.sg</a>
+</p>
 </li>
 <li>
 <p>Contact Person: Ms Nur Fareeza Ahmad Rumaizi</p>
