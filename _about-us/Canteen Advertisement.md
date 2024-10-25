@@ -32,7 +32,7 @@ variant: tiptap
 <p>13 Nov 2024 (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Halal</p>
 </td>
 </tr>
 <tr>
