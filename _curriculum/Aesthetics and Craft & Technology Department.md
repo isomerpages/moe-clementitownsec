@@ -147,7 +147,9 @@ their own projects.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT07.jpg">
 </div>
 <p></p>
-<p></p>
+<h4><strong>STUDENT ACHIEVEMENTS</strong></h4>
+<p>&nbsp;<strong>AY2024</strong>
+</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
