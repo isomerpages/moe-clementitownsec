@@ -69,6 +69,22 @@ needs and interests of our students.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teacher / Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Wan Ting (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Hong Nin (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher / Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,18 +109,18 @@ needs and interests of our students.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Biology</p>
+<p>Teacher / Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loh Wan Ting (Ms)</p>
+<p>Nai Sok Khoon Karine (Ms)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Biology</p>
+<p>Teacher / Lower Secondary Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Hong Nin</p>
+<p>Alex Lim kheam Soon (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -197,371 +213,147 @@ view of the world, our South-East Asian region, allowing them to learn
 more about the culture of other ASEAN countries while simultaneously being
 exposed to regional and international scientific projects and ideas.</p>
 <h4><strong>STUDENT ACHIEVEMENTS</strong></h4>
-<p>&nbsp;<strong>AY2021</strong>
+<p>&nbsp;<strong>AY2024</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Academics-Focused&nbsp;</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Award Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Type</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Event</strong>
-</p>
+<p>Singapore Junior Biology Olympiad</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Organiser</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
+<p>1 Gold</p>
+<p>2 Silver</p>
+<p>3 Bronze</p>
+<p>2 Honourable Mention</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Physics League</p>
+<p>12th Biomedical Quiz (BMQ)</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>strongly supported by the Institute of Physics, Singapore (IPS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Bronze - Team</p>
-<p>1 Honourable Mention - Team</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14<sup>th</sup> Singapore Junior Physics Olympiad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Institute of Physics, Singapore (IPS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Silver - Individual</p>
-<p>2 Honourable Mention - Individual</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021 Singapore Junior Chemistry Olymmpiad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore National Institute of Chemistry (SNIC) in partnership with NUS,
-NTU, SUTD and Nanyang Polytechnic and supported by the Ministry of Education
-(MOE).</p>
-<p>
-<br>
+<p><u>Individual Awards</u>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Bronze - Individual</p>
-<p>1 Merit - Individual</p>
+<p>2 Gold</p>
+<p>1 Silver</p>
+<p>1 Bronze</p>
+<p>2 Honourable Mention</p>
+<p>&nbsp;</p>
+<p><u>BMQ 2024 Top Category 1 schools</u>
+</p>
+<p>2<sup>nd </sup>runner up</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10<sup>th</sup> International Biomedical Quiz 2021</p>
+<p>Singapore Junior Chemistry Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anglo-Chinese Junior College (ACJC) Science and Mathematics Council</p>
-<p>
-<br>
+<p><u>Merit Award</u>
 </p>
+<p>Wong-Ariya Methanuwatt (Sec 4 Drama Club)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad 2024</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Gold - Individual</p>
-<p>5 Silver - Individual</p>
-<p>1 Honourable Mention - Individual</p>
-<p>2 Merit - Individual&nbsp;</p>
+<p>1 Silver</p>
+<p>2 Bronze</p>
+<p>4 Honourable Mentions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Physics League 2024</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 Bronze</p>
+<p>5 Honourable Mentions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Science and Engineering Festival (SSEF)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>1 Team Silver Award</u>
+</p>
+<p>SiA Team:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Chng Choon Hoe Hugh (Sec 4 Wushu)</p>
+</li>
+<li>
+<p>Teng Jiayu (Sec 4 NCDCC)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p><u>2 Team Bronze Award</u>
+</p>
+<p>&nbsp;Engineering Team:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Abhimongkol Teeraphapphun (Sec 4 Drama Club)</p>
+</li>
+<li>
+<p>Nguyen Chi Kien (Sec 4 Drama Club)</p>
+</li>
+<li>
+<p>Nguyen Dai Duong (Sec 4 Drama Club)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>SiA Team:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Vivienne Chua Xuan Yu (Sec 4 Wushu)</p>
+</li>
+<li>
+<p>Melody Cho Thansin Kyaw (Sec 3 Art Club)</p>
+</li>
+<li>
+<p>Sumi Lin Zi Qing (Sec 3 Guzheng)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p><u>1 Junior Scientist Merit Project Award</u>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Chia Xuan Ye (Sec 2 Infocomm Technology Club)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Research-Focused&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Event</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Organiser</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021 Global Youth Science and Technology Bowl</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hong Kong Federation of Youth Groups</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Grand Prize Silver</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21<sup>st</sup> Singapore Science and Engineering Fair 2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ministry of Education (MOE), the Agency for Science, Technology and Research
-(A*STAR) and Science Centre Singapore</p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Team Gold with Special Award from the Singapore Association for the
-Advancement of Science</p>
-<p>1 Team Gold</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Innovation-Focused&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Event</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Organiser</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unity Scientific Innovation Challenge with SP &amp; ERI@N (USPE) 2019/2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unity Secondary School, Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Individual Young Engineer Gold Award 2021</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>AY2020</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Academics-Focused&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Event</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Organiser</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9<sup>th</sup> International Biomedical Quiz 2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anglo-Chinese Junior College (ACJC) Science and Mathematics Council</p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Silver - Individual</p>
-<p>1 Bronze - Individual&nbsp;</p>
-<p>1 Honourable Mention - Individual</p>
-<p>1 Credit - Individual&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Singapore Junior Biology Olympiad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Singapore Institute of Biology in collaboration with Science Centre
-Singapore, and supported by the Ministry of Education.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Bronze - Individual</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Research-Focused&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Event</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Organiser</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20<sup>th</sup> Singapore Science and Engineering Fair 2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ministry of Education (MOE), the Agency for Science, Technology and Research
-(A*STAR) and Science Centre Singapore</p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Individual Bronze with Special Award from the Singapore Association
-for the Advancement of Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20<sup>th</sup> Singapore Science and Engineering Fair Junior Scientist
-Category 2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ministry of Education (MOE), the Agency for Science, Technology and Research
-(A*STAR) and Science Centre Singapore</p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Team Top 2 Award (Video)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Innovation-Focused&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Event</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Organiser</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unity Scientific Innovation Challenge with SP &amp; ERI@N (USPE) 2019/2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unity Secondary School, Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Team Merit Award</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
-<p></p>
+<p>S</p>

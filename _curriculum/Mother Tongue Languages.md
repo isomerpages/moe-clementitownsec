@@ -9,6 +9,138 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mother_tongue_language_department_2.jpg">
 </div>
 <p></p>
+<p>Our teachers:</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department / Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wee-Loh Wee Sin (Mrs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woong Choy Wan (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rosezalina Asmoin (Mdm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bek Su Ling (Mdm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Liping (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eng Chia Lee (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fu Rong (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He Meiyu (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Chen Xi (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tracey Tey (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aidil Bin Md Idris</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hamizah Begum Binte Mohd Hanif (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohideen Nizar Anwar (Dr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Natarajan Umarani (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rajamanickam Renuka (Mdm)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>MISSION</strong></h4>
 <p>Through our curriculum and various enrichment programmes, we seek to develop
 each Clementeen to be a proficient and confident user of their own Mother
@@ -34,63 +166,50 @@ Wall of China, Forbidden Palace and Yuan Ming Yuan. Visits to the National
 Museum of China and Science and Technology Museum had also enhanced students’
 understanding of the history of China and the vast advancement of technology.&nbsp;</p>
 <p></p>
-<h4><strong>ACHIEVEMENTS</strong></h4>
-<p><strong>Chinese Unit</strong> 
-<br>West Zone Di Zi Gui Essay Writing Competition 2015 - 1st Prize
-<br>2017年 全国中小学现场华文故事创作比赛 - 低年级组最佳创作将 （朱思佳）</p>
-<p>2017年德明政府中学第11届校际《劲爆剧场大比拼》- 最佳团队精
-<br>2017年西区中学生短剧创作比赛荣获一等奖、最佳剧本奖、最佳演员奖</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/achievements%201.png">
-</div>
-<p>2017年新蕾奖中学高年级组一等奖</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/achievements%202.png">
-</div>
-<p><strong>Malay Unit:</strong>
+<h4><strong>STUDENT ACHIEVEMENTS</strong></h4>
+<p>&nbsp;<strong>AY2024</strong>
+<br>
+<br>
 </p>
-<p>National Secondary School Malay Scrabbles Competition 2015 - 5th position</p>
-<p>National Story Challenge 2017 - 2nd Prize</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Type</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13th National Create Your Own Newspaper Competition (2024)</p>
+<p>&nbsp;</p>
+<p>7th National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Prize</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><u>Silver</u>
+</p>
+<p>CHEN ZI YI (Sec 1 Symphonic Band)</p>
+<p>&nbsp;</p>
+<p><u>Bronze</u>
+</p>
+<p>YSABEL LIM YUN YING (Sec 2 Drama Club)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
-<br>
-</p>
-<p><strong>Tamil Unit:</strong>
-</p>
-<p>National Poetry writing 2015 - 3rd Prize</p>
-<p>National Quiz competition 2015- 3rd Prize</p>
-<p>Story writing Competition &amp; 3rd Prize</p>
-<p>Book Debate Competition - 3rd Prize</p>
-<p>ACS-I Inter School Competition 2016 : Dance - 5th Prize</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Poetry Writting
-- 4th Prize</p>
-<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Singing - 2nd Prize</p>
-<p>Tamil Amuthu - National Day Inter School Competition 2016 (August)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tongue Twister - 1st Prize</p>
-</li>
-<li>
-<p>Singing - 2nd Prize</p>
-</li>
-<li>
-<p>Picture 1 word - 4th Prize</p>
-</li>
-<li>
-<p>Quize - 4th Prize</p>
-</li>
-</ul>
-<p>W1W7 Cluster Drama Competition 2017: 1st Prize &amp; Best Actor Award
-<br>Kallang CC Dance Competition 2017: 1st Prize
-<br>Kallang CC Singing Competition 2017: 2nd Prize</p>
-<p>
-<br>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">

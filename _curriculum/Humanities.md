@@ -210,7 +210,139 @@ S waves which is important for them to link it to monitoring systems and
 impacts created by earthquakes. Students having the opportunity to experience
 what geographers do to make knowledge.</p>
 <p></p>
+<h4><strong>STUDENT ACHIEVEMENTS</strong></h4>
+<p>&nbsp;<strong>AY2024</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Type</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Historical Scene Investigation (H.S.I) Challenge</p>
+<p>&nbsp;</p>
+<p>&nbsp;International Model UN Conference (IMUNC)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Young Technopreneur Challenge 2024</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p></p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Earth Alive Challenge 2024</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Sustainability Advocacy Challenge (SAC) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Silver Medal</u>
+</p>
+<p>Tay Swee Hee (Sec 4 ODAC)</p>
+<p>&nbsp;&nbsp;</p>
+<p>Silver Award</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><u>Honourable Mention</u>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Wu Youzhe (Sec 4 NCDCC)</p>
+</li>
+<li>
+<p>Honourable Mention Chng Choon Hoe Hugh (Sec 4 Wushu)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>Certificate of Acheivement</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Leroy Ang Ho Gun (Leader) (Sec 3 Basketball)</p>
+</li>
+<li>
+<p>Lightland Ling Phan Thi (Sec 3 Football)</p>
+</li>
+<li>
+<p>Jonathan Chua Oo Jon (Sec 3 Volleyball)</p>
+</li>
+<li>
+<p>Gong Chun Hean (Sec 3 Scouts)</p>
+</li>
+</ol>
+<p>&nbsp;&nbsp;</p>
+<p>Certificate of Achievement</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Kwon Jooyoung (Sec 3 Daniel Drama club)</p>
+</li>
+<li>
+<p>Gurusharan Saminathan (Sec 3 Football)</p>
+</li>
+<li>
+<p>Saajan Singh Sandhu (Sec 3 Scouts)</p>
+</li>
+<li>
+<p>Ng Wen Jun (Sec 3 Symphonic Band)</p>
+</li>
+<li>
+<p>Teoh Zi Yu (Sec 3 Symphonic Band)</p>
+</li>
+<li>
+<p>Anson Low Yi Da (Sec 3 Basketball)</p>
+</li>
+<li>
+<p>Chua Deon Gerald Norberte (Sec 3 ODAC)</p>
+</li>
+<li>
+<p>Celeste Yeo Si Qi (Sec 3 GuZheng)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>Gold Award</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 <br>
