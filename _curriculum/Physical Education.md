@@ -37,7 +37,7 @@ variant: tiptap
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ethan Tan</p>
+<p>Ethan Tan (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Keng Yeow</p>
+<p>Chua Keng Yeow (Mr)</p>
 </td>
 </tr>
 </tbody>
