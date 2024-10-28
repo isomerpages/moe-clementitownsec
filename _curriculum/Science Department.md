@@ -109,10 +109,10 @@ needs and interests of our students.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Biology</p>
+<p>Teacher / Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nai Sok Khoon Karine (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -121,14 +121,6 @@ needs and interests of our students.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Alex Lim kheam Soon (Mr)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
