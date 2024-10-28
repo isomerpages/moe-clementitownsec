@@ -150,6 +150,87 @@ their own projects.</p>
 <h4><strong>STUDENT ACHIEVEMENTS</strong></h4>
 <p>&nbsp;<strong>AY2024</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Type</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sustainability Design Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Finalist</u>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Bong Qin Yu (Sec 2 Drama Club)</p>
+</li>
+<li>
+<p>Jess Ng Jie Shi (Sec 2 Drama Club)</p>
+</li>
+<li>
+<p>Cadence Ng Xin Ya (Sec 2 Drama Club)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Schools Sandwich Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>4th</u>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Chong Vi Xuan Clarissa (2WS)</p>
+</li>
+<li>
+<p>Gan Xang Lin (2WS)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOF Design Competition</p>
+<p>(LIVE ON Festival 2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Distinction</u>
+</p>
+<p>Parthiban Hassini (Sec 2 Modern Dance)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOF Design Competition</p>
+<p>(LIVE ON Festival 2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Merit</u>
+</p>
+<p>Tan Yeong Yean Paige (Sec 2 Guzheng)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
