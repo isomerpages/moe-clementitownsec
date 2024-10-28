@@ -248,6 +248,8 @@ what geographers do to make knowledge.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p></p>
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -290,18 +292,25 @@ what geographers do to make knowledge.</p>
 <p>Certificate of Acheivement</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Leroy Ang Ho Gun (Leader) - Basketball</p>
+<p>Leroy Ang Ho Gun (Leader) (Sec 3 Basketball)</p>
 </li>
 <li>
-<p>Lightland Ling Phan Thi - (Football)</p>
+<p>Lightland Ling Phan Thi (Sec 3 Football)</p>
+</li>
+<li>
+<p>Jonathan Chua Oo Jon (Sec 3 Volleyball)</p>
+</li>
+<li>
+<p>Gong Chun Hean (Sec 3 Scouts)</p>
 </li>
 </ol>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jonathan Chua Oo Jon - Volleyball</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gong Chun Hean - Scouts</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
 <p>Certificate of Achievement</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kwon Jooyoung Daniel Drama club</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Kwon Jooyoung (Sec 3 Daniel Drama club_</p>
+</li>
+</ol>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gurusharan Saminathan Football</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saajan Singh Sandhu Scouts</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Wen Jun Symphonic Band</p>
