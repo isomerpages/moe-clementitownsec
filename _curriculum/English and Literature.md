@@ -218,6 +218,61 @@ to name a few. mme and Unity Writers Festival, to name a few.</p>
 <h4><strong>STUDENT ACHIEVEMENTS</strong></h4>
 <p>&nbsp;<strong>AY2024</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Type</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Creative Arts Programme
+<br>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
+<p>Unity Young Writers’ Festival</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Selected for Creative Arts Seminar</u>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Hong Hyeonggeol (Sec 2 NCDCC)</p>
+</li>
+<li>
+<p>Sophie Ong (Weng Jiaxuan) (Sec 3 Drama Club)</p>
+</li>
+<li>
+<p>Balamurugan Priyadarshini (Sec 3 Modern Dance)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p><u>2nd Place (Poetry) </u>
+</p>
+<p>Jason Fong Ka Seng (Sec 4 Art Club)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 <br>
