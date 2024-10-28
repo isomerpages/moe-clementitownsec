@@ -267,6 +267,11 @@ what geographers do to make knowledge.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Sustainability Advocacy Challenge (SAC) 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -308,19 +313,32 @@ what geographers do to make knowledge.</p>
 <p>Certificate of Achievement</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Kwon Jooyoung (Sec 3 Daniel Drama club_</p>
+<p>Kwon Jooyoung (Sec 3 Daniel Drama club)</p>
+</li>
+<li>
+<p>Gurusharan Saminathan (Sec 3 Football)</p>
+</li>
+<li>
+<p>Saajan Singh Sandhu (Sec 3 Scouts)</p>
+</li>
+<li>
+<p>Ng Wen Jun (Sec 3 Symphonic Band)</p>
+</li>
+<li>
+<p>Teoh Zi Yu (Sec 3 Symphonic Band)</p>
+</li>
+<li>
+<p>Anson Low Yi Da (Sec 3 Basketball)</p>
+</li>
+<li>
+<p>Chua Deon Gerald Norberte (Sec 3 ODAC)</p>
+</li>
+<li>
+<p>Celeste Yeo Si Qi (Sec 3 GuZheng)</p>
 </li>
 </ol>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gurusharan Saminathan Football</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saajan Singh Sandhu Scouts</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Wen Jun Symphonic Band</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teoh Zi Yu Symphonic Band</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anson Low Yi Da Basketball</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chua Deon Gerald Norberte ODAC</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Celeste Yeo Si Qi GuZheng</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Gold Award</p>
+<p>&nbsp;Gold Award</p>
 </td>
 </tr>
 </tbody>
