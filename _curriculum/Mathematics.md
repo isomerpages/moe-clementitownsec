@@ -194,6 +194,55 @@ the 2022 competition was "Mathematics and Environmental Sustainability".</p>
 <h4><strong>STUDENT ACHIEVEMENTS</strong></h4>
 <p>&nbsp;<strong>AY2024</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Type</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Singapore Mathematical Olympiad (SMO)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Junior Category</u>
+</p>
+<p>1 Bronze, 11 Honourable Mentions</p>
+<p>&nbsp;Senior Category:</p>
+<p>2 Bronze, 6 Honourable Mentions</p>
+<p></p>
+<p><u>Open Category</u>
+</p>
+<p>2 Honourable Mentions</p>
+<p>SMO School Commendation Award - Category 1</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore International Mathematical and Computational Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Award&nbsp;</p>
+<p>Top 5 in Most Creative Problem and Solution</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 <br>
