@@ -265,7 +265,7 @@ to name a few. mme and Unity Writers Festival, to name a few.</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<p><u>2nd Place (Poetry) </u>
+<p><u>2nd Place (Poetry)</u>
 </p>
 <p>Jason Fong Ka Seng (Sec 4 Art Club)</p>
 <p>&nbsp;</p>
