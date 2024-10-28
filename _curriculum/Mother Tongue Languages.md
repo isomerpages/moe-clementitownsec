@@ -170,6 +170,46 @@ understanding of the history of China and the vast advancement of technology.&nb
 <p>&nbsp;<strong>AY2024</strong>
 <br>
 <br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Type</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13th National Create Your Own Newspaper Competition (2024)</p>
+<p>&nbsp;</p>
+<p>7th National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Prize</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><u>Silver</u>
+</p>
+<p>CHEN ZI YI (Sec 1 Symphonic Band)</p>
+<p>&nbsp;</p>
+<p><u>Bronze</u>
+</p>
+<p>YSABEL LIM YUN YING (Sec 2 Drama Club)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
