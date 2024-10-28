@@ -9,6 +9,115 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/aesthetics_and_craft_and_technology_department_2.jpg">
 </div>
 <p></p>
+<p>Our Teachers:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peh-Yeo Hwee Ching Magdalene (Mrs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Internal) / Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Liangcai Jeremy (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Wen Xin (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim-Ng Lye Sim (Mrs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Design &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chidambaram Saravanan (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Design &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yap Jin Hua Andy (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Design &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mursalina Bte Mohd Saim (Mdm)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sim Shin Jie (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Wern Li Rowena (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wee Ni Swen (Ms)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>VISION</strong></h4>
 <p>Every student is a Creator.</p>
 <h4><strong>MISSION</strong></h4>
