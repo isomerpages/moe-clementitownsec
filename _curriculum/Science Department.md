@@ -69,6 +69,22 @@ needs and interests of our students.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teacher / Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Wan Ting (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Hong Nin (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher / Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,15 +112,23 @@ needs and interests of our students.&nbsp;</p>
 <p>Teacher / Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loh Wan Ting (Ms)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Biology</p>
+<p>Teacher / Lower Secondary Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Hong Nin</p>
+<p>Alex Lim kheam soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
