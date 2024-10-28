@@ -120,7 +120,7 @@ needs and interests of our students.&nbsp;</p>
 <p>Teacher / Lower Secondary Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alex Lim kheam soon</p>
+<p>Alex Lim kheam Soon (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -588,4 +588,4 @@ Category 2020</p>
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
-<p></p>
+<p>S</p>
