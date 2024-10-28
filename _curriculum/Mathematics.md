@@ -11,7 +11,6 @@ variant: tiptap
 <p></p>
 <p>Our teachers:</p>
 <p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
