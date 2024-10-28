@@ -34,61 +34,8 @@ Wall of China, Forbidden Palace and Yuan Ming Yuan. Visits to the National
 Museum of China and Science and Technology Museum had also enhanced students’
 understanding of the history of China and the vast advancement of technology.&nbsp;</p>
 <p></p>
-<h4><strong>ACHIEVEMENTS</strong></h4>
-<p><strong>Chinese Unit</strong> 
-<br>West Zone Di Zi Gui Essay Writing Competition 2015 - 1st Prize
-<br>2017年 全国中小学现场华文故事创作比赛 - 低年级组最佳创作将 （朱思佳）</p>
-<p>2017年德明政府中学第11届校际《劲爆剧场大比拼》- 最佳团队精
-<br>2017年西区中学生短剧创作比赛荣获一等奖、最佳剧本奖、最佳演员奖</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/achievements%201.png">
-</div>
-<p>2017年新蕾奖中学高年级组一等奖</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/achievements%202.png">
-</div>
-<p><strong>Malay Unit:</strong>
-</p>
-<p>National Secondary School Malay Scrabbles Competition 2015 - 5th position</p>
-<p>National Story Challenge 2017 - 2nd Prize</p>
-<p>
-<br>
-</p>
-<p><strong>Tamil Unit:</strong>
-</p>
-<p>National Poetry writing 2015 - 3rd Prize</p>
-<p>National Quiz competition 2015- 3rd Prize</p>
-<p>Story writing Competition &amp; 3rd Prize</p>
-<p>Book Debate Competition - 3rd Prize</p>
-<p>ACS-I Inter School Competition 2016 : Dance - 5th Prize</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Poetry Writting
-- 4th Prize</p>
-<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: Singing - 2nd Prize</p>
-<p>Tamil Amuthu - National Day Inter School Competition 2016 (August)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tongue Twister - 1st Prize</p>
-</li>
-<li>
-<p>Singing - 2nd Prize</p>
-</li>
-<li>
-<p>Picture 1 word - 4th Prize</p>
-</li>
-<li>
-<p>Quize - 4th Prize</p>
-</li>
-</ul>
-<p>W1W7 Cluster Drama Competition 2017: 1st Prize &amp; Best Actor Award
-<br>Kallang CC Dance Competition 2017: 1st Prize
-<br>Kallang CC Singing Competition 2017: 2nd Prize</p>
-<p>
+<h4><strong>STUDENT ACHIEVEMENTS</strong></h4>
+<p>&nbsp;<strong>AY2024</strong>
 <br>
 <br>
 <br>
