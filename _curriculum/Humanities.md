@@ -338,7 +338,7 @@ what geographers do to make knowledge.</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<p>&nbsp;Gold Award</p>
+<p>Gold Award</p>
 </td>
 </tr>
 </tbody>
