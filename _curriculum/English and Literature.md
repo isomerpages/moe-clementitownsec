@@ -101,7 +101,23 @@ using it and appreciate the language arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Teacher / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shafiah d/o Syed Masood (Mdm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Teacher / English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sophia Ng (Ms)</p>
@@ -109,7 +125,7 @@ using it and appreciate the language arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Teacher / English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Winnie Tan (Mrs)</p>
@@ -117,10 +133,18 @@ using it and appreciate the language arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;&nbsp;Teacher / Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kishan Kannan</p>
+<p>Audrey Tee Zhu Yi (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Teacher / Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kishan Kannan (Mr)</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +160,7 @@ using it and appreciate the language arts.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -144,7 +168,7 @@ using it and appreciate the language arts.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -152,15 +176,7 @@ using it and appreciate the language arts.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shafiah d/o Syed Masood</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p></p>
 </td>
 </tr>
 <tr>
