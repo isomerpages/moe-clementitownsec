@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principles of Accounts Coordinator</p>
+<p>Coordinator / Principles of Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teo Wei Na (Mdm)</p>
@@ -125,10 +125,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher / Principles of Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Chan Bin Chuan (Mr)</p>
 </td>
 </tr>
 <tr>
