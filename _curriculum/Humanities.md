@@ -213,6 +213,109 @@ what geographers do to make knowledge.</p>
 <h4><strong>STUDENT ACHIEVEMENTS</strong></h4>
 <p>&nbsp;<strong>AY2024</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Type</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Historical Scene Investigation (H.S.I) Challenge</p>
+<p>&nbsp;</p>
+<p>&nbsp;International Model UN Conference (IMUNC)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Young Technopreneur Challenge 2024</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Earth Alive Challenge 2024</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Sustainability Advocacy Challenge (SAC) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Silver Medal</u>
+</p>
+<p>Tay Swee Hee (Sec 4 ODAC)</p>
+<p>&nbsp;&nbsp;</p>
+<p>Silver Award</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><u>Honourable Mention</u>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Wu Youzhe (Sec 4 NCDCC)</p>
+</li>
+<li>
+<p>Honourable Mention Chng Choon Hoe Hugh (Sec 4 Wushu)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>Certificate of Acheivement</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Leroy Ang Ho Gun (Leader) - Basketball</p>
+</li>
+<li>
+<p>Lightland Ling Phan Thi - (Football)</p>
+</li>
+</ol>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jonathan Chua Oo Jon - Volleyball</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gong Chun Hean - Scouts</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Certificate of Achievement</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kwon Jooyoung Daniel Drama club</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gurusharan Saminathan Football</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saajan Singh Sandhu Scouts</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Wen Jun Symphonic Band</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teoh Zi Yu Symphonic Band</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anson Low Yi Da Basketball</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chua Deon Gerald Norberte ODAC</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Celeste Yeo Si Qi GuZheng</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Gold Award</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 <br>
