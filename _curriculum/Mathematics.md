@@ -9,6 +9,114 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mathematics_and_principles_of_accounts_department_2.jpg">
 </div>
 <p></p>
+<p>Our teachers:</p>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department / Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Low Liqing (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department / Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principles of Accounts Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Siew Kwai (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheong Poh Suan (Mrs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms May Wee Yee Ing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan-Wong Siew Har Winnie (Mrs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ma Yanjie (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>MISSION:</strong></h4>
 <p>To nurture Independent Learners with an Analytical mind for Problem Solving
 who like to co-learn with others and appreciate the Relevance and Fun in
