@@ -210,7 +210,9 @@ S waves which is important for them to link it to monitoring systems and
 impacts created by earthquakes. Students having the opportunity to experience
 what geographers do to make knowledge.</p>
 <p></p>
-<p></p>
+<h4><strong>STUDENT ACHIEVEMENTS</strong></h4>
+<p>&nbsp;<strong>AY2024</strong>
+</p>
 <p>
 <br>
 <br>
