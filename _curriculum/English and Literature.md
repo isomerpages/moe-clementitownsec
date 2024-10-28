@@ -112,7 +112,7 @@ using it and appreciate the language arts.</p>
 <p>Teacher / English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Syafiqah Binte Zaini (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -145,46 +145,6 @@ using it and appreciate the language arts.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kishan Kannan (Mr)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
