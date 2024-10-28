@@ -70,12 +70,12 @@ variant: tiptap
 <p>Teacher / Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yong Teck Sin (Mr)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Biology</p>
+<p>Teacher / Nutrition &amp; Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mursalina Bte Mohd Saim (Mdm)
@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Biology</p>
+<p>Teacher / Nutrition &amp; Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sim Shin Jie (Ms)</p>
@@ -93,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Chemistry</p>
+<p>Teacher / Nutrition &amp; Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Wern Li Rowena (Ms)</p>
@@ -101,15 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Chemistry</p>
+<p>Teacher / Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wee Ni Swen (Ms)</p>
