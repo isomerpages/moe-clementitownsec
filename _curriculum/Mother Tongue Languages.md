@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Wee-Loh Wee Sin (Mrs)</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +31,7 @@ variant: tiptap
 <p>Subject Head / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Woong Choy Wan (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>Assistant Year Head / Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rosezalina Asmoin (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -47,103 +47,95 @@ variant: tiptap
 <p>Senior Teacher / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bek Su Ling (Mdm)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Mathematics</p>
+<p>Teacher / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Coordinator / Principles of Accounts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Chen Liping (Ms)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
+<p>Teacher / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Eng Chia Lee (Ms)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
+<p>Teacher / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Fu Rong (Ms)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
+<p>Teacher / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>He Meiyu (Ms)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
+<p>Teacher / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Chen Xi (Ms)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
+<p>Teacher / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tracey Tey (Ms)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Principles of Accounts</p>
+<p>Teacher / Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Aidil Bin Md Idris</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hamizah Begum Binte Mohd Hanif (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohideen Nizar Anwar (Dr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Natarajan Umarani (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rajamanickam Renuka (Mdm)</p>
 </td>
 </tr>
 </tbody>
