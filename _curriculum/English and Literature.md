@@ -48,7 +48,7 @@ using it and appreciate the language arts.</p>
 <p>Subject Head / Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Stella Leong (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ using it and appreciate the language arts.</p>
 <p>Senior Teacher / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yuen Lay Eng (Mrs)</p>
 </td>
 </tr>
 <tr>
@@ -69,6 +69,62 @@ using it and appreciate the language arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;Teacher / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hamidah Buang (Mdm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Teacher / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joycelyn Tan (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Teacher / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Karen Sia (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Teacher / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peter Tan (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sophia Ng (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winnie Tan (Mrs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kishan Kannan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,7 +136,7 @@ using it and appreciate the language arts.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Stella Leong</p>
+<p>Ms</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +144,7 @@ using it and appreciate the language arts.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Tan</p>
+<p>Mrs</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +152,7 @@ using it and appreciate the language arts.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kishan Kannan</p>
+<p>Mdm Shafiah d/o Syed Masood</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +160,7 @@ using it and appreciate the language arts.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yuen Lay Eng</p>
+<p>Mdm</p>
 </td>
 </tr>
 <tr>
@@ -112,63 +168,7 @@ using it and appreciate the language arts.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joycelyn Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Karen Sia</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rachel Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sophia Ng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Winnie Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Linda Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jocelyn Soon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Timothy Tang</p>
+<p></p>
 </td>
 </tr>
 </tbody>
