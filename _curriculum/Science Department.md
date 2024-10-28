@@ -256,7 +256,7 @@ exposed to regional and international scientific projects and ideas.</p>
 <p>1 Bronze</p>
 <p>2 Honourable Mention</p>
 <p>&nbsp;</p>
-<p><u>BMQ 2024 Top Category 1 schools</u> 
+<p><u>BMQ 2024 Top Category 1 schools</u>
 </p>
 <p>2<sup>nd </sup>runner up</p>
 <p>&nbsp;</p>
@@ -267,7 +267,7 @@ exposed to regional and international scientific projects and ideas.</p>
 <p>Singapore Junior Chemistry Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Merit Award</u> 
+<p><u>Merit Award</u>
 </p>
 <p>Wong-Ariya Methanuwatt (Sec 4 Drama Club)</p>
 </td>
@@ -312,8 +312,7 @@ exposed to regional and international scientific projects and ideas.</p>
 <p>&nbsp;</p>
 <p><u>2 Team Bronze Award</u>
 </p>
-<p>&nbsp;</p>
-<p>Engineering Team:</p>
+<p>&nbsp;Engineering Team:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Abhimongkol Teeraphapphun (Sec 4 Drama Club)</p>
@@ -339,7 +338,8 @@ exposed to regional and international scientific projects and ideas.</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<p>1 Junior Scientist Merit Project Award</p>
+<p><u>1 Junior Scientist Merit Project Award</u>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Chia Xuan Ye (Sec 2 Infocomm Technology Club)</p>
