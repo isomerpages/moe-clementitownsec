@@ -20,18 +20,43 @@ using it and appreciate the language arts.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
+<p><strong>Head of Department</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teresa Chua</p>
+<p>Teresa Chua (Mrs)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Internal)</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Ng</p>
+<p>Valane Tnee (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alvin Ng (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head /</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -47,7 +72,7 @@ using it and appreciate the language arts.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Valane Tnee</p>
+<p></p>
 </td>
 </tr>
 <tr>
