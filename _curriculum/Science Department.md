@@ -350,26 +350,7 @@ exposed to regional and international scientific projects and ideas.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
