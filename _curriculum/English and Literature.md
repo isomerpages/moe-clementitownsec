@@ -45,7 +45,7 @@ using it and appreciate the language arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head /</p>
+<p>Subject Head / Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -53,7 +53,7 @@ using it and appreciate the language arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Senior Teacher / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
