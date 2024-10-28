@@ -32,7 +32,7 @@ variant: tiptap
 <p>Head of Department / Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Liu Jiazhen Adeline (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Senior Teacher / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lau Ying Ying Doreen (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Principles of Accounts Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teo Wei Na (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -72,23 +72,7 @@ variant: tiptap
 <p>Teacher / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms May Wee Yee Ing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan-Wong Siew Har Winnie (Mrs)</p>
+<p>Heng Hui Zhen (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +88,7 @@ variant: tiptap
 <p>Teacher / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>May Wee Yee Ing (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +96,47 @@ variant: tiptap
 <p>Teacher / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Tan Chor Seng (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan-Wong Siew Har Winnie (Mrs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Ser Yong Philip (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Kai Ling Joyner (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
 </td>
 </tr>
 </tbody>
@@ -178,4 +202,4 @@ the 2022 competition was "Mathematics and Environmental Sustainability".</p>
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
-<p></p>
+<p>Ms Liu Jiazhen Adeline</p>
