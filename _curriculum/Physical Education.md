@@ -9,12 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/physical_education_department_2.jpg">
 </div>
 <p></p>
-<h4><strong>MISSION</strong></h4>
-<p>To nurture in every Clementeen, a love for healthy living.</p>
-<p>The PE Programme aims to equip every Clementeen with the skills and knowledge
-for every Clementeen to maintain a healthy lifestyle and achieve lifelong
-physical fitness.</p>
-<p><strong>Our Teachers</strong>:</p>
+<p>Our Teachers:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,19 +18,23 @@ physical fitness.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Head of Department
-<br>
-</p>
+<p>Head of Department</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Tan Jit Jin</p>
+<p>Tan Jit Jin (Mr)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>
-</p>
+<p>Head of Department / Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Nurwati Dalduri (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ethan Tan</p>
@@ -43,46 +42,37 @@ physical fitness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Year Head / Secondary 1 &amp; 4/5 (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nurwati Dalduri</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kenneth Tan Ming Hon</p>
+<p>Kenneth Tan Ming Hon (Mr)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chia Chun Keong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Teo Li Yin</p>
+<p>Teo Li Yin (Ms)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Keng Yeow</p>
+<p>Chua Keng Yeow</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong>MISSION</strong></h4>
+<p>To nurture in every Clementeen, a love for healthy living.</p>
+<p>The PE Programme aims to equip every Clementeen with the skills and knowledge
+for every Clementeen to maintain a healthy lifestyle and achieve lifelong
+physical fitness.</p>
+<p></p>
 <h4><strong>KEY PROGRAMMES</strong></h4>
 <p><strong>Physical Health &amp; Fitness</strong>
 </p>
