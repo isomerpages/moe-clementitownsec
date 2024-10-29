@@ -22,15 +22,6 @@ sections:
           description: ""
           url: /students
   - infopic:
-      title: CTSS Secondary 1 Registration
-      subtitle: Aspire and Grow with us!
-      id: infopic
-      description: 22 December 2023
-      button: Sec 1 Registration Microsite
-      image: /images/banner  2023 clementi town secondary school a5 (updated).png
-      alt: Image alt text
-      url: https://sites.google.com/moe.edu.sg/ctss-sec1registration-2024
-  - infopic:
       title: Vision, Mission and Values
       button: Vision, Mission and Values
       url: /about-us/motto-vision-mission-n-values/
