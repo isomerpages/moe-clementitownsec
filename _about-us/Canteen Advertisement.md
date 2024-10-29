@@ -83,7 +83,8 @@ email OR to the School's General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 10 Clementi Town Secondary School S129904</p>
+<p>Address: Clementi Town Secondary School, 10 Clementi Ave 3, Singapore
+129904</p>
 </li>
 <li>
 <p>Contact No: 67777362</p>
