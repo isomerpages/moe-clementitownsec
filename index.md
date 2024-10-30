@@ -41,4 +41,11 @@ sections:
       url: /highlights/
       image: /images/Infopic/infopic3.jpg
       alt: Image alt text
+  - infopic:
+      title: CTSS Open House
+      subtitle: Aspire Today, Inspire Tomorrow
+      id: infopic
+      description: 9 November 2024, Saturday 9.00 am to 2.30 pm
+      image: /images/Confirmed_Banner.png
+      alt: Image alt text
 ---
