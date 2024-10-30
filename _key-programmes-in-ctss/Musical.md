@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Musical.gif">
+</div>
+<p></p>
 <p>The CT Musical journey began in 2009, with the Literature class’ wish
 to present on stage the text they had felt strongly for, <em>To Kill a Mockingbird</em>.
 The ground-up production saw the devotion of both alumni and then-current
