@@ -13,11 +13,9 @@ to all. Through shared experiences in the outdoors such as weekly hikes,
 cycling, high elements, kayaking, we provide a safe space for ODACians
 to discover more about their own strengths and limitations, and to develop
 the willingness to learn and grow.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/photo1679993097.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/photo1679993162.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Group_Photo_1_OD.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/photo1679993419.jpeg">
@@ -31,6 +29,10 @@ ODACian has the ability and will to positively influence one’s own life
 and people around them. Through physical fitness, skill development, Values-in-Action
 projects, and various outdoor activities, ODAC provides an avenue to develop
 student agency – an invaluable skill that they can apply to their own lives.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Group_Photo_2_OD.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/photo1679993463.jpeg">
 </div>
@@ -40,14 +42,16 @@ student agency – an invaluable skill that they can apply to their own lives.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/photo1679993532.jpeg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Kayaking1_OD.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/ODAC_Orienteering_OD.jpg">
+</div>
 <p>As we embark on our next adventure, we endeavour our students to do so
 with a steadfast spirit, and most importantly, to do it together.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/photo1679993765.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/photo1679993883.jpeg">
-</div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
