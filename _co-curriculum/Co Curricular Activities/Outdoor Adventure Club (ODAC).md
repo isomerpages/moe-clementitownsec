@@ -51,22 +51,160 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Heng Hui Zhen (OIC)</p>
+<p>Ms Heng Hui Zhen</p>
 </li>
 <li>
-<p>Mr Aidil Md Idris (AIC)</p>
-</li>
-<li>
-<p>Ms Li Qianyi</p>
+<p>Mr Aidil MD Idris</p>
 </li>
 <li>
 <p>Mdm Rosezalina Asmoin</p>
 </li>
+<li>
+<p>Ms Li Qianyi</p>
+</li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/odac%20exco.jpg">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position / Appointment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Li Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3M2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ang Yee Kiat, Angus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3M2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Jun Xi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3M1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Kayven</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CC1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Training Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Yi Jie Grace Victoria</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CC1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Training Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Zhi Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3M1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Training Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Izanne Soo Jit Ya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CC1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Training Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Francheska Marie G. Saing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3M1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Training Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Deon Gerald Norberte</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3M1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Administration and Logistics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Matthew Looi Wei En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CC1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Logistic Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rachel Rossariyo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CC1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare Head</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>KEY EVENTS</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/odac%20events.jpg">
