@@ -28,6 +28,8 @@ sections:
       description: 9 November 2024, Saturday 9.00 am to 2.30 pm
       image: /images/Confirmed_Banner.png
       alt: Image alt text
+      url: https://sites.google.com/moe.edu.sg/ctss-e-open-house-2023/home
+      button: Open House Microsite
   - infopic:
       title: Vision, Mission and Values
       button: Vision, Mission and Values
