@@ -31,26 +31,26 @@ Information on Purchase of School Textbooks &amp; Stationery.</p>
 <h2>SECONDARY 2</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Textbook/s2%20(exp).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Express</a>
+<p><a href="/files/Textbook/2025/CTSS_2025_S2_G1.pdf" rel="noopener nofollow" target="_blank">G1 Level Subjects</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Textbook/s2%20(na).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Normal Academic</a>
+<p><a href="/files/Textbook/2025/CTSS_2025_S2_G2.pdf" rel="noopener nofollow" target="_blank">G2 Level Subjects</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Textbook/s2%20(nt).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Normal Technical</a>
+<p><a href="/files/Textbook/2025/CTSS_2025_S2_G3.pdf" rel="noopener nofollow" target="_blank">G3 Level Subjects</a>
 </p>
 </li>
 </ul>
 <h2>SECONDARY 3</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Textbook/s3%20(exp).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Express</a>
+<p><a href="/files/Textbook/2025/CTSS_2025_S3_EXP.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Express</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Textbook/s3%20(na).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Normal Academic</a>
+<p><a href="/files/Textbook/2025/CTSS_2025_S3_NA.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Normal Academic</a>
 </p>
 </li>
 <li>
@@ -61,11 +61,11 @@ Information on Purchase of School Textbooks &amp; Stationery.</p>
 <h2>SECONDARY 4</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Textbook/s4%20(exp).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Express</a>
+<p><a href="/files/Textbook/2025/CTSS_2025_S4_EXP.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Express</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Textbook/s4%20(na).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Normal Academic</a>
+<p><a href="/files/Textbook/2025/CTSS_2025_S4_NA.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Academic</a>
 </p>
 </li>
 <li>
