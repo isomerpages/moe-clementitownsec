@@ -54,7 +54,7 @@ Information on Purchase of School Textbooks &amp; Stationery.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Textbook/s3%20(nt).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Normal Technical</a>
+<p><a href="/files/Textbook/2025/CTSS_2025_S3_NT.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Normal Technical</a>
 </p>
 </li>
 </ul>
@@ -69,14 +69,14 @@ Information on Purchase of School Textbooks &amp; Stationery.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Textbook/s4%20(nt).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Normal Technical</a>
+<p><a href="/files/Textbook/2025/CTSS_2025_S4_NT.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Technical</a>
 </p>
 </li>
 </ul>
 <h2>SECONDARY 5</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Textbook/s5%20(na).pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal Academic</a>
+<p><a href="/files/Textbook/2025/CTSS_2025_S5_NA.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Normal Academic</a>
 </p>
 </li>
 </ul>
