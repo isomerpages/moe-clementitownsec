@@ -84,13 +84,13 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Exam Time Table/2024_N_Level_Preliminary__Examination___4NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Examination Timetable For Secondary 4 Normal Technical</a>
+<p><a href="/files/Exam Time Table/2024_N_Level_Preliminary__Examination___4NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Examination Timetable for Secondary 4 Normal Technical</a>
 </p>
 </li>
 </ol>
 </li>
 <li>
-<p><a href="https://clementitownsec.moe.edu.sg/clementeens/textbook-list-for-2024/" rel="noopener noreferrer nofollow" target="_blank">Textbook List for 2024</a>
+<p><a href="/textbook-list-for-2025/" rel="noopener nofollow" target="_blank">Textbook List for 2025</a>
 </p>
 </li>
 <li>

@@ -2,6 +2,7 @@ collections:
   clementeens:
     output: true
     order:
+      - Textbook List for 2025.md
       - School Safety.md
       - Timetable.md
       - Exam Timetable.md
