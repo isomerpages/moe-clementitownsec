@@ -90,7 +90,7 @@ variant: tiptap
 </ol>
 </li>
 <li>
-<p><a href="https://clementitownsec.moe.edu.sg/clementeens/textbook-list-for-2025/" rel="noopener nofollow" target="_blank">Textbook List for 2025</a>
+<p><a href="/textbook-list-for-2025/" rel="noopener nofollow" target="_blank">Textbook List for 2025</a>
 </p>
 </li>
 <li>
