@@ -10,7 +10,8 @@ variant: tiptap
 <p>Please be informed that the results of the 2024 Singapore-Cambridge General
 Certificate of Education Normal (Academic)-[N(A)] and Normal (Technical)-[N(T)]
 Level Examinations will be released on Monday, 16 December 2024, 2.00pm.</p>
-<p>Please report to school in full-school uniform and proper grooming.</p>
+<p>Please report to school in full-school uniform and proper grooming by
+1.45pm.</p>
 <p>Thank you.</p>
 <p></p>
 <h5>Resource Kit for Parents on Back to School Arrangements</h5>
