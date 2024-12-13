@@ -21,6 +21,13 @@ sections:
         - title: Students
           description: ""
           url: /students
+  - infobar:
+      title: Release of N-Level Results
+      subtitle: GCE N-Level Examinations
+      id: infobar
+      description: The results of the 2024 GCE Normal (Academic)-[N(A)] and Normal
+        (Technical)-[N(T)] Level Examinations will be released on Monday, 16
+        December 2024, 2.00pm.
   - infopic:
       title: Vision, Mission and Values
       button: Vision, Mission and Values
@@ -41,11 +48,4 @@ sections:
       url: /highlights/
       image: /images/Infopic/infopic3.jpg
       alt: Image alt text
-  - infobar:
-      title: Release of N-Level Results
-      subtitle: GCE N-Level Examinations
-      id: infobar
-      description: The results of the 2024 GCE Normal (Academic)-[N(A)] and Normal
-        (Technical)-[N(T)] Level Examinations will be released on Monday, 16
-        December 2024, 2.00pm.
 ---
