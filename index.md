@@ -41,4 +41,14 @@ sections:
       url: /highlights/
       image: /images/Infopic/infopic3.jpg
       alt: Image alt text
+  - infopic:
+      title: 2025 Secondary 1 Registration
+      id: infopic
+      description: Welcome to Clementi Town Secondary School!  Please click on the
+        link to visit our microsite for more information to help prepare for the
+        new school year.
+      button: Button Text
+      url: https://sites.google.com/moe.edu.sg/ctsssec1reg2025?usp=sharing
+      image: /images/Sec_1_Registration_2025.jpg
+      alt: Image alt text
 ---
