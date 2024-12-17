@@ -2,7 +2,6 @@ collections:
   contact-our-staff:
     output: true
     order:
-      - Executive and Administrative staff.md
       - School Management Committee 2024.md
       - School Contact Details.md
       - Lead and Senior Teachers.md
@@ -13,3 +12,4 @@ collections:
       - CCA Parents/CCA Parents Secondary 3.md
       - CCA Parents/CCA Parents Secondary 4 and 5.md
       - Subject Teachers Contact Details.md
+      - Executive and Administrative staff.md
