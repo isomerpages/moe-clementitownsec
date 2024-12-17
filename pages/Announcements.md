@@ -9,7 +9,10 @@ variant: tiptap
 the attached <a href="https://drive.google.com/file/d/1b_svu7Kx77ONEbDT2XobA7Jl6yBfoT3D/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">FILE</a> for
 more information about the online registration process.</p>
 <p></p>
-<p></p>
+<h5>Information for Sec 1 Students Who Would Like to Appeal for Chinese/Malay (Special Programme)</h5>
+<p>For students who would like to appeal for Chinese/Malay (Special Programme),
+please refer to the attached <a href="https://drive.google.com/file/d/1TElcN9WC3vogGi1A8BJFwOJqYZUhlpzS/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">FILE</a> for
+more details about the late application and appeal procedure.</p>
 <p></p>
 <h5>Release of 2024 Singapore-Cambridge GCE N(A)- &amp; N(T)-Level Examination Results</h5>
 <p>Dear students who have sat for the GCE N-Level Examinations 2024,</p>
