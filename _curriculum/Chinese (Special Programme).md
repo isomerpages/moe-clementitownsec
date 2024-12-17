@@ -58,6 +58,7 @@ in both oral and written form</p>
 <p>Understand and appreciate the Chinese culture and traditions</p>
 </li>
 </ul>
+<p></p>
 <p><strong><u>Admission &amp; Application process to C(SP)</u></strong>
 </p>
 <p>C(SP) is offered to Secondary 1 students who have attained a PSLE Score
@@ -75,7 +76,7 @@ If they missed the registration deadline, it would be considered as they
 have given up the offer of C(SP).</p>
 <p>For students who are not offered C(SP), they can appeal by submitting
 the online application form by <strong><u>17 January 2025</u></strong>.
-Schools will be notified of the outcome by &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><u>7 February 2025</u></strong>.</p>
+Schools will be notified of the outcome by <strong><u>7 February 2025</u></strong>.</p>
 <p>But getting a place at zonal centers is not guaranteed as the places are
 subject to available vacancies.</p>
 <p><em>*Please refer to the annual “Choosing your Secondary Schools for admission to Secondary 1” e-booklet to find out more details about Foreign Languages, Asian Languages and Special Programmes.</em>
@@ -112,6 +113,7 @@ the transfer form. (Details may find from MOE language center website:
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/courses/</a>)</p>
 <p><em>However, all class transfers will be subject to the availability of vacancies. Where there are no vacancies in the requested day/time slot(s), students will be put on a waiting list. While waiting for a place to be freed up, students are to make arrangements to attend the class initially assigned to them.</em>
 </p>
+<p></p>
 <p><strong><u>Contact Detail</u></strong>
 </p>
 <p>CSP coordinator: Ms Eng Chia Lee</p>
