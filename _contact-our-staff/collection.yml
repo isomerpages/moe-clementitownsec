@@ -2,6 +2,7 @@ collections:
   contact-our-staff:
     output: true
     order:
+      - Executive and Administrative staff.md
       - School Management Committee 2024.md
       - School Contact Details.md
       - Lead and Senior Teachers.md
