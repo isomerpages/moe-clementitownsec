@@ -30,7 +30,23 @@ well in their learning in Secondary One.</p>
 <p>Beyond the start of Secondary One, students may offer subjects at a more
 demanding level, based on their performance and schools’ holistic assessment.&nbsp;</p>
 <p></p>
-<p></p>
+<p><strong>Coping with More Demanding Level Subjects</strong>
+</p>
+<p>The Lower Secondary curriculum is to be seen as a two-year block.&nbsp;Students
+are encouraged to continue with the subjects at more demanding level until
+the end of Secondary Two, as students need time to adjust to the different
+academic demands.</p>
+<p>Our school will monitor the students’ progress in the more demanding level
+subjects and their overall progress in all subjects to evaluate if the
+student is ready to continue the subject at more demanding level at Upper
+Secondary.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Positive Feedback from Our SBB Students</strong>
+</p>
+<p>SBB students in our schools have enjoyed the experience of taking subjects
+at a higher-level. Below are what some of them have shared with us in our
+end-year survey:</p>
 <p></p>
 <p>
 <br>
