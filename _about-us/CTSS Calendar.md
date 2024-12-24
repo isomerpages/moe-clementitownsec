@@ -1,6 +1,6 @@
 ---
-title: CTSS Calendar 2024
-permalink: /about-us/ctss-calendar-2024/
+title: CTSS Calendar
+permalink: /about-us/ctss-calendar/
 description: ""
 variant: tiptap
 ---

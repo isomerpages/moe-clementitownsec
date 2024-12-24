@@ -1,6 +1,6 @@
 ---
-title: Motto, Vision, Mission & Values 2024
-permalink: /about-us/motto-vision-mission-n-values-2024/
+title: Motto, Vision, Mission & Values
+permalink: /about-us/motto-vision-mission-n-values/
 description: ""
 variant: markdown
 ---
