@@ -40,7 +40,7 @@ academic demands.</p>
 subjects and their overall progress in all subjects to evaluate if the
 student is ready to continue the subject at more demanding level at Upper
 Secondary.</p>
-<p><strong>&nbsp;Positive Feedback from Our SBB Students</strong>
+<p><strong>Positive Feedback from Our SBB Students</strong>
 </p>
 <p>SBB students in our schools have enjoyed the experience of taking subjects
 at a higher-level. Below are what some of them have shared with us in our
