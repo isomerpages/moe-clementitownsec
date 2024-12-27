@@ -21,12 +21,6 @@ variant: tiptap
 </p>
 <h4>Senior Teacher / Mathematics</h4>
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Mrs%20Cheong%20Poh%20Suan.jpeg">
-</div>
-<p>Mrs Cheong Poh Suan</p>
-<p><a href="mailto:soh_poh_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_poh_suan@moe.edu.sg</a>
-</p>
-<div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Doreen.png">
 </div>
 <p>Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen
