@@ -40,11 +40,8 @@ variant: tiptap
 <br>
 </p>
 <h3><strong>HOD/ Citizenship and Character Education</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Ms Liu" src="/images/Ms%20Liu%20Jiazhen%20Adeline.jpg">
-</div>
-<p>Ms Adeline Liu
-<br><a href="liu_jiazhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_jiazhen@moe.edu.sg</a> 
+<p>Mdm Toh Siew Jane</p>
+<p><a href="mailto:toh_siew_fang_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_siew_fang_jane@moe.edu.sg</a>
 <br>
 </p>
 <h3><strong>HOD / English Language and Literature</strong></h3>
@@ -125,7 +122,7 @@ variant: tiptap
 <br><a href="siti_nurwati_dalduri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurwati_dalduri@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>Year Head (Secondary 1, 4 &amp; 5 -Internal)</strong></h3>
+<h3><strong>Year Head (Lower Sec)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Tan MH" src="/images/kenneth.jpeg">
 </div>
@@ -135,7 +132,7 @@ variant: tiptap
 <p>
 <br>
 </p>
-<h3><strong>Year Head (Secondary 2 and 3)</strong></h3>
+<h3><strong>Year Head (Upper Sec)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="auto" width="100%" alt="SMC 2024: Mr Teo" src="/images/teochaiyeow.jpeg">
 </div>
@@ -145,15 +142,10 @@ variant: tiptap
 </p>
 <h4><strong>ASSISTANT YEAR HEADS AND SUBJECT HEADS</strong></h4>
 <hr>
-<h3><strong>AYH / Secondary 1- Internal</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Mr Jeremy.jpeg">
-</div>
-<p>Mr Lim Liangcai Jeremy</p>
-<p><a href="mailto:lim_liangcai_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_liangcai_jeremy@moe.edu.sg</a>
-</p>
-<h3><strong>AYH / Secondary 2</strong></h3>
+<h3></h3>
+<h3><strong>AYH / Sec 1</strong></h3>
+<p>Mr Xiao Yongda Clement</p>
+<h3><strong>AYH / Sec 3</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mdm Roseza" src="/images/Mdm%20Rosezalina.jpeg">
 </div>
@@ -162,8 +154,18 @@ variant: tiptap
 <br>
 </p>
 <p></p>
-<p>
+<h3><strong>SH/Aesthetics &amp; Student Leadership - Internal</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Mr Jeremy.jpeg">
+</div>
+<p>Mr Lim Liangcai Jeremy</p>
+<p><a href="mailto:lim_liangcai_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_liangcai_jeremy@moe.edu.sg</a>
 <br>
+</p>
+<h3><strong>SH / 21CC</strong></h3>
+<p>Mdm Farah Binte Rosalan</p>
+<p><a href="mailto:farah_rosalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_rosalan@moe.edu.sg</a>
 </p>
 <h3><strong>SH / Chinese Language</strong></h3>
 <div class="isomer-image-wrapper">
@@ -191,7 +193,13 @@ variant: tiptap
 <br><a href="[kamal_yacob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamal_yacob@moe.edu.sg</a> 
 <br>
 </p>
-<p>
+<h3><strong>SH / Math</strong></h3>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ms Wee Yee Ing.jpg">
+</div>
+<p>Ms Wee Yee Ing May</p>
+<p><a href="mailto:wee_yee_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_yee_ing@moe.edu.sg</a>
 <br>
 </p>
 <h3><strong>SH / PE and CCA</strong></h3>
@@ -222,12 +230,9 @@ variant: tiptap
 <br><a href="ng_loong_kin_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_loong_kin_alvin@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>SH / Humanities</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Ressal" src="/images/Mr%20Mohamed%20Ressal.jpeg">
-</div>
-<p>Mr Mohamed Ressal Mohamed Raffi
-<br><a href="mohamed_ressal_mohamed_raffi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ressal_mohamed_raffi@moe.edu.sg</a>
+<h3><strong>SH / Student Management</strong></h3>
+<p>Mdm Ang Hui Xia</p>
+<p><a href="mailto:ang_hui_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_xia@moe.edu.sg</a>
 </p>
 <p>
 <br>
