@@ -205,7 +205,7 @@ variant: tiptap
 <p>Ms Khong Kay Lin</p>
 <p></p>
 <p>Mr Danial Khor</p>
-<p><a href="mailto:khor_eng_hao_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khor_eng_hao_daniel@moe.edu.sg</a> 
+<p><a href="mailto:khor_eng_hao_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khor_eng_hao_daniel@moe.edu.sg</a>
 </p>
 <p></p>
 <p>Ms Lynda Kwan</p>
