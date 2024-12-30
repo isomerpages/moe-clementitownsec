@@ -13,6 +13,12 @@ variant: tiptap
 <p>Mr Tan Ming Hon, Kenneth
 <br><a href="mailto:tan_ming_hon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_hon@moe.edu.sg</a>
 </p>
+<p></p>
+<h2>AYH/Sec 1</h2>
+<p>Mr Xiao Yongda Clement</p>
+<p><a href="mailto:xiao_yongda_clement@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiao_yongda_clement@moe.edu.sg</a>
+</p>
+<p></p>
 <h2>CLASS PARENTS</h2>
 <table style="minWidth: 75px">
 <colgroup>
