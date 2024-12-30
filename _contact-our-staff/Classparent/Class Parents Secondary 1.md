@@ -13,7 +13,7 @@ variant: tiptap
 <p>Mr Tan Ming Hon, Kenneth
 <br><a href="mailto:tan_ming_hon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_hon@moe.edu.sg</a>
 </p>
-<h2>Class PARENTS</h2>
+<h2>CLASS PARENTS</h2>
 <p>
 <br>
 <br>
