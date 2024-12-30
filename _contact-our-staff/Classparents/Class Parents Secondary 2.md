@@ -5,23 +5,126 @@ description: ""
 third_nav_title: Classparents
 variant: tiptap
 ---
-<h2>LEVEL YEAR HEAD</h2>
+<h2>LEVEL YEAR HEAD (Lower Sec)</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/teochaiyeow.jpeg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/mr tan ming hon kenneth.jpeg">
 </div>
-<p>Mr Teo Chai Yaw
-<br><a href="mailto:teo_chai_yaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chai_yaw@moe.edu.sg</a>
+<p>Mr Tan Ming Hong Kenneth
+<br><a href="mailto:tan_ming_hon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_hon@moe.edu.sg</a>
 </p>
-<h2>ASSISTANT YEAR HEAD</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/mdm%20rosezalina%20bte%20asmoin2.jpeg">
-</div>
-<p>Mdm Rosezalina Bte Asmoin
-<br><a href="rosezalina_asmoin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosezalina_asmoin@moe.edu.sg</a>
-</p>
-<h2>CCA PARENTS</h2>
-<p>Please click on this [<a href="https://docs.google.com/spreadsheets/d/1UJPHIhJBWAcB3wwTH2vRROuPPL5z7CEkO_KyhjzooT8/edit?gid=869670676#gid=869670676" rel="noopener noreferrer nofollow" target="_blank">link</a>]
-to view the contact details of the CCA Parents.
+<p></p>
+<h2>CLASS PARENTS</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class Parent 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class Parent 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Jia Jie Alvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vaishnashri Meynon S</p>
+<p>Ms Lee Ruisi Priscilla (Sem 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yok Tien Ethan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lynda Kwan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2R3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kamal Bin Yacob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sumitha Kirsnan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2R4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ke Kaijie Justin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Wen Xin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2R5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Ser Yong Philip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sheetal Madhukar Sonawane</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2R6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wee Yee Ing May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms He Meiyu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2R7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Musalina Bte Mohd Saim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wee Mi Swen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2R8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lau Ying Ying Doreen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leong Hwai Ee Stella</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 <br>
 <br>
