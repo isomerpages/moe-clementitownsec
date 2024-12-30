@@ -57,13 +57,68 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1A3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Chor Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan-Wong Siew Har Winnie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1A4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Heng Hui Zhen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Heng Yuen Hao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1A5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Eng Hoe Peter</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fu Rong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1A6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lehming-Teo Shi Hui Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Arul Praveen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1A7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rashidah Bte Kassim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wei Min</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1A8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Faizal B Bohari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan E-fung Joycelyn</p>
 </td>
 </tr>
 </tbody>
@@ -76,4 +131,4 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
-<p></p>
+<p>1</p>
