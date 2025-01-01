@@ -4,30 +4,28 @@ permalink: /contact-us/all-staff/
 description: Teaching Staff
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Ms%20Liu%20Jiazhen%20Adeline.jpg">
-</div>
-<p>Ms Adeline Liu
-<br><a href="liu_jiazhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_jiazhen@moe.edu.sg</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Mr%20Aidil%20Bin%20Md%20Idris.jpeg">
 </div>
 <p>Mr Aidil Bin Md Idris
 <br><a href="aidil_md_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aidil_md_idris@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mdm Ang Hui Xia</p>
+<p><a href="mailto:ang_hui_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_xia@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mr Arul Praveen</p>
+<p><a href="mailto:arul_praveen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arul_praveen@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Alvin%20Tan.jpeg">
 </div>
 <p>Mr Alvin Tan Jia Jie
 <br><a href="tan_jia_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_jie@moe.edu.sg</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="EO" src="/images/ms_audrey_tee_zhu_yi.jpg">
-</div>
-<p>Ms Audrey Tee Zhu Yi</p>
-<p><a href="mailto:audrey_tee_zhu_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_tee_zhu_yi@moe.edu.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -43,12 +41,7 @@ variant: tiptap
 <p>Mr&nbsp;Chan Bin Chuan
 <br><a href="chan_bin_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_bin_chuan@moe.edu.sg</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Ms%20Chan%20Lay%20Leng.jpeg">
-</div>
-<p>Ms Chan Lay Leng, Chloe
-<br><a href="chan_lay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_lay_leng@moe.edu.sg</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Mr%20Chan%20Siew%20Kwai.jpeg">
 </div>
@@ -69,12 +62,7 @@ variant: tiptap
 <p>Mdm Chen Liping
 <br><a href="chen_liping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_liping@moe.edu.sg</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Mrs%20Cheong%20Poh%20Suan.jpeg">
-</div>
-<p>Mrs Cheong Poh Suan
-<br><a href="soh_poh_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_poh_suan@moe.edu.sg</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Mr%20Chidambaram%20Saravanan.jpeg">
 </div>
@@ -126,6 +114,15 @@ variant: tiptap
 <p>Mr Ethan Tan
 <br><a href="[ethan_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">[ethan_tan@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mr Faizal B Bohari</p>
+<p><a href="mailto:faizal_bohari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizal_bohari@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mdm Farah Rosalan</p>
+<p><a href="mailto:farah_rosalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_rosalan@moe.edu.sg</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/FuRong2.jpg">
 </div>
@@ -167,18 +164,19 @@ variant: tiptap
 <br><a href="[heng_hui_zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_hui_zhen@moe.edu.sg</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="EO Matthew Ho" src="/images/Matthew_Hong_Nin_Ho.jpg">
-</div>
-<p>Mr Ho Hong Nin</p>
-<p><a href="mailto:ho_hong_nin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hong_nin@moe.edu.sg</a>
+<p>Mr Heng Yuan Hao</p>
+<p><a href="mailto:heng_yuan_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_yuan_hao@moe.edu.sg</a>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Ms%20Ho%20Xiu%20Hui,%20Tessa.jpg">
 </div>
 <p>Ms Ho Xiu Hui Tessa
 <br><a href="[ho_xiu_hui_tess@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_xiu_hui_tess@moe.edu.sg</a>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/ms%20joyner%20tay%20kai%20ling.jpeg">
 </div>
@@ -203,17 +201,25 @@ variant: tiptap
 <p>Mr Ke Kaijie, Justin
 <br><a href="ke_kaijie_justin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ke_kaijie_justin@moe.edu.sg</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Kishan%20School%20Website.jpeg">
-</div>
-<p>Mr&nbsp;Kishan Kannan
-<br><a href="kishan_kannan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kishan_kannan@moe.edu.sg</a>
+<p></p>
+<p>Ms Khong Kay Lin</p>
+<p></p>
+<p>Mr Danial Khor</p>
+<p><a href="mailto:khor_eng_hao_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khor_eng_hao_daniel@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Ms Lynda Kwan</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Doreen.png">
 </div>
 <p>Ms&nbsp;Lau&nbsp;Ying&nbsp;Ying Doreen
 <br><a href="lau_ying_ying_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_ying_ying_doreen@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Ms Leong Yin Phen</p>
+<p><a href="mailto:leong_yin_pheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_yin_pheng_a@moe.edu.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Mrs%20Lehming%20Teo%20Shi%20Hui%20Rachel.jpeg">
@@ -238,12 +244,6 @@ variant: tiptap
 </div>
 <p>Mr Lim Liangcai, Jeremy
 <br><a href="lim_liangcai_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_liangcai_jeremy@moe.edu.sg</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/mrs%20ng%20lye%20sim.jpeg">
-</div>
-<p>Mrs Lim Lye Sim
-<br><a href="ng_lye_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lye_sim@moe.edu.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -270,12 +270,11 @@ variant: tiptap
 <p>Mdm Mursalina Bte Mohd Saim
 <br><a href="mursalina_mohd_saimg@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mursalina_mohd_saim@moe.edu.sg</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Mdm%20Natarajan%20Umarani%20(Teacher).jpg">
-</div>
-<p>Ms Natarajan Umarani
-<br><a href="natarajan_umarani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natarajan_umarani@moe.edu.sg</a>
+<p></p>
+<p>Ms Nurul Farhanah Ramlan</p>
+<p><a href="mailto:nurul_farhanah_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_farhanah_ramlan@moe.edu.sg</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Mr%20Ng%20Loong%20Kin,%20Alvin.jpg">
 </div>
@@ -300,12 +299,7 @@ variant: tiptap
 <p>Mdm Rashidah Kassim
 <br><a href="rashidah_kassim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_kassim@moe.edu.sg</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Mr%20Mohamed%20Ressal.jpeg">
-</div>
-<p>Mr Mohamed Ressal Mohamed Raffi
-<br><a href="mohamed_ressal_mohamed_raffi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ressal_mohamed_raffi@moe.edu.sg</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Mdm%20Rosezalina.jpeg">
 </div>
@@ -355,12 +349,7 @@ variant: tiptap
 <p>Mdm Sumitha Kirsnan
 <br><a href="sumitha_kirsnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sumitha_kirsnan@moe.edu.sg</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Ms%20Syafiqah%20Binte%20Zaini.jpg">
-</div>
-<p>Ms Syafiqah Binte Zaini
-<br><a href="syafiqah_zainin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syafiqah_zaini@moe.edu.sg</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Mr%20Tan%20Chor%20Seng.jpg">
 </div>
@@ -391,12 +380,7 @@ variant: tiptap
 <p>Mr Tan Jit Jin
 <br><a href="tan_jit_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jit_jin@moe.edu.sg</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/ms%20tan%20kay%20shin.jpeg">
-</div>
-<p>Mdm Tan Kay Shin
-<br><a href="tan_kay_shin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kay_shin@moe.edu.sg</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Mr%20Tan%20Liang%20Hooi.jpeg">
 </div>
@@ -464,6 +448,10 @@ variant: tiptap
 </div>
 <p>Ms Tracy Tey
 <br><a href="tracy_tey_pin_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tracy_tey_pin_pin@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mdm Toh Siew Fang Jane</p>
+<p><a href="mailto:toh_siew_fang_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_siew_fang_jane@moe.edu.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Ms%20Wee%20Ni%20Swen.jpg">

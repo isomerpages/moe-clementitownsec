@@ -148,6 +148,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Iskandar Mirza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,13 +171,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ECGC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Surinder Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:surinder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">surinder_kaur@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
