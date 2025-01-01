@@ -4,4 +4,49 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p>Welcome back to a new academic year at Clementi Town Secondary School (CTSS)! It is with immense pleasure that I extend a warm welcome to our new Secondary 1 students and their parents, and equally, welcome back our returning students. I trust that the Nov/Dec break has been a time of rejuvenation and excitement for the learning journey that awaits us.</p><p>Reflecting on the achievements of 2023 fills me with pride and gratitude. Our Clementeens have excelled in various aspects of their learning, both in academic and non-academic pursuits, showcasing their holistic growth. It is heartening to witness the dedication and enthusiasm with which they approached challenges, contributing to the vibrant and dynamic spirit of our school community.</p><p>As we embark on this new chapter, I encourage all students to embrace and exercise greater student agency. The benefits of fostering greater learner agency are numerous. When students take an active role in their education, they become more motivated to learn for life. This sense of ownership leads to increased engagement, deeper understanding, and a genuine passion for acquiring knowledge.</p><p>Coupled with a growth mindset, which has been a cornerstone of our educational philosophy, students can achieve incredible personal and academic growth in the coming year. A growth mindset encourages resilience, perseverance, and a willingness to take on challenges as opportunities for learning and improvement.</p><p>I also want to emphasize the importance of curiosity. Cultivating a curious mindset can spark creativity and innovation. Curiosity is the driving force behind exploration, critical thinking, and a lifelong love for learning. I encourage each student to ask questions, seek answers, and explore the wonders of knowledge with a curious spirit.</p><p>As we step into this new academic year, let us continue to foster a supportive and collaborative learning environment. Our school is a community of learners, and together, we can achieve remarkable things. I am excited about the potential for growth, discovery, and success that this year holds for each and every one of our Clementeens.</p><p>Thank you.</p><p>Educating with you,</p><p>Rasidah Binte Rahim<br>Principal<br>Clementi Town Secondary School</p><p><br><br><br></p><div class="isomer-image-wrapper"><img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png"></div><p></p>
+<p>As we step into 2025, I am filled with optimism and excitement for the
+year ahead. The past year, 2024, has been a fulfilling one for our school
+as we embarked on the ICT Masterplan 2030. This initiative saw our teachers
+exploring innovative teaching pedagogies, which enriched classroom experiences
+and made learning more engaging for our students. These efforts reflect
+our unwavering commitment to providing a holistic and future-ready education
+for every learner.</p>
+<p>This year, we are delighted to welcome 8 new classes of Secondary One
+student to our school community. To our newest members, we extend our warmest
+greetings and look forward to journeying with you as you embark on this
+exciting phase of your education.</p>
+<p>As we chart our path forward, we remain steadfast in nurturing 21st-century
+competencies in our students. These include fostering student agency, cultivating
+a growth mindset, and empowering our students to view challenges and failures
+as opportunities for learning and personal growth. We aim to equip them
+with the resilience and adaptability they need to thrive in a rapidly evolving
+world.</p>
+<p>We are also excited about the upcoming improvement works to our school
+environment, which will enhance our learning spaces and make it a more
+vibrant and inspiring place for all. Importantly, we value student voice
+and will actively involve our students in shaping these enhancements. This
+collaborative effort will further strengthen their sense of ownership and
+pride in our school.</p>
+<p>Another significant highlight this year will be our school’s 45th Anniversary
+Celebrations. Through a series of meaningful activities and programs, we
+will honor our rich heritage, celebrate our achievements, and envision
+our shared future.</p>
+<p>Finally, our partnership with parents remains a cornerstone of our success.
+We deeply value the trust and collaboration of our parents as we work together
+to support our students in realizing their fullest potential. By building
+strong home-school partnerships, we can ensure that every child is empowered
+to grow, excel, and shine.</p>
+<p>Let us make 2025 a memorable and impactful year for our school community.</p>
+<p>Educating with you,
+<br>Rasidah Binte Rahim
+<br>Principal
+<br>Clementi Town Secondary School</p>
+<p>
+<br>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
+</div>
+<p></p>
