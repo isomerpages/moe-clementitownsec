@@ -43,28 +43,25 @@ variant: tiptap
 <h3>Secondary 4</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/Secondary 4/Ps_letter_for_Sec_4_and_5__Term_1__2025_.pdf" rel="noopener nofollow" target="_blank">3 January 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 4 and 5</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Letter to Parents/Secondary 1/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet</a>
+</p>
 <p></p>
-</li>
-<li>
-<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 - Principal's Termly Letter to Parents (Term 3) for Secondary 4</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Ps_letter_T2_2024_sec4.pdf" rel="noopener noreferrer nofollow" target="_blank">18 Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 4 and 5</a>
-</p>
 </li>
 </ul>
 <h3>Secondary 5</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
-</li>
-<li>
-<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 - Principal's Termly Letter to Parents (Term 3) for Secondary 5</a>
+<p><a href="/files/Letter to Parents/Secondary 4/Ps_letter_for_Sec_4_and_5__Term_1__2025_.pdf" rel="noopener nofollow" target="_blank">3 January 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 4 and 5</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Ps_letter_T2_2024_sec4.pdf" rel="noopener noreferrer nofollow" target="_blank">18 Mar 2024 - Principal's Termly Letter to Parents (Term 2) for Secondary 4 and 5</a> 
+<p><a href="/files/Letter to Parents/Secondary 1/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet</a>
+</p>
+<p>
 <br>
 <br>
 <br>
