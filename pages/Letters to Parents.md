@@ -43,6 +43,9 @@ variant: tiptap
 <h3>Secondary 4</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p></p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 - Principal's Termly Letter to Parents (Term 3) for Secondary 4</a>
 </p>
 </li>
@@ -53,6 +56,9 @@ variant: tiptap
 </ul>
 <h3>Secondary 5</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
 <li>
 <p><a href="/files/Letter to Parents/Ps_letter__Term_3__2024_Sec_4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 - Principal's Termly Letter to Parents (Term 3) for Secondary 5</a>
 </p>
