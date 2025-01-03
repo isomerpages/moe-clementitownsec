@@ -11,9 +11,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
+<p><a href="/files/Letter to Parents/Secondary 1/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet</a>
+</p>
 <p></p>
 </li>
 </ul>
