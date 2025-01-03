@@ -218,7 +218,7 @@ variant: tiptap
 <br><a href="lau_ying_ying_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_ying_ying_doreen@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Leong Yin Phen</p>
+<p>Ms Leong Yin Pheng</p>
 <p><a href="mailto:leong_yin_pheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_yin_pheng_a@moe.edu.sg</a>
 </p>
 <div class="isomer-image-wrapper">
