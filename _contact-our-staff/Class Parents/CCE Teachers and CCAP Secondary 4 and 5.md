@@ -51,7 +51,7 @@ variant: tiptap
 <p>Mrs Yuen-Ang Lay Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr CHan Bin Chuan</p>
+<p>Mr Chan Bin Chuan</p>
 </td>
 </tr>
 <tr>
