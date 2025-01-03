@@ -40,7 +40,7 @@ variant: tiptap
 <br>
 </p>
 <h3><strong>HOD/ Citizenship and Character Education</strong></h3>
-<p>Mdm Toh Siew Jane</p>
+<p>Mdm Toh Siew Fang Jane</p>
 <p><a href="mailto:toh_siew_fang_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_siew_fang_jane@moe.edu.sg</a>
 <br>
 </p>
