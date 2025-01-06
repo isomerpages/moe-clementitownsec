@@ -202,14 +202,17 @@ variant: tiptap
 <br><a href="ke_kaijie_justin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ke_kaijie_justin@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Khong Kay Lin</p>
+<p>Ms Khong Kay Lim</p>
+<p><a href="mailto:khong_kay_lim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Khong_Kay_Lim_A@moe.edu.sg</a>
+</p>
 <p></p>
 <p>Mr Danial Khor</p>
 <p><a href="mailto:khor_eng_hao_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khor_eng_hao_daniel@moe.edu.sg</a>
 </p>
 <p></p>
 <p>Ms Lynda Kwan</p>
-<p></p>
+<p><a href="mailto:lynda_kwan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lynda_kwan_a@moe.edu.sg</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Doreen.png">
@@ -218,7 +221,7 @@ variant: tiptap
 <br><a href="lau_ying_ying_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_ying_ying_doreen@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Leong Yin Phen</p>
+<p>Ms Leong Yin Pheng</p>
 <p><a href="mailto:leong_yin_pheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_yin_pheng_a@moe.edu.sg</a>
 </p>
 <div class="isomer-image-wrapper">
