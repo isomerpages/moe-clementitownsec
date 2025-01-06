@@ -38,14 +38,13 @@ what is expected of them in the future.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/volleyball_1.jpg">
 </div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Teo Li Yin (OIC, CCAP for S3)</strong>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Teo Li Yin (OIC)</strong>
 </p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Fu Rong (AIC, CCAP for S4/5)</strong>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Fu Rong (AIC)</strong>
 </p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chan Siew Kwai (CCAP for S2)</strong>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chan Siew Kwai </strong>
 </p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Chan Wen Xin (CCAP for S1)</strong>
-</p>
+<p></p>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE 2024</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -81,7 +80,7 @@ what is expected of them in the future.</p>
 <p>THAM KAYDEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3K</p>
+<p>4K</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Captain</p>
@@ -92,7 +91,7 @@ what is expected of them in the future.</p>
 <p>JONATHAN CHUA OO JON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C</p>
+<p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain</p>
@@ -103,7 +102,7 @@ what is expected of them in the future.</p>
 <p>CLEMENTS TIEU YANG ZHI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3R</p>
+<p>4R</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Captain</p>
@@ -114,7 +113,7 @@ what is expected of them in the future.</p>
 <p>CARTER SEAH JUN CHENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3A</p>
+<p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Captain</p>
@@ -125,7 +124,7 @@ what is expected of them in the future.</p>
 <p>JOEL EEA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2CC3</p>
+<p>314</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower Sec CCA Captain</p>
@@ -136,7 +135,7 @@ what is expected of them in the future.</p>
 <p>PHONE MYAT MAUNG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2CC3</p>
+<p>317</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower Sec CCA Vice Captain</p>
