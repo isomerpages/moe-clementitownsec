@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/website banner size green text box.gif
       key_highlights:
-        - title: About Us
-          description: ""
-          url: /about-ctss/
         - title: Key Programs
           description: ""
           url: /key-programs/
