@@ -11,4 +11,4 @@ variant: markdown
 5. [Full Subject Based Banding (Full SBB)](/about-us/full-subject-based-banding-full-sbb/)
 6. [CTSS Calendar](/about-us/ctss-calendar/)
 7. [School Brochure](/about-us/school-brochure/)
-8. 
+8. [School Wide Achievements](https://www.clementitownsec.moe.edu.sg/about-us/school-wide-achievements/permalink/)
