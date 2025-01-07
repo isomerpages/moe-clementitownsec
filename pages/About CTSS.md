@@ -12,3 +12,4 @@ variant: markdown
 6. [CTSS Calendar](/about-us/ctss-calendar/)
 7. [School Brochure](/about-us/school-brochure/)
 8. [School Wide Achievements](https://www.clementitownsec.moe.edu.sg/about-us/school-wide-achievements/permalink/)
+9. 
