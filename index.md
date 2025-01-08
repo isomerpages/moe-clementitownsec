@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/website banner size green text box.gif
       key_highlights:
-        - title: About Us
-          description: ""
-          url: /about-ctss/
         - title: Key Programs
           description: ""
           url: /key-programs/
@@ -21,6 +18,13 @@ sections:
         - title: Students
           description: ""
           url: /students
+  - infobar:
+      title: Release of 2024 GCE O-Level Examination Results
+      subtitle: Friday, 10 Jan 2025
+      id: infobar
+      description: The 2024 GCE O-Level Examinations results would be released on
+        Friday, 10 Jan 2025, 2.30pm. Please report in full school uniform at the
+        school hall at 1.45pm.
   - infopic:
       title: 2025 Secondary 1 Registration
       id: infopic

@@ -9,7 +9,7 @@ Clementi Town Secondary School has a wide range of Co-Curricular Activities to c
   
 
 **Aesthetics** <br>
-[Art Club](/co-curriculum/co-curricular-activities/art-club) (**CCA has ceased)&nbsp;<br>
+[Art Club](/co-curriculum/co-curricular-activities/art-club) <br>
 [Drama Club](/co-curriculum/co-curricular-activities/drama-club) <br>
 [Guzheng](/co-curriculum/co-curricular-activities/guzheng) <br>
 [Modern Dance](/co-curriculum/co-curricular-activities/modern-dance/) <br>
@@ -32,7 +32,7 @@ Clementi Town Secondary School has a wide range of Co-Curricular Activities to c
 [National Cadet Corps](/co-curriculum/co-curricular-activities/national-cadet-corps) <br>
 [National Civil Defence Cadet Corps](/co-curriculum/co-curricular-activities/national-civil-defence-cadet-corps)  <br>
 [National Police Cadet Corps](/co-curriculum/co-curricular-activities/national-police-cadet-corps) <br>
-[Scouts (Boys)](/co-curriculum/co-curricular-activities/scouts) (**CCA has ceased)
+[Scouts (Boys)](/co-curriculum/co-curricular-activities/scouts) 
 
 <br>
 <br>

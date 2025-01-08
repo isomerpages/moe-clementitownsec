@@ -8,8 +8,8 @@ variant: markdown
 2. [Principal's Message](/about-us/principals-message/)
 3. [School History](/about-us/school-history/)
 4. [School Song](/about-us/school-song/)
-5. [CTSS Biennial School Magazine 2021 / 2022](/about-us/ctss-biennial-school-magazine-2021-2022/)
-6. [Full Subject Based Banding (Full SBB)](/about-us/full-subject-based-banding-full-sbb/)
+5. [Full Subject Based Banding (Full SBB)](/about-us/full-subject-based-banding-full-sbb/)
+6. [CTSS Calendar](/about-us/ctss-calendar/)
 7. [School Brochure](/about-us/school-brochure/)
-8. [Useful Links for Staff](/about-us/for-staff/)
-10. [CTSS Calendar 2024](/about-us/ctss-calendar-2024/)
+8. [School Wide Achievements](https://www.clementitownsec.moe.edu.sg/about-us/school-wide-achievements/permalink/)
+9. 
