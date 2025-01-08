@@ -18,6 +18,13 @@ sections:
         - title: Students
           description: ""
           url: /students
+  - infobar:
+      title: Release of 2024 GCE O-Level Examination Results
+      subtitle: Friday, 10 Jan 2025
+      id: infobar
+      description: The 2024 GCE O-Levels Examinations would be released on Friday, 10
+        January 2025, at 2.30pm. Please report in full school uniform at the
+        school hall at 1.45pm.
   - infopic:
       title: 2025 Secondary 1 Registration
       id: infopic
