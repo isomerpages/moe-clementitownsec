@@ -1,12 +1,12 @@
 ---
-title: Sexuality Education Programme 2024
-permalink: /curriculum/sexuality-education-programme-2024/
+title: Sexuality Education Programme 2025
+permalink: /curriculum/sexuality-education-programme-2025/
 description: ""
 variant: tiptap
 ---
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
 with others, including those with members of the opposite sex, and make
@@ -54,7 +54,7 @@ ones.</p>
 </ul>
 <p>&nbsp;You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h5>OVERVIEW OF CLEMENTI TOWN SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</h5>
+<h5>OVERVIEW OF CLEMENTI TOWN SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h5>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
@@ -75,44 +75,45 @@ on sexuality include:</p>
 <p>6.&nbsp; &nbsp; &nbsp;The values and attitudes of our youth towards sexuality
 are increasingly shaped by their peers, exposure to the media, popular
 culture and the internet. Adolescence is a complex stage in life as the
-adolescent attempts to find his/her own identity and often struggles with
-new social relationships. The period of middle adolescence (generally from
-15 – 17 years old) can be a turbulent period for adolescents. The gap between
-physical and emotional/cognitive maturity may result in a tendency to act
-on impulse, experiment with various activities (including sexual activities),
-sometimes without understanding the unpleasant consequences that may arise
-from such experimentation. The need for peer acceptance can be overwhelmingly
-strong and hinder one’s ability to act responsibly.&nbsp; Given the pressures
-faced by the middle adolescent from within themselves and from peers, it
-is important to build a strong sense of self-worth, personal conviction
-and an understanding of the possible consequences of sexual behaviour.</p>
+adolescent attempts to find his or her own identity and often struggles
+with new social relationships. The period of middle adolescence (generally
+from 15 – 17 years old) can be a turbulent period for adolescents. The
+gap between physical and emotional/cognitive maturity may result in a tendency
+to act on impulse, experiment with various activities (including sexual
+activities), sometimes without understanding the unpleasant consequences
+that may arise from such experimentation. The need for peer acceptance
+can be overwhelmingly strong and hinder one’s ability to act responsibly.&nbsp;
+Given the pressures faced by the middle adolescent from within themselves
+and from peers, it is important to build a strong sense of self-worth,
+personal conviction and an understanding of the possible consequences of
+sexual behaviour.</p>
 <p>7.&nbsp; &nbsp; &nbsp;Through the Sexuality Education lessons, secondary
 students will have the opportunity to develop a positive self-esteem, develop
 their character, and expand their understanding and repertoire of skills
 to deal with various issues related to sexuality, which are of prime concern
 at this age.</p>
-<p><strong>At CLEMENTI TOWN Secondary School, the following lessons from the Sexuality Education&nbsp;lessons will be taught in&nbsp;<u>2024:</u></strong>
+<p><strong>At CLEMENTI TOWN Secondary School, the following lessons from the Sexuality Education&nbsp;lessons will be taught in&nbsp;<u>2025</u>:</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_2021_Page_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec1_2025.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_2021_Page_2_new.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec2_2025.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_2021_Page_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_2021_Page_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_2021_Page_5b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec3_2025.jpg">
 </div>
 <p></p>
-<h4><strong>ETEENS PROGRAMME:</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec4_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec5_2025.jpg">
+</div>
+<h4><strong>eTeens Programme:</strong></h4>
 <p>8.&nbsp; &nbsp; &nbsp; <em>eTeens</em> is a programme developed by Health
 Promotion Board, in collaboration with the Ministry of Education, to provide
 Secondary 3 students with accurate information on STIs, HIV and protection
@@ -125,26 +126,25 @@ assertiveness and negotiation to say “no” to sex and negative peer pressure.
 They also learn that the impact of STIs/HIV extends beyond themselves and
 involves their family, and the importance of responsible decision-making
 and seeking help. Abstinence and upholding family values are the key messages.</p>
-<p><strong>At CLEMENTI TOWN Secondary School, the eTeens programme will be implemented as follows in 2024:</strong>
+<p><strong>At CLEMENTI TOWN Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_E_Teens.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/eTeens.jpg">
 </div>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>10.&nbsp; &nbsp;Parents may opt their children out of the Sexuality Education
 lessons, <em>eTeens</em> and/or supplementary sexuality education programmes
 by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="/files/SED_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 09/02/2024.</p>
+out of the <strong>Sexuality Education lessons</strong> need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also downloadable <a href="/files/SexEd2025/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The completed form
+is to be submitted by 06/02/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable&nbsp;<a href="/files/SED_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp; The completed form is to
-be submitted by 09/02/2024.</p>
+the year and is also downloadable&nbsp;<a href="/files/SexEd2025/Annex_B.pdf" rel="noopener nofollow" target="_blank">here</a>.&nbsp; The completed form
+is to be submitted by 06/02/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a rel="noopener noreferrer nofollow" target="_blank">ctss@moe.edu.sg</a>for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
