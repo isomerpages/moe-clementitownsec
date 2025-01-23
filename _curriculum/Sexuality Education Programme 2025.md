@@ -113,7 +113,7 @@ at this age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec5_2025.jpg">
 </div>
-<h4><strong>ETEENS PROGRAMME:</strong></h4>
+<h4><strong>eTeens Programme:</strong></h4>
 <p>8.&nbsp; &nbsp; &nbsp; <em>eTeens</em> is a programme developed by Health
 Promotion Board, in collaboration with the Ministry of Education, to provide
 Secondary 3 students with accurate information on STIs, HIV and protection
@@ -126,7 +126,7 @@ assertiveness and negotiation to say “no” to sex and negative peer pressure.
 They also learn that the impact of STIs/HIV extends beyond themselves and
 involves their family, and the importance of responsible decision-making
 and seeking help. Abstinence and upholding family values are the key messages.</p>
-<p><strong>At CLEMENTI TOWN Secondary School, the eTeens programme will be implemented as follows in 2024:</strong>
+<p><strong>At CLEMENTI TOWN Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
 </p>
 <p></p>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
