@@ -94,10 +94,25 @@ to deal with various issues related to sexuality, which are of prime concern
 at this age.</p>
 <p><strong>At CLEMENTI TOWN Secondary School, the following lessons from the Sexuality Education&nbsp;lessons will be taught in&nbsp;<u>2025</u>:</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec1_2025.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec2_2025.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec3_2025.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec4_2025.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec5_2025.jpg">
+</div>
 <h4><strong>ETEENS PROGRAMME:</strong></h4>
 <p>8.&nbsp; &nbsp; &nbsp; <em>eTeens</em> is a programme developed by Health
 Promotion Board, in collaboration with the Ministry of Education, to provide
@@ -114,9 +129,6 @@ and seeking help. Abstinence and upholding family values are the key messages.</
 <p><strong>At CLEMENTI TOWN Secondary School, the eTeens programme will be implemented as follows in 2024:</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_E_Teens.jpg">
-</div>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>10.&nbsp; &nbsp;Parents may opt their children out of the Sexuality Education
 lessons, <em>eTeens</em> and/or supplementary sexuality education programmes
