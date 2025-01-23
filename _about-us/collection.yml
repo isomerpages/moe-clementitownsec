@@ -2,6 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - Archive Of Past Achievements/Outstanding Achievements in the Singapore
+        Youth Festival 2021.md
       - Archive Of Past Achievements/Lee Kuan Yew Award for All Round Excellence
         2016.md
       - Archive Of Past Achievements/.keep
