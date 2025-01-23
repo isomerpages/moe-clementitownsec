@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
 with others, including those with members of the opposite sex, and make
@@ -54,7 +54,7 @@ ones.</p>
 </ul>
 <p>&nbsp;You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h5>OVERVIEW OF CLEMENTI TOWN SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</h5>
+<h5>OVERVIEW OF CLEMENTI TOWN SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h5>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
