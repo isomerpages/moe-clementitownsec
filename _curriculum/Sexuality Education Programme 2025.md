@@ -143,8 +143,8 @@ is to be submitted by 06/02/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable&nbsp;<a href="/files/SED_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp; The completed form is to
-be submitted by 09/02/2024.</p>
+the year and is also downloadable&nbsp;<a href="/files/SexEd2025/Annex_B.pdf" rel="noopener nofollow" target="_blank">here</a>.&nbsp; The completed form
+is to be submitted by 06/02/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a rel="noopener noreferrer nofollow" target="_blank">ctss@moe.edu.sg</a>for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
