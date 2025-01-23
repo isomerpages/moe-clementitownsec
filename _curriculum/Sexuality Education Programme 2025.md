@@ -128,7 +128,9 @@ involves their family, and the importance of responsible decision-making
 and seeking help. Abstinence and upholding family values are the key messages.</p>
 <p><strong>At CLEMENTI TOWN Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/eTeens.jpg">
+</div>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>10.&nbsp; &nbsp;Parents may opt their children out of the Sexuality Education
 lessons, <em>eTeens</em> and/or supplementary sexuality education programmes
