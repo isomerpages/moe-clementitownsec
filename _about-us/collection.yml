@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Archive Of Past Achievements/.keep
       - Motto, Vision, Mission & Values.md
       - Principal's Message.md
       - School History.md
