@@ -95,23 +95,8 @@ at this age.</p>
 <p><strong>At CLEMENTI TOWN Secondary School, the following lessons from the Sexuality Education&nbsp;lessons will be taught in&nbsp;<u>2025</u>:</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_2021_Page_1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_2021_Page_2_new.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_2021_Page_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_2021_Page_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sexuality_Education_Lessons_in_CCE_2021_Page_5b.jpg">
-</div>
 <p></p>
 <h4><strong>ETEENS PROGRAMME:</strong></h4>
 <p>8.&nbsp; &nbsp; &nbsp; <em>eTeens</em> is a programme developed by Health
