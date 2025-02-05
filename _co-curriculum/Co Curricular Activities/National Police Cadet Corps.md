@@ -23,16 +23,13 @@ crime and keep Singapore safe.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Yap Jin Hua, Andy (OIC)</p>
+<p>Mr Ke Kaijie Justin(OIC)</p>
 </li>
 <li>
-<p>Mr Ke Kaijie Justin (AIC)</p>
+<p>Mr Yap Jin Hua, Andy(AIC)</p>
 </li>
 <li>
 <p>Ms Tay Kai Ling Joyner</p>
-</li>
-<li>
-<p>Ms Wee Ni Swen</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
