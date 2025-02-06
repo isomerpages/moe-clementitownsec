@@ -50,7 +50,7 @@ First Responders with a compassionate heart.</p>
 <p>Mr Tan Chor Seng (OIC)</p>
 </li>
 <li>
-<p>Mr Wee Yee Ing (2IC)</p>
+<p>Mr Wee Yee Ing (AIC)</p>
 </li>
 <li>
 <p>Mr Chidambaram Saravanan</p>
