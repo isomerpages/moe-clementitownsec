@@ -93,6 +93,14 @@ Thursday to have ECG conversations with students.</p>
 find out more about their career interests and strengths may book a session
 at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgclementitown</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG02.jpg">
+</div>
 <p><strong><u><br></u></strong>Useful links to General Information on ECG:</p>
 <ul data-tight="true" class="tight">
 <li>
