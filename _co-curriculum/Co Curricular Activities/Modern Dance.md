@@ -210,6 +210,50 @@ learn and bond through teamwork and participating in performances.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>TRAINING DETAILS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30-5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30-5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Language Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
