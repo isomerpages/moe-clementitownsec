@@ -23,13 +23,13 @@ us to be well-prepared to handle any emergency situation at any time.</p>
 <p>Ms Loh Wan Ting (OIC)</p>
 </li>
 <li>
-<p>Mdm Tan Kay Shin (AIC)</p>
-</li>
-<li>
-<p>Ms Rashidah Kassim</p>
+<p>Ms Ang Hui Xia</p>
 </li>
 <li>
 <p>Mdm Chen Liping</p>
+</li>
+<li>
+<p>Ms Chang Shi En</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
