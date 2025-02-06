@@ -3,6 +3,7 @@ title: Drama Club
 permalink: /co-curriculum/co-curricular-activities/drama-club/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 #### **ABOUT THE CCA**
 
@@ -23,10 +24,10 @@ CTSS Drama Club was established in 2010, with three official Secondary 1 members
 
 #### **TEACHERS IN-CHARGE**
 
-* Ms Rachel Lee (OIC)
-* Mr Kishan Kannan (AIC) 
-* Mrs Lim Lye Sim
-* Ms Sophia Ng      
+* Ms Sophia Ng (OIC)
+* Ms Chan Wen Xin (AIC) 
+* Ms Farah Rosalan
+* Ms Vaishnashri
 
 
 #### **STUDENT EXECUTIVE COMMITTEE**
