@@ -3,7 +3,7 @@ title: Green Schools Three Stars Award @ South West 2023
 permalink: /green-schools-three-stars-award-south-west-2023/
 variant: tiptap
 description: ""
-third_nav_title: Outstanding Clementeens
+third_nav_title: School Wide Achievements
 ---
 <p>We are proud to announce that Clementi Town Secondary School has been
 awarded Three Stars in the Green Schools @ South West Award 2023, for our

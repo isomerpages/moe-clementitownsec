@@ -3,7 +3,7 @@ title: National School Games C Division League 2 Volleyball Champions 2024
 permalink: /2024-national-school-games-c-division-league-2-volleyball-champions/
 variant: tiptap
 description: ""
-third_nav_title: Outstanding Clementeens
+third_nav_title: School Wide Achievements
 ---
 <p>We are very proud to share that our C Division Volleyball team has clinched
 the championship in the 2024 National School Games C Division League 2

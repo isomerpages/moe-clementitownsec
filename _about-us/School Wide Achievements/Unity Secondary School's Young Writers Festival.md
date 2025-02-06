@@ -3,7 +3,7 @@ title: Unity Secondary School's Young Writers Festival
 permalink: /unity-secondary-school-s-young-writers-festival/
 variant: tiptap
 description: ""
-third_nav_title: Outstanding Clementeens
+third_nav_title: School Wide Achievements
 ---
 <p>On 10 May, five of our Clementeens took part in Unity Secondary School's
 Young Writers Festival. After having submitted their original flash-fiction

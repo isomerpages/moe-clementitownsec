@@ -1,8 +1,7 @@
 ---
 title: Lee Hsein Loong Award for Innovations in Normal Course (2009 & 2015)
-permalink: /about-us/school-wide-achievements/lee-hsien-loong-award-for-innovations-in-normal-course-2009-2015
+permalink: /about-us/school-wide-achievements/lee-hsien-loong-award-for-innovations-in-normal-course-2009-2015/
 description: ""
-third_nav_title: School Wide Achievements
 ---
 The Lee Hsien Loong Award for Innovations in the Normal Course bears testimony to Clementi Town Secondary School’s efforts in the innovation of teaching and learning, school management and organisation, as well as student development to ensure the all-round development of our students in the Normal (Academic) and Normal (Technical) courses.
 
@@ -19,6 +18,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">  
-  
-</body>
+<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">

@@ -3,7 +3,7 @@ title: Live On Festival (LOF) 2024
 permalink: /live-on-festival-lof-2024/
 variant: tiptap
 description: ""
-third_nav_title: Outstanding Clementeens
+third_nav_title: School Wide Achievements
 ---
 <p>Congratulations to our talented Clementeens for winning the Live On Festival
 (LOF) 2024!</p>

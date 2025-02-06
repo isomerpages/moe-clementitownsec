@@ -3,7 +3,7 @@ title: National School Games Wushu Championship 2024
 permalink: /national-school-games-wushu-championship-2024/
 variant: tiptap
 description: ""
-third_nav_title: Outstanding Clementeens
+third_nav_title: School Wide Achievements
 ---
 <p>Our CTSS Wushu team has just completed the NSG Wushu Championship 2024.
 Our team members have done us proud, demonstrating sportsmanship and perseverance,

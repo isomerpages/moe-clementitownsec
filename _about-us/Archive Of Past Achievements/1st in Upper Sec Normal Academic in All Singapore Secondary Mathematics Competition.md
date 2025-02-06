@@ -3,7 +3,7 @@ title: 1st in Upper Sec Normal Academic in All Singapore Secondary Mathematics
   Competition
 permalink: /about-us/school-wide-achievements/1st-position-in-team-upper-sec-normal-academic-category/
 description: ""
-third_nav_title: School Wide Achievements
+third_nav_title: Archive Of Past Achievements
 ---
 <img src="/images/20180816_170556.jpeg" style="width:80%">
 
