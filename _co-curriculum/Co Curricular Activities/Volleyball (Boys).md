@@ -38,12 +38,14 @@ what is expected of them in the future.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/volleyball_1.jpg">
 </div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Teo Li Yin (OIC)</strong>
-</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Fu Rong (AIC)</strong>
-</p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chan Siew Kwai </strong>
-</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Teo Li Yin (OIC)</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Fu Rong (AIC)</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chan Siew Kwai</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Mr Lee Chi Hang Noah</p>
+</li>
+</ol>
 <p></p>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE 2024</strong></h4>
 <table style="minWidth: 75px">
