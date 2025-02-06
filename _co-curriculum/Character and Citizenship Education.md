@@ -115,10 +115,10 @@ at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/
 <p></p>
 <h2><strong>Sexuality Education</strong></h2>
 <p>
-<br>The Sexuality Education curriculum emphasises the importance of respect
+<br>The Sexuality Education curriculum emphasizes the importance of respect
 for self and others, both online and offline, and respecting personal boundaries
 for healthy relationships and personal safety.&nbsp; Information on the
-curriculum can be found under this <a href="https://www.clementitownsec.moe.edu.sg/curriculum/sexuality-education-programme-2024/" rel="noopener noreferrer nofollow" target="_blank">section</a>.</p>
+curriculum can be found under this <a href="section (to hyperlink to https://www.clementitownsec.moe.edu.sg/curriculum/sexuality-education-programme-2025/" rel="noopener noreferrer nofollow" target="_blank">section</a>.</p>
 <p>&nbsp;</p>
 <h2><strong>Mental Health</strong></h2>
 <p></p>
