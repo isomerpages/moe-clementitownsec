@@ -18,10 +18,13 @@ every individual's strength.</p>
 <p>Mr Chan Bin Chuan (IC)</p>
 </li>
 <li>
-<p>Mr Ethan Tan (AIC)</p>
+<p>Mr Faizal Bin Bihari (AIC)</p>
 </li>
 <li>
-<p>Mr Mathew Ho</p>
+<p>Mr Ethan Tan</p>
+</li>
+<li>
+<p>Mr Tan Jia Yi Joel</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
