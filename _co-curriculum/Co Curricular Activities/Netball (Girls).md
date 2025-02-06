@@ -42,10 +42,10 @@ members.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC01150.jpg">
 </div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
-<p>• Ms Chan Lay Leng (OIC)</p>
 <p>• Ms Teo Wei Na (AIC)</p>
+<p>• Ms Karen Seah</p>
 <p>• Ms Sim Shin Jie</p>
-<p>• Mdm Natarajan Umarani</p>
+<p>• Ms Tan Wei Min</p>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -70,7 +70,7 @@ members.</p>
 <p>Maggie Koo Mei Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3M2</p>
+<p>4NB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain (B Division)</p>
@@ -81,7 +81,7 @@ members.</p>
 <p>Lee Rei Ern Cynthia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3M1</p>
+<p>4NB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain (B Division)</p>
@@ -92,7 +92,7 @@ members.</p>
 <p>Nur Aqifa Naila Binte Ahmadulhaq</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3M2</p>
+<p>4NB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain (B Division)</p>
