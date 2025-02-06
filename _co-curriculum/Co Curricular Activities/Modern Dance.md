@@ -1,9 +1,9 @@
 ---
 title: Modern Dance
-permalink: /co-curriculum/co-curricular-activities/modern-dance/
+permalink: /modern-dance/
+variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities
-variant: tiptap
 ---
 <h4><strong>ABOUT THE CCA</strong></h4>
 <p>In Modern Dance, dancers dance to express themselves and connect with
@@ -14,37 +14,26 @@ and ideas allowing for a greater range of motion and physicality. Believing
 every dancer is a leader, we hope to work on improving and developing the
 strength of each dancer. Building resilience and self-confidence, dancers
 learn and bond through teamwork and participating in performances.</p>
-<p>Believing every dancer is a leader, we hope to work on improving and further
-developing the strength of each dancer. Building resilience and self-confidence,
-dancers learn and bond through teamwork and the meaningful friendships
-formed amongst them.</p>
-<h4></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MD/11c24973_4726_413b_a107_87531ae87c3e.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modern_Dance.gif">
 </div>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MD/f13d070a_b2a4_4744_a642_645264e44064.jpg">
-</div>
+<p></p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Sumitha Kirsnan (OIC)</p>
+<p>Ms Sumitha Krisnan (OIC)</p>
 </li>
 <li>
-<p>Ms Hamizah Begum Binte Mohd Hanif (AIC)</p>
+<p>Hamizah Begum Binte Mohd Hanif (AIC)</p>
 </li>
 <li>
-<p>Ms Lim Keng Woon, Madeline</p>
+<p>Mrs Winnie Tan</p>
 </li>
 <li>
-<p>Mrs Tan-Wong Siew Har, Winnie</p>
+<p>Ms Rashidah Bte Kassim</p>
 </li>
 </ul>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MD/11c24973_4726_413b_a107_87531ae87c3e.jpg">
-</div>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -66,10 +55,10 @@ formed amongst them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOORTHY SHIVAANY</p>
+<p>Moorthy Shivaany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3MD</p>
+<p>4MD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -77,10 +66,10 @@ formed amongst them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>QUIAMBAO NATANIA TAN</p>
+<p>Quiambao Natania Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3MD</p>
+<p>4MD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-President</p>
@@ -88,21 +77,10 @@ formed amongst them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YAP SIN YU PAIGE</p>
+<p>Yap Sin Yu Paige</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3MD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Discipline Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ERH SHI YING REIKO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3MD</p>
+<p>4MD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discipline Head</p>
@@ -110,10 +88,21 @@ formed amongst them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GENEVIEVE LIM CI HIU</p>
+<p>Erh Shi Ying Reiko</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3MD</p>
+<p>4MD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discipline Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Genevieve Lim Ci Hiu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4MD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Logistics Head</p>
@@ -121,10 +110,10 @@ formed amongst them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SATHIARATHY D/O GURUSHANKAR</p>
+<p>Sathiarathy d/o Gurushankar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3MD</p>
+<p>4MD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Logistics Head</p>
@@ -132,12 +121,8 @@ formed amongst them.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MD/IMG_2596.jpg">
-</div>
-<h4><strong>KEY EVENTS</strong></h4>
+<p></p>
+<h4><strong>KEY EVENTS (2022 - 2024)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -194,11 +179,8 @@ formed amongst them.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MD/4cacaa4b_597a_4ffe_b65f_084733b633f4.jpg">
-</div>
-<h4><strong>KEY ACHIEVEMENTS </strong></h4>
+<p></p>
+<h4><strong>KEY ACHIEVEMENTS (2022 - 2024)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -232,20 +214,57 @@ formed amongst them.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MD/c03f856b_da1c_446b_9d91_15dcbbc2a134.jpg">
-</div>
+<p></p>
 <h4><strong>TRAINING DETAILS</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MD/md%20trg.jpg">
-</div>
-<p>
-<br>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30-5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30-5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Language Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>

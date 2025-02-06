@@ -68,7 +68,7 @@ work collaboratively with one another.</p>
 <p>Ryan Ong Wen Aun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3IT</p>
+<p>4IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -79,7 +79,7 @@ work collaboratively with one another.</p>
 <p>Goh Ron-Wayn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3IT</p>
+<p>4IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-President</p>
@@ -90,7 +90,7 @@ work collaboratively with one another.</p>
 <p>Muhammad Irfan Bin Abdul Rashid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3IT</p>
+<p>4IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PA Head</p>
@@ -103,7 +103,7 @@ work collaboratively with one another.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3IT</p>
+<p>4IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PA Head
@@ -116,7 +116,7 @@ work collaboratively with one another.</p>
 <p>Yung Ker Fung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3IT</p>
+<p>4IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Photo Head
@@ -129,7 +129,7 @@ work collaboratively with one another.</p>
 <p>Liu Tingxuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3IT</p>
+<p>4IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Photo Head</p>
@@ -140,7 +140,7 @@ work collaboratively with one another.</p>
 <p>Isaac Emmanuel Isaiah Lea</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3IT</p>
+<p>4IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>App Development Head</p>
@@ -151,7 +151,7 @@ work collaboratively with one another.</p>
 <p>Hamzah Sadiq Bin Aidil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3IT</p>
+<p>4IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Robotics Head</p>

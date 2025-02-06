@@ -29,10 +29,7 @@ juniors.</p>
 <p>Mdm Tracy Tey (AIC)</p>
 </li>
 <li>
-<p>Mr Kenneth Tan</p>
-</li>
-<li>
-<p>Miss Rowena Tan</p>
+<p>Mr Heng Yuan Hao</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
@@ -59,7 +56,7 @@ juniors.</p>
 <p>Leroy Ang Ho Gun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3S6</p>
+<p>4BB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain (B Division)</p>
@@ -70,7 +67,7 @@ juniors.</p>
 <p>Lee Guo Bin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3S6</p>
+<p>4BB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain (B Division)</p>
@@ -81,7 +78,7 @@ juniors.</p>
 <p>Eng Tze Yern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3S6</p>
+<p>4BB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Logistics IC</p>
@@ -92,7 +89,7 @@ juniors.</p>
 <p>Nazir Agamadou Rayyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3S5</p>
+<p>4BB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Duty Roster / Noticeboard IC</p>
@@ -103,7 +100,7 @@ juniors.</p>
 <p>Admes Chia Peng Hwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3S5</p>
+<p>4BB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Welfare IC</p>

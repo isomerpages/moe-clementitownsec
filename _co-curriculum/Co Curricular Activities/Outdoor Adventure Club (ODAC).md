@@ -55,16 +55,16 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Heng Hui Zhen</p>
+<p>Ms Heng Hui Zhen (OIC)</p>
 </li>
 <li>
-<p>Mr Aidil MD Idris</p>
+<p>Mr Aidil Md Idris (AIC)</p>
 </li>
 <li>
 <p>Mdm Rosezalina Asmoin</p>
 </li>
 <li>
-<p>Ms Li Qianyi</p>
+<p>Ms Madeline Lim Keng Woon</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>

@@ -21,10 +21,10 @@ routine of their choice in each category.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Karen Sia&nbsp; (OIC)</p>
+<p>Ms He Meiyu&nbsp; (OIC)</p>
 </li>
 <li>
-<p>Ms He Meiyu (AIC)</p>
+<p>Ms Mursalina Mohd Saim (AIC)</p>
 </li>
 <li>
 <p>Mrs Rachel Lehming</p>
@@ -57,7 +57,7 @@ routine of their choice in each category.</p>
 <p>Wee Jing Zhe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3S5</p>
+<p>4WS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain</p>
@@ -68,7 +68,7 @@ routine of their choice in each category.</p>
 <p>Rayner Wat Mun Jit (Qu Wen Zhe)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3S6</p>
+<p>4WS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain</p>
@@ -79,7 +79,7 @@ routine of their choice in each category.</p>
 <p>Woo Yi Wei, Lucas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3S6</p>
+<p>4WS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain</p>

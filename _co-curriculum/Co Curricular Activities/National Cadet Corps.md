@@ -18,10 +18,13 @@ every individual's strength.</p>
 <p>Mr Chan Bin Chuan (IC)</p>
 </li>
 <li>
-<p>Mr Ethan Tan (AIC)</p>
+<p>Mr Faizal Bin Bihari (AIC)</p>
 </li>
 <li>
-<p>Mr Mathew Ho</p>
+<p>Mr Ethan Tan</p>
+</li>
+<li>
+<p>Mr Tan Jia Yi Joel</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
@@ -48,7 +51,7 @@ every individual's strength.</p>
 <p>Ng Shao En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3M2</p>
+<p>4NC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unit Sergeant Major</p>
@@ -59,7 +62,7 @@ every individual's strength.</p>
 <p>Mohamad Hady Fiqri Bin Mohamad Noor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3M1</p>
+<p>4NC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Sergeant Major</p>

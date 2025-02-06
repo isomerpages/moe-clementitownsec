@@ -50,13 +50,10 @@ First Responders with a compassionate heart.</p>
 <p>Mr Tan Chor Seng (OIC)</p>
 </li>
 <li>
-<p>Mr Mohamed Ressal Bin Mohamed Raffi (2IC)</p>
+<p>Mr Wee Yee Ing (AIC)</p>
 </li>
 <li>
-<p>Mr Zulhilmi Bin Zulkiflee</p>
-</li>
-<li>
-<p>Ms Wee Yee Ing</p>
+<p>Mr Chidambaram Saravanan</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>

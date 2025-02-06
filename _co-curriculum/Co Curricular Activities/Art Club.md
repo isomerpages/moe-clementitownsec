@@ -47,7 +47,7 @@ art styles, artists and movements.</p>
 <p>Melody Cho Thansin Kyaw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3AC</p>
+<p>4AC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -58,7 +58,7 @@ art styles, artists and movements.</p>
 <p>Summer Khoo Yi Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3AC</p>
+<p>4AC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -69,32 +69,10 @@ art styles, artists and movements.</p>
 <p>Wong Hui Fang Angel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3AC</p>
+<p>4AC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>

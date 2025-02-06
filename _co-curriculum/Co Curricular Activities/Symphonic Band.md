@@ -28,10 +28,10 @@ self-confidence and a sense of appreciation for the Aesthetics.</p>
 <p>Mr Philip Tan (AIC)</p>
 </li>
 <li>
-<p>Mr Tan Teck Soon</p>
+<p>Ms Joycelyn Tan</p>
 </li>
 <li>
-<p>Ms Joycelyn Tan</p>
+<p>Ms Sharmeela</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
