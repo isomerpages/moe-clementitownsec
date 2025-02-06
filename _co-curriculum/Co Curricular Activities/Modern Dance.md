@@ -117,7 +117,65 @@ learn and bond through teamwork and participating in performances.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>KEY EVENTS </strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Performance at Clementi CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day School Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super 24 Dance Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speech Day Welcome Fanfare Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation (International Dance)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<h4><strong>KEY ACHIEVEMENTS</strong></h4>
 <p></p>
 <p></p>
 <p></p>
