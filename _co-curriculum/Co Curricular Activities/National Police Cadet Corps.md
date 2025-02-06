@@ -56,7 +56,7 @@ crime and keep Singapore safe.</p>
 <p>Laurel Kuah (Ke Yanxi)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-NP / 3O3 / 3R</p>
+<p>4NP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall-in-charge</p>
@@ -67,7 +67,7 @@ crime and keep Singapore safe.</p>
 <p>Inez Hsu Yinglan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-NP / 3O4 / 3C</p>
+<p>4NP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Second-in-charge</p>
@@ -78,7 +78,7 @@ crime and keep Singapore safe.</p>
 <p>Dyllis Tay Xin Hui (Zheng Xinhui)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-NP / 3O4 / 3W</p>
+<p>4NP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Administration</p>
@@ -89,7 +89,7 @@ crime and keep Singapore safe.</p>
 <p>Saravanan Ajay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-NP / 3O4 / 3Y</p>
+<p>4NP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Training</p>
@@ -100,7 +100,7 @@ crime and keep Singapore safe.</p>
 <p>Yew Jun Jie&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-NP / 3O3 / 3C</p>
+<p>4NP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Logistics</p>
@@ -111,7 +111,7 @@ crime and keep Singapore safe.</p>
 <p>Nur Seri Ardini Binti Ady</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-NP / 3O3 / 3C</p>
+<p>4NP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Welfare</p>
