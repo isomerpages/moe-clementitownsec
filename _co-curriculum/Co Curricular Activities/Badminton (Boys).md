@@ -21,16 +21,13 @@ their potential.&nbsp;</p>
 <p>Mr Chua Keng Yeow (OIC)</p>
 </li>
 <li>
-<p>Mrs Magdalene Peh</p>
+<p>Mr Alvin Tan Jia Jie (AIC)</p>
 </li>
 <li>
-<p>Ms Low Liqing</p>
+<p>Ms Shafiah d/o Syed Masood</p>
 </li>
 <li>
-<p>Ms Chan Lai Peng</p>
-</li>
-<li>
-<p>Mr Timothy Tang</p>
+<p>Ms Wee Ni Swen</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
