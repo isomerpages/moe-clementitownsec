@@ -117,7 +117,7 @@ learn and bond through teamwork and participating in performances.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>KEY EVENTS </strong></h4>
+<h4><strong>KEY EVENTS (2022 - 2024)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -175,8 +175,40 @@ learn and bond through teamwork and participating in performances.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>KEY ACHIEVEMENTS</strong></h4>
-<p></p>
+<h4><strong>KEY ACHIEVEMENTS (2022 - 2024)</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award, Super 24 Dance Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment, Singapore Youth Festival Arts Presentation
+2023</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
