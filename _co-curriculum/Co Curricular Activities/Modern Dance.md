@@ -30,6 +30,97 @@ learn and bond through teamwork and participating in performances.</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position / Appointment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Moorthy Shivaany</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4MD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quiambao Natania Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4MD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap Sin Yu Paige</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4MD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discipline Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Erh Shi Ying Reiko</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4MD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discipline Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Genevieve Lim Ci Hiu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4MD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sathiarathy d/o Gurushankar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4MD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Head</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
