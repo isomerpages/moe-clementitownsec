@@ -17,16 +17,16 @@ in the course of their time at CTSS.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Thomas Law (OIC)</p>
+<p>Mr Mohideen Nizar (OIC)</p>
 </li>
 <li>
-<p>Mr Mohideen Nizar (AIC)</p>
+<p>Ms Chen Xi (AIC)</p>
 </li>
 <li>
 <p>Ms Stella Leong</p>
 </li>
 <li>
-<p>Ms Jocelyn Soon</p>
+<p>Mr Arul Praveen</p>
 </li>
 </ul>
 <h4>STUDENT EXECUTIVE COMMITTEE</h4>
