@@ -2,13 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Archive Of Past Achievements/1st in Upper Sec Normal Academic in All
-        Singapore Secondary Mathematics Competition.md
-      - Archive Of Past Achievements/Outstanding Achievements in the Singapore
-        Youth Festival 2021.md
-      - Archive Of Past Achievements/Lee Kuan Yew Award for All Round Excellence
-        2016.md
-      - Archive Of Past Achievements/.keep
       - Motto, Vision, Mission & Values.md
       - Principal's Message.md
       - School History.md
@@ -48,5 +41,12 @@ collections:
         Festival.md
       - School Wide Achievements/2023 National Public Speaking Competition.md
       - School Wide Achievements/Reading Excellence Award.md
+      - Archive Of Past Achievements/.keep
+      - Archive Of Past Achievements/1st in Upper Sec Normal Academic in All
+        Singapore Secondary Mathematics Competition.md
+      - Archive Of Past Achievements/Outstanding Achievements in the Singapore
+        Youth Festival 2021.md
+      - Archive Of Past Achievements/Lee Kuan Yew Award for All Round Excellence
+        2016.md
       - Useful Links For Staff.md
       - Canteen Advertisement.md
