@@ -181,7 +181,7 @@ variant: tiptap
 <img style="width:35%" height="auto" width="100%" src="/images/ms%20joyner%20tay%20kai%20ling.jpeg">
 </div>
 <p>Ms&nbsp;Joyner Tay
-<br><a href="[tay_kai_ling_joyner@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kai_ling_joyners@moe.edu.sg</a>
+<br><a href="[tay_kai_ling_joyner@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kai_ling_joyner@moe.edu.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Mr%20Kamal%20Bin%20Yacob.jpeg">
