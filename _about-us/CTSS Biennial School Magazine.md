@@ -1,6 +1,6 @@
 ---
-title: CTSS Biennial School Magazine 2023 2024
-permalink: /about-us/ctss-biennial-school-magazine-2023-2024/
+title: CTSS Biennial School Magazine
+permalink: /about-us/ctss-biennial-school-magazine/
 description: ""
 variant: tiptap
 ---
