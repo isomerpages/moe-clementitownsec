@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Advisory Committee.md
       - Motto, Vision, Mission & Values.md
       - Principal's Message.md
       - School History.md
+      - School Advisory Committee.md
       - School Song.md
       - Full Subject Based Banding (Full SBB).md
       - CTSS Calendar.md
