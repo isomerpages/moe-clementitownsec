@@ -4,7 +4,7 @@ permalink: /about-us/full-subject-based-banding-full-sbb/
 description: ""
 variant: tiptap
 ---
-<p>Our school was one of the Phase 1 schools which started offering Subject-Based
+<p>Our school was one of the FSBB Pilot schools which started offering Subject-Based
 Banding (SBB) in 2017. With SBB, students who offer most subjects at G1
 or G2 are given the opportunities to offer subjects at a more demanding
 level from the start of Secondary One if they have performed well in these
