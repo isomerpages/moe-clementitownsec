@@ -22,7 +22,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/CTSS_CODE_OF_CONDUCT_for_2024_uptd_14_Nov_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">School Rules and Regulations</a>
+<p><a href="https://drive.google.com/file/d/1QJCTLXIKXg0l9GLt0mJ2a4OtEk07Voxg/view?usp=sharing" rel="noopener nofollow" target="_blank">School Rules and Regulations</a>
 </p>
 </li>
 <li>
