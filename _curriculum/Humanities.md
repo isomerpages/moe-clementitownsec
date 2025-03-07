@@ -116,6 +116,14 @@ able to think critically and flexibly when faced with issues and challenges</p>
 <p>Mr Jeremy Lim Liangcai</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rosnie Nasuha Rosman</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Approach to Teaching and Learning</strong></h4>
