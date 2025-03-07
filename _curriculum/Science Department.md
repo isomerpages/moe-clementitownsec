@@ -117,10 +117,10 @@ needs and interests of our students.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / Lower Secondary Science</p>
+<p>Teacher / Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alex Lim kheam Soon (Mr)</p>
+<p>Chang Si En (Ms)</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ needs and interests of our students.&nbsp;</p>
 <p>Teacher / Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Kay Shin (Ms)</p>
+<p>Daniel Khor (Mr)</p>
 </td>
 </tr>
 </tbody>
