@@ -31,7 +31,23 @@ variant: tiptap
 <p>Head of Department / Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liu Jiazhen Adeline (Ms)</p>
+<p>Toh Siew Fang Jane (Mdm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May Wee Yee Ing (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Hui Xia (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -80,14 +96,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ma Yanjie (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>May Wee Yee Ing (Ms)</p>
 </td>
 </tr>
 <tr>

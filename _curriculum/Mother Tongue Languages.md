@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Chinese Language</p>
+<p>Teacher / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bek Su Ling (Mdm)</p>
@@ -127,7 +127,7 @@ variant: tiptap
 <p>Teacher / Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Natarajan Umarani (Ms)</p>
+<p>Arul Praveen (Mr)</p>
 </td>
 </tr>
 <tr>

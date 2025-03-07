@@ -38,14 +38,6 @@ able to think critically and flexibly when faced with issues and challenges</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ History</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ressal Mohamed</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST/Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,6 +114,14 @@ able to think critically and flexibly when faced with issues and challenges</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jeremy Lim Liangcai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rosnie Nasuha Rosman</p>
 </td>
 </tr>
 </tbody>
