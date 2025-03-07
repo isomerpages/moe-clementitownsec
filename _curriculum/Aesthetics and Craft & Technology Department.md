@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Internal) / Sec 1</p>
+<p>SH/Aesthetics &amp; Student Leadership (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lim Liangcai Jeremy (Mr)</p>
@@ -46,7 +46,7 @@ variant: tiptap
 <p>Teacher / Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim-Ng Lye Sim (Mrs)</p>
+<p>Nurul Farhanah Ramlan (Mdm)</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ variant: tiptap
 <p>Teacher / Nutrition &amp; Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Wern Li Rowena (Ms)</p>
+<p>Faizal B Bohari (Mr)</p>
 </td>
 </tr>
 <tr>
