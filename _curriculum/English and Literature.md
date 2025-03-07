@@ -53,18 +53,18 @@ using it and appreciate the language arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / English Language</p>
+<p>Subject Head / E21CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yuen Lay Eng (Mrs)</p>
+<p>Farah Binte Rosalan (Mdm)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Literature Coordinator</p>
+<p>Senior Teacher / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chloe Chan</p>
+<p>Yuen Lay Eng (Mrs)</p>
 </td>
 </tr>
 <tr>
