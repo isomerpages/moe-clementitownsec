@@ -136,15 +136,7 @@ using it and appreciate the language arts.</p>
 <p>&nbsp;&nbsp;Teacher / Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Audrey Tee Zhu Yi (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Teacher / Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kishan Kannan (Mr)</p>
+<p>Rosnie Nasuha Rosman (Ms)</p>
 </td>
 </tr>
 </tbody>
