@@ -7,6 +7,10 @@ variant: tiptap
 <h3>Secondary 1</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/2025_CTSS_SJPO.pdf" rel="noopener nofollow" target="_blank">P's Letter Term 2</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/Secondary 1/Ps_letter_for_Sec_1__Term_1__2025_.pdf" rel="noopener nofollow" target="_blank">3 January 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 1</a>
 </p>
 </li>
