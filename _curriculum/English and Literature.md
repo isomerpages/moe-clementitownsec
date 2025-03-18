@@ -7,10 +7,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/english_language_and_literature_department_2.jpg">
 </div>
-<p>#### <strong>MISSION</strong>
-</p>
+<h4><strong>Department Vision</strong>:</h4>
 <p>To develop Clementeens to be proficient in the language, confident of
-using it and appreciate the language arts.</p>
+using it and be appreciative of the language arts.</p>
 <p><strong>Our Teachers</strong>:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -24,137 +23,145 @@ using it and appreciate the language arts.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teresa Chua (Mrs)</p>
+<p>Mrs Teresa Chua</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>Subject Head / English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Valane Tnee (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head / English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alvin Ng (Mr)</p>
+<p>Mr Alvin Ng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Character &amp; Citizenship Education</p>
+<p>Senior Teacher / English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stella Leong (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head / E21CC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Farah Binte Rosalan (Mdm)</p>
+<p>Mrs Yuen Lay Eng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / English Language</p>
+<p>SSD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yuen Lay Eng (Mrs)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Teacher / English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hamidah Buang (Mdm)</p>
+<p>Ms Valane Tnee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Teacher / English</p>
+<p>Subject Head / CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joycelyn Tan (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Teacher / English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Karen Sia (Ms)</p>
+<p>Ms Stella Leong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Teacher / English</p>
+<p>Subject Head / 21<sup>st</sup> CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peter Tan (Mr)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shafiah d/o Syed Masood (Mdm)</p>
+<p>Ms Farah Rosalan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher / English</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Syafiqah Binte Zaini (Ms)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Teacher / English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sophia Ng (Ms)</p>
+<p>Mr Peter Tan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Teacher / English</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Winnie Tan (Mrs)</p>
+<p>Ms Joycelyn Tan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;Teacher / Literature</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rosnie Nasuha Rosman (Ms)</p>
+<p>Ms Karen Sia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sophia Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Winnie Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shafiah Masood</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rosnie Nasuha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wei Min</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Priscilla Lee</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3><strong>Key Activities</strong>:</h3>
 <h4><strong>READ@CTSS</strong></h4>
 <p>To instill the love of reading and inculcate good reading habits in our
 Clementeens, we have a structured and supervised time slot for Clementeens
 to immerse themselves in a good book of their choice. In our English curriculum,
-we introduce popular teenage fiction to our Clementeens with Narratives
-Thursdays, and proceed to build general and current affairs knowledge in
-our upper secondary levels through the exposure to articles of non-fiction
-genres . CTSS R.E.A.D model is employed to encourage Clementeens to respond
-critically to their reading texts. This reading technique, that is developed
-in-house , hones students’ critical reading skills as they react, explore,
-analyse and discern the text. At the end of the 4 to 5 years of CTSS reading
-programme, our Clementeens will be familiar with a multitude of genres,
-and have a broadened mindset that will prepare them for their next phase
-of higher education.</p>
+we introduce popular teenage fiction to our Clementeens and proceed to
+build general and current affairs knowledge in our upper secondary levels
+through the exposure to articles of non-fiction genres. CTSS R.E.A.D model
+is employed to encourage Clementeens to respond critically to their reading
+texts. This reading technique, that is developed in-house, hones students’
+critical reading skills as they react, explore, analyse and discern the
+text. Our READ@CTSS microsite has a wide variety of reading articles that
+span over different genres to meet the reading proficiency and interests
+of our readers. In tandem with our whole school approach to READ@CTSS,
+we also have fun reading activities such as Escape Room, The Golden Ticket
+and Readvolution to engage our Clementeens in their reading. At the end
+of their 4 to 5 years of READ@CTSS, our Clementeens will be familiar with
+a multitude of genres, and have a broadened mindset that will prepare them
+for their future.</p>
+<p></p>
+<p></p>
 <h4><strong>PerspeCTives!</strong></h4>
 <p>To develop Clementeens with the 21st century competencies for a globalised
 world, the department has curated <a href="#_msocom_1" rel="noopener noreferrer nofollow" target="_blank">[NLKA1]</a>&nbsp;PerspeCTives to develop our Clementeens
