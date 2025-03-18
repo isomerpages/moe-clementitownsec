@@ -161,6 +161,9 @@ of their 4 to 5 years of READ@CTSS, our Clementeens will be familiar with
 a multitude of genres, and have a broadened mindset that will prepare them
 for their future.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/READ.gif">
+</div>
 <p></p>
 <h4><strong>PerspeCTives!</strong></h4>
 <p>To develop Clementeens with the 21st century competencies for a globalised
