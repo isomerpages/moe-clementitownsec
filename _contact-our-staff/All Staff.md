@@ -425,6 +425,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Pang Yuen Chin Christa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pang_yuen_chin_christa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_yuen_chin_christa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Peh-Yeo Hwee Ching Magdalene</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -470,10 +479,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sia Gee Han, Karen</p>
+<p>Mdm Shafiah D/O Syed Masood</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="karen_sia_gee_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karen_sia_gee_han@moe.edu.sg</a>
+<p><a href="mailto:shafiah_syed_masood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shafiah_syed_masood@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sharmeela Banu D/O Shah Jehan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sharmeela_banu_shah_jehan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmeela_banu_shah_jehan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -483,6 +501,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="sheetal_madhukar_sonawane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheetal_madhukar_sonawane@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sia Gee Han, Karen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="karen_sia_gee_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karen_sia_gee_han@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -506,7 +533,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sophia Ng</p>
+<p>Ms Sophia Ng Jia Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="sophia_ng_jia_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sophia_ng_jia_ming@moe.edu.sg</a>
