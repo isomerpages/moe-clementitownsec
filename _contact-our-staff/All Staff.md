@@ -713,14 +713,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Yuen Lay Eng</p>
+<p>Mrs Yuen - Ang Lay Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ang_lay_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lay_eng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br><a href="ang_lay_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lay_eng@moe.edu.sg</a>
-</p>
+<p></p>
