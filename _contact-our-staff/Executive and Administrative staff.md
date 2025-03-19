@@ -280,7 +280,8 @@ description: ""
 <p>Mr Iskandar Mirza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:iskandar_mirza_mohd_abidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iskandar_mirza_mohd_abidin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
