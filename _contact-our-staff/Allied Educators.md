@@ -61,6 +61,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Surinder Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:surinder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">surinder_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,14 +85,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ECG Counsellor</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Surinder Kaur</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:surinder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">surinder_kaur@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
