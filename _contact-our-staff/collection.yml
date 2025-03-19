@@ -2,11 +2,11 @@ collections:
   contact-our-staff:
     output: true
     order:
-      - Our Allied Educators.md
       - School Management Committee.md
       - School Contact Details.md
       - Lead and Senior Teachers.md
       - All Staff.md
+      - Our Allied Educators.md
       - Class Parents/.keep
       - Class Parents/Class Parents Secondary 1.md
       - Class Parents/Class Parents Secondary 2.md
