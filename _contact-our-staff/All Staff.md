@@ -299,19 +299,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Hwai Ee, Stella</p>
+<p>Mrs Lehming-Teo Shi Hui, Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="leong_hwai_ee_stella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_hwai_ee_stella@moe.edu.sg</a>
+<p><a href="teo_shi_hui_racheln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_shi_hui_rachel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lehming-Teo Shi Hui, Rachel</p>
+<p>Ms Leong Hwai Ee, Stella</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="teo_shi_hui_racheln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_shi_hui_rachel@moe.edu.sg</a>
+<p><a href="leong_hwai_ee_stella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_hwai_ee_stella@moe.edu.sg</a>
 </p>
 </td>
 </tr>
