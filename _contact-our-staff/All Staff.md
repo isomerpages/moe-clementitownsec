@@ -239,7 +239,7 @@ variant: tiptap
 <p>Ms Ho Xiu Hui Tessa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="[ho_xiu_hui_tess@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_xiu_hui_tess@moe.edu.sg</a>
+<p><a href="mailto:ho_xiu_hui_tessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_xiu_hui_tessa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -275,13 +275,13 @@ variant: tiptap
 <p>Ms Khong Kay Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khong_kay_lim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Khong_Kay_Lim_A@moe.edu.sg</a>
+<p><a href="mailto:khong_kay_lim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khong_kay_lim_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Khor Eng Hao, Danial</p>
+<p>Mr Khor Eng Hao, Daniel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khor_eng_hao_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khor_eng_hao_daniel@moe.edu.sg</a>
