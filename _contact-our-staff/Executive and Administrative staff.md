@@ -297,7 +297,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ECGC</p>
+<p>ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Surinder Kaur</p>
