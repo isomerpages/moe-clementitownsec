@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Aidil Bin Md Idris</p>
+<p>Mr Aidil MD Idris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="aidil_md_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aidil_md_idris@moe.edu.sg</a>
@@ -104,7 +104,7 @@ variant: tiptap
 <p>Mr Chidambaram Saravanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chidambaram_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chidambaram_saravanann@moe.edu.sg</a>
+<p><a href="mailto:chidambaram_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chidambaram_saravanan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
