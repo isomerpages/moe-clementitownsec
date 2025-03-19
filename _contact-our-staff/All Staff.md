@@ -272,15 +272,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Khong Kay Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:khong_kay_lim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khong_kay_lim_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Khor Eng Hao, Daniel</p>
 </td>
 <td rowspan="1" colspan="1">
