@@ -392,7 +392,7 @@ variant: tiptap
 <p>Mr Mohideen Nizar s/o Anwar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mohideen_nizar_anwarg@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohideen_nizar_anwarg@moe.edu.sg</a>
+<p><a href="mailto:mohideen_nizar_anwar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohideen_nizar_anwar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -407,19 +407,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Farhanah Ramlan</p>
+<p>Mr Ng Loong Kin, Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_farhanah_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_farhanah_ramlan@moe.edu.sg</a>
+<p><a href="ng_loong_kin_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_loong_kin_alvin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Loong Kin, Alvin</p>
+<p>Ms Nurul Farhanah Ramlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_loong_kin_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_loong_kin_alvin@moe.edu.sg</a>
+<p><a href="mailto:nurul_farhanah_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_farhanah_ramlan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
