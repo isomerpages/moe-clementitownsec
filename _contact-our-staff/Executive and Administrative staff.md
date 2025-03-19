@@ -4,7 +4,7 @@ permalink: /executive-and-administrative-staff/
 variant: tiptap
 description: ""
 ---
-<h3><strong>General Office</strong></h3>
+<h3></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -97,6 +97,132 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_bee_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_bee_lan@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor(Laboratory)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Helfizza Wirda Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_helfizza_wirda_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_helfizza_wirda_mohamed@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor(Laboratory)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Afiqah Binte Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_afiqah_azman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_afiqah_azman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor(Workshop)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ramlee Bin Mohamed Lani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ramlee_mohd_lani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramlee_mohd_lani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kaveri d/o Palanivelu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kaveri_palanivelu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kaveri_palanivelu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ruby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_ruby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ruby@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Attendant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gauri d/o Govindasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Attendant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Guan Renying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Attendant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Yen Hay Alice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Attendant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Pooi Siew Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Attendant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shanmuga Nathan s/o Govindasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
