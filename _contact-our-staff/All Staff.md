@@ -632,6 +632,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Tan Wei Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_wei_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Tan Wen Yi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -713,6 +722,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Vaishnashri Meynon S</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vaishnashri_meynon_s@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vaishnashri_meynon_s@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Wee Ni Swen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -761,7 +779,7 @@ variant: tiptap
 <p>Mr Yong Teck Sin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tyong_teck_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_teck_sinn@moe.edu.sg</a>
+<p><a href="mailto:yong_teck_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_teck_sin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
