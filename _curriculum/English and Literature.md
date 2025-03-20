@@ -185,9 +185,8 @@ the opportunity to serve as journalists, reporters, interviewers and podcasters,
 and have their works showcased.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Perspectives.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Perspectives02.gif">
 </div>
-<p></p>
 <p></p>
 <h4><strong>Talent Development</strong></h4>
 <p><strong>Public Speaking Competition</strong>
@@ -195,10 +194,10 @@ and have their works showcased.</p>
 <p>In CTSS, we believe in providing ample avenues and opportunities for our
 Clementeens to participate in public speaking. Clementeens with good oratorical
 skills are identified and trained to participate in competitions such as
-the YMCA Plain English Speaking Awards, ACJC Orator’s Trophy.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/public%20speaking01.jpg">
-</div>
+the YMCA Plain English Speaking Awards, National Public Speaking Competition,
+and ACJC Orator’s Trophy.&nbsp;</p>
+<p></p>
+<p></p>
 <p><strong>Writing Competitions</strong>
 </p>
 <div class="isomer-image-wrapper">
