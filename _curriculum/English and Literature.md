@@ -167,30 +167,28 @@ for their future.</p>
 <p></p>
 <h4><strong>PerspeCTives!</strong></h4>
 <p>To develop Clementeens with the 21st century competencies for a globalised
-world, the department has curated <a href="#_msocom_1" rel="noopener noreferrer nofollow" target="_blank">[NLKA1]</a>&nbsp;PerspeCTives to develop our Clementeens
+world, the department has curated PerspeCTives to develop our Clementeens
 with civic literacy, global awareness and cross-cultural skills, critical
 and inventive thinking, and communication, collaboration, and information
-skills. PerspeCTives extends training and learning for our Clementeens
-through the following 3 Cs:</p>
-<p><strong>Curate ­–</strong> Digital content curation on current affairs
+skills. PerspeCTives extends<strong> </strong>training and learning for
+our Clementeens through the following 3 Cs:</p>
+<p><strong>Curate ­– </strong>Digital content curation on current affairs
 and school events</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/perspectives01.jpg">
-</div>
-<p><strong>Connect –</strong> Article writing on student issues/perspectives</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/perspectives02.jpg">
-</div>
-<p><strong>Create ­–</strong> Recorded podcasts for publication and sharing
-(CT Spotify Account)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/perspectives03.jpg">
-</div>
+<p><strong>Connect – </strong>Article writing on student issues/perspectives</p>
+<p><strong>Create <sub>­</sub>– </strong>Recorded podcasts for publication
+and sharing (CT Spotify Account)</p>
+<p></p>
 <p>PerspeCTives aims to develop our Clementeens in creating content and imparting
 knowledge by increasing media literacy and sparking meaningful conversations
 about currents affairs amongst participants. Clementeens will also have
 the opportunity to serve as journalists, reporters, interviewers and podcasters,
 and have their works showcased.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Perspectives.gif">
+</div>
+<p></p>
+<p></p>
 <h4><strong>Talent Development</strong></h4>
 <p><strong>Public Speaking Competition</strong>
 </p>
