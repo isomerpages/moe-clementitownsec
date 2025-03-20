@@ -203,20 +203,21 @@ and ACJC Orator’s Trophy.&nbsp;</p>
 <p></p>
 <p><strong>Writing Competitions</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/writing01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/writing01.png">
 </div>
+<p></p>
 <p>Our department has been developing Clementeens for various writing competitions
 to nurture young writers and poets. Promising Clementeens with an interest
 in writing prose and poetry are encouraged and guided in building their
 portfolios for the Creative Arts Programme and Unity Writers Festival,
-to name a few. mme and Unity Writers Festival, to name a few.</p>
+to name a few.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/writing02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/writing02.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/writing03.jpg">
-</div>
+<p></p>
 <h4><strong>STUDENT ACHIEVEMENTS</strong></h4>
 <p>&nbsp;<strong>AY2024</strong>
 </p>
