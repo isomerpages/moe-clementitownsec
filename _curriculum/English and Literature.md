@@ -197,6 +197,9 @@ skills are identified and trained to participate in competitions such as
 the YMCA Plain English Speaking Awards, National Public Speaking Competition,
 and ACJC Orator’s Trophy.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public_Speaking.gif">
+</div>
 <p></p>
 <p><strong>Writing Competitions</strong>
 </p>
@@ -280,4 +283,5 @@ to name a few. mme and Unity Writers Festival, to name a few.</p>
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
+<p></p>
 <p></p>
