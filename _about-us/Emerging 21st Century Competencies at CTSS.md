@@ -28,6 +28,18 @@ them to tackle uncertainties and solve problems innovatively.</p>
 <p><em>CT Musicals are home-grown productions that instill empathy, respect, and love while showcasing the collaborative efforts of students, teachers, and alumni. Through scriptwriting, directing, choreography, and set design, students engage in critical thinking, problem-solving challenges in storytelling and stage execution.</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E21CC02.jpg">
+</div>
+<p><em>CTSS’ MARS Applied Learning Programme (ALP) nurtures critical, adaptive, and inventive thinking, preparing students to be future-ready with strong digital literacy. Through hands-on projects and research, students analyse problems and develop solutions. Their participation in events such as the Singapore Science and Engineering Fair 2025 encourages them to innovate and take ownership of their STEM learning.</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
