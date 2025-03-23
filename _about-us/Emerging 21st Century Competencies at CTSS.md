@@ -34,7 +34,17 @@ them to tackle uncertainties and solve problems innovatively.</p>
 <p><em>CTSS’ MARS Applied Learning Programme (ALP) nurtures critical, adaptive, and inventive thinking, preparing students to be future-ready with strong digital literacy. Through hands-on projects and research, students analyse problems and develop solutions. Their participation in events such as the Singapore Science and Engineering Fair 2025 encourages them to innovate and take ownership of their STEM learning.</em>
 </p>
 <p></p>
+<p>🔹 <strong>Communication, Collaboration, and Information Skills</strong> –
+Equipping students with the ability to express themselves effectively,
+work cohesively in teams, and manage information responsibly. In a digital
+age, they learn to engage meaningfully with others and contribute ethically
+in both online and offline spaces.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E21CC03.jpg">
+</div>
+<p><em>Programs like the Secondary 3 Outdoor Adventure Learning Camp and co-curricular activities such as the InfoComm Technology Club nurtures communication, collaboration, and information skills, enabling students to express themselves effectively, work in teams, and manage information responsibly. Through these opportunities, they learn to engage meaningfully and contribute ethically in both online and offline spaces with one another.</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
