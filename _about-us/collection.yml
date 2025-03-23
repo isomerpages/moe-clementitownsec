@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Emerging 21st Century Competencies at CTSS.md
       - Motto, Vision, Mission & Values.md
       - Principal's Message.md
       - School History.md
       - School Advisory Committee.md
       - School Song.md
+      - Emerging 21st Century Competencies at CTSS.md
       - Full Subject Based Banding (Full SBB).md
       - CTSS Calendar.md
       - School Brochure.md
