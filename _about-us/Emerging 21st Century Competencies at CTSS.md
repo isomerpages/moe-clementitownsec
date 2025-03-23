@@ -52,9 +52,24 @@ and beyond. Students develop respect, empathy, and integrity as they interact
 with diverse cultures and perspectives, shaping them into global citizens
 who uphold the values of service and excellence.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E21CC04.jpg">
+</div>
+<p><em>This year, Clementeens hosted elderly guests for a Chinese New Year event and welcomed Thai students to Singapore and to CTSS. Through meaningful interactions, Clementeens develop respect, empathy, and integrity, gaining a deeper appreciation of diverse cultures and perspectives. These experiences shape them into global citizens who uphold the values of service and excellence.</em>
+</p>
 <p></p>
-<p></p>
-<p></p>
+<p>The development of these competencies is anchored in our School Mission,
+to instill in every Clementeen the passion to learn, the confidence to
+lead, and the humility to serve. This is further strengthened by our core
+values:</p>
+<p>✅ <strong>A</strong>daptability – Embracing change with resilience and
+agility
+<br>✅ <strong>S</strong>elf-discipline – Taking ownership of learning and actions
+<br>✅ <strong>P</strong>erseverance – Overcoming challenges with determination
+<br>✅ <strong>I</strong>ntegrity – Upholding honesty and strong moral principles
+<br>✅ <strong>R</strong>espect – Valuing others’ perspectives and contributions
+<br>✅ <strong>E</strong>mpathy – Understanding and caring for others in a diverse
+society</p>
 <p></p>
 <p></p>
 <p></p>
