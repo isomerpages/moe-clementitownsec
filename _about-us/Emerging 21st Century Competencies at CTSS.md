@@ -71,12 +71,11 @@ agility
 <br>✅ <strong>E</strong>mpathy – Understanding and caring for others in a diverse
 society</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h4><strong>Shaping Future-Ready Leaders</strong></h4>
+<p>By integrating these competencies and values in our teaching and learning,
+Clementi Town Secondary School prepares students not only for academic
+success but also for a future where they can lead with confidence, serve
+with humility, and contribute meaningfully to society. Together, we Aspire
+&amp; Grow towards a brighter future.</p>
 <p></p>
 <p></p>
