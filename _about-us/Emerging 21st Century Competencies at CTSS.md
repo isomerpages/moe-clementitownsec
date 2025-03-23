@@ -46,6 +46,11 @@ in both online and offline spaces.</p>
 <p><em>Programs like the Secondary 3 Outdoor Adventure Learning Camp and co-curricular activities such as the InfoComm Technology Club nurtures communication, collaboration, and information skills, enabling students to express themselves effectively, work in teams, and manage information responsibly. Through these opportunities, they learn to engage meaningfully and contribute ethically in both online and offline spaces with one another.</em>
 </p>
 <p></p>
+<p>🔹 <strong>Civic, Global, and Cross-cultural Literacy</strong> – Cultivating
+socially responsible individuals who contribute positively to their community
+and beyond. Students develop respect, empathy, and integrity as they interact
+with diverse cultures and perspectives, shaping them into global citizens
+who uphold the values of service and excellence.</p>
 <p></p>
 <p></p>
 <p></p>
