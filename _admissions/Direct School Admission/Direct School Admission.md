@@ -9,14 +9,10 @@ variant: tiptap
 students with the opportunity to seek admission to a secondary school,
 based on a diverse range of specific academic and non-academic achievements
 and talents that they can demonstrate beyond the PSLE.</p>
-<p>&nbsp;</p>
 <p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 – 4.</strong>
 </p>
-<p></p>
 <p>For Direct School Admission, Clementi Town Secondary School is pleased
 to offer the following areas:</p>
 <ol data-tight="true" class="tight">
