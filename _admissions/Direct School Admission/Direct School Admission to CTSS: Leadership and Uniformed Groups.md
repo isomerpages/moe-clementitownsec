@@ -181,6 +181,7 @@ to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
 <p>&nbsp;</p>
 <p>Successful applicants will join CTSS in January the following.</p>
+<p></p>
 <p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
 </p>
 <p><em>*meeting all the criteria does not guarantee the student</em>
