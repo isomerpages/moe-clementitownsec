@@ -263,6 +263,7 @@ sporting talent and passion for the sport through rigorous training sessions,
 friendly matches and various inter-school competitions. In addition, we
 also want to instill in them the values of discipline, hard work and teamwork
 that are crucial in the area of character building.</p>
+<p>&nbsp;</p>
 <p>Students can expect to participate in the following activities:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -278,6 +279,7 @@ that are crucial in the area of character building.</p>
 <p>Umpiring course for selected students</p>
 </li>
 </ol>
+<p></p>
 <p>In this Direct School Admission Exercise, we are looking for promising
 Primary 6 students who exhibit the following*:</p>
 <ul data-tight="true" class="tight">
@@ -288,7 +290,8 @@ Primary 6 students who exhibit the following*:</p>
 <p>Possess interest and passion for Netball</p>
 </li>
 <li>
-<p>Have represented school in National School Games (NSG) for Netball.</p>
+<p>Represented school in National School Games (NSG) for Netball or similar
+ball games.</p>
 </li>
 </ul>
 <p>We also welcome applicants who possess good psychomotor skills in other
