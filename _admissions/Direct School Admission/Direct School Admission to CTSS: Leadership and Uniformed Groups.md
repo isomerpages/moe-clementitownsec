@@ -9,6 +9,7 @@ variant: tiptap
 Uniformed Groups strand and is focused on <strong><em>Student Leadership Development through the Uniformed Groups (UG)</em></strong>.
 All successful applicants under this DSA Talent Area will be allocated
 a UG as their core CCA.</p>
+<p>&nbsp;</p>
 <p>Clementi Town Secondary School (CTSS) envisions a vibrant community of
 students who have the passion to learn, confidence to lead and humility
 to serve. To achieve this, we believe in providing a holistic education
@@ -19,15 +20,19 @@ so by providing an excellent infrastructure for students to achieve our
 school goals, vision and mission. In addition, the variety of activities
 within UGs further lends itself to the development and growth of its members.
 Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements.</p>
-<table>
+<p></p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>UG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2020</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,13 +47,17 @@ Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements
 <p><strong>2023</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National Cadet Corps</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>Non-assessed year due to Covid-19</p>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -73,10 +82,16 @@ Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
@@ -93,10 +108,10 @@ Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements
 <p>National Civil Defence Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N.A.</p>
+<p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
