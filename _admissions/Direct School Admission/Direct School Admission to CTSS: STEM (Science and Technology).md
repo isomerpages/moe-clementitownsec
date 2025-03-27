@@ -68,7 +68,7 @@ or computing programmes which they have created)</p>
 </ul>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for a selection exercise consisting of performance tasks and interview
-in July 2024.</p>
+in July.</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
@@ -76,7 +76,7 @@ offered at CTSS.</p>
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4. Students will
 also be assigned to a related CCA based on their DSA application.</p>
-<p>Successful applicants will join CTSS in January 2025.</p>
+<p>Successful applicants will join CTSS in January the following year.</p>
 <p>
 <br><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
