@@ -127,10 +127,12 @@ Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements
 to learn and demonstrate the School Values of Adaptability, Self-discipline,
 Perseverance, Integrity and Respect, as well as to be developed as student
 leaders through the UGs.</p>
+<p>&nbsp;</p>
 <p>In addition, as the school attracts and develops niche-related talents,
 these talents will inspire the other students to reach an even higher standard
 in both academic and co-curricular areas in line with our belief and commitment
 for all Clementeens to ‘Aspire and Grow’ - our school motto.</p>
+<p>&nbsp;</p>
 <p>In this Direct School Admission Exercise, we are looking for promising
 Primary 6 students who exhibit the following*:</p>
 <ul data-tight="true" class="tight">
