@@ -11,7 +11,11 @@ to apply through the DSA exercise.&nbsp; Since its inception, the Clementi
 Town Secondary School Wushu team has been trailblazing its approach to
 developing Wushu athletes and have achieved the following results in 2024’s
 National School Games.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -126,7 +130,14 @@ School.</p>
 well as the commitment displayed by our players, we are proud to share
 the following achievements attained by the team in the National School
 Games.</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
