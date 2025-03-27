@@ -151,28 +151,36 @@ role(s) <u>at cohort or school level</u>)</p>
 Uniformed Groups may select the following Talent Areas:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Girl Guides</p>
+<p><strong>Girl Guides</strong>
+</p>
 </li>
 <li>
-<p>National Cadet Corps (NCC) Land (Boys)</p>
+<p><strong>National Cadet Corps (NCC) Land (Boys)</strong>
+</p>
 </li>
 <li>
-<p>National Civil Defence Cadet Corps (NCDCC)</p>
+<p><strong>National Civil Defence Cadet Corps (NCDCC)</strong>
+</p>
 </li>
 <li>
-<p>National Police Cadet Corps (NPCC)</p>
+<p><strong>National Police Cadet Corps (NPCC)</strong>
+</p>
 </li>
 </ul>
+<p></p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for a selection exercise consisting of performance tasks and interview
-between July to August 2024.</p>
+between July to August.</p>
+<p>&nbsp;</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
+<p>&nbsp;</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>Successful applicants will join CTSS in January 2025.</p>
+<p>&nbsp;</p>
+<p>Successful applicants will join CTSS in January the following.</p>
 <p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
 </p>
 <p><em>*meeting all the criteria does not guarantee the student</em>
