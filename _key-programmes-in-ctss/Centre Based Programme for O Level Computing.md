@@ -71,9 +71,3 @@ the subject Computing (7155).</p>
 O-Level Computing at Clementi Town Secondary School Computing Centre.</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
