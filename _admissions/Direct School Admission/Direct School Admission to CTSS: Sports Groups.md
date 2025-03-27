@@ -68,8 +68,9 @@ both at the inter-school and national levels and will ensure that students
 develop their skills, as well as, knowledge of the sport. CTSS also hopes
 to instill and develop the values of discipline, perseverance and respect
 in the students during their time at Clementi Town Secondary School.</p>
-<p>&nbsp;Students can expect to be involved in the following programmes and
-activities during their time in CTSS Wushu Team:</p>
+<p>&nbsp;</p>
+<p>Students can expect to be involved in the following programmes and activities
+during their time in CTSS Wushu Team:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Chinese New Year Concert Performance</p>
@@ -100,20 +101,25 @@ Primary 6 students who should preferably exhibit the following:</p>
 <p>Represented school in National School Games (NSG) for Wushu</p>
 </li>
 </ul>
+<p></p>
 <p>We also welcome applicants who possess good psychomotor skills in other
 sports to apply.</p>
+<p>&nbsp;</p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for a selection exercise consisting of performance tasks and interview
-in July 2024.</p>
-<p>&nbsp;Selected applicants may be invited for a 2<sup>nd</sup> round interview
-with the School Leaders and/or CCA Key Personnel in August 2024.</p>
-<p>&nbsp;Students will be assessed on both their demonstrated and potential
-ability and qualities, so as to ensure that they benefit from the rigorous
-curriculum offered at CTSS.</p>
-<p>&nbsp;Students who are successfully admitted to the school via DSA are
-expected to honour their commitment to the school, and participate in the
-activities related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>&nbsp;Successful applicants will join CTSS in January 2025.</p>
+in July.</p>
+<p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
+with the School Leaders and/or CCA Key Personnel in August.</p>
+<p>&nbsp;</p>
+<p>Students will be assessed on both their demonstrated and potential ability
+and qualities, so as to ensure that they benefit from the rigorous curriculum
+offered at CTSS.</p>
+<p>&nbsp;</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the activities
+related to the talent they are selected for from year 1–4.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Successful applicants will join CTSS in January the following year.</p>
 <p>&nbsp;<em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
