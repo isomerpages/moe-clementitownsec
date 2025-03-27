@@ -4,7 +4,7 @@ permalink: /centre-based-programme-for-o-level-computing/
 variant: tiptap
 description: ""
 ---
-<h3><strong>West Zone Centre for Computing</strong></h3>
+<h4><strong>West Zone Centre for Computing</strong></h4>
 <p></p>
 <p>Clementi Town Secondary School serves as the West Zone Centre for Computing.
 Students from the following schools in the West Zone who are interested
@@ -46,7 +46,7 @@ may apply to take the subject at Clementi Town Secondary School.</p>
 </li>
 </ol>
 <p></p>
-<h3><strong>What Students Will Learn</strong></h3>
+<h4><strong>What Students Will Learn</strong></h4>
 <p>Students will learn about Computing Fundamentals, Algorithms and Programming,
 Spreadsheets, Networking and the Impact of Computing.</p>
 <p>Lessons are conducted every Thursday afternoon from 3:15 pm to 5:45 pm
@@ -66,9 +66,9 @@ will which consist of 2 papers:</p>
 visit SEAB’s website at <a href="https://www.seab.gov.sg/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2026/" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2026/</a> under
 the subject Computing (7155).</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<h4><strong>2025 Cohort</strong></h4>
+<p>In 2025, a total of 24 students in the West Zone are currently studying
+O-Level Computing at Clementi Town Secondary School Computing Centre.</p>
 <p></p>
 <p></p>
 <p></p>
