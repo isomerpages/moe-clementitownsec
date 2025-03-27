@@ -115,7 +115,6 @@ related to the talent they are selected for from year 1–4.&nbsp;</p>
 <p>Clementi Town Drama Club (CT Drama) was first started in Clementi Town
 Secondary School with the vision to achieve the ‘5Es’ of Arts Education
 – Exposure, Experience, Experiment, Evaluate, and Educate.</p>
-<p>&nbsp;</p>
 <p>In Clementi Town, Drama Club focuses on educating our students about the
 human condition and teaching values through theatre - empathy, respect,
 love - and reinforcing the school values of adaptability and self-discipline.
@@ -179,7 +178,6 @@ multiple aspects.</p>
 <p></p>
 <p>For the students who choose Drama as their CCA, they are put through training
 in three areas – Cast, Crew and Creatives.</p>
-<p>&nbsp;</p>
 <p>For Cast work, students undergo rigorous training in acting to hone their
 skills of voice projection, stage presence and characterization. Crew work
 focuses on training students to run events, and in the stage-management
@@ -187,7 +185,6 @@ of a big production. They are also trained in stage make-up, and the managing
 of sounds and lighting of a show. For Creative work, students are encouraged
 to write scripts, choreograph dances, design publicity materials and design
 experiential elements for the shows that we put up.</p>
-<p>&nbsp;</p>
 <p>CT Drama also helms the production of the biennial school musical since
 it began in 2009. To date, we have progressed from staging it in the school
 hall to performing in:</p>
@@ -212,7 +209,6 @@ providing our students with quality and authentic performing experience.
 With a 25-person teacher team behind each production and a six-month long
 preparation for the eventual show in June, CT Musicals aim to always teach
 students strong lessons of life and values.</p>
-<p>&nbsp;</p>
 <p>Other than our school musical, students will also get opportunities to
 put up performances to hone their craft. Some examples of our performances
 include:</p>
@@ -249,7 +245,6 @@ drama/acting skills</p>
 <li>
 <p>Students who are from Drama Club in Primary School and have represented
 the school for SYF are preferred</p>
-<p></p>
 </li>
 </ul>
 <p>Shortlisted applicants are required to undergo an audition and an interview
@@ -271,19 +266,16 @@ stage presence and characterization skills.</p>
 <p>Students will have an interview with the teachers</p>
 </li>
 </ul>
-<p></p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
 with the School Leaders and/or CCA Key Personnel in August.</p>
-<p>&nbsp;</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
-<p>&nbsp;</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Successful applicants will join CTSS in January the following year.</p>
+<p></p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
@@ -295,7 +287,6 @@ related to the talent they are selected for from year 1–4.&nbsp;</p>
 <h4><strong>MODERN DANCE (BOYS &amp; GIRLS)</strong></h4>
 <p>Clementi Town Secondary School welcomes students with outstanding talent
 in dance to apply through the DSA programme.</p>
-<p>&nbsp;</p>
 <p>Students selected via DSA can expect to take part in various national
 level competitions (eg. Singapore Youth Festival) as well as external performances
 organised by various organizations or initiated by our dancers. There are
@@ -327,7 +318,6 @@ school events.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>In this Direct School Admission Exercise, we are looking for promising
 Primary 6 pupils who exhibit the following:&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -352,19 +342,16 @@ for an audition and interview in July 2024.</p>
 with the School Leaders and/or CCA Key Personnel in August 2024.</p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for an audition and interview in July.</p>
-<p>&nbsp;</p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
 with the School Leaders and/or CCA Key Personnel in August.</p>
-<p>&nbsp;</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
-<p>&nbsp;</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from Year 1–4.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Successful applicants will join CTSS in January the following year.</p>
+<p></p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em> 
