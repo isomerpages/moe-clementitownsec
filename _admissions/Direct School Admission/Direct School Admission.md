@@ -5,19 +5,20 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<p>In the recent press release, the Ministry of Education (MOE) announced
-that selected secondary schools can invite students to participate in the
-2024 DSA-Sec Exercise for Admission to Secondary One in 2025.&nbsp;</p>
 <p>Introduced in 2004, the Direct School Admission (DSA) scheme provides
 students with the opportunity to seek admission to a secondary school,
 based on a diverse range of specific academic and non-academic achievements
 and talents that they can demonstrate beyond the PSLE.</p>
+<p>&nbsp;</p>
 <p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 <p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 – 4.</strong>
 </p>
-<p>For Admission to Secondary One in 2025, Clementi Town Secondary School
-is pleased to offer DSA in the following areas:</p>
+<p></p>
+<p>For Direct School Admission, Clementi Town Secondary School is pleased
+to offer the following areas:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/admissions/direct-school-admission/direct-school-admission-to-ctss-stem-science-and-technology/" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission to CTSS: STEM (Science and Technology)</a>
@@ -36,7 +37,11 @@ is pleased to offer DSA in the following areas:</p>
 </p>
 </li>
 </ol>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -83,11 +88,12 @@ or computing programmes which they have created)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leadership and Uniformed Groups
-<br>Girl Guides
-<br>National Cadet Corps (NCC) Land
-<br>National Civil Defence Cadet Corps (NCDCC)
-<br>National Police Cadet Corps (NPCC)</p>
+<p><u>Leadership and Uniformed Groups</u>
+</p>
+<p>Girl Guides</p>
+<p>National Cadet Corps (NCC) Land</p>
+<p>National Civil Defence Cadet Corps (NCDCC)</p>
+<p>National Police Cadet Corps (NPCC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Very Good conduct
@@ -101,10 +107,7 @@ or computing programmes which they have created)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts – Symphonic Band (Mixed)
-<br>
-<br>
-</p>
+<p>Performing Arts – Symphonic Band</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Very Good Conduct
@@ -118,7 +121,7 @@ or Percussion)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts– Drama Club (Mixed)
+<p>Performing Arts – Drama Club
 <br>
 <br>
 </p>
@@ -206,7 +209,7 @@ ball games</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports – Badminton (Boys)
+<p>Sports – Badminton (Mixed)
 <br>
 <br>
 </p>
