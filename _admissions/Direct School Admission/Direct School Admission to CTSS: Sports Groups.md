@@ -132,10 +132,10 @@ so as to enhance their skills, as well as knowledge of the sport. The programme
 also hopes to instill and develop the values of discipline, perseverance
 and teamwork in the players during their time at Clementi Town Secondary
 School.</p>
-<p>&nbsp;Through the strong support of the teachers, coaches, alumni, as
-well as the commitment displayed by our players, we are proud to share
-the following achievements attained by the team in the National School
-Games.</p>
+<p>&nbsp;</p>
+<p>Through the strong support of the teachers, coaches, alumni, as well as
+the commitment displayed by our players, we are proud to share the following
+achievements attained by the team in the National School Games.</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -224,7 +224,8 @@ Primary 6 students (boys) who should preferably exhibit the following:</p>
 <p>Possess interest and passion for Volleyball</p>
 </li>
 <li>
-<p>Have represented school in National School Games (NSG) for Volleyball</p>
+<p>Represented school in National School Games (NSG) for Volleyball or similar
+ball games</p>
 </li>
 </ul>
 <p>We also welcome applicants who possess good psychomotor skills in other
