@@ -322,12 +322,13 @@ related to the talent they are selected for from year 1–4.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/NETBALL.jpeg">
 </div>
-<h4><strong>BADMINTON (BOYS)</strong></h4>
+<h4><strong>BADMINTON (MIXED)</strong></h4>
 <p>The Clementi Town Secondary School Badminton Team aims to develop our
 students’ sporting talent and passion for the sport through rigorous training
 sessions, friendly matches and various inter-school competitions. In addition,
 we also want to instill in them the values of discipline, hard work and
 teamwork that are crucial in the area of character building.</p>
+<p>&nbsp;</p>
 <p>Students can expect to participate in the following activities:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -340,6 +341,7 @@ teamwork that are crucial in the area of character building.</p>
 <p>Annual camp and/or enrichment programme&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ol>
+<p></p>
 <p>In this Direct School Admission Exercise, we are looking for promising
 Primary 6 students who exhibit the following*:</p>
 <ul data-tight="true" class="tight">
@@ -350,23 +352,29 @@ Primary 6 students who exhibit the following*:</p>
 <p>Possess interest and passion for Badminton</p>
 </li>
 <li>
-<p>Have represented school in National School Games (NSG) for Badminton.</p>
+<p>Represented school in National School Games (NSG) for Badminton or similar
+racquet sports.</p>
 </li>
 </ul>
+<p></p>
 <p>We also welcome applicants who possess good psychomotor skills in other
 sports to apply.</p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for a selection exercise consisting of performance tasks and interview
-in July 2024.</p>
+in July.</p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
-with the School Leaders and/or CCA Key Personnel in August 2024.</p>
+with the School Leaders and/or CCA Key Personnel in August.</p>
+<p>&nbsp;</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
+<p>&nbsp;</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>Successful applicants will join CTSS in January 2025.</p>
+<p>&nbsp;</p>
+<p>Successful applicants will join CTSS in January the following year.</p>
+<p>&nbsp;</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em> 
