@@ -13,7 +13,13 @@ Mr Kartik Alan Jairamin, CTWinds has continuously done well in local and
 international competitions and festivals. They have attained the Certificate
 of Distinction at the biennial Singapore Youth Festival (SYF) Arts Presentation
 since 2013.</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -86,24 +92,25 @@ Bass or Percussion).</p>
 </li>
 </ul>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
-for an audition and interview in July 2024.</p>
+for an audition and interview in July.</p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
-with the School Leaders and/or CCA Key Personnel in August 2024.</p>
+with the School Leaders and/or CCA Key Personnel in August.</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>Successful applicants will join CTSS in January 2025.</p>
+<p>Successful applicants will join CTSS in January the following year.</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
-<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year</em>
+<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year. </em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/BAND.jpeg">
 </div>
+<p></p>
 <h4><strong>DRAMA CLUB (MIXED)</strong></h4>
 <p>Clementi Town Drama Club (CT Drama) was first started in Clementi Town
 Secondary School with the vision to achieve the ‘5Es’ of Arts Education
@@ -116,7 +123,14 @@ In CT Drama, students are strongly encouraged to develop their strengths
 and interests with discipline and zeal. Alongside passionate teachers,
 our CT Drama students have managed to receive tremendous recognition in
 multiple aspects.</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -271,7 +285,11 @@ level competitions (eg. Singapore Youth Festival) as well as external performanc
 organised by various organizations or initiated by our dancers. There are
 also opportunities to showcase their dance and talent in school during
 school events.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
