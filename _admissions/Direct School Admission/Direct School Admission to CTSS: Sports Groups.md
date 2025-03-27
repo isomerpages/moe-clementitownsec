@@ -62,13 +62,11 @@ National School Games.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Through the programme, students will be exposed to various competitions
 both at the inter-school and national levels and will ensure that students
 develop their skills, as well as, knowledge of the sport. CTSS also hopes
 to instill and develop the values of discipline, perseverance and respect
 in the students during their time at Clementi Town Secondary School.</p>
-<p>&nbsp;</p>
 <p>Students can expect to be involved in the following programmes and activities
 during their time in CTSS Wushu Team:</p>
 <ol data-tight="true" class="tight">
@@ -101,26 +99,21 @@ Primary 6 students who should preferably exhibit the following:</p>
 <p>Represented school in National School Games (NSG) for Wushu</p>
 </li>
 </ul>
-<p></p>
 <p>We also welcome applicants who possess good psychomotor skills in other
 sports to apply.</p>
-<p>&nbsp;</p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for a selection exercise consisting of performance tasks and interview
 in July.</p>
-<p></p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
 with the School Leaders and/or CCA Key Personnel in August.</p>
-<p>&nbsp;</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
-<p>&nbsp;</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Successful applicants will join CTSS in January the following year.</p>
+<p></p>
 <p>&nbsp;<em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
@@ -133,7 +126,6 @@ so as to enhance their skills, as well as knowledge of the sport. The programme
 also hopes to instill and develop the values of discipline, perseverance
 and teamwork in the players during their time at Clementi Town Secondary
 School.</p>
-<p>&nbsp;</p>
 <p>Through the strong support of the teachers, coaches, alumni, as well as
 the commitment displayed by our players, we are proud to share the following
 achievements attained by the team in the National School Games.</p>
@@ -204,7 +196,6 @@ achievements attained by the team in the National School Games.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Students can expect to participate in the activities listed below when
 they join CTSS via Volleyball DSA:</p>
 <ol data-tight="true" class="tight">
@@ -229,26 +220,21 @@ Primary 6 students (boys) who should preferably exhibit the following:</p>
 ball games</p>
 </li>
 </ul>
-<p></p>
 <p>We also welcome applicants who possess good psychomotor skills in other
 sports to apply.</p>
-<p>&nbsp;</p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for a selection exercise consisting of performance tasks and interview
 in July.</p>
-<p></p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
 with the School Leaders and/or CCA Key Personnel in August.</p>
-<p>&nbsp;</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
-<p>&nbsp;</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Successful applicants will join CTSS in January the following year.</p>
+<p></p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
@@ -263,7 +249,6 @@ sporting talent and passion for the sport through rigorous training sessions,
 friendly matches and various inter-school competitions. In addition, we
 also want to instill in them the values of discipline, hard work and teamwork
 that are crucial in the area of character building.</p>
-<p>&nbsp;</p>
 <p>Students can expect to participate in the following activities:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -279,7 +264,6 @@ that are crucial in the area of character building.</p>
 <p>Umpiring course for selected students</p>
 </li>
 </ol>
-<p></p>
 <p>In this Direct School Admission Exercise, we are looking for promising
 Primary 6 students who exhibit the following*:</p>
 <ul data-tight="true" class="tight">
@@ -294,24 +278,19 @@ Primary 6 students who exhibit the following*:</p>
 ball games.</p>
 </li>
 </ul>
-<p></p>
 <p>We also welcome applicants who possess good psychomotor skills in other
 sports to apply.</p>
-<p>&nbsp;</p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for a selection exercise consisting of performance tasks and interview
 in July.</p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
 with the School Leaders and/or CCA Key Personnel in August.</p>
-<p>&nbsp;</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
-<p>&nbsp;</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Successful applicants will join CTSS in January the following year.</p>
 <p>&nbsp;</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
@@ -328,7 +307,6 @@ students’ sporting talent and passion for the sport through rigorous training
 sessions, friendly matches and various inter-school competitions. In addition,
 we also want to instill in them the values of discipline, hard work and
 teamwork that are crucial in the area of character building.</p>
-<p>&nbsp;</p>
 <p>Students can expect to participate in the following activities:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -341,7 +319,6 @@ teamwork that are crucial in the area of character building.</p>
 <p>Annual camp and/or enrichment programme&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ol>
-<p></p>
 <p>In this Direct School Admission Exercise, we are looking for promising
 Primary 6 students who exhibit the following*:</p>
 <ul data-tight="true" class="tight">
@@ -356,7 +333,6 @@ Primary 6 students who exhibit the following*:</p>
 racquet sports.</p>
 </li>
 </ul>
-<p></p>
 <p>We also welcome applicants who possess good psychomotor skills in other
 sports to apply.</p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
@@ -364,15 +340,12 @@ for a selection exercise consisting of performance tasks and interview
 in July.</p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
 with the School Leaders and/or CCA Key Personnel in August.</p>
-<p>&nbsp;</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
-<p>&nbsp;</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Successful applicants will join CTSS in January the following year.</p>
 <p>&nbsp;</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
