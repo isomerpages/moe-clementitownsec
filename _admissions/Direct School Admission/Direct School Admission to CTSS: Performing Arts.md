@@ -104,7 +104,7 @@ related to the talent they are selected for from year 1–4.&nbsp;</p>
 <p>Successful applicants will join CTSS in January the following year.</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
-<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year. </em>
+<p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -123,6 +123,7 @@ In CT Drama, students are strongly encouraged to develop their strengths
 and interests with discipline and zeal. Alongside passionate teachers,
 our CT Drama students have managed to receive tremendous recognition in
 multiple aspects.</p>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -178,6 +179,7 @@ multiple aspects.</p>
 <p></p>
 <p>For the students who choose Drama as their CCA, they are put through training
 in three areas – Cast, Crew and Creatives.</p>
+<p>&nbsp;</p>
 <p>For Cast work, students undergo rigorous training in acting to hone their
 skills of voice projection, stage presence and characterization. Crew work
 focuses on training students to run events, and in the stage-management
@@ -185,10 +187,14 @@ of a big production. They are also trained in stage make-up, and the managing
 of sounds and lighting of a show. For Creative work, students are encouraged
 to write scripts, choreograph dances, design publicity materials and design
 experiential elements for the shows that we put up.</p>
+<p>&nbsp;</p>
 <p>CT Drama also helms the production of the biennial school musical since
 it began in 2009. To date, we have progressed from staging it in the school
 hall to performing in:</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>SIM Theatre of Performing Arts (2024)</p>
+</li>
 <li>
 <p>NAFA Lee Foundation Theatre (2022)</p>
 </li>
