@@ -212,6 +212,7 @@ providing our students with quality and authentic performing experience.
 With a 25-person teacher team behind each production and a six-month long
 preparation for the eventual show in June, CT Musicals aim to always teach
 students strong lessons of life and values.</p>
+<p>&nbsp;</p>
 <p>Other than our school musical, students will also get opportunities to
 put up performances to hone their craft. Some examples of our performances
 include:</p>
@@ -244,11 +245,15 @@ Primary 6 pupils who exhibit the following:</p>
 <li>
 <p>Have positive attitude, commitment and determination to develop their
 drama/acting skills</p>
+</li>
+<li>
+<p>Students who are from Drama Club in Primary School and have represented
+the school for SYF are preferred</p>
 <p></p>
 </li>
 </ul>
 <p>Shortlisted applicants are required to undergo an audition and an interview
-in July 2024.</p>
+in July.</p>
 <p>&nbsp;<strong>I.</strong>&nbsp;&nbsp; <strong>Audition</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -266,15 +271,19 @@ stage presence and characterization skills.</p>
 <p>Students will have an interview with the teachers</p>
 </li>
 </ul>
+<p></p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
-with the School Leaders and/or CCA Key Personnel in August 2024.</p>
+with the School Leaders and/or CCA Key Personnel in August.</p>
+<p>&nbsp;</p>
 <p>Students will be assessed on both their demonstrated and potential ability
 and qualities, so as to ensure that they benefit from the rigorous curriculum
 offered at CTSS.</p>
+<p>&nbsp;</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>Successful applicants will join CTSS in January 2025.</p>
+<p>&nbsp;</p>
+<p>Successful applicants will join CTSS in January the following year.</p>
 <p><em>*meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
