@@ -28,7 +28,5 @@ to take the next step toward his dream of becoming an engineer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nithish04.jpg">
 </div>
-<p>Wishing him continued success!</p>
 <p></p>
 <p></p>
-<p>ahead!</p>
