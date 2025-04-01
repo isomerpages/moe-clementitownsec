@@ -41,11 +41,7 @@ what is expected of them in the future.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Teo Li Yin (OIC)</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Fu Rong (AIC)</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chan Siew Kwai</p>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>Mr Lee Chi Hang Noah</p>
-</li>
-</ol>
+<p></p>
 <p></p>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE 2024</strong></h4>
 <table style="minWidth: 75px">
@@ -146,8 +142,9 @@ what is expected of them in the future.</p>
 </tbody>
 </table>
 <h4><strong>ACHIEVEMENTS</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -170,6 +167,10 @@ what is expected of them in the future.</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -186,6 +187,9 @@ what is expected of them in the future.</p>
 <p>Zone – 4<sup>th</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Zone-2nd</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -199,6 +203,9 @@ what is expected of them in the future.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Champions (League 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
