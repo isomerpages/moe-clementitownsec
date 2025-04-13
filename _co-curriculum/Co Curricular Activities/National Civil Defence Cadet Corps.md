@@ -6,44 +6,38 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <h4><strong>ABOUT THE CCA</strong></h4>
-<p>In 2021, we marked the start of a new chapter as the school witness the
-formation of a new uniform group known as National Civil Defence Cadet
-Corps (NCDCC). Building upon our past experiences with St. John Brigade,
-we aim to value add our students’ CCA journey by providing opportunities
-for students to learn life-saving skills beyond first aid.</p>
-<p>NCDCC believes in developing and empowering our youths to be active &amp;
-concerned citizens with life-saving skills. Our curriculum focuses in developing
-greater awareness of civil defence in our cadets and prepare them with
-the skills to respond effectively to emergencies at home and abroad.</p>
-<p>NCDCC’s motto of “We Learn, We Lead, We Serve”, in alignment to the 3
-big ideas in Character and Citizenship Education: “Identity, Relationships
-and Choices”, well encapsulates the journey of NCDCC cadets into three
-phases:</p>
-<ol data-tight="true" class="tight">
+<p>In 2021, our school embarked on a new chapter with the formation of the
+National Civil Defence Cadet Corps (NCDCC), building on our experiences
+with St. John Brigade. NCDCC aims to enrich our students’ CCA journey by
+equipping them with life-saving skills beyond first aid.</p>
+<p>At NCDCC, we strive to develop and empower youths to be active, concerned
+citizens with the skills to respond effectively in emergencies, both locally
+and globally. Our curriculum fosters civil defence awareness and practical
+competencies, preparing cadets to be resilient community responders.</p>
+<p>Guided by our motto, <strong>“We Learn, We Lead, We Serve,”</strong> and
+aligned with Character and Citizenship Education’s core themes—<strong>Identity, Relationships, and Choices</strong>—the
+NCDCC journey unfolds in three phases:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>We Learn:</strong>&nbsp;Cadets learn Triangle of Life skills,
-which include basic firefighting, first aid and CPR+AED. These are core
-skills in NCDCC, which enable cadets to help themselves and others in times
-of need. Equipping cadets with these skills will help to form their identity
-as NCDCC cadets, a community responder at heart.</p>
+<p><strong>We Learn:</strong> Cadets acquire essential “Triangle of Life”
+skills, including basic firefighting, first aid, and CPR+AED. These core
+competencies shape their identity as NCDCC cadets and prepare them to assist
+themselves and others in times of need.</p>
 </li>
 <li>
-<p><strong>We Lead:</strong>&nbsp;Cadets will be trained in soft skills such
-as leadership, communication (including methods of instruction), relationship
-management and social awareness to get them ready for their leadership
-phase. They will also further hone their civil defence skills by going
-through one of the three cadet specialist tracks and be given leadership
-opportunities to lead their peers.</p>
+<p><strong>We Lead:</strong> Cadets develop leadership, communication, relationship
+management, and social awareness skills. Through specialized cadet tracks
+and leadership opportunities, they strengthen both their civil defence
+capabilities and personal growth.</p>
 </li>
 <li>
-<p><strong>We Serve:</strong>&nbsp;Cadets will make choices to serve their
-school and the wider community through public education platforms such
-as the NCDCC Service Month and Emergency Preparedness Day as advocates
-of Emergency Preparedness. With the civil defence knowledge and skills
-imparted to them, they will also be able to lend a helping hand as Community
-First Responders with a compassionate heart.</p>
+<p><strong>We Serve:</strong> Cadets actively contribute to their school and
+community through initiatives like NCDCC Service Month and Emergency Preparedness
+Day. With their knowledge and skills, they serve as compassionate Community
+First Responders, advocating for emergency preparedness and readiness.</p>
 </li>
-</ol>
+</ul>
+<p>&nbsp;</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -77,10 +71,10 @@ First Responders with a compassionate heart.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chng Cho Eng Bjorn</p>
+<p>TAN WEE KIAT, KEANNE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C1</p>
+<p>4W</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unit Sergeant Major</p>
@@ -88,10 +82,10 @@ First Responders with a compassionate heart.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Yin Yan</p>
+<p>QUAH YU ROU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B2</p>
+<p>4R</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Sergeant Major</p>
@@ -99,10 +93,10 @@ First Responders with a compassionate heart.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Yu Suen</p>
+<p>MUHAMAD DANIQ AQIF BIN MAZRI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D1</p>
+<p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Regimental Sergeant Major</p>
@@ -119,92 +113,162 @@ First Responders with a compassionate heart.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p>Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name of Event</strong>
-</p>
+<p>Event</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Impartation of Emergency Preparedness (EP) Skills in schools&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Impartation of Emergency Preparedness (EP) Skills in schools&nbsp;</p>
+<p>Foot Drill Gold Assessment</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Service Month Project 2021: Imparting Emergency Preparedness Skills</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Observance Ceremony&nbsp;</p>
+<p>Fire Safety Specialisation Course</p>
+<p>Medical Response Specialisation Course</p>
+<p>Urban Search &amp; Rescue Specialisation Course</p>
+<p>Marine Fire and Rescue (MFR) Specialisation Course</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16th Affirmation Day&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Online Fire Safety Specialisation Course</p>
+<p>Precision Drill 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Values in Action – Outreach for COVID-19 vaccination</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>St John’s Day Celebration in Schools</p>
+<p>Responders Plus Programme (SCDF)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2020</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCOC Bridging Course</p>
+<p>Forest Adventure – Outdoor Learning Programme</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2020</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCDCC Conversion Course</p>
+<p>1 Star Kayaking Course</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF Parade (NCDCC Marching Contingent)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Urban Adventure Civil Defence Skills Challenge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home Team Gallery Visit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Parade 2024 (NCDCC Marching Contingent)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Bonding Activity: Archery Tag, Bowling, Spikeball</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Drill Instructor Course</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foot Drill Gold Assessment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fire Safety Specialisation Course</p>
+<p>Medical Response Specialisation Course</p>
+<p>Urban Search &amp; Rescue Specialisation Course</p>
+<p>Marine Fire and Rescue (MFR) Specialisation Course</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Service Month Project:</p>
+<p>Total Defence Day Emergency Preparedness Training (Henry Park Primary
+School)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Day and Sec 1 Affirmation Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Day Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Precision Drill Competition 2024</p>
 </td>
 </tr>
 </tbody>
@@ -218,72 +282,75 @@ First Responders with a compassionate heart.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p>Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Position, Name of Competition</strong>
-</p>
+<p>Achievement</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;SCDF-NCDCC Pinnacle Badge awardee – Mya Phone Myinnt Moh (4B1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Photo Project and Infographic Design Competition (Participation)</p>
+<p>Unit Overall Proficiency Award 2024 – Distinction</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2021</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;11th Precision Drill Challenge (In progress)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corps Achievement Award, Gold&nbsp;</p>
+<p>SCDF-NCDCC Pinnacle Badge awardee – Ng Jia Xuan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;2019
-<br>
-</p>
+<p>&nbsp;2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corps Achievement Award, Silver</p>
+<p>Unit Overall Proficiency Award 2023 - Distinction</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;2018</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corps Achievement Award, Gold</p>
+<p>SCDF-NCDCC Pinnacle Badge awardee – Teng Jia Yu</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;2018</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zone First Aid Competition (Ambulance), 2nd
-<br>
-</p>
+<p>SCDF-NCDCC Pinnacle Badge awardee – Syanelle Nur Heriani Binte Mohammad
+Bairulzam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Best Cadet - Muhamad Daniq Aqif Bin Mazri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Precision Drill Competition (Participation)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award 2023 – Distinction</p>
 </td>
 </tr>
 </tbody>
