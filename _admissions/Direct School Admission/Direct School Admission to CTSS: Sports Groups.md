@@ -129,9 +129,8 @@ School.</p>
 <p>Through the strong support of the teachers, coaches, alumni, as well as
 the commitment displayed by our players, we are proud to share the following
 achievements attained by the team in the National School Games.</p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -144,19 +143,15 @@ achievements attained by the team in the National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
 </p>
 </td>
 </tr>
@@ -165,16 +160,13 @@ achievements attained by the team in the National School Games.</p>
 <p>B Division Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zone- 3rd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zone – 2nd</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Zone - 4th</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zone - 4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone-2nd</p>
 </td>
 </tr>
 <tr>
@@ -182,16 +174,13 @@ achievements attained by the team in the National School Games.</p>
 <p>C Division Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;No NSG due to Covid</p>
+<p>Zone Champions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>League 2 Champions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zone - 1st</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG to be held in July</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -239,9 +228,8 @@ related to the talent they are selected for from year 1–4.&nbsp;</p>
 </p>
 <p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/VB%20DSA.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball_DSA_pic.jpg">
 </div>
 <h4><strong>NETBALL (GIRLS)</strong></h4>
 <p>The Clementi Town Secondary School Netball Team aims to develop our students’
