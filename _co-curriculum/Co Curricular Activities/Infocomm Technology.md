@@ -6,10 +6,10 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/InfoComm/InfoComm.gif">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/InfoComm/WhatsApp_Image_2025_05_08_at_8_20_00_AM.jpg">
+</div>
 <p>InfoComm Technology Club (IT) is a service-oriented club, where we aim
 to develop technical skills among students in the areas of Artificial Intelligence,
 App Development, Public Announcement (PA), Photography and Robotics so
@@ -26,6 +26,11 @@ Artificial Intelligence are actively involved in applying the skills acquired
 to take on the roles of training their juniors and taking charge of rendering
 PA and photography support for school events, as well as in setting up
 App Development and Artificial Intelligence Interest Groups.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/InfoComm/InfoComm.gif">
+</div>
+<p></p>
 <p>In the course of the CCA, students are also encouraged to participate
 in select photography and robotics competitions to hone their skills and
 work collaboratively with one another.</p>
