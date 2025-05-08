@@ -287,7 +287,7 @@ related to the talent they are selected for from year 1–4.&nbsp;</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/NETBALL.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/netball03.png">
 </div>
 <h4><strong>BADMINTON (MIXED)</strong></h4>
 <p>The Clementi Town Secondary School Badminton Team aims to develop our
