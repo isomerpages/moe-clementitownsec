@@ -178,13 +178,19 @@ multiple aspects.</p>
 <p></p>
 <p>For the students who choose Drama as their CCA, they are put through training
 in three areas – Cast, Crew and Creatives.</p>
-<p>For Cast work, students undergo rigorous training in acting to hone their
-skills of voice projection, stage presence and characterization. Crew work
-focuses on training students to run events, and in the stage-management
-of a big production. They are also trained in stage make-up, and the managing
-of sounds and lighting of a show. For Creative work, students are encouraged
-to write scripts, choreograph dances, design publicity materials and design
-experiential elements for the shows that we put up.</p>
+<p>For Cast work, students receive rigorous training in acting, with a strong
+focus on developing voice projection, stage presence, and characterisation.
+They are taught to deliver compelling performances with confidence and
+authenticity.</p>
+<p>Crew training equips students with the skills needed to manage stage productions
+and live events. Students learn about stage management, stage make-up,
+and the technical aspects of running a show, including sound and lighting
+operations.&nbsp;</p>
+<p>For Creative work, students are encouraged to explore and contribute to
+the conceptual aspects of production. They are given opportunities to write
+scripts, choreograph movement sequences, design publicity materials, and
+create experiential elements that enhance the audience's engagement with
+the shows.</p>
 <p>CT Drama also helms the production of the biennial school musical since
 it began in 2009. To date, we have progressed from staging it in the school
 hall to performing in:</p>
@@ -239,8 +245,9 @@ Primary 6 pupils who exhibit the following:</p>
 <p>Possess interest and passion for Theatre and the Arts</p>
 </li>
 <li>
-<p>Have positive attitude, commitment and determination to develop their
-drama/acting skills</p>
+<p>Demonstrate a positive attitude, strong commitment, and determination
+to develop their skills in performance, production management, and creative
+contribution to theatre.</p>
 </li>
 <li>
 <p>Students who are from Drama Club in Primary School and have represented
