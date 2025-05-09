@@ -314,7 +314,8 @@ that the student will be shortlisted or given an offer. Thank you.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>*<em>You will receive notification from the school no later than 1 Aug 2025, if your child has been shortlisted to undergo Direct School Admission (DSA) selection.</em>
+</p>
 <p>
 <br>
 </p>
