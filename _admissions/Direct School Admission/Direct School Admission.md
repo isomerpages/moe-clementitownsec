@@ -266,7 +266,53 @@ that the student will be shortlisted or given an offer. Thank you.</p>
 <br><strong><u>Key DSA Schedule</u></strong>
 <br>
 </p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Application Period</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Interview / Trials</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Outcome Release Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Preference Submission Period</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<p>7 May – 3 Jun 2025</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>8 July – 29 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>1 Sep – 4 Sep 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>27 Oct – 31 Oct 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p>
 <br>
