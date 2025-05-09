@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
+<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> </strong>&nbsp;</p>
 <p>Introduced in 2004, the Direct School Admission (DSA) scheme provides
 students with the opportunity to seek admission to a secondary school,
 based on a diverse range of specific academic and non-academic achievements
