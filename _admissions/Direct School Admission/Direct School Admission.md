@@ -8,8 +8,8 @@ variant: tiptap
 <p>Introduced in 2004, the Direct School Admission (DSA) scheme provides
 students with the opportunity to seek admission to a secondary school,
 based on a diverse range of specific academic and non-academic achievements
-and talents that they can demonstrate beyond the PSLE.</p>
-<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
+and talents that they can demonstrate beyond the PSLE.&nbsp;</p>
+<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.&nbsp;</strong>
 </p>
 <p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 – 4.</strong>
 </p>
@@ -63,23 +63,28 @@ to offer the following areas:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Very Good Conduct
-<br>
-<br>- Demonstrate special talents in Science, Robotics or Computing (e.g.
-Scientific Investigation, robot design and programming, app&nbsp;coding,
-micro-controller programming)&nbsp;&nbsp;
-<br>
-<br>- Represented school and achieved accolades in Science and / or Robotics/Computing-related
-competitions (e.g. Singapore Primary Science Olympiad (SPSO), National
-Junior Robotics Competition)
-<br>
-<br>- Preferred to have held leadership position(s) in Science / Robotics
-/ Computing-related clubs or societies (e.g. Science Club, Robotics Club,
-Infocomm Club)
-<br>
-<br>- Have some background in Scientific Investigations or coding (applicants
+<ul data-tight="true" class="tight">
+<li>
+<p>Very Good conduct&nbsp;</p>
+</li>
+<li>
+<p>Demonstrate special talents in Robotics or Computing (e.g. robot design
+and programming, app coding, micro-controller programming)&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Represented school and achieved accolades in Robotics/Computing-related
+competitions (e.g. National Junior Robotics Competition)</p>
+</li>
+<li>
+<p>Preferred to have held leadership position(s) in Robotics/Computing-related
+clubs or societies (e.g. Robotics Club, Infocomm Club)</p>
+</li>
+<li>
+<p>Have some background in Scientific Investigations or coding (applicants
 may wish to submit and showcase a portfolio of the Science experiments
 or computing programmes which they have created)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -92,13 +97,19 @@ or computing programmes which they have created)</p>
 <p>National Police Cadet Corps (NPCC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Very Good conduct
-<br>
-<br>- Strong leadership qualities (track records such as leadership role(s) <u>at cohort or school level</u>)
-<br>
-<br>- Leads in VIA projects in school and community
+<ul data-tight="true" class="tight">
+<li>
+<p>Very Good conduct&nbsp;</p>
+</li>
+<li>
+<p>Strong leadership qualities (tracks records such as leadership role(s) <u>at cohort or school level</u>)&nbsp;</p>
+</li>
+<li>
+<p>Led in VIA projects in school and community
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -106,13 +117,19 @@ or computing programmes which they have created)</p>
 <p>Performing Arts – Symphonic Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Very Good Conduct
-<br>
-<br>- Positive attitude, commitment and determination to develop their leadership
-and instrumental skills
-<br>
-<br>- Experience in playing a Wind Band instrument (Winds, Brass, Double Bass
+<ul data-tight="true" class="tight">
+<li>
+<p>Very Good Conduct</p>
+</li>
+<li>
+<p>Positive attitude, commitment and determination to develop their leadership
+and instrumental skills</p>
+</li>
+<li>
+<p>Experience in playing a Wind Band instrument (Winds, Brass, Double Bass
 or Percussion)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -123,14 +140,20 @@ or Percussion)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Very Good conduct
-<br>
-<br>- Possess interest and passion for Theatre and the Arts
-<br>
-<br>- Positive attitude, commitment and determination to develop their drama/acting
+<ul data-tight="true" class="tight">
+<li>
+<p>Very Good conduct&nbsp;</p>
+</li>
+<li>
+<p>Possesses interest and passion for Theatre and the Arts</p>
+</li>
+<li>
+<p>Positive attitude, commitment and determination to develop their drama/acting
 skills
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -145,15 +168,7 @@ skills
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Very Good Conduct
-<br>
-<br>- Possess interest and passion for Dance
-<br>
-<br>- Positive attitude, commitment and determination to develop their dance
-and leadership skills
-<br>
-<br>- Represented school in Singapore Youth Festival (SYF) and/or external
-performances or competitions</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -163,11 +178,17 @@ performances or competitions</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Very Good Conduct
-<br>
-<br>- Possess interest and passion for Wushu
-<br>
-<br>- Represented school in National School Games (NSG) for Wushu</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Very Good Conduct</p>
+</li>
+<li>
+<p>Possess interest and passion for Wushu</p>
+</li>
+<li>
+<p>Represented school in National School Games (NSG) for Wushu</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -179,12 +200,18 @@ performances or competitions</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Very Good Conduct
-<br>
-<br>- Possess interest and passion for Volleyball
-<br>
-<br>- Represented school in National School Games (NSG) for Volleyball or
-similar ball games</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Very Good Conduct</p>
+</li>
+<li>
+<p>Possess interest and passion for Volleyball</p>
+</li>
+<li>
+<p>Represented school in National School Games (NSG for Volleyball or similar
+ball games</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -195,12 +222,18 @@ similar ball games</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Very Good Conduct
-<br>
-<br>- Possess interest and passion for Netball
-<br>
-<br>- Represented school in National School Games (NSG) for Netball or similar
+<ul data-tight="true" class="tight">
+<li>
+<p>Very Good Conduct</p>
+</li>
+<li>
+<p>Possess interest and passion for Netball</p>
+</li>
+<li>
+<p>Represented school in National School Games (NSG for Netball or similar
 ball games</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -211,12 +244,18 @@ ball games</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Very Good Conduct
-<br>
-<br>- Possess interest and passion for Badminton
-<br>
-<br>- Represented school in National School Games (NSG) for Badminton or similar
+<ul data-tight="true" class="tight">
+<li>
+<p>Very Good Conduct</p>
+</li>
+<li>
+<p>Possess interest and passion for Badminton</p>
+</li>
+<li>
+<p>Represented school in National School Games (NSG for Badminton or similar
 racquet sports</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -224,8 +263,12 @@ racquet sports</p>
 <p>*Applicants are advised that&nbsp;meeting all the criteria does not guarantee
 that the student will be shortlisted or given an offer. Thank you.</p>
 <p>
+<br><strong><u>Key DSA Schedule</u></strong>
 <br>
-<br>
+</p>
+<p></p>
+<p></p>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
