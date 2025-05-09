@@ -169,7 +169,22 @@ skills
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Very Good Conduct</p>
+</li>
+<li>
+<p>Possess interest and passion for Dance</p>
+</li>
+<li>
+<p>Positive attitude, commitment and determination to develop their dance
+and leadership skills</p>
+</li>
+<li>
+<p>Represented school in Singapore Youth Festival (SYF) and/or external performances
+or competitions</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
