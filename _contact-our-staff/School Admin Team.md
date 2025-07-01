@@ -137,6 +137,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>STEM Instructor(Workshop)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kamisoh Bin Sooip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kamisoh_sooip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamisoh_sooip@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,17 +169,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_ruby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ruby@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Attendant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Gauri d/o Govindasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 </tr>
 <tr>
@@ -198,17 +199,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Pooi Siew Wah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Attendant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Shanmuga Nathan s/o Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
