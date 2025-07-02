@@ -1,5 +1,5 @@
 ---
-title: Allied Educators
+title: Allied Educators and School Counsellors
 permalink: /allied-educators/
 variant: tiptap
 description: ""
@@ -37,13 +37,25 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Wan Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_wan_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wan_xuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Karen Wong wai Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Karen_Wong_Wai_Leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Karen_Wong_Wai_Leng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
