@@ -14,6 +14,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/clementeens/examination-time-table/" rel="noopener nofollow" target="_blank">Examination Time Table</a>
+</p>
+</li>
+<li>
 <p><a href="/textbook-list-for-2025/" rel="noopener nofollow" target="_blank">Textbook List for 2025</a>
 </p>
 </li>
