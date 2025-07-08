@@ -6,6 +6,8 @@ variant: markdown
 ---
 [1. N-Level Preliminary Examination Time-Table 2025 for Secondary 4 Normal (Academic)](/files/Exam%20Time%20Table/2025_4NA_N_Level_Preliminary_Examination_Timetable.pdf)
 
+[2. N-Level Preliminary Examination Time-Table 2025 for Secondary 4 Normal (Technical)](/files/Exam%20Time%20Table/2025_4NT_N_Level_Preliminary_Examination_Timetable.pdf)
+
 <br>
 <br>
 <br>
