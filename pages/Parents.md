@@ -2,10 +2,9 @@
 title: Parents
 permalink: /parents/
 description: ""
+variant: markdown
 ---
 *   [Calendar](https://calendar.google.com/calendar/embed?src=moe.edu.sg_07rtue1mp6980u56a7tt9ui2qo%40group.calendar.google.com&amp;ctz=Asia%2FSingapore)  
-    
-*   [Timetable](/clementeens/timetable)  
     
 *   [Principals’ Letter to Parents](/letters-to-parents)  
     
