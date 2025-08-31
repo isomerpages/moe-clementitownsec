@@ -10,7 +10,15 @@ variant: tiptap
 </p>
 <p><a href="/files/2025_O_level_Preliminary_Examination_Timetable_4E5N4N_OOS_.pdf" rel="noopener noreferrer nofollow" target="_blank">3. O-Level Preliminary Examination Time-Table 2025 for Secondary 4E, 5NA and 4NA(OOS)</a>
 </p>
-<p>
+<p><a href="/files/Exam Time Table/2025_Sec_1_End_of_Year_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">4. 2025 End-of-Year Examination Timetable for Secondary 1</a>
+</p>
+<p><a href="/files/Exam Time Table/2025_Sec_2_End_of_Year_Examination_Timetable__Updated_on_29_August_10_am_.pdf" rel="noopener nofollow" target="_blank">5. 2025 End-of-Year Examination Timetable for Secondary 2</a>
+</p>
+<p><a href="/files/Exam Time Table/2025_Sec_3E_End_of_Year_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">6. 2025 End-of-Year Examination Timetable for Secondary 3 Express</a>
+</p>
+<p><a href="/files/Exam Time Table/2025_Sec_3NA_End_of_Year_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">7. 2025 End-of-Year Examination Timetable for Secondary 3 Normal Academic</a>
+</p>
+<p><a href="/files/Exam Time Table/2025_Sec_3NT__End_of_Year_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">8. 2025 End-of-Year Examination Timetable for Secondary 3 Normal Technical</a>
 <br>
 <br>
 <br>
