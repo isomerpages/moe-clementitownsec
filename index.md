@@ -19,6 +19,12 @@ sections:
           description: ""
           url: /students
   - infopic:
+      title: Clementi Town Secondary School Open House 2025
+      id: infopic
+      description: 15 November 2025
+      image: /images/Open_House_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Secondary 1 Registration
       id: infopic
       description: Welcome to Clementi Town Secondary School!  Please click on the
