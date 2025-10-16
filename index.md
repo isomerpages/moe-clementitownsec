@@ -19,14 +19,10 @@ sections:
           description: ""
           url: /students
   - infopic:
-      title: 2025 Secondary 1 Registration
+      title: Clementi Town Secondary School Open House 2025
       id: infopic
-      description: Welcome to Clementi Town Secondary School!  Please click on the
-        link to visit our microsite for more information to help prepare for the
-        new school year.
-      button: Sec 1 Registration Microsite
-      url: https://sites.google.com/moe.edu.sg/ctsssec1reg2025?usp=sharing
-      image: /images/Sec_1_Registration_2025.jpg
+      description: 15 November 2025
+      image: /images/Open_House_2025.jpg
       alt: Image alt text
   - infopic:
       title: Announcements
