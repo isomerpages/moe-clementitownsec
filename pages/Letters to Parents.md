@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Secondary 1</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Ps_Letter__Term_4__2025_Sec_1___3.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 1 to 3</a>
+<p><a href="/files/Ps_Letter__Term_4__2025_Sec_1___3.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 4) for Secondary 1 to 3</a>
 </p>
 </li>
 <li>
@@ -27,7 +27,7 @@ variant: tiptap
 <h3>Secondary 2</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Ps_Letter__Term_4__2025_Sec_1___3.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 1 to 3</a>
+<p><a href="/files/Ps_Letter__Term_4__2025_Sec_1___3.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 4) for Secondary 1 to 3</a>
 </p>
 </li>
 <li>
@@ -47,7 +47,7 @@ variant: tiptap
 <h3>Secondary 3</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Ps_Letter__Term_4__2025_Sec_1___3.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 1 to 3</a>
+<p><a href="/files/Ps_Letter__Term_4__2025_Sec_1___3.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 4) for Secondary 1 to 3</a>
 </p>
 </li>
 <li>
