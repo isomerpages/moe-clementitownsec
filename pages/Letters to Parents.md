@@ -35,6 +35,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/files/Ps_letter__Term_2__2025_Sec_2_Final.pdf" rel="noopener nofollow" target="_blank">21 March 2025 - Principal's Termly Letter to Parents (Term 2) for Secondary 2</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/Secondary 2/Ps_letter_for_Sec_2__Term_1__2025_.pdf" rel="noopener nofollow" target="_blank">3 January 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 2</a>
 </p>
 </li>
