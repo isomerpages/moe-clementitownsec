@@ -67,6 +67,10 @@ variant: tiptap
 <h3>Secondary 4</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Ps_letter__Term_4__2025_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 4) for Secondary 4 and 5</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Ps_letter__Term_3__2025_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">27 June 2025 - Principal's Termly Letter to Parents (Term 3) for Secondary 4 and 5</a>
 </p>
 </li>
@@ -82,6 +86,10 @@ variant: tiptap
 </ul>
 <h3>Secondary 5</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Ps_letter__Term_4__2025_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 4) for Secondary 4 and 5</a>
+</p>
+</li>
 <li>
 <p><a href="/files/Ps_letter__Term_3__2025_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">27 June 2025 - Principal's Termly Letter to Parents (Term 3) for Secondary 4 and 5</a>
 </p>
