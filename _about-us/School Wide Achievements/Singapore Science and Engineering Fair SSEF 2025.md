@@ -21,6 +21,9 @@ and Economical Tactile Sensor for Parkinson's Disease Diagnosis". Congratulation
 to Chia Xuan Ye (3-14)!</p>
 <p>We are very thankful and grateful for the community who supported Xuan
 Ye in his research journey and we appreciate that they took the time and
-effort so that Xuan Ye could have the opportunity to learn.</p>
+effort so that Xuan Ye could have the opportunity to learn and love Science
+and his work.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSEF_2025.gif">
+</div>
 <p></p>
-<p>and love Science and his work.</p>
