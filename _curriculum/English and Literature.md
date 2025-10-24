@@ -4,9 +4,12 @@ permalink: /curriculum/english-and-literature/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/english_language_and_literature_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Language_And_Literature_Department_FORMAL.jpg">
 </div>
+<p></p>
 <h4><strong>Department Vision</strong>:</h4>
 <p>To develop Clementeens to be proficient in the language, confident of
 using it and be appreciative of the language arts.</p>
