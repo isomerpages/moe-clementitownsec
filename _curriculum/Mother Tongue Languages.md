@@ -47,14 +47,6 @@ variant: tiptap
 <p>Teacher / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bek Su Ling (Mdm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Chen Liping (Ms)</p>
 </td>
 </tr>
@@ -80,6 +72,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>He Meiyu (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heng Yuan Hao (Mr)</p>
 </td>
 </tr>
 <tr>
