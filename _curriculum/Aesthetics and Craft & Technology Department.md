@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aesthetics_and_craft_and_technology_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics_and_Craft_and_Technology_Dept_FORMAL.jpg">
 </div>
 <p></p>
 <p>Our Teachers:</p>
