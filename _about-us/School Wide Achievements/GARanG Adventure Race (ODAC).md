@@ -23,3 +23,9 @@ they gave their best despite the rain and stiff competition.</p>
 </ul>
 <p>This is the first time in CT ODAC history that we clinched placements
 in all categories!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC_2025.gif">
+</div>
+<p></p>
