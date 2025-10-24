@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/humanities_department_2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities_Department_FORMAL_1.jpg">
+</div>
 <h4><strong>MISSION</strong></h4>
 <p>To nurture Clementeens into passionate learners who can manage complexity
 and diverse perspectives in an increasingly globalized world through being

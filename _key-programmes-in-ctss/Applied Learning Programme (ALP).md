@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/applied_learning_programme_committee_2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied_Learning_Programme_Committee_FORMAL_1.jpg">
+</div>
 <p></p>
 <h4><strong>MASTERY THROUGH APPLICATION AND RESEARCH IN STEM (MARS)</strong></h4>
 <p>Clementi Town Secondary School offers its ALP programme abbreviated MARS

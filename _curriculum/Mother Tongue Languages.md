@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mother_tongue_language_department_2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_Language_Department_FORMAL.jpg">
+</div>
 <p>Our teachers:</p>
 <p></p>
 <table style="minWidth: 50px">
@@ -47,14 +47,6 @@ variant: tiptap
 <p>Teacher / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bek Su Ling (Mdm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher / Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Chen Liping (Ms)</p>
 </td>
 </tr>
@@ -80,6 +72,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>He Meiyu (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heng Yuan Hao (Mr)</p>
 </td>
 </tr>
 <tr>

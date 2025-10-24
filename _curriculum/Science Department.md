@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/science_department_2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Department_FORMAL_1.jpg">
+</div>
 <h4><strong>SCIENCE DEPARTMENT</strong></h4>
 <p>The Science Department offers a myriad of science subjects to meet the
 needs and interests of our students.&nbsp;</p>
