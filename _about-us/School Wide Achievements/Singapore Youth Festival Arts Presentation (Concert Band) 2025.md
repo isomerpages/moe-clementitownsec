@@ -16,3 +16,7 @@ Your commitment and spirit truly made the music come alive.</p>
 ahead!</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_Band_2025.gif">
+</div>
+<p></p>
