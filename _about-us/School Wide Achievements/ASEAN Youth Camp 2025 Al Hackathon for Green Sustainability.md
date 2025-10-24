@@ -40,6 +40,9 @@ future.</p>
 of Thailand's official newsletter, a meaningful recognition of their creativity,
 collaboration, and impact on the international stage!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AYC_2025.gif">
+</div>
 <p></p>
 <p></p>
 <p></p>
