@@ -12,4 +12,7 @@ than ever as we commemorate the 20th NCDCC Day.</p>
 leader earning the SCDF-NCDCC Badge (Pinnacle Award), and our unit standing
 proud together — we honour two decades of service, excellence, and unity.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_2025.gif">
+</div>
 <p></p>
