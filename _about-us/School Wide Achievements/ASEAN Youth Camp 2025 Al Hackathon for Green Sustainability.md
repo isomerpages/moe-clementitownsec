@@ -45,10 +45,3 @@ collaboration, and impact on the international stage!</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
