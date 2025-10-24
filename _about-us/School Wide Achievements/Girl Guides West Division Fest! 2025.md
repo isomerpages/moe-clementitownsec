@@ -45,6 +45,9 @@ us at West Division Fest! 2025 at Nanyang Girls' High on 20 May 2025 (Fri)!</p>
 </ul>
 <p>Great job, girls! You've made us proud!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girl_Guides_2025.gif">
+</div>
 <p></p>
 <p></p>
 <p></p>
