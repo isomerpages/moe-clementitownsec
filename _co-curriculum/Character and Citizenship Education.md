@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>CCE@CTSS</strong></h1>
+<h1></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20__2023_Comm_Photo.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="CCE_department" src="/images/Character_And_Citizenship_Education_Department_FORMAL.jpg">
 </div>
 <h1><strong>MISSION</strong></h1>
 <p>Every Clementeen, An Active Citizen of Character</p>
