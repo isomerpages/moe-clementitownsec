@@ -104,78 +104,6 @@ routine of their choice in each category.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, National Wushu Championships 2022, C Division Girls Formulated
-32-Style Taiji Sword (Tay Sze En Ashley, 1S5)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, National Wushu Championships 2022, C Division Boys 1st International
-Sword (Pang Jia Xi, Kavan, 2S5)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, National Wushu Championships 2022, C Division Boys 5-duan
-Nanquan (Rayner Wat Mun Jit, 1S6)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, National Wushu Championships 2022, B Division Girls 42-Style
-Taiji Sword (Clarice Low Le Xuan, 4A1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Medal, National Wushu Championships 2022, C Division Girls Formulated
-24-Style Taijiquan (Tay Sze En Ashley, 1S5)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Medal, National Wushu Championships 2022, C Division Boys Formulated
-24-Style Taijiquan (Tan Bao Xin, 2S6)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Medal, National Wushu Championships 2022, B Division Boys 1<sup>st</sup> International
-Nanquan (Pang Jun Xi, Ethan, 3S6)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Medal, National Wushu Championships 2022, B Division Girls 2<sup>nd</sup> International
-Spear (Clarice Low Le Xuan, 4A1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -321,6 +249,69 @@ Sword (Eyan Seow Jin Yi, 1S6)</p>
 <p>Pang Jia Xi Kavan, 4S5</p>
 <p>Ramesh Varish, 4S6</p>
 <p>Wong Bao Xian, 4S5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Medal, National Wushu Championships 2025, C Div Boys Formulated 5-Duan
+Changquan (Eyan Seow Jin Yi, 2R6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Medal, National Wushu Championships 2025, C Div Boys Formulated 5-Duan
+Sword (Eyan Seow Jin Yi, 2R6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Medal, National Wushu Championships 2025, C Div Boys Formulated 5-Duan
+Spear (Eyan Seow Jin Yi, 2R6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Medal, National Wushu Championships 2025, B Div Boys 1<sup>st&nbsp; </sup>International
+Sword (Wee Jing Zhe, 4P5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2025, B Div Girls 2<sup>nd</sup> International
+Spear(Tay Sze En Ashley, 4P5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2025, B Div Girls 2<sup>nd</sup> International
+Changquan (Valerie Kwan Zi Xin, 3I4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2025, B Div Girls 2<sup>nd</sup> International
+Cudgel (Valerie Kwan Zi Xin, 3I4)</p>
 </td>
 </tr>
 </tbody>
