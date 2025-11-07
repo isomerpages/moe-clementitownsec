@@ -40,13 +40,17 @@ variant: tiptap
 <br>
 </p>
 <h3><strong>HOD/ Citizenship and Character Education</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Mdm Toh Siew Fang Jane" src="/images/Toh_Siew_Fang_Jane.jpg">
+</div>
 <p>Mdm Toh Siew Fang Jane</p>
 <p><a href="mailto:toh_siew_fang_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_siew_fang_jane@moe.edu.sg</a>
 <br>
 </p>
 <h3><strong>HOD / English Language and Literature</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mrs Chua" src="/images/Mrs%20Chua%20Teng%20May%20Hwee%20Teresa.jpeg">
+<img style="width: 35%;" height="auto" width="100%" alt="SMC 2024: Mrs Chua" src="/images/Mrs%20Chua%20Teng%20May%20Hwee%20Teresa.jpeg">
 </div>
 <p>Mrs Chua-Teng May Hwee Teresa
 <br><a href="teng_may_hwee_teresa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_may_hwee_teresa@moe.edu.sg</a>
@@ -133,8 +137,9 @@ variant: tiptap
 <br>
 </p>
 <h3><strong>Year Head (Upper Sec)</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" alt="SMC 2024: Mr Teo" src="/images/teochaiyeow.jpeg">
+<img style="width: 35%;" height="auto" width="100%" alt="Mr Teo Chai Yeow" src="/images/Teo_Chai_Yaw.jpg">
 </div>
 <p>Mr Teo Chai Yaw
 <br><a href="teo_chai_yaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chai_yaw@moe.edu.sg</a> 
@@ -144,7 +149,13 @@ variant: tiptap
 <hr>
 <h3></h3>
 <h3><strong>AYH / Sec 1</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Mr Clement Xiao" src="/images/Xiao_Yongda_Clement.jpg">
+</div>
 <p>Mr Xiao Yongda Clement</p>
+<p><a href="mailto:xiao_yongda_clement@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiao_yongda_clement@moe.edu.sg</a>
+</p>
 <h3><strong>AYH / Sec 3</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mdm Roseza" src="/images/Mdm%20Rosezalina.jpeg">
@@ -164,6 +175,10 @@ variant: tiptap
 <br>
 </p>
 <h3><strong>SH / 21CC</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Ms Farah Rosalan" src="/images/Farah_Rosalan.jpg">
+</div>
 <p>Mdm Farah Binte Rosalan</p>
 <p><a href="mailto:farah_rosalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_rosalan@moe.edu.sg</a>
 </p>
@@ -224,13 +239,17 @@ variant: tiptap
 </p>
 <h3><strong>SH / English Language</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Tan Alvin" src="/images/Mr%20Ng%20Loong%20Kin,%20Alvin.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="SMC 2024: Mr Tan Alvin" src="/images/Mr%20Ng%20Loong%20Kin,%20Alvin.jpg">
 </div>
 <p>Mr Ng Loong Kin, Alvin
 <br><a href="ng_loong_kin_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_loong_kin_alvin@moe.edu.sg</a> 
 <br>
 </p>
 <h3><strong>SH / Student Management</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Ms Ang Hui Xia" src="/images/Ang_Hui_Xia.jpg">
+</div>
 <p>Mdm Ang Hui Xia</p>
 <p><a href="mailto:ang_hui_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_xia@moe.edu.sg</a>
 </p>
