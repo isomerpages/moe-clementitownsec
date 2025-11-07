@@ -55,10 +55,10 @@ learn and bond through teamwork and participating in performances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Moorthy Shivaany</p>
+<p>AALIYAH BINTE MOHAMED ZAINI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4MD</p>
+<p>3I7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -66,10 +66,10 @@ learn and bond through teamwork and participating in performances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quiambao Natania Tan</p>
+<p>YAP ZI YU (YE ZIYU) ASHLEY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4MD</p>
+<p>3I6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-President</p>
@@ -77,21 +77,10 @@ learn and bond through teamwork and participating in performances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yap Sin Yu Paige</p>
+<p>PHOEBE TAN YAN YU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4MD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Discipline Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Erh Shi Ying Reiko</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4MD</p>
+<p>3I6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discipline Head</p>
@@ -99,10 +88,21 @@ learn and bond through teamwork and participating in performances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Genevieve Lim Ci Hiu</p>
+<p>AYANA SIBU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4MD</p>
+<p>3I7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discipline Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HO QIN XU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3I7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Logistics Head</p>
@@ -110,10 +110,10 @@ learn and bond through teamwork and participating in performances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sathiarathy d/o Gurushankar</p>
+<p>AVA HO SING LER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4MD</p>
+<p>3I5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Logistics Head</p>
@@ -121,8 +121,7 @@ learn and bond through teamwork and participating in performances.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>KEY EVENTS (2022 - 2024)</strong></h4>
+<h4><strong>KEY EVENTS </strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -135,6 +134,38 @@ learn and bond through teamwork and participating in performances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clementi SG60 Family Carnival Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super 24 Dance Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation (International Dance)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speech Day Welcome Fanfare Performance</p>
 </td>
 </tr>
 <tr>
@@ -179,8 +210,7 @@ learn and bond through teamwork and participating in performances.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>KEY ACHIEVEMENTS (2022 - 2024)</strong></h4>
+<h4><strong>KEY ACHIEVEMENTS </strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -193,6 +223,23 @@ learn and bond through teamwork and participating in performances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Achievement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award, Super 24 Dance Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction, Singapore Youth Festival Arts Presentation
+2025</p>
 </td>
 </tr>
 <tr>
@@ -214,7 +261,6 @@ learn and bond through teamwork and participating in performances.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
