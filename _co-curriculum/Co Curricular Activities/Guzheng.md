@@ -6,15 +6,34 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <h4><strong>ABOUT THE CCA</strong></h4>
-<p>Guzheng Ensemble was established in 2000. The Guzheng Ensemble has brought
-glory and honour to the school by successes such as winning Gold Award
-(2009 and 2013) at the Singapore Youth Festivals. In addition to preparing
-for the Singapore Youth Festival, the Guzheng Ensemble has staged many
-school and public performances.</p>
-<p>In addition, our members also have the opportunity to gain nationally
-recognized music certificates in the playing of the Guzheng. This motivates
-many of the students to continue their love and appreciation of the culture
-and tradition of our rich musical heritage.</p>
+<p>
+<br>Our Guzheng Ensemble, established in 2000, aims to foster a deeper understanding
+and appreciation of Chinese musical heritage. Through learning and performing
+on the guzheng, we seek to nurture cultural appreciation among our members.
+In recent years, we have also welcomed non-Chinese students into our ensemble,
+reflecting the inclusive and diverse spirit of our community.</p>
+<p>&nbsp;</p>
+<p>By refining their instrumental technique and musical interpretation, members
+cultivate passion, self-discipline, and perseverance in their pursuit of
+musical excellence. To further their learning, students are encouraged
+to pursue recognition through nationally accredited guzheng grading examinations,
+which affirm their musical achievements and deepen their understanding
+of the art form.</p>
+<p>&nbsp;</p>
+<p>Students are given numerous opportunities to perform both within and beyond
+the school. The ensemble frequently showcases its talents at major school
+events and national platforms. At the biennial Singapore Youth Festival
+Arts Presentation, we are proud to have consistently attained the highest
+distinction, a testament to our members’ dedication and teamwork. Beyond
+school, our ensemble also shares the beauty of Chinese music with the wider
+community through performances at events such as the Lunar New Year and
+Mid-Autumn Festival celebrations.</p>
+<p>&nbsp;</p>
+<p>Through these rich and meaningful experiences, we hope to deepen students’
+appreciation for traditional Chinese music, enhance their musicianship,
+build confidence, and stretch their creative potential. Most importantly,
+we strive to help every member forge lasting friendship and a strong sense
+of unity through shared passion and collaboration in music-making.</p>
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/syf2.jpg">
@@ -26,9 +45,6 @@ and tradition of our rich musical heritage.</p>
 </li>
 <li>
 <p>Ms Doreen Lau&nbsp; (AIC)</p>
-</li>
-<li>
-<p>Ms Tessa Ho</p>
 </li>
 <li>
 <p>Ms Woong Choy Wan</p>
@@ -55,26 +71,13 @@ and tradition of our rich musical heritage.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CAO YUXI</p>
-<p>&nbsp;</p>
+<p>TAN YEONG YEAN PAIGE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4GZ</p>
+<p>3I7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHLOE YIN JING RU (RUAN JINGRU)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4GZ</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice President</p>
 </td>
 </tr>
 <tr>
@@ -85,31 +88,27 @@ and tradition of our rich musical heritage.</p>
 <p>3I6</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN ZI YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2R8</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Junior Head</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SUMI LIN ZI QING</p>
-<p>&nbsp;</p>
+<p>JERICA NG TIAN YUE &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4GZ</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Section Leader</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WAHEEDAH MARIAM GHAZALI</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4GZ</p>
-<p>&nbsp;</p>
+<p>3I6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Section Leader</p>
@@ -117,10 +116,21 @@ and tradition of our rich musical heritage.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WU TIANRU</p>
+<p>KAN TONG EN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4GZ</p>
+<p>3I6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YU DE (CHEN YUDE), MICHAEL&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3I5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Section Leader</p>
@@ -129,10 +139,7 @@ and tradition of our rich musical heritage.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/speech_day.jpg">
-</div>
+<p>&nbsp;</p>
 <h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -146,30 +153,6 @@ and tradition of our rich musical heritage.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The&nbsp;Clementi&nbsp;Welcome&nbsp;2022&nbsp;event</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Racial Harmony and Passion Art Carnival @ Clementi Performance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PPPEA 25th Lantern Festival event 2024</p>
 </td>
 </tr>
 <tr>
@@ -230,26 +213,41 @@ and tradition of our rich musical heritage.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exchange with Yuan Ching Secondary school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Chinese New Year Performance at Clementi Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speech Day Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PPPEA Lantern Night 2025 Celebrations</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/PPPEA_27th_Lantern_Festival_event_2024.jpg">
-</div>
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/PPPEA_27th_Lantern_Festival_event_2024_2.jpg">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/sec_1_orientation.jpg">
-</div>
 <h4><strong>KEY ACHIEVEMENTS （2022-2024）</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -270,15 +268,19 @@ and tradition of our rich musical heritage.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SYF Certificate of Distinction</p>
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/syf1.jpg">
-</div>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
