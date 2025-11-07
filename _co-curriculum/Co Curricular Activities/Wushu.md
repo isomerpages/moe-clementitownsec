@@ -54,10 +54,10 @@ routine of their choice in each category.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wee Jing Zhe</p>
+<p>Wong Hong Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4WS</p>
+<p>3I5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain</p>
@@ -65,10 +65,10 @@ routine of their choice in each category.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rayner Wat Mun Jit (Qu Wen Zhe)</p>
+<p>Lam Kai Xuan, Kaden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4WS</p>
+<p>3I2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain</p>
@@ -76,10 +76,10 @@ routine of their choice in each category.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Woo Yi Wei, Lucas</p>
+<p>Valerie Kwan Zi Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4WS</p>
+<p>3I4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain</p>
@@ -325,13 +325,6 @@ Sword (Eyan Seow Jin Yi, 1S6)</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/wushu5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu4.jpg">
-</div>
 <h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -345,38 +338,6 @@ Sword (Eyan Seow Jin Yi, 1S6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CTSS Chinese New Year Concert</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year Concert at Clementi Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games Wushu Championship</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Wushu &amp; Sanda Championships</p>
 </td>
 </tr>
 <tr>
@@ -459,16 +420,48 @@ Sword (Eyan Seow Jin Yi, 1S6)</p>
 <p>National Wushu &amp; Sanda Championships</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CTSS Chinese New Year Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Lunch Performance at Jurong Safra</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CTSS Teachers’ Day Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Wushu Championships</p>
+</td>
+</tr>
 </tbody>
 </table>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu6.jpg">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu3.jpg">
-</div>
 <h4>TRAINING DETAILS</h4>
 <table style="minWidth: 75px">
 <colgroup>
