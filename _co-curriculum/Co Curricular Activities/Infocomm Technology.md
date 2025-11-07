@@ -187,7 +187,7 @@ work collaboratively with one another.</p>
 <p>Jensen Marco Huang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-I5</p>
+<p>S3-I6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Tech Ambassador</p>
@@ -288,10 +288,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Youth Tech Championship 2024</p>
+<p>National Youth Tech Championship 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Semi-finalists</p>
+<p>Grand Finalists</p>
 </td>
 </tr>
 <tr>
