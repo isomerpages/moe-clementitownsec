@@ -15,24 +15,6 @@ Side' Story” in 2012, “Dear You” in 2014, "What I Would Give" in 2016,
 "Where Did You Go?" in 2018, and “REPLAY” in 2022. The family has now grown
 to over 70 members, and the students are trained in crew work, stage management,
 acting, dancing, and even singing.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DC/dsc00999.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DC/dsc01088.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DC/img_20201111_110629.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DC/img_6863.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DC/unnamed%20(1).jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DC/unnamed.jpg">
-</div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -244,9 +226,25 @@ acting, dancing, and even singing.</p>
 </div>
 <p>
 <br>
-<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_Pic_1.jpg">
+</div>
+<p>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_Pic_2.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_Pic_4__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_Pic_3.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
