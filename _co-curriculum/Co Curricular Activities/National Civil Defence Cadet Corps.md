@@ -273,9 +273,18 @@ Bairulzam</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCDCC/PXL_20250412_105952024.jpg">
+</div>
 <p>
 <br>
-<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCDCC/IMG_5801.jpg">
+</div>
+<p>
+<br><a href="https://www.youtube.com/watch?v=1RLh4rlUEz4" rel="noopener nofollow" target="_blank">NCDCC Specialisation Model</a>
 <br>
 </p>
 <div class="isomer-image-wrapper">
