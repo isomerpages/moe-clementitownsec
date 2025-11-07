@@ -70,10 +70,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ryan Ong Wen Aun</p>
+<p>Tan Junhe Bryan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>S3-I4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -81,10 +81,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Ron-Wayn</p>
+<p>Kung Jia En Kelly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>S3-I6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-President</p>
@@ -92,10 +92,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Irfan Bin Abdul Rashid</p>
+<p>Navin Shankar Ganesh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>S3-I6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PA Head</p>
@@ -103,12 +103,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wang Shaochen
-<br>
-</p>
+<p>Ng Zi Tao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>S3-I6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PA Head
@@ -118,10 +116,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yung Ker Fung</p>
+<p>Gautami Bhardwaj</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>S3-I6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Photo Head
@@ -131,10 +129,10 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liu Tingxuan</p>
+<p>Rajini Shreya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>S3-I6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Photo Head</p>
@@ -142,24 +140,134 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Isaac Emmanuel Isaiah Lea</p>
+<p>Chia Xuan Ye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>S3-I4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>App Development Head</p>
+<p>Robotics Head</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hamzah Sadiq Bin Aidil</p>
+<p>Kodihalli Hrithika Sharath Chandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4IT</p>
+<p>S3-I4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Robotics Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Limjap Lewis Eduardo Domingo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-I6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Game Development Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gao Zihao Charlie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-I5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Multi-media Communications Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jensen Marco Huang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-I5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Tech Ambassador</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hossen Umaier</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior PA Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Wei En, Enzo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior PA Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Valens Chin Tian Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Photo Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
 </td>
 </tr>
 </tbody>
