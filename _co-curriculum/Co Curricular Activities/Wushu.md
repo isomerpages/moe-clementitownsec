@@ -16,7 +16,7 @@ long and short weapon routines. Students will get to learn at least one
 routine of their choice in each category.</p>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_51_49.jpg">
 </div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
@@ -316,6 +316,18 @@ Cudgel (Valerie Kwan Zi Xin, 3I4)</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_44_52.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_44_50.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_44_59.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_44_49.jpg">
+</div>
 <h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -453,6 +465,19 @@ Cudgel (Valerie Kwan Zi Xin, 3I4)</p>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_51_51.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_51_52.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_51_47__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_51_47.jpg">
+</div>
 <h4>TRAINING DETAILS</h4>
 <table style="minWidth: 75px">
 <colgroup>
