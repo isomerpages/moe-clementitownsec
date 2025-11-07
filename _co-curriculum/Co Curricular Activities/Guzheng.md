@@ -12,14 +12,12 @@ and appreciation of Chinese musical heritage. Through learning and performing
 on the guzheng, we seek to nurture cultural appreciation among our members.
 In recent years, we have also welcomed non-Chinese students into our ensemble,
 reflecting the inclusive and diverse spirit of our community.</p>
-<p>&nbsp;</p>
-<p>By refining their instrumental technique and musical interpretation, members
-cultivate passion, self-discipline, and perseverance in their pursuit of
-musical excellence. To further their learning, students are encouraged
+<p>&nbsp;By refining their instrumental technique and musical interpretation,
+members cultivate passion, self-discipline, and perseverance in their pursuit
+of musical excellence. To further their learning, students are encouraged
 to pursue recognition through nationally accredited guzheng grading examinations,
 which affirm their musical achievements and deepen their understanding
 of the art form.</p>
-<p>&nbsp;</p>
 <p>Students are given numerous opportunities to perform both within and beyond
 the school. The ensemble frequently showcases its talents at major school
 events and national platforms. At the biennial Singapore Youth Festival
@@ -28,13 +26,11 @@ distinction, a testament to our members’ dedication and teamwork. Beyond
 school, our ensemble also shares the beauty of Chinese music with the wider
 community through performances at events such as the Lunar New Year and
 Mid-Autumn Festival celebrations.</p>
-<p>&nbsp;</p>
 <p>Through these rich and meaningful experiences, we hope to deepen students’
 appreciation for traditional Chinese music, enhance their musicianship,
 build confidence, and stretch their creative potential. Most importantly,
 we strive to help every member forge lasting friendship and a strong sense
 of unity through shared passion and collaboration in music-making.</p>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/syf2.jpg">
 </div>
@@ -246,8 +242,6 @@ of unity through shared passion and collaboration in music-making.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h4></h4>
-<h4></h4>
 <h4><strong>KEY ACHIEVEMENTS （2022-2024）</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -326,11 +320,40 @@ of unity through shared passion and collaboration in music-making.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture12.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
