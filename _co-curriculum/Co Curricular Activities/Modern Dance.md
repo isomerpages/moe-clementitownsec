@@ -15,10 +15,6 @@ every dancer is a leader, we hope to work on improving and developing the
 strength of each dancer. Building resilience and self-confidence, dancers
 learn and bond through teamwork and participating in performances.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modern_Dance.gif">
-</div>
-<p></p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -305,12 +301,28 @@ learn and bond through teamwork and participating in performances.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MD/WhatsApp_Image_2025_10_20_at_10_45_54_PM__1_.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MD/WhatsApp_Image_2025_10_20_at_10_45_54_PM.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MD/WhatsApp_Image_2025_10_20_at_10_45_55_PM__1_.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MD/WhatsApp_Image_2025_10_20_at_10_45_55_PM__3_.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MD/WhatsApp_Image_2025_10_20_at_10_45_55_PM__4_.jpg">
+</div>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MD/WhatsApp_Image_2025_10_20_at_10_45_55_PM.jpg">
+</div>
 <p></p>
 <p></p>
