@@ -198,7 +198,7 @@ work collaboratively with one another.</p>
 <p>Hossen Umaier</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S2-R3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Junior PA Head</p>
@@ -209,7 +209,7 @@ work collaboratively with one another.</p>
 <p>Ng Wei En, Enzo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S2-R3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Junior PA Head</p>
@@ -220,7 +220,7 @@ work collaboratively with one another.</p>
 <p>Valens Chin Tian Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S2-R3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Junior Photo Head</p>
@@ -228,46 +228,24 @@ work collaboratively with one another.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Wong Yuan Le Marcus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S2-R3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior</p>
+<p>Junior Robotics Head</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Aidan Connor Bangras</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S2-R3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior</p>
+<p>Junior Tech Ambassador</p>
 </td>
 </tr>
 </tbody>
