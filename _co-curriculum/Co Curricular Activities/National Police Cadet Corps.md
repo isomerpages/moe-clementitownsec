@@ -278,16 +278,37 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h4></h4>
-<h4></h4>
-<h4></h4>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/npcc%20trg.jpg">
 </div>
 <p>
 <br>
-<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPAP___14.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC_Day___1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/20250226_165423.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/20250320_181636.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/WhatsApp_Image_2025_08_30_at_13_16_03__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/WhatsApp_Image_2025_11_01_at_11_44_18__1_.jpg">
+</div>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
