@@ -121,7 +121,7 @@ learn and bond through teamwork and participating in performances.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>KEY EVENTS </strong></h4>
+<h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -210,7 +210,7 @@ learn and bond through teamwork and participating in performances.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>KEY ACHIEVEMENTS </strong></h4>
+<h4><strong>KEY ACHIEVEMENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
