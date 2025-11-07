@@ -6,24 +6,22 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <h4><strong>ABOUT THE CCA</strong></h4>
-<p>The CTSS 1st Coy aims to provide the girls with the opportunity for self-training
-in their personal character development, towards the realization of responsible
-citizenship and promotion of service to the community. We learn skills
-like outdoor cooking, tent-pitching and gadgets making. Through various
-activities, the girls are able to adapt quickly, and also put what skills
-they had learnt to good use. We also have courses on first-aid, enabling
-us to be well-prepared to handle any emergency situation at any time.</p>
+<p>The CTSS 1st Coy strives to provide every girl with meaningful opportunities
+for self-training and personal character development, in support of our
+mission to nurture girls of courage, confidence, and character who seek
+to make the world a better place. Through a variety of engaging activities
+such as outdoor cooking, tent-pitching and gadgets making, the girls grow
+in confidence and self-assurance, while developing essential leadership
+and life skills — all within an environment that encourages learning through
+fun, adventure, and lasting friendships.</p>
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/World_Thinking_Day_2024__2_.jpg">
-</div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Loh Wan Ting (OIC)</p>
 </li>
 <li>
-<p>Ms Ang Hui Xia</p>
+<p>Mdm Ang Hui Xia</p>
 </li>
 <li>
 <p>Mdm Chen Liping</p>
@@ -53,10 +51,10 @@ us to be well-prepared to handle any emergency situation at any time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RAMU RAMIYA</p>
+<p>ALYA AISYAH BINTE SHAHRUNNIZAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4W8</p>
+<p>S3-I7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Company Leader</p>
@@ -64,10 +62,10 @@ us to be well-prepared to handle any emergency situation at any time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SELVA VINOSHA</p>
+<p>LIM EN XIN, CHLOE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4W7</p>
+<p>S3-I5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Company Leader</p>
@@ -75,10 +73,10 @@ us to be well-prepared to handle any emergency situation at any time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AJ CALLIE JEFFREY</p>
+<p>LIM HUI XIN, RACHELLE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4W7</p>
+<p>S3-I1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Company Leader</p>
@@ -86,7 +84,7 @@ us to be well-prepared to handle any emergency situation at any time.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>KEY ACHIEVEMENTS</strong></h4>
+<h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -95,47 +93,110 @@ us to be well-prepared to handle any emergency situation at any time.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p>Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name of Event</strong>
-</p>
+<p>Event</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2023, 2024,</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Division Day Pin It Up Competition – 3rd Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>West Division Day Somewhere in the Room Competition – 3rd Place</p>
+<p>World Thinking Day Celebrations</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022, 2023</p>
+<p>2023, 2024,</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Baden Powell Award (BPA) 2022 – Hon Xiao Xiang (4A1 2022)</p>
-<p>Baden Powell Award (BPA) 2022 – Sangamithra Baskar (4A1 2022)</p>
+<p>West Division Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor Trail at Jurong Lake Gardens with Nan Hua Guides and Nan Hua Primary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023, 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor Skills Training @ Camp Christine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023, 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor Camp with Nan Hua High Guides</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outdoor Camp</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>KEY ACHIEVEMENTS</strong></h4>
+<p>.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Baden Powell Award (BPA) 2023 – Reese Teo Zi Xuan (4W7 2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Baden Powell Award (BPA) 2023 – Kong Si Kit Cheraline (4W7 2023)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022, 2023</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold, Puan Noor Aishah Award (PNAA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver, Puan Noor Aishah Award (PNAA)</p>
 </td>
 </tr>
 <tr>
@@ -170,114 +231,68 @@ us to be well-prepared to handle any emergency situation at any time.</p>
 <p>West Division Day Recyclable Diorama Competition - 4th Place</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Fest! 2025: Badge of Escape - 1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Fest! 2025: Guide-Your-Way-Out! - 2nd Place</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/West_Division_Day_2024__1_.jpg">
-</div>
-<h4><strong>KEY EVENTS</strong></h4>
-<table style="minWidth: 50px">
+<h4><strong>TRAINING DETAILS</strong></h4>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p>Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name of Event</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022, 2023, 2024</p>
+<p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>World Thinking Day Celebrations</p>
+<p>Venue</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022, 2023, 2024</p>
+<p>Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Division Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
+<p>3.30pm – 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Division Virtual Campfire</p>
+<p>School Compound</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>International Camp (Virtual)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
+<p>3.30pm – 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor Cooking Collaboration with Nanyang High Guides</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outdoor Trail at Jurong Lake Gardens with Nan Hua Guides and Nan Hua Primary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023, 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outdoor Skills Training @ Camp Christine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023, 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outdoor Camp with Nan Hua High Guides</p>
+<p>School Compound</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/CTSS_CCA_Showcase_2024.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/West_Division_Day_2024__2_.jpg">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/World_Thinking_Day_2024__1_.jpg">
-</div>
-<h4><strong>TRAINING DETAILS</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl%20Guides/gg%20trg.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/World_Thinking_Day_2024__3_.jpg">
-</div>
 <p>
 <br>
 <br>
