@@ -31,6 +31,9 @@ juniors.</p>
 <li>
 <p>Mr Heng Yuan Hao</p>
 </li>
+<li>
+<p>Mr Clement Xiao</p>
+</li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
 <table style="minWidth: 75px">
@@ -53,10 +56,10 @@ juniors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leroy Ang Ho Gun</p>
+<p>Lee Guo Bin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4BB</p>
+<p>3I1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain (B Division)</p>
@@ -64,10 +67,10 @@ juniors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Guo Bin</p>
+<p>Tia Bang Yao Xavis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4BB</p>
+<p>3I5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain (B Division)</p>
@@ -75,46 +78,68 @@ juniors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eng Tze Yern</p>
+<p>Ong Rui Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4BB</p>
+<p>3I1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Logistics IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nazir Agamadou Rayyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4BB</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Duty Roster / Noticeboard IC</p>
+<p>Logistics IC (B Division)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admes Chia Peng Hwang</p>
+<p>Yeang Anson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4BB</p>
+<p>3I4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Welfare IC</p>
+<p>Publicity IC (B Division)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tia Bang Yao Xavis</p>
+<p>Jacob Thong Yue Feng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2S5</p>
+<p>2R5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain (C Division)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tristan Dev Sandhu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2R5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (C Division)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vince Chua Qi Yao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2R5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics IC (C Division)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Irvin Jayden Wibowo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2R5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Publicity IC (C Division)</p>
 </td>
 </tr>
 </tbody>
@@ -132,6 +157,38 @@ juniors.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary One CCA Showcase</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball B Division Boys Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball C Division Boys Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clementi Cup</p>
 </td>
 </tr>
 <tr>
@@ -265,6 +322,22 @@ juniors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Guo Bin awarded the Most Improved Player for B Division</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saw Kevin Thaw awarded the Most Improved Player for C Division</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -335,11 +408,30 @@ juniors.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB_Picture4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB_Picture6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB_Picture5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB_Picture2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB_Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB_Picture7.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
