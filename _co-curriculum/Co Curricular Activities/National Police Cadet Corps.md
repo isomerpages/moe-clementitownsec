@@ -6,20 +6,9 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <h4><strong>ABOUT THE CCA</strong></h4>
-<p>CTNPCC follows the NPCC Vision to become the best youth organisation in
-Singapore, one that actively helps to make Singapore the safest place in
-the world.</p>
+<p><strong>Through a wide range of activities, CTSS NPCC aims instills the core values of resilience, integrity, service, and excellence in our youth. These values nurture them into caring and responsible citizens, guided by a strong sense of purpose to serve the community.<br><br>NPCC is a rewarding and enriching co-curricular activity that provides cadets with opportunities to grow in personal competencies and leadership. The Corps is dedicated to continuously enhancing and designing meaningful learning experiences that equip our cadets with essential skills to thrive in the 21st century.</strong>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NPCC_Annual_Parade.jpg">
-</div>
-<p>The Corps aims to develop our members to become active citizens and community
-leaders, by working in partnership with the Singapore Police Force to fight
-crime and keep Singapore safe.</p>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Shooting_competition.jpg">
-</div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -42,87 +31,104 @@ crime and keep Singapore safe.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Position / Appointment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Laurel Kuah (Ke Yanxi)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4NP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overall-in-charge</p>
+<p><strong>Position / Appointment</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Inez Hsu Yinglan</p>
+<p><strong>Kuan Kai Xin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4NP</p>
+<p><strong>3I6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Second-in-charge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dyllis Tay Xin Hui (Zheng Xinhui)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4NP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Administration</p>
+<p><strong>Chairperson</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saravanan Ajay</p>
+<p><strong>Myra Insyirah Binte Mohamad Rizuan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4NP</p>
+<p><strong>3I1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Training</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yew Jun Jie&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4NP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Logistics</p>
+<p><strong>Vice-Chairperson</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Seri Ardini Binti Ady</p>
+<p><strong>Chua Xinzhe</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4NP</p>
+<p><strong>3I2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Welfare</p>
+<p><strong>Head of Training</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Darrius Soh Ray Sen</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3I4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Administration</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Nehariha d/o Lakshmikandan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3I4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Logistics</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>B Sarvodhar</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3I6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Publications</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Drill_competition.jpg">
-</div>
 <h4><strong>KEY ACHIEVEMENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -132,58 +138,66 @@ crime and keep Singapore safe.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year</p>
+<p><strong>Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievement</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SPF-NPCC badge recipients (Andrew Ooi Chien Chen and Isaac Chua)</p>
+<p><strong>Achievement</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p><strong>2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award (Distinction)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SPF-NPCC badge recipients (Sen Qi Wen Jared and David Seah Bang Yen)</p>
+<p><strong>SPF-NPCC badge recipients (Sen Qi Wen Jared and David Seah Bang Yen)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p><strong>2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award (Distinction)</p>
+<p><strong>Unit Overall Proficiency Award (Distinction)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p><strong>2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPF-NPCC badge recipient (Shunmuga Rogan s/o Ravindran Joseph)</p>
+<p><strong>SPF-NPCC badge recipient (Shunmuga Rogan s/o Ravindran Joseph)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Overall Proficiency Award (Distinction)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SPF-NPCC badge recipient (Laurel Kuah and Inez Hsu Yinglan)</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Police_Heritage_Centre.jpg">
-</div>
 <h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -193,86 +207,108 @@ crime and keep Singapore safe.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year</p>
+<p><strong>Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Event</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NPCC Annual Parade</p>
+<p><strong>Event</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p><strong>2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adventure Training Camp</p>
+<p><strong>NPCC Annual Parade</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p><strong>2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>.22 Classification Shoot</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Area Games Day</p>
+<p><strong>Unit Camp</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p><strong>2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Visit to various police establishments (e.g. Police Heritage Centre, Home
-Team Gallery, etc)</p>
+<p><strong>.22 Classification shoot</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Area Games Day</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Adventure Training Camp</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Visit to various police establishments (e.g. Police Heritage Centre, Home Team Gallery, etc)</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Unit_Camp___1.jpg">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Unit_Camp___2.jpg">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Unit_Camp___3.jpg">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Kayaking.jpg">
-</div>
+<p>&nbsp;</p>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/npcc%20trg.jpg">
 </div>
 <p>
 <br>
-<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPAP___14.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC_Day___1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/20250226_165423.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/20250320_181636.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/WhatsApp_Image_2025_08_30_at_13_16_03__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/WhatsApp_Image_2025_11_01_at_11_44_18__1_.jpg">
+</div>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">

@@ -6,38 +6,38 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <h4><strong>ABOUT THE CCA</strong></h4>
-<p>In 2021, our school embarked on a new chapter with the formation of the
-National Civil Defence Cadet Corps (NCDCC), building on our experiences
-with St. John Brigade. NCDCC aims to enrich our students’ CCA journey by
-equipping them with life-saving skills beyond first aid.</p>
-<p>At NCDCC, we strive to develop and empower youths to be active, concerned
-citizens with the skills to respond effectively in emergencies, both locally
-and globally. Our curriculum fosters civil defence awareness and practical
-competencies, preparing cadets to be resilient community responders.</p>
-<p>Guided by our motto, <strong>“We Learn, We Lead, We Serve,”</strong> and
-aligned with Character and Citizenship Education’s core themes—<strong>Identity, Relationships, and Choices</strong>—the
-NCDCC journey unfolds in three phases:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>We Learn:</strong> Cadets acquire essential “Triangle of Life”
-skills, including basic firefighting, first aid, and CPR+AED. These core
-competencies shape their identity as NCDCC cadets and prepare them to assist
-themselves and others in times of need.</p>
-</li>
-<li>
-<p><strong>We Lead:</strong> Cadets develop leadership, communication, relationship
-management, and social awareness skills. Through specialized cadet tracks
-and leadership opportunities, they strengthen both their civil defence
-capabilities and personal growth.</p>
-</li>
-<li>
-<p><strong>We Serve:</strong> Cadets actively contribute to their school and
-community through initiatives like NCDCC Service Month and Emergency Preparedness
-Day. With their knowledge and skills, they serve as compassionate Community
-First Responders, advocating for emergency preparedness and readiness.</p>
-</li>
-</ul>
-<p>&nbsp;</p>
+<p>At Clementi Town Secondary School, the National Civil Defence Cadet Corps
+(NCDCC) nurtures youths who are ready to learn, lead, and serve their community
+with courage and compassion.</p>
+<p>Formed in 2021, our NCDCC builds on the school’s strong foundation in
+uniformed group education to provide a purposeful CCA experience. Through
+hands-on learning, cadets acquire life-saving skills and develop the confidence
+to respond effectively in emergencies; both in school and beyond.</p>
+<p>&nbsp;Guided by our motto “We Learn, We Lead, We Serve,” every cadet’s
+journey is shaped by the Character and Citizenship Education themes of
+Identity, Relationships, and Choices.</p>
+<p>&nbsp;<strong>We Learn:</strong>
+</p>
+<p>Cadets begin with the “Triangle of Life,” where they pick up essential
+civil defence skills such as basic firefighting, first aid, and CPR + AED.
+These are practical, real-world skills that help them act calmly and responsibly
+in times of need.</p>
+<p>&nbsp;<strong>We Lead:</strong>
+</p>
+<p>As they progress, cadets grow into confident leaders. They strengthen
+their communication and teamwork skills, take on leadership roles, and
+specialise in civil defence tracks that deepen their understanding of rescue
+and emergency preparedness.</p>
+<p>&nbsp;<strong>We Serve:</strong>
+</p>
+<p>Our cadets actively give back through events like Emergency Preparedness
+Day and NCDCC Service Month. They serve as community first responders,
+spreading awareness of safety and readiness, and showing care for others
+in meaningful ways.</p>
+<p>&nbsp;Through the NCDCC journey, students gain more than just badges or
+ranks. They build character, resilience, and a heart for service. They
+leave with the confidence to protect, to lead, and to serve; values that
+will stay with them for life.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -71,35 +71,35 @@ First Responders, advocating for emergency preparedness and readiness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TAN WEE KIAT, KEANNE</p>
+<p>CHIU SHANG WOH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4W</p>
+<p>S3-I4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Sergeant Major</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>QUAH YU ROU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4R</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Sergeant Major</p>
+<p>UNIT SERGEANT MAJOR</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MUHAMAD DANIQ AQIF BIN MAZRI</p>
+<p>NUR EVINA BINTE AHMAD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4C</p>
+<p>S3-I1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Regimental Sergeant Major</p>
+<p>ASSISTANT SERGEANT MAJOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUCIUS JOEL THAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-I2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>REGIMENTAL SERGEANT MAJOR</p>
 </td>
 </tr>
 </tbody>
@@ -124,55 +124,12 @@ First Responders, advocating for emergency preparedness and readiness.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Foot Drill Gold Assessment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fire Safety Specialisation Course</p>
-<p>Medical Response Specialisation Course</p>
-<p>Urban Search &amp; Rescue Specialisation Course</p>
-<p>Marine Fire and Rescue (MFR) Specialisation Course</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Precision Drill 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Responders Plus Programme (SCDF)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Forest Adventure – Outdoor Learning Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1 Star Kayaking Course</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SCDF Parade (NCDCC Marching Contingent)</p>
@@ -180,95 +137,10 @@ First Responders, advocating for emergency preparedness and readiness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Urban Adventure Civil Defence Skills Challenge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home Team Gallery Visit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Parade 2024 (NCDCC Marching Contingent)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA Bonding Activity: Archery Tag, Bowling, Spikeball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Drill Instructor Course</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Foot Drill Gold Assessment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fire Safety Specialisation Course</p>
-<p>Medical Response Specialisation Course</p>
-<p>Urban Search &amp; Rescue Specialisation Course</p>
-<p>Marine Fire and Rescue (MFR) Specialisation Course</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Service Month Project:</p>
-<p>Total Defence Day Emergency Preparedness Training (Henry Park Primary
-School)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Day and Sec 1 Affirmation Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Day Observance Ceremony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Precision Drill Competition 2024</p>
 </td>
 </tr>
 </tbody>
@@ -401,9 +273,18 @@ Bairulzam</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCDCC/PXL_20250412_105952024.jpg">
+</div>
 <p>
 <br>
-<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCDCC/IMG_5801.jpg">
+</div>
+<p>
+<br><a href="https://www.youtube.com/watch?v=1RLh4rlUEz4" rel="noopener nofollow" target="_blank">NCDCC Specialisation Model</a>
 <br>
 </p>
 <div class="isomer-image-wrapper">

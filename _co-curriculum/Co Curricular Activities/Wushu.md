@@ -16,7 +16,7 @@ long and short weapon routines. Students will get to learn at least one
 routine of their choice in each category.</p>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_51_49.jpg">
 </div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
@@ -54,10 +54,10 @@ routine of their choice in each category.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wee Jing Zhe</p>
+<p>Wong Hong Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4WS</p>
+<p>3I5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain</p>
@@ -65,10 +65,10 @@ routine of their choice in each category.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rayner Wat Mun Jit (Qu Wen Zhe)</p>
+<p>Lam Kai Xuan, Kaden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4WS</p>
+<p>3I2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain</p>
@@ -76,10 +76,10 @@ routine of their choice in each category.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Woo Yi Wei, Lucas</p>
+<p>Valerie Kwan Zi Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4WS</p>
+<p>3I4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain</p>
@@ -100,78 +100,6 @@ routine of their choice in each category.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Achievement</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, National Wushu Championships 2022, C Division Girls Formulated
-32-Style Taiji Sword (Tay Sze En Ashley, 1S5)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, National Wushu Championships 2022, C Division Boys 1st International
-Sword (Pang Jia Xi, Kavan, 2S5)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, National Wushu Championships 2022, C Division Boys 5-duan
-Nanquan (Rayner Wat Mun Jit, 1S6)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, National Wushu Championships 2022, B Division Girls 42-Style
-Taiji Sword (Clarice Low Le Xuan, 4A1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Medal, National Wushu Championships 2022, C Division Girls Formulated
-24-Style Taijiquan (Tay Sze En Ashley, 1S5)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Medal, National Wushu Championships 2022, C Division Boys Formulated
-24-Style Taijiquan (Tan Bao Xin, 2S6)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Medal, National Wushu Championships 2022, B Division Boys 1<sup>st</sup> International
-Nanquan (Pang Jun Xi, Ethan, 3S6)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Medal, National Wushu Championships 2022, B Division Girls 2<sup>nd</sup> International
-Spear (Clarice Low Le Xuan, 4A1)</p>
 </td>
 </tr>
 <tr>
@@ -323,14 +251,82 @@ Sword (Eyan Seow Jin Yi, 1S6)</p>
 <p>Wong Bao Xian, 4S5</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Medal, National Wushu Championships 2025, C Div Boys Formulated 5-Duan
+Changquan (Eyan Seow Jin Yi, 2R6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Medal, National Wushu Championships 2025, C Div Boys Formulated 5-Duan
+Sword (Eyan Seow Jin Yi, 2R6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Medal, National Wushu Championships 2025, C Div Boys Formulated 5-Duan
+Spear (Eyan Seow Jin Yi, 2R6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Medal, National Wushu Championships 2025, B Div Boys 1<sup>st&nbsp; </sup>International
+Sword (Wee Jing Zhe, 4P5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2025, B Div Girls 2<sup>nd</sup> International
+Spear(Tay Sze En Ashley, 4P5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2025, B Div Girls 2<sup>nd</sup> International
+Changquan (Valerie Kwan Zi Xin, 3I4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, National Wushu Championships 2025, B Div Girls 2<sup>nd</sup> International
+Cudgel (Valerie Kwan Zi Xin, 3I4)</p>
+</td>
+</tr>
 </tbody>
 </table>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/wushu5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_44_52.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_44_50.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_44_59.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_44_49.jpg">
 </div>
 <h4><strong>KEY EVENTS</strong></h4>
 <table style="minWidth: 50px">
@@ -345,38 +341,6 @@ Sword (Eyan Seow Jin Yi, 1S6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CTSS Chinese New Year Concert</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year Concert at Clementi Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games Wushu Championship</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Wushu &amp; Sanda Championships</p>
 </td>
 </tr>
 <tr>
@@ -459,15 +423,60 @@ Sword (Eyan Seow Jin Yi, 1S6)</p>
 <p>National Wushu &amp; Sanda Championships</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CTSS Chinese New Year Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Lunch Performance at Jurong Safra</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CTSS Teachers’ Day Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Wushu Championships</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_51_51.jpg">
 </div>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/wushu3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_51_52.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_51_47__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_11_05_at_13_51_47.jpg">
 </div>
 <h4>TRAINING DETAILS</h4>
 <table style="minWidth: 75px">

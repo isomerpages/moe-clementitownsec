@@ -14,12 +14,6 @@ cycling, high elements, kayaking, we provide a safe space for ODACians
 to discover more about their own strengths and limitations, and to develop
 the willingness to learn and grow.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Group_Photo_1_OD.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/photo1679993419.jpeg">
-</div>
 <p>With a refreshed motto&nbsp;Dream, Explore, Discover, we aspire to nurture
 ODACians to be open-minded individuals with the courage to step out of
 their comfort zones in pursuit of their dreams. Through outdoor adventure,
@@ -29,42 +23,21 @@ ODACian has the ability and will to positively influence one’s own life
 and people around them. Through physical fitness, skill development, Values-in-Action
 projects, and various outdoor activities, ODAC provides an avenue to develop
 student agency – an invaluable skill that they can apply to their own lives.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Group_Photo_2_OD.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/photo1679993463.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/photo1679993470.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/photo1679993532.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/Kayaking1_OD.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/ODAC_Orienteering_OD.jpg">
-</div>
 <p>As we embark on our next adventure, we endeavour our students to do so
 with a steadfast spirit, and most importantly, to do it together.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Heng Hui Zhen (OIC)</p>
+<p>Ms Heng Hui Zhen</p>
 </li>
 <li>
-<p>Mr Aidil Md Idris (AIC)</p>
+<p>Mr Aidil Md Idris</p>
 </li>
 <li>
 <p>Mdm Rosezalina Asmoin</p>
 </li>
 <li>
-<p>Ms Madeline Lim Keng Woon</p>
+<p>Ms Lim Keng Woon Madeline</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
@@ -88,10 +61,10 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Li Hui</p>
+<p>Rachel Rossariyo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3M2</p>
+<p>3I6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -99,90 +72,13 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ang Yee Kiat, Angus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3M2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lim Jun Xi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3M1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Kayven</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2CC1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chua Yi Jie Grace Victoria</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2CC1</p>
+<p>3I5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lee Zhi Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3M1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Training Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Izanne Soo Jit Ya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2CC1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Training Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Francheska Marie G. Saing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3M1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Training Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chua Deon Gerald Norberte</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3M1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Administration and Logistics</p>
+<p>Vice President</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +86,106 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 <p>Matthew Looi Wei En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2CC1</p>
+<p>3I4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Izanne Soo Jit Ya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3I7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Administration and Logistics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chonlakarn Kaeojinda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3I5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Training Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ngoh Cheng Kai Traven</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Training Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chloe Cheong Wee Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3I2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ho Rui Yang Ryan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Training Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Low Hoi Hing Brendan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Training Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sam Hoa Ngoc</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Training Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seck Yong Jie Paven</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Training Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ocean Chua Ou Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2R2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Logistic Head</p>
@@ -198,13 +193,13 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rachel Rossariyo</p>
+<p>Tan Kayven</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2CC1</p>
+<p>3I5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Welfare Head</p>
+<p>Advisor</p>
 </td>
 </tr>
 </tbody>
@@ -226,7 +221,7 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 - 2024</p>
+<p>2023 - 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Orienteering Trainings (Bi-weekly)</p>
@@ -234,7 +229,7 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>2024 - 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Climbing National Standards Level 1</p>
@@ -242,7 +237,7 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024, 2022</p>
+<p>2024 - 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1-Star Kayaking Course</p>
@@ -250,7 +245,7 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 - 2024</p>
+<p>2023 - 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Orienteering Standards Level 1</p>
@@ -258,7 +253,7 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 - 2024</p>
+<p>2023 - 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nature and Urban Hikes around Singapore</p>
@@ -271,14 +266,6 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bouldering Highlight Activity</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cycling Expedition</p>
 </td>
 </tr>
 </tbody>
@@ -300,59 +287,65 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 - 2024</p>
+<p>2022 - 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National Youth Achievement Award (NYAA)</strong>
-<br>2024: 3 Silvers &amp; 17 Bronzes</p>
+<br>2025: 6 Silvers &amp; 13 Bronzes</p>
+<p>2024: 3 Silvers &amp; 17 Bronzes</p>
 <p>2023: 4 Silvers &amp; 8 Bronzes</p>
-<p>2022: 9 Bronzes</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 - 2024</p>
+<p>2023 - 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National Orienteering Race</strong>
 </p>
+<p>2025: 1<sup>st</sup> Runner Up in C Division Boys Category</p>
 <p>2023: 1<sup>st</sup> Place in B Division Boys Category &amp; 1<sup>st</sup> Place
 in C Division Boys Category</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 - 2024</p>
+<p>2023 - 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>G.A.R.an.G Adventure Race</strong>
 </p>
+<p>2025: 1<sup>st</sup> Runner Up in Mixed Gender Category, 2<sup>nd</sup> Runner
+Up in All-Male Category, 2<sup>nd</sup> Runner Up in All-Female Category</p>
 <p>2024: 1<sup>st</sup> Runner Up in All-Male Category</p>
 <p>2023: 1<sup>st</sup> Runner Up in All-Male Category &amp; 2<sup>nd</sup> Runner
 Up in Mixed Category</p>
-<p>2022: 1<sup>st</sup> Runner Up in Mixed Category</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>2024 - 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>PassionWave Orienteering Championships</strong>
 </p>
-<p>1<sup>st</sup> Place in C Division Girls Category</p>
-<p>2<sup>nd</sup> Runner Up in C Division Boys Category</p>
+<p>2025: 1<sup>st</sup> Place in B Division Girls Category &amp; 2<sup>nd</sup> Runner
+Up in C Division Boys Category</p>
+<p>2024: 1<sup>st</sup> Place in C Division Girls Category, 2<sup>nd</sup> Runner
+Up in C Division Boys Category &amp;</p>
 <p>1<sup>st</sup> &amp; 2<sup>nd</sup> Runner Up in B Division Boys Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>2024 – 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PassionWave Adventure Race</strong>
+<p><strong>PassionWave Jurong Lake Adventure Race</strong>
 </p>
-<p>2<sup>nd</sup> Runner Up in All Male Category</p>
+<p>2025: 1<sup>st</sup> Place in Mixed Gender - School Category, 2<sup>nd</sup> Runner
+Up in All Male - School Category</p>
+<p>2024: 2<sup>nd</sup> Runner Up in All Male - School Category</p>
 </td>
 </tr>
 <tr>
@@ -372,9 +365,23 @@ Up in Mixed Category</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/odac%20trg.jpg">
 </div>
 <p>*CCA sessions may end later for out-of-school activities.</p>
-<p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/ODAC_Teacher_s_Day.jpg">
+</div>
+<p>ODAC Teacher's Day
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/ODAC_BTNR.jpg">
+</div>
+<p>ODAC BTNR
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ODAC/ODAC_APH.jpg">
+</div>
+<p>ODCA APH
 <br>
 </p>
 <div class="isomer-image-wrapper">

@@ -9,11 +9,17 @@ third_nav_title: Co Curricular Activities
 <p>In Netball, we aim to nurture our girls' passion for the game as well
 as inculcate in them the ASPIRE values in facing the challenges associated
 with the game.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_10_21_at_7_52_29_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/01.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC00434__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/03.jpg">
 </div>
 <p>We truly believe that no amount of talent can make up for the lack of
 practice. Our team of dedicated, committed and passionate netball club
@@ -23,29 +29,22 @@ we faced made us stronger as a team and fostered stronger ties among our
 members.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC02768.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/04.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC04458.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/05.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC02528.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/06.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC05311.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC01150.jpg">
-</div>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
-<p>• Ms Teo Wei Na (AIC)</p>
-<p>• Ms Karen Seah</p>
-<p>• Ms Sim Shin Jie</p>
-<p>• Ms Tan Wei Min</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Teo Wei Na (OIC)</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Karen Sia (AIC)</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Sim Shin Jie</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Tan Wei Min</p>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -59,7 +58,7 @@ members.</p>
 <p>Name</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCE Class</p>
+<p>Class</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Position / Appointment</p>
@@ -67,10 +66,10 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maggie Koo Mei Qi</p>
+<p>Seet Jing Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4NB</p>
+<p>3I4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain (B Division)</p>
@@ -78,10 +77,10 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Rei Ern Cynthia</p>
+<p>Adelle Chua Jia Rong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4NB</p>
+<p>3I7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain (B Division)</p>
@@ -89,10 +88,10 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Aqifa Naila Binte Ahmadulhaq</p>
+<p>Neo Tze Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4NB</p>
+<p>3I4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain (B Division)</p>
@@ -113,6 +112,46 @@ members.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCCC National School Games (NSG) Netball West Zone B Division Girls 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CT Netball Fiesta 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCCC NSG Netball National C Division Girls 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deloitte Pesta Sukan 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Westwood Invitational 2025</p>
 </td>
 </tr>
 <tr>
@@ -165,6 +204,10 @@ members.</p>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/netball.jpg">
+</div>
 <h4><strong>KEY ACHIEVEMENT</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -178,6 +221,14 @@ members.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Achievement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCCC NSG Netball National C Division Girls 2024 League Three 1<sup>st</sup> Runner-Up</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +252,7 @@ members.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Daisy Tan Carnival U17 3<sup>rd</sup> place</p>
+<p>Daisy Tan Carnival U17 3<sup>rd</sup>&nbsp;place</p>
 </td>
 </tr>
 <tr>
@@ -225,19 +276,17 @@ members.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netops Sports Netball Carnival November 2023 U14 2<sup>nd</sup> Runner
+<p>Netops Sports Netball Carnival November 2023 U14 2<sup>nd</sup>&nbsp;Runner
 Up</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSC05824.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/netball_Picture4.jpg">
 </div>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_10_21_at_7_52_29_PM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball_Picture5.jpg">
 </div>
 <h4><strong>TRAINING DETAILS</strong></h4>
 <table style="minWidth: 75px">
@@ -248,22 +297,22 @@ Up</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Day</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Venue</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 pm – 6.15 pm</p>
+<p>3:15pm – 6:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Quadrangle</p>
@@ -274,10 +323,10 @@ Up</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 pm – 6.15 pm</p>
+<p>3:15pm – 6:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quadrangle</p>
+<p>Quadrangle / Hall</p>
 </td>
 </tr>
 </tbody>
