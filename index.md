@@ -24,6 +24,8 @@ sections:
       description: 15 November 2025
       image: /images/Open_House_2025.jpg
       alt: Image alt text
+      url: https://sites.google.com/moe.edu.sg/ctss-e-open-house-2025/home?authuser=0
+      button: CTSS Open House Microsite
   - infopic:
       title: Announcements
       subtitle: Latest Announcements
