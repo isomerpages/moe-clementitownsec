@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/textbook-list-for-2025/" rel="noopener nofollow" target="_blank">Textbook List for 2025</a>
+<p><a href="/textbook-list-for-2026/" rel="noopener nofollow" target="_blank">Textbook List for 2026</a>
 </p>
 </li>
 <li>
