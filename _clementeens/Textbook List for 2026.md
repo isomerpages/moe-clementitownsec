@@ -63,22 +63,27 @@ textbooks &amp; stationery.</p>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Textbook/2026/S2__G2_.pdf" rel="noopener nofollow" target="_blank">G2 Level Subjects</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Textbook/2026/S3__G3_.pdf" rel="noopener nofollow" target="_blank">G3 Level Subjects</a>
+</p>
 </li>
 </ul>
 <h2>SECONDARY 4</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Textbook/2025/CTSS_2025_S4_EXP.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Express</a>
+<p><a href="/files/Textbook/2026/S4__EXP_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Express</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Textbook/2025/CTSS_2025_S4_NA.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Academic</a>
+<p><a href="/files/Textbook/2026/S4__NA_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Academic</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Textbook/2025/CTSS_2025_S4_NT.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Technical</a>
-</p>
+<p></p>
+<p></p>
 </li>
 </ul>
 <h2>SECONDARY 5</h2>
@@ -95,4 +100,5 @@ textbooks &amp; stationery.</p>
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
-<p></p>
+<p><a href="/files/Textbook/2026/S3__G2_.pdf" rel="noopener nofollow" target="_blank">G2 Level Subjects</a>
+</p>
