@@ -82,23 +82,23 @@ textbooks &amp; stationery.</p>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Textbook/2026/S4__NT_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Technical</a>
+</p>
 <p></p>
 </li>
 </ul>
 <h2>SECONDARY 5</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Textbook/2025/CTSS_2025_S5_NA.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Normal Academic</a>
+<p><a href="/files/Textbook/2026/S5__NA_.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Normal Academic</a>
+<br>
+<br>
 </p>
 </li>
 </ul>
-<p>
-<br>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
 <p><a href="/files/Textbook/2026/S3__G2_.pdf" rel="noopener nofollow" target="_blank">G2 Level Subjects</a>
+<a href="/files/Textbook/2026/S4__NT_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Normal Technical</a>
 </p>
