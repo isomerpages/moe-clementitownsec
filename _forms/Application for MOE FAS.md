@@ -2,6 +2,7 @@
 title: Application for MOE FAS
 permalink: /forms-1/application-for-moe-fas/
 description: ""
+variant: markdown
 ---
 Please click on the following link to access the following forms:
 
