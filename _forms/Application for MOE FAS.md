@@ -2,26 +2,28 @@
 title: Application for MOE FAS
 permalink: /forms-1/application-for-moe-fas/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Please click on the following link to access the following forms:
-
-[1. MOE FAS Application Form 2024](/files/Forms/2024/2024%20moe%20fas%20application%20form.pdf)
-
-[2\. eFAS Application](/files/Forms/eFAS%20Application.pdf)
-  
-
-Thank you.
-
+<p>We are pleased to inform you that MOE Financial Assistance Scheme (FAS)
+2026 is now open for applications.</p>
+<p>Please apply MOE Financial Assistance Scheme (FAS) 2026 digitally either
+through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Parents Gateway app services, under Financial assistance; or</p>
+</li>
+<li>
+<p>Online application link:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+</p>
+</li>
+</ul>
+<p>Thank you.</p>
+<p>
 <br>
 <br>
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/banner_awards_.png" alt="banner awards" style="width:95%;">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
+</div>
+<p></p>
