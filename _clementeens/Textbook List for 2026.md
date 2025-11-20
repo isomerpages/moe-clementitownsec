@@ -8,7 +8,12 @@ description: ""
 textbooks &amp; stationery.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/Textbook/2026/CTSS_2025_Purchase_Guide_S1.pdf" rel="noopener nofollow" target="_blank">CTSS 2025 Purchase Guide S1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Textbook/2026/CTSS_2025_Purchase_Guide_S2_5.pdf" rel="noopener nofollow" target="_blank">CTSS 2025 Purchase Guide S2-5</a>
+</p>
 </li>
 </ul>
 <p></p>
@@ -22,16 +27,17 @@ textbooks &amp; stationery.</p>
 <h2>SECONDARY 1</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Textbook/2025/CTSS_2025_S1_G1.pdf" rel="noopener nofollow" target="_blank">G1 Level Subjects</a>
+<p><a href="/files/Textbook/2026/S1__G1_.pdf" rel="noopener nofollow" target="_blank">G1 Level Subjects</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Textbook/2025/CTSS_2025_S1_G2.pdf" rel="noopener nofollow" target="_blank">G2 Level Subjects</a>
+<p><a href="/files/Textbook/2026/S1__G2_.pdf" rel="noopener nofollow" target="_blank">G2 Level Subjects</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Textbook/2025/CTSS_2025_S1_G3.pdf" rel="noopener nofollow" target="_blank">G3 Level Subjects</a>
+<p><a href="/files/Textbook/2026/S1__G3_.pdf" rel="noopener nofollow" target="_blank">G3 Level Subjects</a>
 </p>
+<p></p>
 </li>
 </ul>
 <h2>SECONDARY 2</h2>
