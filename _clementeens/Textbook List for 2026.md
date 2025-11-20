@@ -4,8 +4,14 @@ permalink: /textbook-list-for-2026/
 variant: tiptap
 description: ""
 ---
-<p>Click on the <a href="/files/Textbook/2025/3__CTSS_2024_Purchase_Guide_S2_5.pdf" rel="noopener nofollow" target="_blank">Purchase Guide</a> for
-Information on Purchase of School Textbooks &amp; Stationery.</p>
+<p>Click on the purchase guides below for information on purchase of school
+textbooks &amp; stationery.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+<p></p>
 <p><strong>Pacific Bookstores</strong>
 <br>14 Arumugam Road #08-01 LTC Building C
 <br>Singapore 409959
