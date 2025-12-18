@@ -246,7 +246,7 @@ variant: tiptap
 <img style="width: 35%;" height="auto" width="100%" alt="Ms Ang Hui Xia" src="/images/Ang_Hui_Xia.jpg">
 </div>
 <p>Mdm Ang Hui Xia
-<br><a href="ang_hui_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_xia@moe.edu.sg</a> 
+<br><a href="ang_hui_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_xia@moe.edu.sg</a>
 </p>
 <p></p>
 <p>
