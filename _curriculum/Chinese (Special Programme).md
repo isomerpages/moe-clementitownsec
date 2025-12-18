@@ -76,8 +76,8 @@ zonal centers websites to accept the offer during Sec One Registration&nbsp;<str
 If they missed the registration deadline, it would be considered as they
 have given up the offer of C(SP).</p>
 <p>For students who are not offered C(SP), they can appeal by submitting
-the online application form by <strong><u>17 January 2025</u></strong>.
-Schools will be notified of the outcome by <strong><u>7 February 2025</u></strong>.</p>
+the online application form by <strong><u>16 January 2026.</u></strong>
+</p>
 <p>But getting a place at zonal centers is not guaranteed as the places are
 subject to available vacancies.</p>
 <p><em>*Please refer to the annual “Choosing your Secondary Schools for admission to Secondary 1” e-booklet to find out more details about Foreign Languages, Asian Languages and Special Programmes.</em>
