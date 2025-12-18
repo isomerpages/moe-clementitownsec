@@ -14,7 +14,11 @@ variant: tiptap
 <br><a href="mailto:tan_ming_hon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_hon@moe.edu.sg</a>
 </p>
 <p></p>
-<h2>AYH/Sec 1</h2>
+<h2>AYH/Sec 2</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Mr Xiao Yongda, Clement" src="/images/Xiao_Yongda_Clement.jpg">
+</div>
 <p>Mr Xiao Yongda Clement</p>
 <p><a href="mailto:xiao_yongda_clement@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiao_yongda_clement@moe.edu.sg</a>
 </p>
@@ -43,10 +47,10 @@ variant: tiptap
 <p>1A1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Siew Kwai</p>
+<p>Ms Wee Yee Ing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Woong Choy Wan</p>
+<p>Ms Sophia Ng Jia Ming</p>
 </td>
 </tr>
 <tr>
@@ -54,11 +58,10 @@ variant: tiptap
 <p>1A2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hamizah Begum Binte Mohd Hanif</p>
+<p>Ms Teo Li Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jit Jin (Sem 1)</p>
-<p>Mr Xiao Yongda Clement (Sem 2)</p>
+<p>Mr Yang Chuanzhi</p>
 </td>
 </tr>
 <tr>
@@ -66,10 +69,10 @@ variant: tiptap
 <p>1A3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chor Seng</p>
+<p>Ms Wee Ni Swen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan-Wong Siew Har Winnie</p>
+<p>Mr Foo Chuan Yee Daniel</p>
 </td>
 </tr>
 <tr>
@@ -77,10 +80,10 @@ variant: tiptap
 <p>1A4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Hui Zhen</p>
+<p>Mrs Yuen Lay Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Heng Yuen Hao</p>
+<p>Ms Lee Ruisi Priscilla</p>
 </td>
 </tr>
 <tr>
@@ -88,10 +91,10 @@ variant: tiptap
 <p>1A5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eng Hoe Peter</p>
+<p>Mr Ethan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fu Rong</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -99,10 +102,10 @@ variant: tiptap
 <p>1A6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lehming-Teo Shi Hui Rachel</p>
+<p>Mr Ng Loong Kin Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Arul Praveen</p>
+<p>Mdm Lisa Ieo Gek Ling</p>
 </td>
 </tr>
 <tr>
@@ -110,10 +113,10 @@ variant: tiptap
 <p>1A7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rashidah Bte Kassim</p>
+<p>Mdm Mursalina Mohd Saim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Wei Min</p>
+<p>Ms Chan Wen Xin</p>
 </td>
 </tr>
 <tr>
@@ -121,10 +124,10 @@ variant: tiptap
 <p>1A8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Faizal B Bohari</p>
+<p>Mr Chidambaram Saravanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan E-fung Joycelyn</p>
+<p>Ms Tracy Tey Pin Pin</p>
 </td>
 </tr>
 </tbody>
