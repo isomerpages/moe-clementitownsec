@@ -19,6 +19,13 @@ sections:
           description: ""
           url: /students
   - infopic:
+      title: CTSS Secondary 1 Registration (2026)
+      id: infopic
+      button: Sec 1 Registration microsite
+      url: https://sites.google.com/moe.edu.sg/ctsss1regi2026/home
+      image: /images/Sec_1_Registration_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: Clementi Town Secondary School Open House 2025
       id: infopic
       description: 15 November 2025
