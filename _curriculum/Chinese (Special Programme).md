@@ -32,15 +32,16 @@ and to help students in self-learning.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students who passed C(SP) at ‘O’ level would be given two bonus points&nbsp;for
-admission into Junior College (JC) and Millennia Institute (MI).</p>
+<p>Students who passed C(SP) at ‘O’ level would be given two bonus points
+(Grade A1 to C6) &nbsp;for admission into Junior College (JC) and Millennia
+Institute (MI).</p>
 </li>
 <li>
-<p>The C(SP) grade could be used in lieu of a Humanities subject in the&nbsp;L1R5
-aggregate score (L1R5) for admission into JC or MI.</p>
+<p>The C(SP) grade could be used in lieu of a Humanities subject in the&nbsp;computation
+of L1R4 aggregate score for admission into JC or MI.</p>
 </li>
 </ul>
-<p><em>*With effect from Jan 2012, students who have prior knowledge in the language (e.g. had acquired a PSLE-equivalent proficiency)/ MTL-exempted and show an interest to offer C(SP) are required to obtain approval from CPDD through their schools. The ‘O’ level C(SP) grades of these groups of students cannot be used for L1R5 aggregate computation and they will not enjoy the incentives for purpose of JC admission (i.e. bonus points for JC admission and using CSP grade in lieu of Humanities). In addition, while grades obtained from internal assessments may be documented on school result slips, they cannot be counted towards in-school progression.</em>
+<p><em>*With effect from Jan 2012, students who have prior knowledge in the language (e.g. had acquired a PSLE-equivalent proficiency)/ MTL-exempted and show an interest to offer C(SP) are required to obtain approval from CPDD through their schools. The ‘O’ level C(SP) grades of these groups of students cannot be used for L1R4 aggregate computation and they will not enjoy the incentives for purpose of JC admission (i.e. bonus points for JC admission and using CSP grade in lieu of Humanities). In addition, while grades obtained from internal assessments may be documented on school result slips, they cannot be counted towards in-school progression.</em>
 </p>
 <p></p>
 <p><strong><u>Aims/Objectives of the C(SP)</u></strong>
@@ -75,8 +76,8 @@ zonal centers websites to accept the offer during Sec One Registration&nbsp;<str
 If they missed the registration deadline, it would be considered as they
 have given up the offer of C(SP).</p>
 <p>For students who are not offered C(SP), they can appeal by submitting
-the online application form by <strong><u>17 January 2025</u></strong>.
-Schools will be notified of the outcome by <strong><u>7 February 2025</u></strong>.</p>
+the online application form by <strong><u>16 January 2026.</u></strong>
+</p>
 <p>But getting a place at zonal centers is not guaranteed as the places are
 subject to available vacancies.</p>
 <p><em>*Please refer to the annual “Choosing your Secondary Schools for admission to Secondary 1” e-booklet to find out more details about Foreign Languages, Asian Languages and Special Programmes.</em>
@@ -97,8 +98,8 @@ into account for computation of overall performance.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Lessons are held once a week in the afternoon outside the school curriculum
-hours on Thursdays in Clementi Town Secondary School. Each weekly session
-lasts for 3 hours (3.15pm-6.15pm) and attendance is compulsory.</p>
+hours on Thursdays at Clementi Town Secondary School. Each weekly session
+lasts for 3 hours (3.30pm-6.15pm) and attendance is compulsory.</p>
 </li>
 <li>
 <p>Textbooks may be purchased from the bookshop at Clementi Town Secondary
