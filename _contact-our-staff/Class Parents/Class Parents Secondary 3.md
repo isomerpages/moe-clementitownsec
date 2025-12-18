@@ -5,21 +5,14 @@ description: ""
 third_nav_title: Class Parents
 variant: tiptap
 ---
-<h2>LEVEL YEAR HEAD (Upper Sec)</h2>
+<h2>LEVEL YEAR HEAD (Sec 3)</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/teochaiyeow.jpeg">
 </div>
 <p>Mr Teo Chai Yaw
 <br><a href="mailto:teo_chai_yaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chai_yaw@moe.edu.sg</a>
 </p>
-<h2>AYH/Sec 3</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="Mdm Rosezalina" src="/images/mdm rosezalina bte asmoin2.jpeg">
-</div>
-<p>Mdm Rosezalina Asmoin</p>
-<p><a href="mailto:rosezalina_asmoin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosezalina_asmoin@moe.edu.sg</a>
-</p>
 <h2>CLASS PARENTS</h2>
 <table style="minWidth: 75px">
 <colgroup>
@@ -41,80 +34,79 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3I1</p>
+<p>3I1-3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Shin Jie</p>
+<p>Ms Teo Wei Na</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohideen Nizar s/o Anwar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3I2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Keng Yeow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Farah Binte Rosalan</p>
+<p>Ms He Meiyu</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3I3</p>
+<p>3I2-3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Bek Su Ling</p>
+<p>Ms Sheetal Sonawane</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Hui Xia</p>
-<p>Mr Tan Jia Yi Joel (Sem 2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3I4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Karen Sia Gee Han</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Chang Shi En</p>
+<p>Mr Aidil Bin Md Idris</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3I5</p>
+<p>3I3-3K</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Wan Ting</p>
+<p>Mr Alvin Tan Jia Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharmeela Banu d/o Shah Jehan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3I6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tay Kai Ling Joyner</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shafiah d/o Syed Masood</p>
+<p>Ms Rosnie Nasuha</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3I7</p>
+<p>3I4-3R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eng Chia Lee</p>
+<p>Mr Joe Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosezalina Bte Asmoin</p>
+<p>Ms Sumitha Krisnan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3I5-3T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lau Ying Ying Doreen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chen Liping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3I6-3W</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ke Kaijie Justin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Chen Xi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3I7-3Y</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Ser Yong Philip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Bin Chuan</p>
 </td>
 </tr>
 </tbody>
