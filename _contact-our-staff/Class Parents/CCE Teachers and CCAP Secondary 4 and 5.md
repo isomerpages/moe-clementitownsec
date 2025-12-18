@@ -5,14 +5,16 @@ description: ""
 third_nav_title: Class Parents
 variant: tiptap
 ---
-<h2>LEVEL YEAR HEAD (Upper Sec)</h2>
+<h2>AYH/ Sec 4 and 5</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="Teo Chai Yeow" src="/images/teochaiyeow.jpeg">
+<img style="width: 40%;" height="auto" width="100%" alt="Mdm Rosezalina" src="/images/mdm rosezalina bte asmoin2.jpeg">
 </div>
-<p>Mr Teo Chai Yaw</p>
-<p><a href="mailto:teo_chai_yaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chai_yaw@moe.edu.sg</a>
+<p>Mdm Rosezalina Asmoin</p>
+<p><a href="mailto:rosezalina_asmoin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosezalina_asmoin@moe.edu.sg</a>
 </p>
+<p></p>
+<p></p>
 <h2>CCE TEACHERS</h2>
 <table style="minWidth: 75px">
 <colgroup>
@@ -37,10 +39,10 @@ variant: tiptap
 <p>4P1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Wei Na</p>
+<p>Mr Mohideen Nizar s/o Anwar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Aidil Bin Md Idris</p>
+<p>Ms Sim Shin Jie</p>
 </td>
 </tr>
 <tr>
@@ -48,10 +50,10 @@ variant: tiptap
 <p>4P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yuen-Ang Lay Eng</p>
+<p>Mdm Farah Rosalan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Bin Chuan</p>
+<p>Mr Chua Keng Yeow</p>
 </td>
 </tr>
 <tr>
@@ -59,10 +61,10 @@ variant: tiptap
 <p>4P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yap Jin Hua Andy</p>
+<p>Mdm Ang Hui Xia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Li Yin</p>
+<p>Mr Tan Jia Yi Joel</p>
 </td>
 </tr>
 <tr>
@@ -70,10 +72,10 @@ variant: tiptap
 <p>4P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Foo Chuan Yee Daniel</p>
+<p>Ms Karen Sia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Keng Woon Madeline</p>
+<p>Ms Chang Shi En</p>
 </td>
 </tr>
 <tr>
@@ -81,10 +83,10 @@ variant: tiptap
 <p>4P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tey Pin Pin Tracy</p>
+<p>Ms Loh Wan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chidambaram Saravanan</p>
+<p>Mr Kamal Bin Yacob</p>
 </td>
 </tr>
 <tr>
@@ -92,10 +94,10 @@ variant: tiptap
 <p>4P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rosnie Nasuha Binte Rosman</p>
+<p>Mdm Shafiah D/O Syed Masood</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Liangcai Jeremy</p>
+<p>Ms Tay Kai Ling Joyner</p>
 </td>
 </tr>
 <tr>
@@ -103,21 +105,10 @@ variant: tiptap
 <p>4P7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Chen Xi</p>
+<p>Mdm Rosezalina Bte Asmoin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Xiu Hui Tessa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4P8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Jia Ming Sophia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chen Liping</p>
+<p>Ms Eng Chia Lee</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +116,7 @@ variant: tiptap
 <p>5P</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Loong Kin Alvin</p>
+<p>Ms Lim Keng Woon Madeline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
