@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Class Parents
 variant: tiptap
 ---
-<h2>LEVEL YEAR HEAD (Lower Sec)</h2>
+<h2>AYH/ Sec2</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/mr tan ming hon kenneth.jpeg">
+<img style="width: 40%;" height="auto" width="100%" alt="Mr Xiao Yongda, Clement" src="/images/Xiao_Yongda_Clement.jpg">
 </div>
-<p>Mr Tan Ming Hong Kenneth
-<br><a href="mailto:tan_ming_hon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_hon@moe.edu.sg</a>
+<p>Mr Xiao Yongda, Clement
+<br><a href="mailto:xiao_yongda_clement@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiao_yongda_clement@moe.edu.sg</a>
 </p>
 <p></p>
 <h2>CLASS PARENTS</h2>
@@ -38,11 +38,10 @@ variant: tiptap
 <p>2R1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jia Jie Alvin</p>
+<p>Ms Woong Choy Wan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vaishnashri Meynon S</p>
-<p>Ms Lee Ruisi Priscilla (Sem 2)</p>
+<p>Mr Yap Jin Hua Andy</p>
 </td>
 </tr>
 <tr>
@@ -50,10 +49,10 @@ variant: tiptap
 <p>2R2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yok Tien Ethan</p>
+<p>Mr Xiao Yongda Clement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lynda Kwan</p>
+<p>Ms Hamizah Begum</p>
 </td>
 </tr>
 <tr>
@@ -61,10 +60,10 @@ variant: tiptap
 <p>2R3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kamal Bin Yacob</p>
+<p>Mr Tan Chor Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sumitha Kirsnan</p>
+<p>Mrs Winnie Tan</p>
 </td>
 </tr>
 <tr>
@@ -72,10 +71,10 @@ variant: tiptap
 <p>2R4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ke Kaijie Justin</p>
+<p>Ms Heng Hui Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Wen Xin</p>
+<p>Mr Heng Yuan Hao</p>
 </td>
 </tr>
 <tr>
@@ -83,10 +82,10 @@ variant: tiptap
 <p>2R5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Ser Yong Philip</p>
+<p>Mr Tan Eng Hoe, Peter</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sheetal Madhukar Sonawane</p>
+<p>Mdm Fu Rong</p>
 </td>
 </tr>
 <tr>
@@ -94,10 +93,10 @@ variant: tiptap
 <p>2R6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wee Yee Ing May</p>
+<p>Mrs Lehming-Teo Shi Hui Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms He Meiyu</p>
+<p>Mr Arul Praveen</p>
 </td>
 </tr>
 <tr>
@@ -105,10 +104,10 @@ variant: tiptap
 <p>2R7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Musalina Bte Mohd Saim</p>
+<p>Ms Rashidah Bte Kassim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wee Mi Swen</p>
+<p>Ms Tan Wei Min</p>
 </td>
 </tr>
 <tr>
@@ -116,10 +115,10 @@ variant: tiptap
 <p>2R8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lau Ying Ying Doreen</p>
+<p>Mr Lim Liangcai Jeremy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Hwai Ee Stella</p>
+<p>Ms Tan E-Fung Joycelyn</p>
 </td>
 </tr>
 </tbody>
