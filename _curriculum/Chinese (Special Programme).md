@@ -98,8 +98,8 @@ into account for computation of overall performance.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Lessons are held once a week in the afternoon outside the school curriculum
-hours on Thursdays in Clementi Town Secondary School. Each weekly session
-lasts for 3 hours (3.15pm-6.15pm) and attendance is compulsory.</p>
+hours on Thursdays at Clementi Town Secondary School. Each weekly session
+lasts for 3 hours (3.30pm-6.15pm) and attendance is compulsory.</p>
 </li>
 <li>
 <p>Textbooks may be purchased from the bookshop at Clementi Town Secondary
