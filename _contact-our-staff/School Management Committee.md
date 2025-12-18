@@ -25,17 +25,17 @@ variant: tiptap
 <img style="width:35%" height="auto" width="100%" alt="SMC2024: Mrs Wong Huang Kexin" src="/images/mrs%20wong%20huang%20kexin.jpg">
 </div>
 <p>Mrs Wong Huang Kexin
-<br><a href="ctss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ctss@moe.edu.sg</a> 
+<br><a href="ctss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ctss@moe.edu.sg</a>
 </p>
 <h3><strong>VICE-PRINCIPAL ADMIN</strong><br></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Mr Tan Liang Hooi VPA" src="/images/Mr Tan Liang Hooi.jpeg">
 </div>
 <p>Mr Tan Liang Hooi
-<br><a href="ctss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ctss@moe.edu.sg</a> 
+<br><a href="ctss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ctss@moe.edu.sg</a>
 </p>
 <p></p>
-<h3><strong>HEAD OF DEPARTMENT,&nbsp; SCHOOL STAFF DEVELOPER </strong></h3>
+<h3><strong>HEAD OF DEPARTMENT,&nbsp; SCHOOL STAFF DEVELOPER</strong></h3>
 <h4>HOD/ Aesthetics, Craft and Technology</h4>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC2024: Mrs Peh" src="/images/Mrs%20Peh%20Yeo%20Hwee%20Ching%20Magdelene.jpeg">
@@ -125,7 +125,7 @@ variant: tiptap
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Ms Siti" src="/images/ms%20siti%20nurwati%20dalduri.jpeg">
 </div>
 <p>Ms Siti Nurwati Dalduri
-<br><a href="siti_nurwati_dalduri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurwati_dalduri@moe.edu.sg</a> 
+<br><a href="siti_nurwati_dalduri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurwati_dalduri@moe.edu.sg</a>
 </p>
 <h3><strong>YEAR HEADS AND ASSISTANT YEAR HEADS</strong></h3>
 <h3><strong>Year Head Sec 1</strong></h3>
@@ -135,7 +135,7 @@ variant: tiptap
 <p>Mr Tan Ming Hon, Kenneth
 <br><a href="tan_ming_hon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_hon@moe.edu.sg</a>
 </p>
-<h3><strong>Assistance Year Head  Sec 2</strong></h3>
+<h3><strong>Assistance Year Head Sec 2</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="Mr Clement Xiao" src="/images/Xiao_Yongda_Clement.jpg">
@@ -160,7 +160,7 @@ variant: tiptap
 <br><a href="rosezalina_asmoin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosezalina_asmoin@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>SUBJECT HEADS </strong></h3>
+<h3><strong>SUBJECT HEADS</strong></h3>
 <h3><strong>SH/Aesthetics &amp; Student Leadership - Internal</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -205,7 +205,6 @@ variant: tiptap
 <br>
 </p>
 <h3><strong>SH / Math</strong></h3>
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ms Wee Yee Ing.jpg">
 </div>
@@ -246,9 +245,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="Ms Ang Hui Xia" src="/images/Ang_Hui_Xia.jpg">
 </div>
-<p>Mdm Ang Hui Xia</p>
-<p><a href="mailto:ang_hui_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_xia@moe.edu.sg</a>
+<p>Mdm Ang Hui Xia
+<br><a href="ang_hui_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_xia@moe.edu.sg</a> 
 </p>
+<p></p>
 <p>
 <br>
 <br>
