@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Class Parents
 variant: tiptap
 ---
-<h2>LEVEL YEAR HEAD (Sec 3)</h2>
+<h2>LEVEL YEAR HEAD (Upper Secondary)</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/teochaiyeow.jpeg">
 </div>
