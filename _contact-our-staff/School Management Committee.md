@@ -73,11 +73,6 @@ variant: tiptap
 <br><a href="ee_wen_lin_sandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ee_wen_lin_sandy@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>HOD / ICT and Knowledge Management</strong></h3>
-<p></p>
-<p>
-<br>
-</p>
 <h3><strong>HOD /</strong>&nbsp;<strong>Mother Tongue Languages</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mrs Wee" src="/images/Mrs%20Wee%20Loh%20Wee%20Sin.jpeg">
@@ -128,14 +123,14 @@ variant: tiptap
 <br><a href="siti_nurwati_dalduri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurwati_dalduri@moe.edu.sg</a>
 </p>
 <h3><strong>YEAR HEADS AND ASSISTANT YEAR HEADS</strong></h3>
-<h3><strong>Year Head Sec 1</strong></h3>
+<h3><strong>Year Head Lower Secondary</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Tan MH" src="/images/kenneth.jpeg">
 </div>
 <p>Mr Tan Ming Hon, Kenneth
 <br><a href="tan_ming_hon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ming_hon@moe.edu.sg</a>
 </p>
-<h3><strong>Assistance Year Head Sec 2</strong></h3>
+<h3><strong>Assistant Year Head Secondary 2</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="Mr Clement Xiao" src="/images/Xiao_Yongda_Clement.jpg">
@@ -144,7 +139,7 @@ variant: tiptap
 <br><a href="mailto:xiao_yongda_clement@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiao_yongda_clement@moe.edu.sg</a>
 </p>
 <p></p>
-<h3><strong>Year Head Sec 3</strong></h3>
+<h3><strong>Year Head (Upper Secondary)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="Mr Teo Chai Yeow" src="/images/Teo_Chai_Yaw.jpg">
 </div>
@@ -152,7 +147,7 @@ variant: tiptap
 <br><a href="teo_chai_yaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chai_yaw@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>Assistance Year Head Sec 4/5</strong></h3>
+<h3><strong>Assistance Year Head Secondary 4/5</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mdm Roseza" src="/images/Mdm%20Rosezalina.jpeg">
 </div>
@@ -186,9 +181,6 @@ variant: tiptap
 <p>Ms Woong Choy Wan
 <br><a href="woong_choy_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woong_choy_wan@moe.edu.sg</a>
 </p>
-<h3></h3>
-<h3><strong>SH / Character and Citizenship Education</strong></h3>
-<p></p>
 <p>
 <br>
 </p>

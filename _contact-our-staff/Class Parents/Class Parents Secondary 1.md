@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Class Parents
 variant: tiptap
 ---
-<h2>LEVEL YEAR HEAD (Lower Sec)</h2>
+<h2>LEVEL YEAR HEAD (Lower Secondary)</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="AYH Kenneth" src="/images/mr tan ming hon kenneth.jpeg">

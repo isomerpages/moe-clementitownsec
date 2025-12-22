@@ -47,15 +47,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Bek Su Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:bek_su_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bek_su_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr&nbsp;Chan Bin Chuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,15 +146,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Faizal B Bohari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:faizal_bohari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizal_bohari@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Farah Binte Rosalan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,15 +240,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ke_kaijie_justin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ke_kaijie_justin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Khor Eng Hao, Daniel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:khor_eng_hao_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khor_eng_hao_daniel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -407,15 +380,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Farhanah Ramlan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_farhanah_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_farhanah_ramlan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Pang Yuen Chin Christa</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -474,15 +438,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shafiah_syed_masood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shafiah_syed_masood@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sharmeela Banu D/O Shah Jehan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sharmeela_banu_shah_jehan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmeela_banu_shah_jehan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -717,15 +672,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_siew_fang_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_siew_fang_jane@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Vaishnashri Meynon S</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vaishnashri_meynon_s@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vaishnashri_meynon_s@moe.edu.sg</a>
 </p>
 </td>
 </tr>
