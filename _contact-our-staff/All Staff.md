@@ -353,7 +353,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohideen Nizar s/o Anwar</p>
+<p>Dr Mohideen Nizar s/o Anwar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohideen_nizar_anwar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohideen_nizar_anwar@moe.edu.sg</a>
