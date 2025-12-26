@@ -42,15 +42,15 @@ variant: tiptap
 <br><a href="ang_lay_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lay_eng@moe.edu.sg</a>
 <br>
 </p>
-<h4>Senior Teacher Citizenship and Character Education (Internal)</h4>
+<h4>Senior Teacher/ Character and Citizenship Education (Internal)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Mr Mohideeen" src="/images/Mr Mohideeen Nizar.jpeg">
 </div>
-<p>Mr Mohideen Nizar s/o Anwar
+<p>Dr Mohideen Nizar s/o Anwar
 <br><a href="mailto:mohideen_nizar_anwar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohideen_nizar_anwar@moe.edu.sg</a>
 </p>
 <p></p>
-<h4>ST / Educational Support (Internal)<br></h4>
+<h4>Senior Teacher/ Educational Support (Internal)<br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Mr Justin Ke" src="/images/Mr Ke Kaijie Justin.jpeg">
 </div>
