@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h5>Online Registration for 2026 Sec 1 Chinese (Special Programme) (C(SP)) Successful Applicants</h5>
 <p>Dear successful Chinese (Special Programme) applicants, please refer to
-the attached <a href="https://drive.google.com/file/d/1b_svu7Kx77ONEbDT2XobA7Jl6yBfoT3D/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">FILE</a> for
+the following <a href="/curriculum/chinese-special-programme/" rel="noopener nofollow" target="_blank">link</a> for
 more information about the online registration process.</p>
 <p></p>
 <h5>Information for Sec 1 Students Who Would Like to Appeal for Chinese/Malay (Special Programme)</h5>
