@@ -110,7 +110,7 @@ lesson.</p>
 <p>*If there is a clash with the school timetable/other compulsory school
 programs/activities, and students wish to continue this course, they are
 advised to transfer to MOELC. Please approach your subject teacher to obtain
-the transfer form. (Details may find from MOE language center website:
+the transfer form. (Details may be found from the MOE language center website:
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/courses/</a>)</p>
 <p><em>However, all class transfers will be subject to the availability of vacancies. Where there are no vacancies in the requested day/time slot(s), students will be put on a waiting list. While waiting for a place to be freed up, students are to make arrangements to attend the class initially assigned to them.</em>
 </p>
