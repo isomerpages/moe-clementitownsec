@@ -37,7 +37,6 @@ sections:
   - infopic:
       title: Announcements
       subtitle: Latest Announcements
-      description: Infopic description
       button: Click here for latest announcements
       url: /announcements
       image: /images/Infopic/infopic2.JPG
