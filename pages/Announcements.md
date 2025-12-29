@@ -4,25 +4,15 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<h5>Online Registration for 2025 Sec 1 Chinese (Special Programme) (C(SP)) Successful Applicants</h5>
+<h5>Online Registration for 2026 Sec 1 Chinese (Special Programme) (C(SP)) Successful Applicants</h5>
 <p>Dear successful Chinese (Special Programme) applicants, please refer to
-the attached <a href="https://drive.google.com/file/d/1b_svu7Kx77ONEbDT2XobA7Jl6yBfoT3D/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">FILE</a> for
+the following <a href="/curriculum/chinese-special-programme/" rel="noopener nofollow" target="_blank">link</a> for
 more information about the online registration process.</p>
 <p></p>
 <h5>Information for Sec 1 Students Who Would Like to Appeal for Chinese/Malay (Special Programme)</h5>
 <p>For students who would like to appeal for Chinese/Malay (Special Programme),
 please refer to the attached <a href="https://drive.google.com/file/d/1TElcN9WC3vogGi1A8BJFwOJqYZUhlpzS/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">FILE</a> for
 more details about the late application and appeal procedure.</p>
-<p></p>
-<h5>Release of 2024 Singapore-Cambridge GCE N(A)- &amp; N(T)-Level Examination Results</h5>
-<p>Dear students who have sat for the GCE N-Level Examinations 2024,</p>
-<p></p>
-<p>Please be informed that the results of the 2024 Singapore-Cambridge General
-Certificate of Education Normal (Academic)-[N(A)] and Normal (Technical)-[N(T)]
-Level Examinations will be released on Monday, 16 December 2024, 2.00pm.</p>
-<p>Please report to school in full-school uniform and proper grooming by
-1.45pm.</p>
-<p>Thank you.</p>
 <p></p>
 <h5>Resource Kit for Parents on Back to School Arrangements</h5>
 <p>Dear Parents / Guardians,
