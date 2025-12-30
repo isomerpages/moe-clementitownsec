@@ -4,39 +4,36 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p>As we step into 2025, I am filled with optimism and excitement for the
-year ahead. The past year, 2024, has been a fulfilling one for our school
-as we embarked on the ICT Masterplan 2030. This initiative saw our teachers
-exploring innovative teaching pedagogies, which enriched classroom experiences
-and made learning more engaging for our students. These efforts reflect
-our unwavering commitment to providing a holistic and future-ready education
-for every learner.</p>
-<p>This year, we are delighted to welcome 8 new classes of Secondary One
-student to our school community. To our newest members, we extend our warmest
-greetings and look forward to journeying with you as you embark on this
-exciting phase of your education.</p>
-<p>As we chart our path forward, we remain steadfast in nurturing 21st-century
-competencies in our students. These include fostering student agency, cultivating
-a growth mindset, and empowering our students to view challenges and failures
-as opportunities for learning and personal growth. We aim to equip them
-with the resilience and adaptability they need to thrive in a rapidly evolving
-world.</p>
-<p>We are also excited about the upcoming improvement works to our school
-environment, which will enhance our learning spaces and make it a more
-vibrant and inspiring place for all. Importantly, we value student voice
-and will actively involve our students in shaping these enhancements. This
-collaborative effort will further strengthen their sense of ownership and
-pride in our school.</p>
-<p>Another significant highlight this year will be our school’s 45th Anniversary
-Celebrations. Through a series of meaningful activities and programs, we
-will honor our rich heritage, celebrate our achievements, and envision
-our shared future.</p>
-<p>Finally, our partnership with parents remains a cornerstone of our success.
-We deeply value the trust and collaboration of our parents as we work together
-to support our students in realizing their fullest potential. By building
-strong home-school partnerships, we can ensure that every child is empowered
-to grow, excel, and shine.</p>
-<p>Let us make 2025 a memorable and impactful year for our school community.</p>
+<p>A very warm welcome to all our students, staff and parents as we begin
+a new school year together. It is always a joy to see our school come alive
+again with energy, purpose and the promise of new beginnings.</p>
+<p>To our newest members — our Sec 1 Clementeens — welcome to the family!
+This is an exciting milestone as you begin a new phase of your educational
+journey. While the transition to secondary school may feel both thrilling
+and daunting, please be assured that you will be well supported every step
+of the way. Our teachers, staff and seniors are here to guide you, encourage
+you and help you grow with confidence.</p>
+<p>At Clementi Town Secondary School, we believe that school should be a
+place of hope, especially amidst the complexities and uncertainties of
+the world around us. Every child matter, and every student is valued for
+their unique strengths, interests and potential. We are committed to creating
+a nurturing environment where our students feel safe to learn, to try,
+to grow and to become the best versions of themselves.</p>
+<p>Our school is also a place where growth is intentionally cultivated. Through
+meaningful learning experiences, strong relationships and purposeful programmes,
+we seek to nurture our students holistically and enable them to realise
+their potential — academically, socially and emotionally.</p>
+<p>In the coming months, you will also see several upgrading works taking
+place around the school. These enhancements are part of our continued efforts
+to create more engaging, inspiring and future-ready learning spaces for
+our students. We are excited about how these developments will further
+enrich the school experience for everyone.</p>
+<p>Finally, we look forward to working in close partnership with our parents.
+Your trust, encouragement and collaboration are invaluable as we support
+each child’s learning journey together. When school and home walk hand
+in hand, our students are best positioned to thrive.</p>
+<p>Let us step into the year ahead with optimism, purpose and a shared commitment
+to helping every Clementeen aspire, grow and shine.</p>
 <p>Educating with you,
 <br>Rasidah Binte Rahim
 <br>Principal
