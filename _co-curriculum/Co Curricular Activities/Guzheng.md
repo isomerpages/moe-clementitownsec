@@ -40,7 +40,10 @@ of unity through shared passion and collaboration in music-making.</p>
 <p>Ms Eng Chia Lee (IC)</p>
 </li>
 <li>
-<p>Ms Doreen Lau&nbsp; (AIC)</p>
+<p>Mr Heng Yuan Hao (AIC)</p>
+</li>
+<li>
+<p>Ms Doreen Lau&nbsp;</p>
 </li>
 <li>
 <p>Ms Woong Choy Wan</p>
