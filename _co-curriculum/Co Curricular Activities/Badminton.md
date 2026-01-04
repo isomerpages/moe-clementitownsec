@@ -24,10 +24,11 @@ their potential.&nbsp;</p>
 <p>Mr Alvin Tan Jia Jie (AIC)</p>
 </li>
 <li>
-<p>Ms Shafiah d/o Syed Masood</p>
+<p>Ms Wee Ni Swen</p>
 </li>
 <li>
-<p>Ms Wee Ni Swen</p>
+<p>Mr Yang Chuanzhi</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
