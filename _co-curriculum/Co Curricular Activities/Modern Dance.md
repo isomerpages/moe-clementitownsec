@@ -21,7 +21,7 @@ learn and bond through teamwork and participating in performances.</p>
 <p>Ms Sumitha Krisnan (OIC)</p>
 </li>
 <li>
-<p>Hamizah Begum Binte Mohd Hanif (AIC)</p>
+<p>Mdm Hamizah Begum Binte Mohd Hanif</p>
 </li>
 <li>
 <p>Mrs Winnie Tan</p>
