@@ -43,10 +43,10 @@ work collaboratively with one another.</p>
 <p>Mr Peter Tan (AIC)</p>
 </li>
 <li>
-<p>Mr Daniel Foo</p>
+<p>Miss Lee Ruisi Priscilla</p>
 </li>
 <li>
-<p>Mdm Bek Su Ling</p>
+<p>Mr Joe Tay</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
