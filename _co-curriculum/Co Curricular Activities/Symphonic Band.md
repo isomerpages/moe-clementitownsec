@@ -22,16 +22,17 @@ self-confidence and a sense of appreciation for the aesthetics.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Jeremy Lim (OIC)</p>
+<p>Mr Tan Ser Yong, Philip (OIC)</p>
 </li>
 <li>
-<p>Mr Philip Tan (AIC)</p>
+<p>Miss Tan E-Fung, Joycelyn (AIC)</p>
 </li>
 <li>
-<p>Ms Joycelyn Tan</p>
+<p>Mdm Tey Pin Pin Tracy</p>
 </li>
 <li>
-<p>Ms Sharmeela</p>
+<p>Mr Lim Liangcai Jeremy</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
