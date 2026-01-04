@@ -22,7 +22,7 @@ what is expected of them in the future.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Teo Li Yin (OIC)</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Fu Rong (AIC)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chan Siew Kwai</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Tan Yok Tien Ethan</p>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
