@@ -21,10 +21,10 @@ fun, adventure, and lasting friendships.</p>
 <p>Ms Loh Wan Ting (OIC)</p>
 </li>
 <li>
-<p>Mdm Ang Hui Xia</p>
+<p>Mdm Chen Liping (AIC)</p>
 </li>
 <li>
-<p>Mdm Chen Liping</p>
+<p>Mdm Ang Hui Xia</p>
 </li>
 <li>
 <p>Ms Chang Shi En</p>
