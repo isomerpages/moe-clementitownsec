@@ -25,9 +25,7 @@ acting, dancing, and even singing.</p>
 </li>
 <li>
 <p>Ms Farah Rosalan</p>
-</li>
-<li>
-<p>Ms Vaishnashri</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
