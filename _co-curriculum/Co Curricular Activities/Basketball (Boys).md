@@ -26,10 +26,7 @@ juniors.</p>
 <p>Ms Sheetal Sonawane (OIC)</p>
 </li>
 <li>
-<p>Mdm Tracy Tey (AIC)</p>
-</li>
-<li>
-<p>Mr Heng Yuan Hao</p>
+<p>Mr Yap Jin Hua Andy (AIC)</p>
 </li>
 <li>
 <p>Mr Clement Xiao</p>
