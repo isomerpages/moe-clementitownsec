@@ -221,7 +221,9 @@ variant: tiptap
 <p>Mrs Lehming-Teo Shi Hui, Rachel
 <br><a href="teo_shi_hui_racheln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_shi_hui_rachel@moe.edu.sg</a>
 </p>
-<p>
+<h3><strong>SH / Special Project (Innovation)</strong></h3>
+<p>Mr Joe Tay
+<br><a href="mailto:joe_tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joe_tay@moe.edu.sg</a>
 <br>
 </p>
 <h3><strong>SH / English Language</strong></h3>
