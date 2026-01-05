@@ -184,7 +184,7 @@ variant: tiptap
 <p>
 <br>
 </p>
-<h3><strong>SH / ICT</strong></h3>
+<h3><strong>SH / ICT &amp; KMET</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Kamal" src="/images/Mr%20Kamal%20Bin%20Yacob.jpeg">
 </div>
