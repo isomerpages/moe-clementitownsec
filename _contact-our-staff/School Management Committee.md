@@ -196,7 +196,7 @@ variant: tiptap
 <p>Mr Joe Tay
 <br>
 </p>
-<h3><strong>SH / Math</strong></h3>
+<h3><strong>SH / Mathematics</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ms Wee Yee Ing.jpg">
 </div>
