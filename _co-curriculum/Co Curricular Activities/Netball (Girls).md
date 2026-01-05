@@ -44,7 +44,7 @@ members.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Teo Wei Na (OIC)</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Karen Sia (AIC)</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Sim Shin Jie</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Tan Wei Min</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Ang Lay Eng</p>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>

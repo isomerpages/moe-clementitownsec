@@ -184,7 +184,7 @@ variant: tiptap
 <p>
 <br>
 </p>
-<h3><strong>SH / ICT</strong></h3>
+<h3><strong>SH / ICT &amp; KMET</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mr Kamal" src="/images/Mr%20Kamal%20Bin%20Yacob.jpeg">
 </div>
@@ -196,7 +196,7 @@ variant: tiptap
 <p>Mr Joe Tay
 <br>
 </p>
-<h3><strong>SH / Math</strong></h3>
+<h3><strong>SH / Mathematics</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ms Wee Yee Ing.jpg">
 </div>
@@ -221,7 +221,9 @@ variant: tiptap
 <p>Mrs Lehming-Teo Shi Hui, Rachel
 <br><a href="teo_shi_hui_racheln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_shi_hui_rachel@moe.edu.sg</a>
 </p>
-<p>
+<h3><strong>SH / Special Project (Innovation)</strong></h3>
+<p>Mr Joe Tay
+<br><a href="mailto:joe_tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joe_tay@moe.edu.sg</a>
 <br>
 </p>
 <h3><strong>SH / English Language</strong></h3>
@@ -240,6 +242,56 @@ variant: tiptap
 <p>Mdm Ang Hui Xia
 <br><a href="ang_hui_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_xia@moe.edu.sg</a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Mr Chua Keng Yeow" src="/images/ChuaKengYeow1.jpg">
+</div>
+<p>Mr Chua Keng Yeow</p>
+<p><a href="mailto:chua_keng_yeow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_keng_yeow@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Mrs Tan Wen Yi" src="/images/Mrs Tan Wen Yi_1.jpeg">
+</div>
+<p>Mrs Tan Wen Yi</p>
+<p><a href="mailto:tan_wen_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wen_yi@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Mrs Teng Tay Soo Chin" src="/images/Mrs Teng Tay Soo Chin_1.jpeg">
+</div>
+<p>Mrs Teng Tay Soo Chin Emmeline</p>
+<p><a href="mailto:tay_soo_chin_emmeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_soo_chin_emmeline@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Mrs Yuen Lay Eng" src="/images/Mrs Yuen Lay Eng.jpeg">
+</div>
+<p>Mrs Yuen Ang Lay Eng</p>
+<p><a href="mailto:ang_lay_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lay_eng@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Doreen" src="/images/Doreen.png">
+</div>
+<p>Ms Lau Ying Ying Doreen</p>
+<p><a href="mailto:lau_ying_ying_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_ying_ying_doreen@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Mdm Rashidah Kassim" src="/images/Mdm Rashidah Kassim.jpeg">
+</div>
+<p>Ms Rashidah Kassim</p>
+<p><a href="mailto:rashidah_kassim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_kassim@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
 <p></p>
 <p>
 <br>

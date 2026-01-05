@@ -44,10 +44,11 @@ will stay with them for life.</p>
 <p>Mr Tan Chor Seng (OIC)</p>
 </li>
 <li>
-<p>Mr Wee Yee Ing (AIC)</p>
+<p>Mr Chidambaram Saravanan (AIC)</p>
 </li>
 <li>
-<p>Mr Chidambaram Saravanan</p>
+<p>Miss Wee Yee Ing May</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>

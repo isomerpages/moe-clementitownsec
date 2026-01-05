@@ -28,10 +28,10 @@ with a steadfast spirit, and most importantly, to do it together.</p>
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Heng Hui Zhen</p>
+<p>Ms Heng Hui Zhen (OIC)</p>
 </li>
 <li>
-<p>Mr Aidil Md Idris</p>
+<p>Mr Aidil Md Idris (AIC)</p>
 </li>
 <li>
 <p>Mdm Rosezalina Asmoin</p>

@@ -23,9 +23,6 @@ in the course of their time at CTSS.</p>
 <p>Ms Chen Xi (AIC)</p>
 </li>
 <li>
-<p>Ms Stella Leong</p>
-</li>
-<li>
 <p>Mr Arul Praveen</p>
 </li>
 </ul>
