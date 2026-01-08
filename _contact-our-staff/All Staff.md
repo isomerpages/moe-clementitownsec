@@ -218,6 +218,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Joe Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:joe_tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joe_tay@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Kamal Bin Yacob</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,6 +249,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ke_kaijie_justin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ke_kaijie_justin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lai Lian Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lai_lian_ching_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_lian_ching_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -321,6 +339,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_chen_xi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chen_xi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lisa Ieo Gek Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lisa_ieo_gek_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lisa_ieo_gek_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -551,15 +578,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Liang Hooi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="ttan_liang_hooi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_liang_hooi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Ming Hon, Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -727,6 +745,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="xiao_yongda_clement@moe.edu.sg" rel="noopener nofollow" target="_blank">xiao_yongda_clement@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yang Chuanzhi</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yang_chuanzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_chuanzhi@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
