@@ -193,8 +193,12 @@ variant: tiptap
 <br>
 </p>
 <h3><strong>SH / Special Projects (Innovation)</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Mr Joe Tay" src="/images/Joe_Tay.jpg">
+</div>
 <p>Mr Joe Tay
-<br>
+<br><a href="mailto:joe_tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joe_tay@moe.edu.sg</a>
 </p>
 <h3><strong>SH / Mathematics</strong></h3>
 <div class="isomer-image-wrapper">

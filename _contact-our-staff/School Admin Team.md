@@ -173,13 +173,35 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Attendant</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Guan Renying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Kar Po</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hamimah Bte Aries</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
