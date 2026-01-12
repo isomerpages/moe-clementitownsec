@@ -24,10 +24,10 @@ sections:
       announcement_items:
         - title: 2025 GCE O Level Examination Results
           date: 12 January 2026
-          announcement: Dear Clementeens,  All the best to those who are collecting their
-            results on 14 January 2026.   Please report to the School Hall by
-            1.45 pm in full school uniform and adhere to the guidelines for
-            appropriate grooming and attire.
+          announcement: Dear Clementeens,    All the best to those who are collecting
+            their results on 14 January 2026.     Please report to the School
+            Hall by 1.45 pm in full school uniform and adhere to the guidelines
+            for appropriate grooming and attire.
           link_text: ""
           link_url: ""
   - infopic:
