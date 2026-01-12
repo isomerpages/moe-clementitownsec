@@ -22,7 +22,7 @@ sections:
       title: Release of 2025 GCE O Level Examination Results
       id: announcements
       announcement_items:
-        - title: Release of 2025 GCE O Level Examination Results
+        - title: 2025 GCE O Level Examination Results
           date: 12 January 2026
           announcement: Dear Clementeens,  All the best to those who are collecting their
             results on 14 January 2026.   Please report to the School Hall by
