@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
 with others, including those with members of the opposite sex, and make
@@ -16,8 +16,9 @@ encouraging healthy, heterosexual marriages and stable nuclear family units
 with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
 communities in Singapore on sexuality issues.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
-Sexuality Education are to:</p>
+<p>&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
+Education are to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support students in managing their physiological, social and emotional
@@ -33,9 +34,10 @@ by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+<p>&nbsp;</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
 </li>
