@@ -94,7 +94,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>At CLEMENTI TOWN Secondary School, the following lessons from the Sexuality Education&nbsp;lessons will be taught in&nbsp;<u>2025</u>:</strong>
+<p><strong>At CLEMENTI TOWN Secondary School, the following lessons from the Sexuality Education&nbsp;lessons will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec1_2025.jpg">
