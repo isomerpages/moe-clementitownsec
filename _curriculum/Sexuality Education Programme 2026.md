@@ -149,7 +149,7 @@ family values are the key messages.</p>
 <p><strong>At Clementi Town Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/eTeens.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eTeens.png">
 </div>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>10.&nbsp; &nbsp;Parents may opt their children out of the Sexuality Education
@@ -158,13 +158,13 @@ by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/SexEd2025/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The completed form
-is to be submitted by 06/02/2025.</p>
+of the year and is also downloadable The completed form is to be submitted
+by 13/01/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
 the year and is also downloadable&nbsp;<a href="/files/SexEd2025/Annex_B.pdf" rel="noopener nofollow" target="_blank">here</a>.&nbsp; The completed form
-is to be submitted by 06/02/2025.</p>
+is to be submitted by 13/01/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a rel="noopener noreferrer nofollow" target="_blank">ctss@moe.edu.sg</a>for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
