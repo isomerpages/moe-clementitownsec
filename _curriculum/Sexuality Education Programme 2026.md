@@ -73,7 +73,7 @@ on sexuality include:</p>
 <p>Character and Citizenship Education (CCE)</p>
 </li>
 </ul>
-<h5>SEXUALITY EDUCATION LESSONS:</h5>
+<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6.&nbsp; &nbsp; &nbsp;The values and attitudes of our youth towards sexuality
 are increasingly shaped by their peers, exposure to the media, popular
 culture and the internet. Adolescence is a complex stage in life as the
