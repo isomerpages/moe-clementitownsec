@@ -56,7 +56,7 @@ ones.</p>
 </ul>
 <p>&nbsp;You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h5>OVERVIEW OF CLEMENTI TOWN SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h5>
+<h5>OVERVIEW OF CLEMENTI TOWN SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</h5>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
