@@ -96,39 +96,57 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong>At CLEMENTI TOWN Secondary School, the following lessons from the Sexuality Education&nbsp;lessons will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec1_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1a.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1b.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec2_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec2a.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec2b.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec3_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec3a.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec3b.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec4_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec4a.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec4b.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/Sec5_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec5a.png">
 </div>
+<p></p>
 <h4><strong>eTeens Programme:</strong></h4>
-<p>8.&nbsp; &nbsp; &nbsp; <em>eTeens</em> is a programme developed by Health
-Promotion Board, in collaboration with the Ministry of Education, to provide
-Secondary 3 students with accurate information on STIs, HIV and protection
-from a health perspective. <em>eTeens</em> is conducted in two segments –
-a mass talk segment and a classroom-based programme. The desired outcome
-of the <em>eTeens</em> programme is that students are empowered to make wise,
-informed and sensible decisions.</p>
-<p>9.&nbsp; &nbsp; &nbsp; Students are taught skills such as decision-making,
-assertiveness and negotiation to say “no” to sex and negative peer pressure.
-They also learn that the impact of STIs/HIV extends beyond themselves and
-involves their family, and the importance of responsible decision-making
-and seeking help. Abstinence and upholding family values are the key messages.</p>
-<p><strong>At CLEMENTI TOWN Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
+programme that was developed by Health Promotion Board, in collaboration
+with the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective. With
+the formation of the Communicable Diseases Agency (CDA) on 1 April 2025,
+the programme would now be managed by CDA’s Training and Education Division
+instead of HPB. <em>eTeens</em> is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
+skills such as decision-making, assertiveness and negotiation to say “no”
+to sex and negative peer pressure. They also learn that the impact of STIs/HIV
+extends beyond themselves and involves their family, and the importance
+of responsible decision-making and seeking help. Abstinence and upholding
+family values are the key messages.</p>
+<p><strong>At Clementi Town Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd2025/eTeens.jpg">
