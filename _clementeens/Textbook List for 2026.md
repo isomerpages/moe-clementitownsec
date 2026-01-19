@@ -22,7 +22,7 @@ textbooks &amp; stationery.</p>
 <br>Singapore 409959
 <br>Tel : 6559 2269
 <br>Email :&nbsp;<a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
-<br>Website:&nbsp;<a href="http://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+<br>Website:&nbsp;<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>
 <h2>SECONDARY 1</h2>
 <ul data-tight="true" class="tight">
