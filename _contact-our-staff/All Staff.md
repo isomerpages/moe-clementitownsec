@@ -641,15 +641,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Chai Yaw</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="teo_chai_yaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chai_yaw@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Teo Li Yin</p>
 </td>
 <td rowspan="1" colspan="1">

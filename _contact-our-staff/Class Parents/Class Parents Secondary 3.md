@@ -6,11 +6,12 @@ third_nav_title: Class Parents
 variant: tiptap
 ---
 <h2>LEVEL YEAR HEAD (Upper Secondary)</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/teochaiyeow.jpeg">
+<img style="width: 40%;" height="auto" width="100%" alt="Mrs Wee Loh Wee Sin" src="/images/Mrs Wee Loh Wee Sin.jpeg">
 </div>
-<p>Mr Teo Chai Yaw
-<br><a href="mailto:teo_chai_yaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chai_yaw@moe.edu.sg</a>
+<p>Mrs Wee-Loh Wee Sin
+<br><a href="loh_wee_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_sin@moe.edu.sg</a>
 </p>
 <p></p>
 <h2>CLASS PARENTS</h2>
