@@ -73,7 +73,7 @@ variant: tiptap
 <br><a href="ee_wen_lin_sandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ee_wen_lin_sandy@moe.edu.sg</a> 
 <br>
 </p>
-<h3><strong>HOD /</strong>&nbsp;<strong>Mother Tongue Languages</strong></h3>
+<h3><strong>HOD /</strong>&nbsp;<strong>Mother Tongue Languages (Internal)</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Ms Woong Choy Wan" src="/images/Ms Woong Choy Wan_1.jpeg">
@@ -147,7 +147,7 @@ variant: tiptap
 </div>
 <p>
 <br>Mrs Wee-Loh Wee Sin
-<br><a href="loh_wee_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_sin@moe.edu.sg</a> 
+<br><a href="loh_wee_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_sin@moe.edu.sg</a>
 </p>
 <h3><strong>Assistance Year Head Secondary 4/5</strong></h3>
 <div class="isomer-image-wrapper">
