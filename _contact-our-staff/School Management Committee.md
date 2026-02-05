@@ -74,11 +74,12 @@ variant: tiptap
 <br>
 </p>
 <h3><strong>HOD /</strong>&nbsp;<strong>Mother Tongue Languages</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Mrs Wee" src="/images/Mrs%20Wee%20Loh%20Wee%20Sin.jpeg">
+<img style="width: 40%;" height="auto" width="100%" alt="Ms Woong Choy Wan" src="/images/Ms Woong Choy Wan_1.jpeg">
 </div>
-<p>Mrs Wee-Loh Wee Sin
-<br><a href="loh_wee_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_sin@moe.edu.sg</a> 
+<p>Ms Woong Choy Wan
+<br><a href="woong_choy_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woong_choy_wan@moe.edu.sg</a>
 <br>
 </p>
 <h3><strong>HOD / Physical Education<br>(PE)&nbsp;&amp; CCA</strong></h3>
@@ -140,12 +141,13 @@ variant: tiptap
 </p>
 <p></p>
 <h3><strong>Year Head (Upper Secondary)</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="Mr Teo Chai Yeow" src="/images/Teo_Chai_Yaw.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Mrs Wee Loh Wee Sin" src="/images/Mrs Wee Loh Wee Sin.jpeg">
 </div>
-<p>Mr Teo Chai Yaw
-<br><a href="teo_chai_yaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chai_yaw@moe.edu.sg</a> 
-<br>
+<p>
+<br>Mrs Wee-Loh Wee Sin
+<br><a href="loh_wee_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_sin@moe.edu.sg</a> 
 </p>
 <h3><strong>Assistance Year Head Secondary 4/5</strong></h3>
 <div class="isomer-image-wrapper">
@@ -175,12 +177,7 @@ variant: tiptap
 </p>
 <p></p>
 <h3><strong>SH / Chinese Language</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" alt="SMC 2024: Ms Woong CW" src="/images/Ms%20Woong%20Choy%20Wan.jpeg">
-</div>
-<p>Ms Woong Choy Wan
-<br><a href="woong_choy_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woong_choy_wan@moe.edu.sg</a>
-</p>
+<p></p>
 <p>
 <br>
 </p>
