@@ -344,6 +344,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lim Sufern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_sufern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sufern@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lisa Ieo Gek Ling</p>
 </td>
 <td rowspan="1" colspan="1">
