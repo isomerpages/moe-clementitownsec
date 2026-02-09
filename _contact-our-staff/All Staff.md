@@ -299,15 +299,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Hwai Ee, Stella</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="leong_hwai_ee_stella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_hwai_ee_stella@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Li Qianyi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -344,7 +335,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Sufern</p>
+<p>Ms Lim Su-fern</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_sufern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sufern@moe.edu.sg</a>
