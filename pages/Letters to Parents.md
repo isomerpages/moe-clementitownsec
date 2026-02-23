@@ -7,43 +7,28 @@ variant: tiptap
 <h3>Secondary 1</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Ps_Letter__Term_4__2025_Sec_1___3.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 4) for Secondary 1 to 3</a>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_1__2026_Sec_1.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Principal's Termly Letter to Parents (Term 1) 2026 for Secondary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Ps_letter__Term_3__2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">27 June 2025 - Principal's Termly Letter to Parents (Term 3) for Secondary 1</a>
+<p><a href="/files/Letter to Parents/Ps_welcome_letter_for_Sec_1__2026_.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Welcome Letter by Principal for Secondary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Letter to Parents/Secondary 1/Ps_letter_for_Sec_1__Term_1__2025_.pdf" rel="noopener nofollow" target="_blank">3 January 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 1</a>
+<p><a href="/files/Letter to Parents/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet (Year 2026)</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Letter to Parents/Secondary 1/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet</a>
-</p>
+<p></p>
 <p></p>
 </li>
 </ul>
 <h3>Secondary 2</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Ps_Letter__Term_4__2025_Sec_1___3.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 4) for Secondary 1 to 3</a>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_1__2026__Sec_2.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Principal's Termly Letter to Parents (Term 1) 2026 for Secondary 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Ps_letter__Term_3__2025_Sec_2.pdf" rel="noopener nofollow" target="_blank">27 June 2025 - Principal's Termly Letter to Parents (Term 3) for Secondary 2</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Ps_letter__Term_2__2025_Sec_2_Final.pdf" rel="noopener nofollow" target="_blank">21 March 2025 - Principal's Termly Letter to Parents (Term 2) for Secondary 2</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Letter to Parents/Secondary 2/Ps_letter_for_Sec_2__Term_1__2025_.pdf" rel="noopener nofollow" target="_blank">3 January 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 2</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Letter to Parents/Secondary 1/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet</a>
+<p><a href="/files/Letter to Parents/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet (Year 2026)</a>
 </p>
 <p></p>
 </li>
@@ -51,19 +36,11 @@ variant: tiptap
 <h3>Secondary 3</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Ps_Letter__Term_4__2025_Sec_1___3.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 4) for Secondary 1 to 3</a>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_1__2026_Sec_3.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Principal's Termly Letter to Parents (Term 1) 2026 for Secondary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Ps_letter__Term_3__2025_Sec_3.pdf" rel="noopener nofollow" target="_blank">27 June 2025 - Principal's Termly Letter to Parents (Term 3) for Secondary 3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Letter to Parents/Secondary 3/Ps_letter_for_Sec_3__Term_1__2025_.pdf" rel="noopener nofollow" target="_blank">3 January 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Letter to Parents/Secondary 1/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet</a>
+<p><a href="/files/Letter to Parents/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet (Year 2026)</a>
 </p>
 <p></p>
 </li>
@@ -71,19 +48,11 @@ variant: tiptap
 <h3>Secondary 4</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Ps_letter__Term_4__2025_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 4) for Secondary 4 and 5</a>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_1__2026_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Principal's Termly Letter to Parents (Term 1) 2026 for Secondary 4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Ps_letter__Term_3__2025_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">27 June 2025 - Principal's Termly Letter to Parents (Term 3) for Secondary 4 and 5</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Letter to Parents/Secondary 4/Ps_letter_for_Sec_4_and_5__Term_1__2025_.pdf" rel="noopener nofollow" target="_blank">3 January 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 4 and 5</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Letter to Parents/Secondary 1/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet</a>
+<p><a href="/files/Letter to Parents/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet (Year 2026)</a>
 </p>
 <p></p>
 </li>
@@ -91,19 +60,11 @@ variant: tiptap
 <h3>Secondary 5</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Ps_letter__Term_4__2025_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">12 September 2025 - Principal's Termly Letter to Parents (Term 4) for Secondary 4 and 5</a>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_1__2026_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Principal's Termly Letter to Parents (Term 1) 2026 for Secondary 5</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Ps_letter__Term_3__2025_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">27 June 2025 - Principal's Termly Letter to Parents (Term 3) for Secondary 4 and 5</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Letter to Parents/Secondary 4/Ps_letter_for_Sec_4_and_5__Term_1__2025_.pdf" rel="noopener nofollow" target="_blank">3 January 2025 - Principal's Termly Letter to Parents (Term 1) for Secondary 4 and 5</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Letter to Parents/Secondary 1/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet</a>
+<p><a href="/files/Letter to Parents/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students: Product Fact Sheet (Year 2026)</a>
 </p>
 <p>
 <br>
