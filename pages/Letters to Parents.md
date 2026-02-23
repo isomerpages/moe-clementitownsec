@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Letter to Parents/Ps_welcome_letter_for_Sec_1__2026_.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Welcome Letter by Principal for Secondary 1 </a>
+<p><a href="/files/Letter to Parents/Ps_welcome_letter_for_Sec_1__2026_.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Welcome Letter by Principal for Secondary 1</a>
 </p>
 </li>
 <li>
