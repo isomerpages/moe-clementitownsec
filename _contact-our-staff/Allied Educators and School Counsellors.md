@@ -52,10 +52,10 @@ description: ""
 <p>ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Surinder Kaur</p>
+<p>Mdm Eileen Phua Ngee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:surinder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">surinder_kaur@moe.edu.sg</a>
+<p><a href="mailto:phua_ngee_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_ngee_lian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
