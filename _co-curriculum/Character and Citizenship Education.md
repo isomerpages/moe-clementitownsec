@@ -92,16 +92,14 @@ and career choices to lead purposeful lives.
 Thursday to have ECG conversations with students.</p>
 <p>&nbsp;Students who wish to explore more about post-secondary options or
 find out more about their career interests and strengths may book a session
-at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgclementitown</a>
+at&nbsp;<a href="https://go.gov.sg/ctssecg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ctssecg</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG01.jpg">
-</div>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_ECG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ECG poster" src="/images/ECG.png">
 </div>
 <p><strong><u><br></u></strong>Useful links to General Information on ECG:</p>
 <ul data-tight="true" class="tight">
