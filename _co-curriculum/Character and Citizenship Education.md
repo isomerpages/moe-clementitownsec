@@ -98,8 +98,9 @@ at&nbsp;<a href="https://go.gov.sg/ctssecg" rel="noopener noreferrer nofollow" t
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ECG poster" src="/images/ECG.png">
+<img style="width: 100%" height="auto" width="100%" alt="ECG_poster" src="/images/ECG_2.png">
 </div>
 <p><strong><u><br></u></strong>Useful links to General Information on ECG:</p>
 <ul data-tight="true" class="tight">
