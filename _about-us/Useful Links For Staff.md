@@ -74,10 +74,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://go.gov.sg/PDLP" rel="noopener noreferrer nofollow" target="_blank">PDLP One-Stop Portal by ETD</a>
-</p>
-</li>
-<li>
 <p><a href="https://sites.google.com/moe.edu.sg/2024read-ctss/home" rel="noopener noreferrer nofollow" target="_blank">Read@CTSS English Language Microsite</a>
 </p>
 </li>
