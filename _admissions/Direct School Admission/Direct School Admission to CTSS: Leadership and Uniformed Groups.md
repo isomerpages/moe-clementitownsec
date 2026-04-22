@@ -107,7 +107,7 @@ Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements
 <p>The goal for CTSS in the LLP is to give more opportunities to students
 to learn and demonstrate the School Values of Adaptability, Self-discipline,
 Perseverance, Integrity and Respect, as well as to be developed as student
-leaders through the UGs.</p>
+leaders through the UGs.&nbsp;</p>
 <p>In addition, as the school attracts and develops niche-related talents,
 these talents will inspire the other students to reach an even higher standard
 in both academic and co-curricular areas in line with our belief and commitment
@@ -155,7 +155,7 @@ offered at CTSS.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1–4.&nbsp;</p>
-<p>Successful applicants will join CTSS in January the following.</p>
+<p>Successful applicants will join CTSS in January the following year.</p>
 <p></p>
 <p><em>*Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</em>
 </p>
