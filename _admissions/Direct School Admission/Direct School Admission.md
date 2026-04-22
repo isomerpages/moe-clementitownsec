@@ -296,7 +296,7 @@ that the student will be shortlisted or given an offer. Thank you.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Interview / Trials</strong>
+<p><strong>Interview / Trials*</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,25 +311,25 @@ that the student will be shortlisted or given an offer. Thank you.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>7 May – 3 Jun 2025</p>
+<p>6 May – 2 Jun 2026</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>8 July – 29 Aug 2025</p>
+<p>29 Jun – 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>1 Sep – 4 Sep 2025</p>
+<p>17 Aug – 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>27 Oct – 31 Oct 2025</p>
+<p>19 Oct – 23 Oct 2026</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*<em>You will receive notification from the school no later than 1 Aug 2025, if your child has been shortlisted to undergo Direct School Admission (DSA) selection.</em>
+<p>*<em>You will receive notification from the school no later than 13 July 2026, if your child has been shortlisted to undergo Direct School Admission (DSA) selection.</em>
 </p>
 <p>
 <br>
