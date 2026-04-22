@@ -160,7 +160,7 @@ multiple aspects.</p>
 <p>Certificate of Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 Certificates of Accomplishment</p>
 </td>
 </tr>
 </tbody>
