@@ -190,12 +190,7 @@ hall to performing in:</p>
 </li>
 <li>
 <p>NAFA Lee Foundation Theatre (2022)</p>
-</li>
-<li>
-<p>NUS’ University Cultural Centre (2020, 2018)</p>
-</li>
-<li>
-<p>and Victoria Theatre (2016)</p>
+<p></p>
 </li>
 </ul>
 <p>The CT Musical journey began in 2009, and we staged our 7th musical in
