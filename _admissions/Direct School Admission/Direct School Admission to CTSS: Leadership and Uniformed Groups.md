@@ -19,9 +19,8 @@ so by providing an excellent infrastructure for students to achieve our
 school goals, vision and mission. In addition, the variety of activities
 within UGs further lends itself to the development and growth of its members.
 Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements.</p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -34,19 +33,15 @@ Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
 </p>
 </td>
 </tr>
@@ -63,16 +58,10 @@ Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National Police Cadet Corps</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -95,18 +84,12 @@ Furthermore, UGs at CTSS have consistently demonstrated outstanding achievements
 <p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
+<p>Silver</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National Civil Defence Cadet Corps</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
