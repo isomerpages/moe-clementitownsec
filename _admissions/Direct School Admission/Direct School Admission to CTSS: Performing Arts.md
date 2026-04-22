@@ -284,8 +284,9 @@ level competitions (eg. Singapore Youth Festival) as well as external performanc
 organised by various organizations or initiated by our dancers. There are
 also opportunities to showcase their dance and talent in school during
 school events.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -299,6 +300,10 @@ school events.</p>
 <p><strong>2023</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -306,6 +311,9 @@ school events.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -329,9 +337,9 @@ dance performances or competitions</p>
 </li>
 </ul>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
-for an audition and interview in July 2024.</p>
+for an audition and interview in July.</p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
-with the School Leaders and/or CCA Key Personnel in August 2024.</p>
+with the School Leaders and/or CCA Key Personnel in August.</p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for an audition and interview in July.</p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
