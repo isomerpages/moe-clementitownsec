@@ -112,7 +112,7 @@ related to the talent they are selected for from year 1–4.&nbsp;</p>
 <h4><strong>DRAMA CLUB (MIXED)</strong></h4>
 <p>Clementi Town Drama Club (CT Drama) was first started in Clementi Town
 Secondary School with the vision to achieve the ‘5Es’ of Arts Education
-– Exposure, Experience, Experiment, Evaluate, and Educate.</p>
+– Exposure, Experience, Experiment, Evaluate, and Educate.&nbsp;</p>
 <p>In Clementi Town, Drama Club focuses on educating our students about the
 human condition and teaching values through theatre - empathy, respect,
 love - and reinforcing the school values of adaptability and self-discipline.
@@ -121,9 +121,8 @@ and interests with discipline and zeal. Alongside passionate teachers,
 our CT Drama students have managed to receive tremendous recognition in
 multiple aspects.</p>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -136,19 +135,15 @@ multiple aspects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2017</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2019</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2021</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
 </p>
 </td>
 </tr>
@@ -157,18 +152,15 @@ multiple aspects.</p>
 <p>Singapore Youth Festival – Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction</p>
 <p>&amp;</p>
 <p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
