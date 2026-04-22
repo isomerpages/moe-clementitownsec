@@ -26,15 +26,15 @@ since 2013.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2013 - 2019</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2021</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
 </p>
 </td>
 </tr>
@@ -43,12 +43,12 @@ since 2013.</p>
 <p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Certificate of Distinction (Band A)</p>
 <p>&nbsp;</p>
 <p>Certificate of Accomplishment (Band B)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction</p>
@@ -64,16 +64,14 @@ of school as a full Band and also as an ensemble. Example of past performance
 invitations include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>9<sup>th</sup> Singapore International Band Festival (2023)</p>
+<p>Performance at ASEAN Sub Committee for Culture Meeting involving 10 ASEAN
+Member States (2025)</p>
 </li>
 <li>
-<p>8th Singapore International Band Festival (2022)</p>
+<p>9<sup>th</sup> Singapore International Band Festival (2024)</p>
 </li>
 <li>
-<p>Limelight@Esplanade (2019)</p>
-</li>
-<li>
-<p>SYF Celebrations @ Esplanade Outdoor Theatre (2018)</p>
+<p>8<sup>th</sup> Singapore International Band Festival (2022)</p>
 </li>
 </ul>
 <p>In this Direct School Admission Exercise, we are looking for promising
