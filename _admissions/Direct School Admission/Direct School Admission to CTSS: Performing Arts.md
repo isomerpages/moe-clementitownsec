@@ -26,15 +26,15 @@ since 2013.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2013 - 2019</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2021</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
 </p>
 </td>
 </tr>
@@ -43,12 +43,12 @@ since 2013.</p>
 <p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Certificate of Distinction (Band A)</p>
 <p>&nbsp;</p>
 <p>Certificate of Accomplishment (Band B)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction</p>
@@ -64,16 +64,14 @@ of school as a full Band and also as an ensemble. Example of past performance
 invitations include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>9<sup>th</sup> Singapore International Band Festival (2023)</p>
+<p>Performance at ASEAN Sub Committee for Culture Meeting involving 10 ASEAN
+Member States (2025)</p>
 </li>
 <li>
-<p>8th Singapore International Band Festival (2022)</p>
+<p>9<sup>th</sup> Singapore International Band Festival (2024)</p>
 </li>
 <li>
-<p>Limelight@Esplanade (2019)</p>
-</li>
-<li>
-<p>SYF Celebrations @ Esplanade Outdoor Theatre (2018)</p>
+<p>8<sup>th</sup> Singapore International Band Festival (2022)</p>
 </li>
 </ul>
 <p>In this Direct School Admission Exercise, we are looking for promising
@@ -114,7 +112,7 @@ related to the talent they are selected for from year 1–4.&nbsp;</p>
 <h4><strong>DRAMA CLUB (MIXED)</strong></h4>
 <p>Clementi Town Drama Club (CT Drama) was first started in Clementi Town
 Secondary School with the vision to achieve the ‘5Es’ of Arts Education
-– Exposure, Experience, Experiment, Evaluate, and Educate.</p>
+– Exposure, Experience, Experiment, Evaluate, and Educate.&nbsp;</p>
 <p>In Clementi Town, Drama Club focuses on educating our students about the
 human condition and teaching values through theatre - empathy, respect,
 love - and reinforcing the school values of adaptability and self-discipline.
@@ -123,9 +121,8 @@ and interests with discipline and zeal. Alongside passionate teachers,
 our CT Drama students have managed to receive tremendous recognition in
 multiple aspects.</p>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -138,19 +135,15 @@ multiple aspects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2017</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2019</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2021</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
 </p>
 </td>
 </tr>
@@ -159,18 +152,15 @@ multiple aspects.</p>
 <p>Singapore Youth Festival – Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction</p>
 <p>&amp;</p>
 <p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Certificates of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -200,12 +190,7 @@ hall to performing in:</p>
 </li>
 <li>
 <p>NAFA Lee Foundation Theatre (2022)</p>
-</li>
-<li>
-<p>NUS’ University Cultural Centre (2020, 2018)</p>
-</li>
-<li>
-<p>and Victoria Theatre (2016)</p>
+<p></p>
 </li>
 </ul>
 <p>The CT Musical journey began in 2009, and we staged our 7th musical in
@@ -299,8 +284,9 @@ level competitions (eg. Singapore Youth Festival) as well as external performanc
 organised by various organizations or initiated by our dancers. There are
 also opportunities to showcase their dance and talent in school during
 school events.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -314,6 +300,10 @@ school events.</p>
 <p><strong>2023</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -321,6 +311,9 @@ school events.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -344,9 +337,9 @@ dance performances or competitions</p>
 </li>
 </ul>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
-for an audition and interview in July 2024.</p>
+for an audition and interview in July.</p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview
-with the School Leaders and/or CCA Key Personnel in August 2024.</p>
+with the School Leaders and/or CCA Key Personnel in August.</p>
 <p>Shortlisted applicants will be invited to Clementi Town Secondary School
 for an audition and interview in July.</p>
 <p>Selected applicants may be invited for a 2<sup>nd</sup> round interview

@@ -29,35 +29,37 @@ National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Hong Kiat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C Boys Formulated 24-Style Taijiquan – Bronze Medal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lam Kai Xuan Kaden</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C Boys Formulated 24-Style Taijiquan – Bronze Medal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Eyan Seow Jin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C Boys 5-Duan Changquan - Silver Medal</p>
-<p>C Boys 5-Duan Sword - Silver Medal</p>
+<p>C Boys 5-Duan Changquan - Gold Medal</p>
+<p>C Boys 5-Duan Sword - Gold Medal</p>
+<p>C Boys 5-Duan Spear - Gold Medal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Tze En Ashley</p>
+<p>Wee Jing Zhe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Girls 42-Style Taijiquan – Bronze Medal</p>
+<p>B Boys 1st International Sword - Gold Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tay Sze En Ashley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls 2nd International Changquan - Bronze Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Valerie Kwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls 2nd International Changquan – Bronze Medal</p>
+<p>B Girls 2nd International Cudgel - Bronze Medal</p>
 </td>
 </tr>
 </tbody>
@@ -237,19 +239,73 @@ sporting talent and passion for the sport through rigorous training sessions,
 friendly matches and various inter-school competitions. In addition, we
 also want to instill in them the values of discipline, hard work and teamwork
 that are crucial in the area of character building.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Division</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone quarterfinals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone quarterfinals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 4 - 1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 3 - 2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Students can expect to participate in the following activities:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>West Zone Netball Competition</p>
+<p>West Zone Netball NSG (B Division) / National Netball NSG (C Division)</p>
 </li>
 <li>
 <p>Various Netball carnivals</p>
 </li>
 <li>
 <p>Annual camp or outing</p>
-</li>
-<li>
-<p>Umpiring course for selected students</p>
 </li>
 </ol>
 <p>In this Direct School Admission Exercise, we are looking for promising
