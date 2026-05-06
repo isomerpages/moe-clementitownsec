@@ -29,35 +29,36 @@ National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Hong Kiat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C Boys Formulated 24-Style Taijiquan – Bronze Medal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lam Kai Xuan Kaden</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C Boys Formulated 24-Style Taijiquan – Bronze Medal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Eyan Seow Jin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C Boys 5-Duan Changquan - Silver Medal</p>
-<p>C Boys 5-Duan Sword - Silver Medal</p>
+<p>C Boys 5-Duan Changquan - Gold Medal</p>
+<p>C Boys 5-Duan Sword - Gold Medal</p>
+<p>C Boys 5-Duan Spear - Gold Medal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Tze En Ashley</p>
+<p>Wee Jing Zhe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Girls 42-Style Taijiquan – Bronze Medal</p>
+<p>B Boys 1st International Sword - Gold Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tay Sze En Ashley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls 2nd International Changquan - Bronze Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
