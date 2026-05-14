@@ -117,7 +117,7 @@ at&nbsp;<a href="https://go.gov.sg/ctssecg" rel="noopener noreferrer nofollow" t
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx" rel="noopener noreferrer nofollow" target="_blank">ECG Parent Guide – Journeying With Our Children, Achieving Their Aspirations</a>
+<p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">ECG Parent Guide – Journeying With Our Children, Achieving Their Aspirations</a>
 </p>
 </li>
 </ul>
