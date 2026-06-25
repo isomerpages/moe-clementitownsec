@@ -12,13 +12,13 @@ variant: tiptap
 <h4><strong>TEACHERS IN-CHARGE</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Ke Kaijie Justin(OIC)</p>
+<p>Mr Ke Kaijie Justin (OIC)</p>
 </li>
 <li>
-<p>Mr Yap Jin Hua, Andy(AIC)</p>
+<p>Ms Tay Kai Ling Joyner (AIC)</p>
 </li>
 <li>
-<p>Ms Tay Kai Ling Joyner</p>
+<p>Mr Muhammad Faidzil</p>
 </li>
 </ul>
 <h4><strong>STUDENT EXECUTIVE COMMITTEE</strong></h4>
