@@ -7,6 +7,10 @@ variant: tiptap
 <h3>Secondary 1</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_2__2026_Sec_1.pdf" rel="noopener nofollow" target="_blank">20 March 2026 - Principal's Termly Letter to Parents (Term 2) 2026 for Secondary 1</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/Ps_letter__Term_1__2026_Sec_1.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Principal's Termly Letter to Parents (Term 1) 2026 for Secondary 1</a>
 </p>
 </li>
@@ -23,6 +27,10 @@ variant: tiptap
 </ul>
 <h3>Secondary 2</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_2__2026_Sec_2.pdf" rel="noopener nofollow" target="_blank">20 March 2026 - Principal's Termly Letter to Parents (Term 2) 2026 for Secondary 2</a>
+</p>
+</li>
 <li>
 <p><a href="/files/Letter to Parents/Ps_letter__Term_1__2026__Sec_2.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Principal's Termly Letter to Parents (Term 1) 2026 for Secondary 2</a>
 </p>
