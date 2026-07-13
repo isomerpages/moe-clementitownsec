@@ -44,6 +44,10 @@ variant: tiptap
 <h3>Secondary 3</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_2__2026_Sec_3.pdf" rel="noopener nofollow" target="_blank">20 March 2026 - Principal's Termly Letter to Parents (Term 2) 2026 for Secondary 3</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/Ps_letter__Term_1__2026_Sec_3.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Principal's Termly Letter to Parents (Term 1) 2026 for Secondary 3</a>
 </p>
 </li>
@@ -56,6 +60,10 @@ variant: tiptap
 <h3>Secondary 4</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_2__2026_Sec_45.pdf" rel="noopener nofollow" target="_blank">20 March 2026 - Principal's Termly Letter to Parents (Term 2) 2026 for Secondary 4 and 5</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/Ps_letter__Term_1__2026_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Principal's Termly Letter to Parents (Term 1) 2026 for Secondary 4</a>
 </p>
 </li>
@@ -67,6 +75,10 @@ variant: tiptap
 </ul>
 <h3>Secondary 5</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_2__2026_Sec_45.pdf" rel="noopener nofollow" target="_blank">20 March 2026 - Principal's Termly Letter to Parents (Term 2) 2026 for Secondary 4 and 5</a>
+</p>
+</li>
 <li>
 <p><a href="/files/Letter to Parents/Ps_letter__Term_1__2026_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">30 December 2025 - Principal's Termly Letter to Parents (Term 1) 2026 for Secondary 5</a>
 </p>
@@ -84,6 +96,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="banner awards" src="/images/banner_awards_.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
