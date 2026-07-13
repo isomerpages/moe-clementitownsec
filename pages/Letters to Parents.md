@@ -92,6 +92,10 @@ variant: tiptap
 <h3>Secondary 5</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Letter to Parents/Ps_letter__Term_3__2026_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">26 June 2026 - Principal's Termly Letter to Parents (Term 3) 2026 for Secondary 4 and 5</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Letter to Parents/Ps_letter__Term_2__2026_Sec_45.pdf" rel="noopener nofollow" target="_blank">20 March 2026 - Principal's Termly Letter to Parents (Term 2) 2026 for Secondary 4 and 5</a>
 </p>
 </li>
