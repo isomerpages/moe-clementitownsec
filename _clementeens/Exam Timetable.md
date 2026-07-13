@@ -6,6 +6,13 @@ variant: tiptap
 ---
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="/files/Exam Time Table/2026_N_Level_Preliminary_Examination_Timetable__4NA_.pdf" rel="noopener nofollow" target="_blank">2026 GCE N-Level Preliminary Examination Timetable (4NA)</a>
+</p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
 <p><a href="/files/Exam Time Table/2026_O_Level_Mid_Year_MTL_Preliminary_Written_Examination_Timetable__Updated_.pdf" rel="noopener nofollow" target="_blank">O-Level Mid-Year Mother Tongue Language Preliminary Written Examination Timetable 2026</a>
 </p>
 </li>
