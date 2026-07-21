@@ -6,15 +6,15 @@ variant: tiptap
 ---
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Exam Time Table/2026_O_level_Preliminary_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 O-level Preliminary Examination Timetable</a>
+<p><a href="/files/Exam Time Table/2026_Sec_4E5N_Preliminary_Examination_Timetable_Updated_on_20_July.pdf" rel="noopener nofollow" target="_blank">2026 O-level Preliminary Examination Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Exam Time Table/2026_N_Level_Preliminary_Examination_Timetable__4NA_.pdf" rel="noopener nofollow" target="_blank">2026 GCE N-Level Preliminary Examination Timetable (4NA)</a>
+<p><a href="/files/Exam Time Table/2026_4NA_Level_Preliminary_Examination_Timetable__Updated_20_July_.pdf" rel="noopener nofollow" target="_blank">2026 GCE N-Level Preliminary Examination Timetable (4NA)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Exam Time Table/2026_N_Level_Preliminary_Examination_Timetable__4NT_.pdf" rel="noopener nofollow" target="_blank">2026 N-Level Preliminary Examination Timetable (4NT)</a>
+<p><a href="/files/Exam Time Table/2026_4NT_Level_Preliminary_Examination_Timetable__Updated_20_July_.pdf" rel="noopener nofollow" target="_blank">2026 N-Level Preliminary Examination Timetable (4NT)</a>
 </p>
 </li>
 <li>
