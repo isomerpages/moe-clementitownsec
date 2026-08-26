@@ -6,6 +6,18 @@ variant: tiptap
 ---
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="/files/Exam Time Table/2026_Sec_1_End_of_Year_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 End-of-Year Examination Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Exam Time Table/2026_Sec_2_End_of_Year_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 End-of-Year Examination Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Exam Time Table/2026_Sec_3_End_of_Year_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 End-of-Year Examination Timetable</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Exam Time Table/2026_Sec_4E5N_Preliminary_Examination_Timetable_Updated_on_20_July.pdf" rel="noopener nofollow" target="_blank">2026 O-level Preliminary Examination Timetable</a>
 </p>
 </li>
