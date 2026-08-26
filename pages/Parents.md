@@ -11,7 +11,7 @@ variant: markdown
 *   [Parent Support Group (PSG)](https://www.facebook.com/Clementi.Town.Sec.Sch.PSG)
       
 
-*   [Parents Gateway](/clementeens/parents-gateway)
+*  [Parents Gateway](https://pg.moe.edu.sg/)
 
 <br>
 <br>
